@@ -1,3 +1,8 @@
+---
+title: license
+eleventyExcludeFromCollections: true
+---
+
 MIT License
 
 Copyright (c) 2020 Itai Axelrad

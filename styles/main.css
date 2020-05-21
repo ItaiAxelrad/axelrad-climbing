@@ -3,15 +3,16 @@
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
   --color: hsl(45, 90%, 50%);
   --light: hsl(0, 0%, 98%);
-  --gray: hsl(0, 0%, 55%);
+  --gray: hsl(0, 0%, 33%);
   --dark: hsl(0, 0%, 12%);
   --width: 860px;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --light: hsl(0, 0%, 10%);
-    --dark: hsl(0, 0%, 100%);
+    --light: hsl(0, 0%, 12%);
+    --gray: hsl(0, 0%, 67%);
+    --dark: hsl(0, 0%, 98%);
   }
   .post {
     border: 1px solid var(--color);
@@ -143,4 +144,31 @@ li {
   border: none;
   background: none;
   color: currentColor;
+}
+
+form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1rem;
+  display: block;
+}
+
+input,
+textarea {
+  width: 100%;
+  margin: 0.5rem 0 1rem 0;
+  padding: 0.5rem;
+  color: currentColor;
+  background: var(--clr-light);
+  border: 1px solid var(--gray);
+  border-radius: 5px;
+}
+
+input:focus,
+textarea:focus {
+  border-color: var(--dark);
+}
+
+textarea {
+  resize: vertical;
 }
