@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content="{{ metadata.description }}">
+    <link href="/styles/main.css" rel="stylesheet" type="text/css" />
+    <title>{{ metadata.title }}</title>
+  </head>
+  <body>
+    <nav class="menu">
+        <svg 
+          class="logo"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="/images/defs.svg#logo"></use>
+        </svg>
+      <a href="/" class="home">{{ metadata.title }}</a>
+      <a href='/pages/about'>About</a>
+      <a href='/pages/archive'>Archive</a>
+      <a href='/pages/contact'>Contact</a>
+
+    </nav>
+    <main>
+      {{ content | safe }}
+    </main>
+    <footer>
+      <small>&copy; {{ metadata.title }}</small>
+    </footer>
+  </body>
+</html>

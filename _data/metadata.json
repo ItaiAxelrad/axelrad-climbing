@@ -1,0 +1,15 @@
+{
+  "title": "Axelrad Climbing",
+  "description": "the climbing blog of twins Eden, and Itai Axelrad",
+  "url": "https://axelradclimbing.com/",
+  "authors": [
+    {
+      "name": "Itai Axelrad",
+      "email": "itaiaxelrad@gmail.com"
+    },
+    {
+      "name": "Eden Axelrad",
+      "email": "edenaxelrad@gmail.com"
+    }
+  ]
+}

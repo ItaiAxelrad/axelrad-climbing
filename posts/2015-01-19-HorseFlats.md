@@ -1,0 +1,29 @@
+---
+title: 'Horse Flats'
+date: '2015-01-19T08:09:00-08:00'
+updated: '2015-01-19T15:25:03-08:00'
+feature_image: 'IMG_5056.JPG'
+author: 'Eden and Itai Axelrad'
+id: '6438197052569548435'
+location: None
+tags: ['Axelrad', 'Bouldering', 'boulders', 'California', 'Eden', 'Five Ten', 'flash', 'flats', 'granite', 'highball', 'horse', 'Itai']
+---
+
+![image alt](/images/IMG_5056.JPG)
+
+Cody, Eden, Jovanna and I escaped the Los Angeles concrete jungle in hopes of spending our Saturday in a place with a scenic view. We decided to check out Horse Flats and were not disappointed by the granite boulders of the Angeles National Forest. We tried to get on all of the classics the area had to offer but the heat slowed us down and left us with plenty of climbs to return for. Here are some pictures from the ones we got on
+
+![image alt](/images/IMG_1198.jpg)Cody, getting high off the deck on the beautiful Thin Face (V2)
+
+![image alt](/images/IMG_1208.jpg)Eden, holding the swing for an impressive flash of Blank Generation (V10)
+
+![image alt](/images/IMG_1272-2.jpg)Itai, taking a lap on The Fridge (V2) and enjoying the view
+
+![image alt](/images/IMG_5109.jpg)
+
+Itai working his way up The Fang (V5)
+
+I can’t wait to get back out there with cooler temps and more skin (and with more pads for Sword of Damocles).
+
+\- Itai
+

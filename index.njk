@@ -1,0 +1,38 @@
+---
+title: Blog Posts
+layout: base.njk
+pagination:
+  data: collections.all
+  reverse: true
+  size: 4
+  alias: posts
+eleventyExcludeFromCollections: true
+---
+
+<div class="posts">
+{%- for post in posts %}
+<div class="post">
+  <img
+    src="/images/{{ post.data.feature_image }}"
+    class="feature"
+    loading="lazy"
+  />
+  <div class="post-title">
+  <h3>
+    <a href="{{ post.url }}">{{ post.data.title }}</a>
+  </h3>
+  <time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate}}</time>
+  </div>
+</div>
+{%- endfor %}
+</div>
+
+<nav>
+  {% if pagination.href.previous %}
+  <a href="{{ pagination.href.previous }}">Previous</a>
+  {% else %} 
+  <a href="/"></a>
+  {% endif %} {% if pagination.href.next %}
+  <a href="{{ pagination.href.next }}">Next</a>
+  {% else %} {% endif %}
+</nav>

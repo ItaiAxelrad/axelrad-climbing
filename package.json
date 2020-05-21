@@ -1,0 +1,26 @@
+{
+  "name": "axeclimb",
+  "version": "1.0.0",
+  "description": "A climbing blog.",
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
+  },
+  "author": {
+    "name": "Itai Axelrad",
+    "email": "itaiaxelrad@gmail.com",
+    "url": "https://itaiaxelrad.com/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy-navigation": "^0.1.5",
+    "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
+    "luxon": "^1.21.3",
+    "markdown-it": "^8.4.2",
+    "markdown-it-anchor": "^5.2.5"
+  }
+}

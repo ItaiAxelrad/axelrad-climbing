@@ -1,0 +1,18 @@
+---
+title: 'Joshua Tree Getaway!'
+date: '2017-12-16T15:51:00-08:00'
+updated: '2018-02-09T15:52:45-08:00'
+feature_image: 'IMG_5264.JPG'
+author: 'Eden and Itai Axelrad'
+id: '5800870091216929715'
+location: None
+tags: ['Axelrad', 'California', 'granite', 'Joshua', 'Tree']
+---
+Quick, impulsive trips to Joshua Tree never get old. Here are some pictures from the latest one. Enjoy!
+
+![image alt](/images/IMG_5264.JPG)Ollie on Muligan 2
+
+![image alt](/images/IMG_5273.JPG)The length reach on Kandahar
+
+![image alt](/images/IMG_5404.JPG)Slab Life
+

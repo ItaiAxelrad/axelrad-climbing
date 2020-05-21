@@ -1,0 +1,26 @@
+---
+title: Contact
+layout: base.njk
+tags: pages
+eleventyExcludeFromCollections: true
+---
+
+<h1>{{ title }}</h1>
+<p>Get in touch!</p>
+<form name="contact" method="POST" data-netlify="true">
+  <label for="email">Email</label>
+  <input
+    id="email"
+    type="email"
+    name="email"
+    placeholder="your@email.com"
+    required
+  />
+  <label for="message">Message</label>
+  <textarea
+    id="message"
+    name="message"
+    placeholder="Hello world"
+  ></textarea>
+  <input type="submit" class="btn" />
+</form>
