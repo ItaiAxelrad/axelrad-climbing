@@ -2,7 +2,7 @@
 title: 'Sender One Grand Opening'
 date: '2013-06-17T10:22:00-07:00'
 updated: '2013-06-17T10:40:12-07:00'
-feature_image: 'IMG_6645.jpg'
+thumbnail: 'IMG_6645.jpg'
 author: 'Eden and Itai Axelrad'
 id: '9004037673791672496'
 location: None

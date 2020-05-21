@@ -2,7 +2,7 @@
 title: 'Horse Flats'
 date: '2015-01-19T08:09:00-08:00'
 updated: '2015-01-19T15:25:03-08:00'
-feature_image: 'IMG_5056.JPG'
+thumbnail: 'IMG_5056.JPG'
 author: 'Eden and Itai Axelrad'
 id: '6438197052569548435'
 location: None

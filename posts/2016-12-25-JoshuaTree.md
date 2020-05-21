@@ -2,7 +2,7 @@
 title: 'Joshua Tree'
 date: '2016-12-25T17:26:00-08:00'
 updated: '2016-12-30T17:30:28-08:00'
-feature_image: '1.jpg'
+thumbnail: '1.jpg'
 author: 'Eden and Itai Axelrad'
 id: '1120332862641669683'
 location: None

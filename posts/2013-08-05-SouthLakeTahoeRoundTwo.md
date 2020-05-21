@@ -2,7 +2,7 @@
 title: 'South Lake Tahoe: Round Two'
 date: '2013-08-05T14:10:00-07:00'
 updated: '2013-08-05T14:13:49-07:00'
-feature_image: 'IMG_6139.JPG'
+thumbnail: 'IMG_6139.JPG'
 author: 'Eden and Itai Axelrad'
 id: '1038161577249136554'
 location: None

@@ -2,7 +2,7 @@
 title: 'Happy Bishop'
 date: '2017-03-06T20:32:00-08:00'
 updated: '2020-05-04T14:27:43-07:00'
-feature_image: 'IMG_1482.JPG'
+thumbnail: 'IMG_1482.JPG'
 author: 'Eden and Itai Axelrad'
 id: '2011231304286134236'
 location: {'name': 'Bishop, CA 93514, USA', 'lat': 37.3614238, 'lng': -118.3996636, 'span': '0.05048,0.080681'}

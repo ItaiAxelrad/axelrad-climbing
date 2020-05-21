@@ -2,7 +2,7 @@
 title: 'Birthday at Black! '
 date: '2018-04-16T15:10:00-07:00'
 updated: '2018-04-16T17:13:28-07:00'
-feature_image: 'IMG_3882%202.jpg'
+thumbnail: 'IMG_3882%202.jpg'
 author: 'Eden and Itai Axelrad'
 id: '7194511671878203955'
 location: None

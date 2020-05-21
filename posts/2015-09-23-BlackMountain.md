@@ -2,7 +2,7 @@
 title: 'Black Mountain'
 date: '2015-09-23T11:01:00-07:00'
 updated: '2015-09-23T13:52:24-07:00'
-feature_image: 'IMG_2785.jpg'
+thumbnail: 'IMG_2785.jpg'
 author: 'Eden and Itai Axelrad'
 id: '6819394891124172890'
 location: None

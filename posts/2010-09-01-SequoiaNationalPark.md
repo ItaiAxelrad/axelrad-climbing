@@ -2,7 +2,7 @@
 title: 'Sequoia National Park'
 date: '2010-09-01T17:30:00-07:00'
 updated: '2020-04-30T12:49:05-07:00'
-feature_image: '10108_IMG9061_1283407437.JPG'
+thumbnail: '10108_IMG9061_1283407437.JPG'
 author: 'Eden and Itai Axelrad'
 id: '3063716330959322522'
 location: {'name': 'Sequoia National Park, California, USA', 'lat': 36.4863668, 'lng': -118.5657516, 'span': '51.044069,82.617188'}

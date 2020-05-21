@@ -2,7 +2,7 @@
 title: 'Birthday in J Tree! '
 date: '2018-05-13T22:30:00-07:00'
 updated: '2018-05-13T22:30:38-07:00'
-feature_image: 'IMG_4042.JPG'
+thumbnail: 'IMG_4042.JPG'
 author: 'Eden and Itai Axelrad'
 id: '986954860785407227'
 location: None

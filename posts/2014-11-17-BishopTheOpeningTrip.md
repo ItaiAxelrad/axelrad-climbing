@@ -2,7 +2,7 @@
 title: 'Bishop, The Opening Trip'
 date: '2014-11-17T19:06:00-08:00'
 updated: '2014-11-17T19:13:36-08:00'
-feature_image: 'IMG_4757.JPG'
+thumbnail: 'IMG_4757.JPG'
 author: 'Eden and Itai Axelrad'
 id: '1794524092904160596'
 location: None

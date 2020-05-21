@@ -2,7 +2,7 @@
 title: 'Springtime In The Buttermilks'
 date: '2015-04-13T23:04:00-07:00'
 updated: '2015-04-13T23:32:22-07:00'
-feature_image: 'IMG_2067.jpg'
+thumbnail: 'IMG_2067.jpg'
 author: 'Eden and Itai Axelrad'
 id: '1283405937755795291'
 location: None

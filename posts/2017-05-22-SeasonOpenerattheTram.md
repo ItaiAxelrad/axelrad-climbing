@@ -2,7 +2,7 @@
 title: 'Season Opener at the Tram! '
 date: '2017-05-22T19:57:00-07:00'
 updated: '2017-05-22T21:51:42-07:00'
-feature_image: 'IMG_2075.jpg'
+thumbnail: 'IMG_2075.jpg'
 author: 'Eden and Itai Axelrad'
 id: '6525106776057270943'
 location: None

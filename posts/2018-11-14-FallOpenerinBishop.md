@@ -2,7 +2,7 @@
 title: 'Fall Opener in Bishop! '
 date: '2018-11-14T18:20:00-08:00'
 updated: '2018-11-14T18:20:54-08:00'
-feature_image: 'IMG_6870.JPG'
+thumbnail: 'IMG_6870.JPG'
 author: 'Eden and Itai Axelrad'
 id: '8416773187708074952'
 location: None

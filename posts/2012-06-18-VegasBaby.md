@@ -2,7 +2,7 @@
 title: 'Vegas, Baby!'
 date: '2012-06-18T15:58:00-07:00'
 updated: '2013-08-01T00:39:59-07:00'
-feature_image: 'IMG_3505.JPG'
+thumbnail: 'IMG_3505.JPG'
 author: 'Eden and Itai Axelrad'
 id: '3981617014516433928'
 location: None

@@ -2,7 +2,7 @@
 title: 'Trailside Boulders'
 date: '2015-05-12T12:17:00-07:00'
 updated: '2015-05-12T15:16:17-07:00'
-feature_image: 'IMG_2235.jpg'
+thumbnail: 'IMG_2235.jpg'
 author: 'Eden and Itai Axelrad'
 id: '7790454096504482486'
 location: None

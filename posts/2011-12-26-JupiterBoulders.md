@@ -2,7 +2,7 @@
 title: 'Jupiter Boulders'
 date: '2011-12-26T18:14:00-08:00'
 updated: '2013-10-14T13:27:50-07:00'
-feature_image: 'view.JPG'
+thumbnail: 'view.JPG'
 author: 'Eden and Itai Axelrad'
 id: '4328278161985239303'
 location: None

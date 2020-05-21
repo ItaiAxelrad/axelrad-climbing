@@ -2,7 +2,7 @@
 title: 'Horse Flats'
 date: '2012-03-26T16:44:00-07:00'
 updated: '2020-04-30T12:55:17-07:00'
-feature_image: 'IMG_3146.JPG'
+thumbnail: 'IMG_3146.JPG'
 author: 'Eden and Itai Axelrad'
 id: '4601554457754864068'
 location: {'name': 'Horse Flats, California 93553, USA', 'lat': 34.3461103, 'lng': -118.0103451, 'span': '51.044069,82.617188'}

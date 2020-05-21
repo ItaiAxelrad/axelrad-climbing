@@ -2,7 +2,7 @@
 title: 'The Brickyard'
 date: '2015-06-02T19:49:00-07:00'
 updated: '2015-06-02T19:56:38-07:00'
-feature_image: 'IMG_2446.jpg'
+thumbnail: 'IMG_2446.jpg'
 author: 'Eden and Itai Axelrad'
 id: '7986292823208833947'
 location: None

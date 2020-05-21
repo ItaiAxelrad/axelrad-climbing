@@ -2,7 +2,7 @@
 title: 'Joshua Tree - Round 2'
 date: '2019-01-19T21:11:00-08:00'
 updated: '2019-01-21T21:20:58-08:00'
-feature_image: 'IMG_7622.JPG'
+thumbnail: 'IMG_7622.JPG'
 author: 'Eden and Itai Axelrad'
 id: '6407419361212621146'
 location: None

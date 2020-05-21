@@ -2,7 +2,7 @@
 title: 'Rocklin & Columbia Boulders'
 date: '2012-02-05T17:45:00-08:00'
 updated: '2020-04-30T12:51:36-07:00'
-feature_image: '1.jpg'
+thumbnail: '1.jpg'
 author: 'Eden and Itai Axelrad'
 id: '1913249902880637721'
 location: None

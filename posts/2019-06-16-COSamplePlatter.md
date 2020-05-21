@@ -2,7 +2,7 @@
 title: 'CO Sample Platter'
 date: '2019-06-16T11:03:00-07:00'
 updated: '2019-06-27T11:44:11-07:00'
-feature_image: '20190413_165436.jpg'
+thumbnail: '20190413_165436.jpg'
 author: 'Itai'
 id: '6386287449275371723'
 location: None

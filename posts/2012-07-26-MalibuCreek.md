@@ -2,7 +2,7 @@
 title: 'Malibu Creek'
 date: '2012-07-26T19:16:00-07:00'
 updated: '2013-01-22T21:51:13-08:00'
-feature_image: 'IMG_4138.JPG'
+thumbnail: 'IMG_4138.JPG'
 author: 'Eden and Itai Axelrad'
 id: '3613573202698829466'
 location: None

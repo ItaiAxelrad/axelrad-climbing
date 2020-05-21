@@ -2,7 +2,7 @@
 title: 'First Bishop Trip of 2018'
 date: '2018-01-17T18:02:00-08:00'
 updated: '2018-01-17T18:02:40-08:00'
-feature_image: 'IMG_5440.JPG'
+thumbnail: 'IMG_5440.JPG'
 author: 'Eden and Itai Axelrad'
 id: '194042019837142886'
 location: None

@@ -2,7 +2,7 @@
 title: 'Goodbye San Luis Obispo'
 date: '2014-08-07T10:25:00-07:00'
 updated: '2014-08-07T10:26:27-07:00'
-feature_image: 'IMG_0655.jpg'
+thumbnail: 'IMG_0655.jpg'
 author: 'Eden and Itai Axelrad'
 id: '464562836651532923'
 location: None

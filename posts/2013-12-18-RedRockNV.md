@@ -2,7 +2,7 @@
 title: 'Red Rock, NV'
 date: '2013-12-18T13:13:00-08:00'
 updated: '2013-12-18T13:52:42-08:00'
-feature_image: 'IMG_9522.jpg'
+thumbnail: 'IMG_9522.jpg'
 author: 'Eden and Itai Axelrad'
 id: '1994483482726823387'
 location: None

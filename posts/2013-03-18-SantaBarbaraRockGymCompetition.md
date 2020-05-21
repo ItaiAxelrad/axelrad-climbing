@@ -2,7 +2,7 @@
 title: 'Santa Barbara Rock Gym Competition '
 date: '2013-03-18T13:39:00-07:00'
 updated: '2013-12-06T12:12:17-08:00'
-feature_image: 'IMG_2548.JPG'
+thumbnail: 'IMG_2548.JPG'
 author: 'Eden and Itai Axelrad'
 id: '4533169255126501684'
 location: None

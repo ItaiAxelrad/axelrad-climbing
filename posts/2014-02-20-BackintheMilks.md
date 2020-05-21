@@ -2,7 +2,7 @@
 title: 'Back in the Milks'
 date: '2014-02-20T10:58:00-08:00'
 updated: '2014-02-22T16:10:56-08:00'
-feature_image: 'photo_3.jpg'
+thumbnail: 'photo_3.jpg'
 author: 'Eden and Itai Axelrad'
 id: '5386639621554268288'
 location: None

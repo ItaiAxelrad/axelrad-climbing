@@ -2,7 +2,7 @@
 title: 'Spring Break in Cabo'
 date: '2014-03-28T16:14:00-07:00'
 updated: '2014-03-28T20:51:02-07:00'
-feature_image: 'IMG_3133.JPG'
+thumbnail: 'IMG_3133.JPG'
 author: 'Eden and Itai Axelrad'
 id: '8275267282387781069'
 location: None

@@ -2,7 +2,7 @@
 title: 'Milky Milks'
 date: '2017-03-26T15:11:00-07:00'
 updated: '2017-04-01T15:17:52-07:00'
-feature_image: 'File_000%25284%2529.jpg'
+thumbnail: 'File_000%25284%2529.jpg'
 author: 'Eden and Itai Axelrad'
 id: '556122969207573177'
 location: None

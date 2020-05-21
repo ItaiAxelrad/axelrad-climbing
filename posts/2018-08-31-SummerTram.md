@@ -2,7 +2,7 @@
 title: 'Summer Tram'
 date: '2018-08-31T19:26:00-07:00'
 updated: '2018-08-31T19:28:11-07:00'
-feature_image: 'IMG_5609.jpg'
+thumbnail: 'IMG_5609.jpg'
 author: 'Eden and Itai Axelrad'
 id: '6815715697630975811'
 location: None

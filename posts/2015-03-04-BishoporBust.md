@@ -2,7 +2,7 @@
 title: 'Bishop or Bust'
 date: '2015-03-04T09:53:00-08:00'
 updated: '2015-03-10T23:24:49-07:00'
-feature_image: 'IMG_1542.jpg'
+thumbnail: 'IMG_1542.jpg'
 author: 'Eden and Itai Axelrad'
 id: '4839673836428281530'
 location: None

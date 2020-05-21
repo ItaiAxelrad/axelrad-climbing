@@ -2,7 +2,7 @@
 title: 'Slab Saturday at J Tree'
 date: '2017-03-12T14:27:00-07:00'
 updated: '2017-04-01T15:18:57-07:00'
-feature_image: 'IMG_4065.jpg'
+thumbnail: 'IMG_4065.jpg'
 author: 'Eden and Itai Axelrad'
 id: '5574427812550977871'
 location: None

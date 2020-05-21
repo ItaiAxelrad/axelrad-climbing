@@ -2,7 +2,7 @@
 title: 'Black Mamba '
 date: '2017-10-08T16:17:00-07:00'
 updated: '2017-11-19T16:34:55-08:00'
-feature_image: 'IMG_5028.JPG'
+thumbnail: 'IMG_5028.JPG'
 author: 'Eden and Itai Axelrad'
 id: '6562811478587352416'
 location: None

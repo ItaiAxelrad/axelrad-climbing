@@ -2,7 +2,7 @@
 title: 'Aesthetic Climbing Gym'
 date: '2012-09-03T21:02:00-07:00'
 updated: '2013-08-14T12:12:47-07:00'
-feature_image: 'IMG_5475_2.JPG'
+thumbnail: 'IMG_5475_2.JPG'
 author: 'Eden and Itai Axelrad'
 id: '5201842742969073791'
 location: None

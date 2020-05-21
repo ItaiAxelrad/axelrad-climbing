@@ -2,7 +2,7 @@
 title: 'Back to Bish'
 date: '2018-01-29T16:47:00-08:00'
 updated: '2018-02-10T17:07:49-08:00'
-feature_image: 'IMG_3934.JPG'
+thumbnail: 'IMG_3934.JPG'
 author: 'Eden and Itai Axelrad'
 id: '398236715668049680'
 location: None

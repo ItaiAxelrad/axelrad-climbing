@@ -2,7 +2,7 @@
 title: 'Dogpatch Boulders'
 date: '2013-05-13T10:43:00-07:00'
 updated: '2013-05-22T11:02:49-07:00'
-feature_image: 'aaaM.jpg'
+thumbnail: 'aaaM.jpg'
 author: 'Eden and Itai Axelrad'
 id: '3556564995911773616'
 location: None

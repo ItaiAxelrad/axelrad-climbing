@@ -2,7 +2,7 @@
 title: 'Squamish (Part I) '
 date: '2017-08-17T15:11:00-07:00'
 updated: '2020-05-04T14:31:39-07:00'
-feature_image: 'IMG_2832.jpg'
+thumbnail: 'IMG_2832.jpg'
 author: 'Eden and Itai Axelrad'
 id: '8316550721514205392'
 location: {'name': 'Squamish, BC, Canada', 'lat': 49.7016339, 'lng': -123.1558121, 'span': '0.656525,1.290894'}

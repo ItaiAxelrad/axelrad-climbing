@@ -2,7 +2,7 @@
 title: 'ABS 15 National Championships'
 date: '2014-02-22T17:41:00-08:00'
 updated: '2014-02-22T17:42:09-08:00'
-feature_image: 'default.jpg'
+thumbnail: 'default.jpg'
 author: 'Eden and Itai Axelrad'
 id: '2334975553528166647'
 location: None

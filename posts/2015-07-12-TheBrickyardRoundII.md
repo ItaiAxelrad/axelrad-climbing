@@ -2,7 +2,7 @@
 title: 'The Brickyard - Round II'
 date: '2015-07-12T22:51:00-07:00'
 updated: '2015-07-12T22:52:25-07:00'
-feature_image: 'IMG_2494.jpg'
+thumbnail: 'IMG_2494.jpg'
 author: 'Eden and Itai Axelrad'
 id: '2851452891721829788'
 location: None

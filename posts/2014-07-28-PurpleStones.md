@@ -2,7 +2,7 @@
 title: 'Purple Stones'
 date: '2014-07-28T13:30:00-07:00'
 updated: '2014-07-29T17:27:13-07:00'
-feature_image: 'GOPR0631.JPG'
+thumbnail: 'GOPR0631.JPG'
 author: 'Eden and Itai Axelrad'
 id: '8143510539234349804'
 location: None

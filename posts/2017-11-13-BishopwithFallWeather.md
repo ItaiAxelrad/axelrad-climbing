@@ -2,7 +2,7 @@
 title: 'Bishop with Fall Weather! '
 date: '2017-11-13T11:55:00-08:00'
 updated: '2017-11-25T12:24:50-08:00'
-feature_image: 'IMG_3452.jpg'
+thumbnail: 'IMG_3452.jpg'
 author: 'Eden and Itai Axelrad'
 id: '7076275619474038055'
 location: None

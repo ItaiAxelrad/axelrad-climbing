@@ -2,7 +2,7 @@
 title: 'Black Friday @ Tramway'
 date: '2017-11-25T11:50:00-08:00'
 updated: '2017-11-25T12:22:07-08:00'
-feature_image: 'IMG_3553.JPG'
+thumbnail: 'IMG_3553.JPG'
 author: 'Eden and Itai Axelrad'
 id: '7018775912034595718'
 location: None

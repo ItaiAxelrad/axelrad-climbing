@@ -2,7 +2,7 @@
 title: 'A Cold Season Opener in Bishop'
 date: '2019-12-16T14:28:00-08:00'
 updated: '2020-05-06T09:29:53-07:00'
-feature_image: 'IMG_4169.jpg'
+thumbnail: 'IMG_4169.jpg'
 author: 'Eden and Itai Axelrad'
 id: '4435397574616793804'
 location: {'name': 'Bishop, CA 93514, USA', 'lat': 37.3614238, 'lng': -118.3996636, 'span': '56.62046767235769, 70.3125'}

@@ -2,7 +2,7 @@
 title: 'Rocky Mountain National Park'
 date: '2017-09-16T12:46:00-07:00'
 updated: '2017-09-20T22:13:01-07:00'
-feature_image: 'FullSizeRender%2014.jpg'
+thumbnail: 'FullSizeRender%2014.jpg'
 author: 'Eden and Itai Axelrad'
 id: '7003752050501105175'
 location: None

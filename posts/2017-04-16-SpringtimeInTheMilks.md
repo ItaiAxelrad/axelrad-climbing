@@ -2,7 +2,7 @@
 title: 'Springtime In The Milks'
 date: '2017-04-16T16:41:00-07:00'
 updated: '2017-05-02T19:40:15-07:00'
-feature_image: 'IMG_4259.JPG'
+thumbnail: 'IMG_4259.JPG'
 author: 'Eden and Itai Axelrad'
 id: '8442610548258711824'
 location: None

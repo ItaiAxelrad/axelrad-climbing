@@ -2,7 +2,7 @@
 title: 'Black Mountain, CA'
 date: '2011-07-28T17:45:00-07:00'
 updated: '2020-04-30T12:50:20-07:00'
-feature_image: '_HopScotch_1311896122.jpg'
+thumbnail: '_HopScotch_1311896122.jpg'
 author: 'Eden and Itai Axelrad'
 id: '2344579672445703480'
 location: {'name': 'Idyllwild-Pine Cove, CA, USA', 'lat': 33.7467471, 'lng': -116.7152556, 'span': '0.211258,0.322723'}

@@ -2,7 +2,7 @@
 title: "Lizard's Mouth"
 date: '2013-01-21T09:39:00-08:00'
 updated: '2013-01-22T21:48:37-08:00'
-feature_image: 'IMG_5888.jpg'
+thumbnail: 'IMG_5888.jpg'
 author: 'Eden and Itai Axelrad'
 id: '7392476836606023872'
 location: None

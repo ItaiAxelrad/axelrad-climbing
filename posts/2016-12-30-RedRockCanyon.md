@@ -2,7 +2,7 @@
 title: 'Red Rock Canyon'
 date: '2016-12-30T13:51:00-08:00'
 updated: '2016-12-30T13:52:47-08:00'
-feature_image: 'IMG_3889.jpg'
+thumbnail: 'IMG_3889.jpg'
 author: 'Eden and Itai Axelrad'
 id: '1812482651326744158'
 location: None

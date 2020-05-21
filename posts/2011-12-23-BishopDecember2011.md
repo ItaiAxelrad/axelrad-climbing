@@ -2,7 +2,7 @@
 title: 'Bishop, December 2011'
 date: '2011-12-23T15:00:00-08:00'
 updated: '2013-10-14T13:28:10-07:00'
-feature_image: 'IMG_2596.JPG'
+thumbnail: 'IMG_2596.JPG'
 author: 'Eden and Itai Axelrad'
 id: '3673751976227584369'
 location: None

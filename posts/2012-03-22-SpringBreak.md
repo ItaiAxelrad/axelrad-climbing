@@ -2,7 +2,7 @@
 title: 'Spring Break'
 date: '2012-03-22T21:01:00-07:00'
 updated: '2013-10-14T13:26:51-07:00'
-feature_image: 'IMG_2990.JPG'
+thumbnail: 'IMG_2990.JPG'
 author: 'Eden and Itai Axelrad'
 id: '1343303023510910120'
 location: None

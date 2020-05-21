@@ -2,7 +2,7 @@
 title: 'Lincoln Woods'
 date: '2016-06-17T13:40:00-07:00'
 updated: '2016-12-30T13:41:02-08:00'
-feature_image: 'IMG_3330.jpg'
+thumbnail: 'IMG_3330.jpg'
 author: 'Eden and Itai Axelrad'
 id: '5441408441798322037'
 location: None

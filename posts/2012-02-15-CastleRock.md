@@ -2,7 +2,7 @@
 title: 'Castle Rock'
 date: '2012-02-15T10:48:00-08:00'
 updated: '2020-04-30T12:52:07-07:00'
-feature_image: 'IMG_0200.JPG'
+thumbnail: 'IMG_0200.JPG'
 author: 'Eden and Itai Axelrad'
 id: '4971576544688933478'
 location: {'name': 'Castle Rock Trail, California 95033, USA', 'lat': 37.2288142, 'lng': -122.0961526, 'span': '0.012643,0.02017'}

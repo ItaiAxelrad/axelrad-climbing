@@ -2,7 +2,7 @@
 title: 'The Underground'
 date: '2016-02-12T19:01:00-08:00'
 updated: '2016-02-12T19:01:08-08:00'
-feature_image: 'IMG_7898.JPG'
+thumbnail: 'IMG_7898.JPG'
 author: 'Eden and Itai Axelrad'
 id: '8877279212193941505'
 location: None

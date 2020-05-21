@@ -2,7 +2,7 @@
 title: 'South Lake Tahoe'
 date: '2013-07-25T14:12:00-07:00'
 updated: '2013-07-25T14:14:00-07:00'
-feature_image: 'photo_3%20copy.jpg'
+thumbnail: 'photo_3%20copy.jpg'
 author: 'Eden and Itai Axelrad'
 id: '5059644913304119206'
 location: None

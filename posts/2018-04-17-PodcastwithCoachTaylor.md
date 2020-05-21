@@ -2,7 +2,7 @@
 title: 'Podcast with Coach Taylor'
 date: '2018-04-17T14:02:00-07:00'
 updated: '2020-05-14T14:02:26-07:00'
-feature_image: 'thepowercompanypodcastbannersmall.jpg'
+thumbnail: 'thepowercompanypodcastbannersmall.jpg'
 author: 'Itai'
 id: '5795837337718704983'
 location: None

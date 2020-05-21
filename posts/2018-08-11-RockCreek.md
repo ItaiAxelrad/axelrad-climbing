@@ -2,7 +2,7 @@
 title: 'Rock Creek'
 date: '2018-08-11T08:21:00-07:00'
 updated: '2019-01-17T08:31:29-08:00'
-feature_image: 'IMG_0712-1%202.jpg'
+thumbnail: 'IMG_0712-1%202.jpg'
 author: 'Itai'
 id: '2174814862423305352'
 location: None

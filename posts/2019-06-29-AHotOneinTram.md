@@ -2,7 +2,7 @@
 title: 'A Hot One in Tram'
 date: '2019-06-29T10:06:00-07:00'
 updated: '2019-07-01T10:09:53-07:00'
-feature_image: 'IMG_0601.jpg'
+thumbnail: 'IMG_0601.jpg'
 author: 'Eden and Itai Axelrad'
 id: '7093561005345250255'
 location: {'name': '1 Tram Way, Palm Springs, CA 92262, USA', 'lat': 33.8370537, 'lng': -116.61410619999998, 'span': '51.044069,82.617188'}

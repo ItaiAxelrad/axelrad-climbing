@@ -2,7 +2,7 @@
 title: 'Vacation Climbing in Norway :)'
 date: '2019-08-23T16:53:00-07:00'
 updated: '2019-09-24T10:55:24-07:00'
-feature_image: 'IMG_5906.jpg'
+thumbnail: 'IMG_5906.jpg'
 author: 'Eden and Itai Axelrad'
 id: '3523204279705276569'
 location: None

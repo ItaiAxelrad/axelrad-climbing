@@ -6,6 +6,17 @@
     <meta name="description" content="{{ metadata.description }}">
     <link href="/styles/main.css" rel="stylesheet" type="text/css" />
     <title>{{ metadata.title }}</title>
+    <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+    </script>
   </head>
   <body>
     <nav class="menu">

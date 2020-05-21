@@ -2,7 +2,7 @@
 title: 'Sender One'
 date: '2012-08-15T15:19:00-07:00'
 updated: '2013-06-10T07:47:29-07:00'
-feature_image: 'IMG_4490.JPG'
+thumbnail: 'IMG_4490.JPG'
 author: 'Eden and Itai Axelrad'
 id: '6813312752069097423'
 location: None

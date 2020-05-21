@@ -2,7 +2,7 @@
 title: 'Black: Revisited'
 date: '2018-02-04T15:59:00-08:00'
 updated: '2018-02-10T14:16:02-08:00'
-feature_image: 'IMG_5394.JPG'
+thumbnail: 'IMG_5394.JPG'
 author: 'Eden and Itai Axelrad'
 id: '1776313820326086654'
 location: None

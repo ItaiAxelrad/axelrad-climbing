@@ -2,7 +2,7 @@
 title: 'Back To Black'
 date: '2015-02-09T21:02:00-08:00'
 updated: '2015-02-09T21:19:11-08:00'
-feature_image: 'IMG_1420.jpg'
+thumbnail: 'IMG_1420.jpg'
 author: 'Eden and Itai Axelrad'
 id: '3346874932921829213'
 location: None

@@ -2,7 +2,7 @@
 title: 'Snowy Tram Trip'
 date: '2016-05-01T15:42:00-07:00'
 updated: '2016-06-17T16:21:43-07:00'
-feature_image: 'IMG_3802.jpg'
+thumbnail: 'IMG_3802.jpg'
 author: 'Eden and Itai Axelrad'
 id: '8061682565878277328'
 location: None

@@ -2,7 +2,7 @@
 title: 'Thanksgiving In The Milks'
 date: '2012-11-25T12:11:00-08:00'
 updated: '2012-11-25T12:40:13-08:00'
-feature_image: 'IMG_5673.JPG'
+thumbnail: 'IMG_5673.JPG'
 author: 'Eden and Itai Axelrad'
 id: '5238055004877709036'
 location: None

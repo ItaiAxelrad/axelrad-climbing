@@ -2,7 +2,7 @@
 title: 'Slo Op Comp!'
 date: '2013-03-05T11:32:00-08:00'
 updated: '2013-03-05T16:32:51-08:00'
-feature_image: 'IMG_6432.JPG'
+thumbnail: 'IMG_6432.JPG'
 author: 'Eden and Itai Axelrad'
 id: '1753147586390830921'
 location: None

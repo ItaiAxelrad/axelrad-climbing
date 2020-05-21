@@ -2,7 +2,7 @@
 title: 'Malibu Bouldering'
 date: '2012-08-20T10:44:00-07:00'
 updated: '2013-01-22T21:50:17-08:00'
-feature_image: 'IMG_4528.JPG'
+thumbnail: 'IMG_4528.JPG'
 author: 'Eden and Itai Axelrad'
 id: '7602402492623889883'
 location: None

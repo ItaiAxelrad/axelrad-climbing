@@ -2,7 +2,7 @@
 title: 'September Sends'
 date: '2017-09-24T19:59:00-07:00'
 updated: '2017-09-28T08:15:40-07:00'
-feature_image: 'IMG_4970.JPG'
+thumbnail: 'IMG_4970.JPG'
 author: 'Eden and Itai Axelrad'
 id: '1700869977427004587'
 location: None

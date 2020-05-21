@@ -2,7 +2,7 @@
 title: 'Another Yose Trip'
 date: '2019-10-27T18:46:00-07:00'
 updated: '2019-10-29T19:22:07-07:00'
-feature_image: 'IMG_0077.jpg'
+thumbnail: 'IMG_0077.jpg'
 author: 'Eden and Itai Axelrad'
 id: '8561630215291612274'
 location: {'name': 'Yosemite National Park, California, USA', 'lat': 37.8651011, 'lng': -119.53832940000001, 'span': '51.044069,82.617188'}

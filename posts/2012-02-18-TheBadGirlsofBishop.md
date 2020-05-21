@@ -2,7 +2,7 @@
 title: 'The Bad Girls of Bishop'
 date: '2012-02-18T11:45:00-08:00'
 updated: '2013-10-14T13:27:08-07:00'
-feature_image: 'IMG_2861.JPG'
+thumbnail: 'IMG_2861.JPG'
 author: 'Eden and Itai Axelrad'
 id: '8994722291086465342'
 location: None

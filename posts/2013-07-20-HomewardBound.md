@@ -2,7 +2,7 @@
 title: 'Homeward Bound'
 date: '2013-07-20T15:06:00-07:00'
 updated: '2013-08-08T15:07:39-07:00'
-feature_image: 'IMG_7725.jpg'
+thumbnail: 'IMG_7725.jpg'
 author: 'Eden and Itai Axelrad'
 id: '469727283989317490'
 location: None

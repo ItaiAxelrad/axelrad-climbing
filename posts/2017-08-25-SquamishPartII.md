@@ -2,7 +2,7 @@
 title: 'Squamish (Part II)'
 date: '2017-08-25T16:14:00-07:00'
 updated: '2017-08-25T16:21:46-07:00'
-feature_image: 'FullSizeRender%209.jpg'
+thumbnail: 'FullSizeRender%209.jpg'
 author: 'Eden and Itai Axelrad'
 id: '4858288617202703986'
 location: None

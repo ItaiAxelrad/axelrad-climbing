@@ -2,7 +2,7 @@
 title: 'Hueco Tanks -  Part 1'
 date: '2019-01-21T10:56:00-08:00'
 updated: '2019-08-08T13:30:50-07:00'
-feature_image: 'IMG_2495.jpg'
+thumbnail: 'IMG_2495.jpg'
 author: 'Itai'
 id: '4832847861390354511'
 location: None

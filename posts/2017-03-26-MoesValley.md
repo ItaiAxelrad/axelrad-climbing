@@ -2,7 +2,7 @@
 title: "Moe's Valley"
 date: '2017-03-26T21:01:00-07:00'
 updated: '2017-04-04T21:14:23-07:00'
-feature_image: 'FullSizeRender.jpg'
+thumbnail: 'FullSizeRender.jpg'
 author: 'Eden and Itai Axelrad'
 id: '1388554954357933477'
 location: None

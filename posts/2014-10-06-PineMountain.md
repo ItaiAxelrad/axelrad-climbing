@@ -2,7 +2,7 @@
 title: 'Pine Mountain'
 date: '2014-10-06T12:03:00-07:00'
 updated: '2014-10-06T12:09:03-07:00'
-feature_image: 'IMG_4456.JPG'
+thumbnail: 'IMG_4456.JPG'
 author: 'Eden and Itai Axelrad'
 id: '3817849856789710117'
 location: None

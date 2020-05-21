@@ -2,7 +2,7 @@
 title: 'Buttermilks & Druid Stones'
 date: '2015-03-17T08:20:00-07:00'
 updated: '2015-03-17T09:03:23-07:00'
-feature_image: 'IMG_1612.jpg'
+thumbnail: 'IMG_1612.jpg'
 author: 'Eden and Itai Axelrad'
 id: '947930032973856394'
 location: None

@@ -2,7 +2,7 @@
 title: 'Eastern Sierras '
 date: '2017-09-05T21:49:00-07:00'
 updated: '2017-09-05T22:04:14-07:00'
-feature_image: 'IMG_3015.JPG'
+thumbnail: 'IMG_3015.JPG'
 author: 'Eden and Itai Axelrad'
 id: '369583439622087749'
 location: None

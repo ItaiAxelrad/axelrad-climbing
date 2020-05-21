@@ -2,7 +2,7 @@
 title: 'Fall is Here!'
 date: '2013-10-14T13:17:00-07:00'
 updated: '2013-10-14T13:57:21-07:00'
-feature_image: 'IMG_9198.jpg'
+thumbnail: 'IMG_9198.jpg'
 author: 'Eden and Itai Axelrad'
 id: '6065889109151129444'
 location: None

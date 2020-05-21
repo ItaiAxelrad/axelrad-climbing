@@ -2,7 +2,7 @@
 title: 'Bishop: Round II'
 date: '2014-11-25T21:22:00-08:00'
 updated: '2014-11-25T21:23:20-08:00'
-feature_image: 'IMG_4832.JPG'
+thumbnail: 'IMG_4832.JPG'
 author: 'Eden and Itai Axelrad'
 id: '2231554257974863578'
 location: None

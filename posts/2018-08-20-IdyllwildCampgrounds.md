@@ -2,7 +2,7 @@
 title: 'Idyllwild Campgrounds'
 date: '2018-08-20T19:17:00-07:00'
 updated: '2018-08-20T19:17:20-07:00'
-feature_image: 'IMG_5408.jpg'
+thumbnail: 'IMG_5408.jpg'
 author: 'Eden and Itai Axelrad'
 id: '5515014668930422973'
 location: None

@@ -2,7 +2,7 @@
 title: "Baggin' Peaks"
 date: '2018-08-14T07:39:00-07:00'
 updated: '2019-01-17T08:32:56-08:00'
-feature_image: 'IMG_6373.jpg'
+thumbnail: 'IMG_6373.jpg'
 author: 'Itai'
 id: '8411768772573044275'
 location: None

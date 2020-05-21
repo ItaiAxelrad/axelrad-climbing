@@ -2,7 +2,7 @@
 title: 'Trailside Boulders at Black'
 date: '2020-02-02T16:45:00-08:00'
 updated: '2020-05-06T09:23:44-07:00'
-feature_image: 'IMG_0682.jpg'
+thumbnail: 'IMG_0682.jpg'
 author: 'Eden and Itai Axelrad'
 id: '6406787251735472349'
 location: {'name': 'Idyllwild-Pine Cove, CA, USA', 'lat': 33.7467471, 'lng': -116.71525559999998, 'span': '0.211258,0.322723'}

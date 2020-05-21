@@ -2,7 +2,7 @@
 title: 'J Tree Farewell'
 date: '2016-01-18T19:24:00-08:00'
 updated: '2016-01-18T19:34:02-08:00'
-feature_image: 'IMG_3409.jpg'
+thumbnail: 'IMG_3409.jpg'
 author: 'Eden and Itai Axelrad'
 id: '3276006307431663160'
 location: None

@@ -2,7 +2,7 @@
 title: 'The First of 2019: Joshua Tree'
 date: '2019-01-15T08:45:00-08:00'
 updated: '2019-01-15T08:45:34-08:00'
-feature_image: 'IMG_7529.JPG'
+thumbnail: 'IMG_7529.JPG'
 author: 'Eden and Itai Axelrad'
 id: '2001157132732296394'
 location: None

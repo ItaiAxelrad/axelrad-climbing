@@ -2,7 +2,7 @@
 title: 'Presidents Day Bishop Trip'
 date: '2013-03-08T10:38:00-08:00'
 updated: '2013-03-08T10:40:50-08:00'
-feature_image: 'IMG_6255.JPG'
+thumbnail: 'IMG_6255.JPG'
 author: 'Eden and Itai Axelrad'
 id: '7201376457507176611'
 location: None

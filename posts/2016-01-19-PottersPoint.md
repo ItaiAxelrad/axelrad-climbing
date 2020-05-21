@@ -2,7 +2,7 @@
 title: "Potter's Point"
 date: '2016-01-19T19:55:00-08:00'
 updated: '2016-01-20T16:34:44-08:00'
-feature_image: 'IMG_3436.jpg'
+thumbnail: 'IMG_3436.jpg'
 author: 'Eden and Itai Axelrad'
 id: '5187042405130522440'
 location: None

@@ -2,7 +2,7 @@
 title: 'Spring Break - Bishop'
 date: '2012-04-01T16:47:00-07:00'
 updated: '2020-05-14T14:10:21-07:00'
-feature_image: '559596_2934016557765_1090340333_n.jpg'
+thumbnail: '559596_2934016557765_1090340333_n.jpg'
 author: 'Eden and Itai Axelrad'
 id: '5851488996713781117'
 location: None

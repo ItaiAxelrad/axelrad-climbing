@@ -2,7 +2,7 @@
 title: 'Joshua Tree Getaway!'
 date: '2017-12-16T15:51:00-08:00'
 updated: '2018-02-09T15:52:45-08:00'
-feature_image: 'IMG_5264.JPG'
+thumbnail: 'IMG_5264.JPG'
 author: 'Eden and Itai Axelrad'
 id: '5800870091216929715'
 location: None

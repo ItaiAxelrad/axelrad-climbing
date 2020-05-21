@@ -2,7 +2,7 @@
 title: 'The Creamery'
 date: '2015-12-20T19:01:00-08:00'
 updated: '2015-12-24T10:53:05-08:00'
-feature_image: 'IMG_2913.jpg'
+thumbnail: 'IMG_2913.jpg'
 author: 'Eden and Itai Axelrad'
 id: '876444965921602113'
 location: None

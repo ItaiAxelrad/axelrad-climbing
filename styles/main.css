@@ -102,6 +102,11 @@ footer {
 
 li {
   list-style-position: inside;
+  padding: 0.15rem 0;
+}
+
+li time::before {
+  content: '- ';
 }
 
 .posts {
