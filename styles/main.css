@@ -5,7 +5,7 @@
   --light: hsl(0, 0%, 98%);
   --gray: hsl(0, 0%, 33%);
   --dark: hsl(0, 0%, 12%);
-  --width: 860px;
+  --width: 700px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -37,13 +37,8 @@ main {
   margin: 1rem auto;
 }
 
-article {
-  max-width: 724px;
-  margin: 1rem auto;
-}
-
 img {
-  max-width: 724px;
+  max-width: 100%;
 }
 
 .feature {
