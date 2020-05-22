@@ -4,9 +4,16 @@ date: '2011-12-23T15:00:00-08:00'
 updated: '2013-10-14T13:28:10-07:00'
 thumbnail: 'IMG_2596.JPG'
 author: 'Eden and Itai Axelrad'
-id: '3673751976227584369'
-location: None
-tags: ['Axelrad', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'California']
+id: 3673751976227584369
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - Bouldering
+  - boulders
+  - buttermilks
+  - California
 ---
 
 We were off for winter break and a family trip to Mammoth was planned. My brother and I insisted on stopping in Bishop on the way up for a few hours. We arrived in Bishop, and after a quick lunch at Schat's Bakery, we decided to drive up to the ice caves at the top of the Sads. 

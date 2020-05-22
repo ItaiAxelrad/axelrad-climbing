@@ -4,9 +4,28 @@ date: '2017-08-17T15:11:00-07:00'
 updated: '2020-05-04T14:31:39-07:00'
 thumbnail: 'IMG_2832.jpg'
 author: 'Eden and Itai Axelrad'
-id: '8316550721514205392'
-location: {'name': 'Squamish, BC, Canada', 'lat': 49.7016339, 'lng': -123.1558121, 'span': '0.656525,1.290894'}
-tags: ['Axelrad', 'black hole', 'Bouldering', 'canada', 'chief', 'Climbing', 'Eden', 'Five', 'Five Ten', 'forest', 'grand wall', 'granite', 'Itai', 'north wall', 'perfect cave', 'resurrection', 'Squamish', 'Ten']
+id: 8316550721514205392
+location: 'Squamish, BC, Canada'
+tags:
+  - post
+  - Axelrad
+  - black hole
+  - Bouldering
+  - canada
+  - chief
+  - Climbing
+  - Eden
+  - Five
+  - Five Ten
+  - forest
+  - grand wall
+  - granite
+  - Itai
+  - north wall
+  - perfect cave
+  - resurrection
+  - Squamish
+  - Ten
 ---
 
 ![image alt](/images/IMG_2832.jpg)

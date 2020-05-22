@@ -4,9 +4,17 @@ date: '2019-10-16T11:36:00-07:00'
 updated: '2019-10-16T11:36:29-07:00'
 thumbnail: 'IMG_9935.jpg'
 author: 'Eden and Itai Axelrad'
-id: '3046514497989467770'
-location: {'name': 'Yosemite National Park, California, USA', 'lat': 37.8651011, 'lng': -119.53832940000001, 'span': '51.044069,82.617188'}
-tags: ['Axelrad', 'Bouldering', 'Climbing', 'g23 arete', 'granite', 'tuolumne', 'yosemite']
+id: 3046514497989467770
+location: 'Yosemite National Park, California, USA'
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - Climbing
+  - g23 arete
+  - granite
+  - tuolumne
+  - yosemite
 ---
 
 ![image alt](/images/IMG_9935.jpg)

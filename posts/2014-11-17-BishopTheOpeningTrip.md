@@ -4,9 +4,16 @@ date: '2014-11-17T19:06:00-08:00'
 updated: '2014-11-17T19:13:36-08:00'
 thumbnail: 'IMG_4757.JPG'
 author: 'Eden and Itai Axelrad'
-id: '1794524092904160596'
-location: None
-tags: ['Axelrad', 'bishop', 'Climbing', 'Eden', 'Happy Boulders', 'Itai']
+id: 1794524092904160596
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - Climbing
+  - Eden
+  - Happy Boulders
+  - Itai
 ---
 
 ![image alt](/images/IMG_4757.JPG)

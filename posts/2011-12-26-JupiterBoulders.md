@@ -4,9 +4,14 @@ date: '2011-12-26T18:14:00-08:00'
 updated: '2013-10-14T13:27:50-07:00'
 thumbnail: 'view.JPG'
 author: 'Eden and Itai Axelrad'
-id: '4328278161985239303'
-location: None
-tags: ['Black Mountain', 'Bouldering', 'California', 'jupiter']
+id: 4328278161985239303
+location: ''
+tags:
+  - post
+  - Black Mountain
+  - Bouldering
+  - California
+  - jupiter
 ---
 
 Finals were done and it was time to get outdoors. We teamed up with Isaac and Anthony and

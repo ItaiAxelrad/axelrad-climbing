@@ -4,9 +4,12 @@ date: '2009-02-14T14:34:00-08:00'
 updated: '2020-05-14T14:38:12-07:00'
 thumbnail: 'default.jpg'
 author: 'Itai'
-id: '3707594248913054965'
-location: None
-tags: ['deadpoint', 'magazine']
+id: 3707594248913054965
+location: ''
+tags:
+  - post
+  - deadpoint
+  - magazine
 ---
 
 Photoshoot with Laura Griffiths in Bishop:

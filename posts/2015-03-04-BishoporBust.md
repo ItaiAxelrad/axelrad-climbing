@@ -4,9 +4,25 @@ date: '2015-03-04T09:53:00-08:00'
 updated: '2015-03-10T23:24:49-07:00'
 thumbnail: 'IMG_1542.jpg'
 author: 'Eden and Itai Axelrad'
-id: '4839673836428281530'
-location: None
-tags: ['Axelrad', 'bishop', 'blog', 'Bouldering', 'boulders', 'buttermilks', 'California', 'Carlo Traversi', 'Climbing', 'Evilution', 'Five Ten', 'flash', 'granite', 'highball', 'Project']
+id: 4839673836428281530
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - blog
+  - Bouldering
+  - boulders
+  - buttermilks
+  - California
+  - Carlo Traversi
+  - Climbing
+  - Evilution
+  - Five Ten
+  - flash
+  - granite
+  - highball
+  - Project
 ---
 
 Ok. Let’s go. 

@@ -4,9 +4,16 @@ date: '2017-09-24T19:59:00-07:00'
 updated: '2017-09-28T08:15:40-07:00'
 thumbnail: 'IMG_4970.JPG'
 author: 'Eden and Itai Axelrad'
-id: '1700869977427004587'
-location: None
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'The Swarm']
+id: 1700869977427004587
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - Bouldering
+  - buttermilks
+  - California
+  - The Swarm
 ---
 A cold streak appeared on the forecast and beckoned us towards the Sierras. It was the last weekend of our seemingly endless summer and a Bishop trip would surely serve as a grand finale. Cody and I met Eden and Jovanna early Friday morning and made the familiar drive north on the 395. It was officially the first day of fall and felt like it when we exited the car for breakfast. Good climbing temperatures in September have been a bit of a rarity over the years but this was a welcome change. We warmed up in the Buttermilk main area and came away with some new climbs.
 

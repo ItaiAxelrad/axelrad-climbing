@@ -4,9 +4,20 @@ date: '2019-01-21T10:56:00-08:00'
 updated: '2019-08-08T13:30:50-07:00'
 thumbnail: 'IMG_2495.jpg'
 author: 'Itai'
-id: '4832847861390354511'
-location: None
-tags: ['Axelrad', 'Bouldering', 'east', 'el paso', 'flash', 'hueco', 'Mountain', 'north', 'tanks', 'texas']
+id: 4832847861390354511
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - east
+  - el paso
+  - flash
+  - hueco
+  - Mountain
+  - north
+  - tanks
+  - texas
 ---
 After a few rest days and a testing drive from Denver, I exited the car and pulled on to the classic Diaphanous Sea. It had been a decade earlier that I had last been to the desert bouldering mecca. That climb and many others had been on mind ever since. Aside from Diaphanous, I managed to tick a handful more off my list on the first day, including Power of Silence, a flash of Tequila Sunrise, and a flash of Loaded with Power (without any knee-bars of course).
 

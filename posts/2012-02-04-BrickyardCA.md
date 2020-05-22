@@ -4,9 +4,15 @@ date: '2012-02-04T15:00:00-08:00'
 updated: '2012-02-08T18:57:05-08:00'
 thumbnail: 'IMG_2685.JPG'
 author: 'Eden and Itai Axelrad'
-id: '5157839849754319896'
-location: None
-tags: ['Axelrad', 'Bouldering', 'Brickyard', 'Climbing', 'Itai']
+id: 5157839849754319896
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - Brickyard
+  - Climbing
+  - Itai
 ---
 
 It had been too long since I last climbed on rock. A climbing trip had to be planned this weekend. A few

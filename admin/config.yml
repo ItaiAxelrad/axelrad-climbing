@@ -16,6 +16,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: True }
       - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Location', name: 'location', widget: 'string' }
       - { label: 'Feature Image', name: 'thumbnail', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list', default: ['post'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }

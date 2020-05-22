@@ -4,9 +4,25 @@ date: '2018-01-17T18:02:00-08:00'
 updated: '2018-01-17T18:02:40-08:00'
 thumbnail: 'IMG_5440.JPG'
 author: 'Eden and Itai Axelrad'
-id: '194042019837142886'
-location: None
-tags: ['a maze of death', 'adventure', 'Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'Climbing', 'Druid Stones', 'Eden', 'Five Ten', 'gasperini', 'Itai', 'outdoors', 'v12']
+id: 194042019837142886
+location: ''
+tags:
+  - post
+  - a maze of death
+  - adventure
+  - Axelrad
+  - bishop
+  - Bouldering
+  - buttermilks
+  - California
+  - Climbing
+  - Druid Stones
+  - Eden
+  - Five Ten
+  - gasperini
+  - Itai
+  - outdoors
+  - v12
 ---
 
 Marina, Itai, and I took advantage of a three day weekend and drove out to Bishop early Saturday morning. We set up camp and got to climbing!

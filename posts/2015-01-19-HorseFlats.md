@@ -4,9 +4,22 @@ date: '2015-01-19T08:09:00-08:00'
 updated: '2015-01-19T15:25:03-08:00'
 thumbnail: 'IMG_5056.JPG'
 author: 'Eden and Itai Axelrad'
-id: '6438197052569548435'
-location: None
-tags: ['Axelrad', 'Bouldering', 'boulders', 'California', 'Eden', 'Five Ten', 'flash', 'flats', 'granite', 'highball', 'horse', 'Itai']
+id: 6438197052569548435
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - boulders
+  - California
+  - Eden
+  - Five Ten
+  - flash
+  - flats
+  - granite
+  - highball
+  - horse
+  - Itai
 ---
 
 ![image alt](/images/IMG_5056.JPG)

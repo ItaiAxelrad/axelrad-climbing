@@ -4,9 +4,21 @@ date: '2017-03-26T21:01:00-07:00'
 updated: '2017-04-04T21:14:23-07:00'
 thumbnail: 'FullSizeRender.jpg'
 author: 'Eden and Itai Axelrad'
-id: '1388554954357933477'
-location: None
-tags: ['Axelrad', 'Climbing', 'direct', 'Five', 'Five Ten', 'israil', 'moes valley', 'sandstone', 'show of hands', 'Ten', 'utah']
+id: 1388554954357933477
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Climbing
+  - direct
+  - Five
+  - Five Ten
+  - israil
+  - moes valley
+  - sandstone
+  - show of hands
+  - Ten
+  - utah
 ---
 
 Jovanna and I headed up to Zion for a short, but much deserved (on her part) vacation. We decided to make a quick pit-stop in Moe's Valley during our Utah adventure. At first it was tough to navigate due to the fact that we did not have a guidebook, but we managed to find the valley of boulders and enjoyed a full day of climbing. We were not disappointed! 

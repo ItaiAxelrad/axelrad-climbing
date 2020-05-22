@@ -4,9 +4,19 @@ date: '2018-04-01T23:55:00-07:00'
 updated: '2020-05-07T09:01:47-07:00'
 thumbnail: 'FC76620C-72F1-4962-8D77-56FA77D4A5DF.jpg'
 author: 'Eden and Itai Axelrad'
-id: '7907061478881296092'
-location: {'name': 'Joes Valley Campground, Orangeville, UT 84537, USA', 'lat': 39.2967824, 'lng': -111.2976201, 'span': '53.60638721050981, 70.31249999999999'}
-tags: ['Axelrad', 'blackout', 'Bouldering', 'Climbing', 'highball', "Joe's", 'sandstone', 'utah', 'Valley']
+id: 7907061478881296092
+location: 'Joes Valley Campground, Orangeville, UT 84537, USA'
+tags:
+  - post
+  - Axelrad
+  - blackout
+  - Bouldering
+  - Climbing
+  - highball
+  - Joe's
+  - sandstone
+  - utah
+  - Valley
 ---
 I spent what in all likelihood will be my last spring break in Joe's Valley. Dusty, chossy, beautiful Joe's Valley! A far cry from the sunny beaches of Cabo San Lucas. Anyway, here are some photos from the trip.
 

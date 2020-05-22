@@ -4,9 +4,23 @@ date: '2016-12-25T17:26:00-08:00'
 updated: '2016-12-30T17:30:28-08:00'
 thumbnail: '1.jpg'
 author: 'Eden and Itai Axelrad'
-id: '1120332862641669683'
-location: None
-tags: ['Axelrad', 'blog', 'blood diamond', 'Bouldering', 'Climbing', 'Eden', 'Five Ten', 'granite', 'Itai', 'Joshua', 'national', 'park', 'Tree']
+id: 1120332862641669683
+location: ''
+tags:
+  - post
+  - Axelrad
+  - blog
+  - blood diamond
+  - Bouldering
+  - Climbing
+  - Eden
+  - Five Ten
+  - granite
+  - Itai
+  - Joshua
+  - national
+  - park
+  - Tree
 ---
 Itai and I headed out to Joshua Tree for a quick day trip on Sunday. Our main objective was to find and try out a project located somewhere beyond the Phantom Carter Boulders near the entrance of the park. We ended up spending the vast majority of the day hiking around and feeling completely lost. The boulders were nowhere in sight, and the guidebook was no help.
 

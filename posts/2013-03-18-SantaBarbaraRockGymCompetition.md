@@ -4,9 +4,18 @@ date: '2013-03-18T13:39:00-07:00'
 updated: '2013-12-06T12:12:17-08:00'
 thumbnail: 'IMG_2548.JPG'
 author: 'Eden and Itai Axelrad'
-id: '4533169255126501684'
-location: None
-tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Competition', 'Five Ten', 'Itai', 'Santa Barbara']
+id: 4533169255126501684
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - California
+  - Climbing
+  - Competition
+  - Five Ten
+  - Itai
+  - Santa Barbara
 ---
 
 The new Santa Barbara Rock Gym hosted a competition this past Saturday, so Emily and I took a break from studying and drove down. They had great climbs and awesome prizes. 

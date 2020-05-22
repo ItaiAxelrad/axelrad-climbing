@@ -4,9 +4,16 @@ date: '2012-04-18T17:09:00-07:00'
 updated: '2020-05-14T14:05:13-07:00'
 thumbnail: 'Crimps-of-Wrath.jpg'
 author: 'Eden and Itai Axelrad'
-id: '7280536218268461960'
-location: None
-tags: ['Ascent', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'First']
+id: 7280536218268461960
+location: ''
+tags:
+  - post
+  - Ascent
+  - bishop
+  - Bouldering
+  - boulders
+  - buttermilks
+  - First
 ---
 I have been emailing Wills Young about my recent Bishop first ascent, Crimps of Wrath.
 

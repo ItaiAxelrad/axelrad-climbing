@@ -4,9 +4,21 @@ date: '2017-05-22T19:57:00-07:00'
 updated: '2017-05-22T21:51:42-07:00'
 thumbnail: 'IMG_2075.jpg'
 author: 'Eden and Itai Axelrad'
-id: '6525106776057270943'
-location: None
-tags: ['Axelrad', 'black mamba', 'Bouldering', 'Climbing', 'Eden', 'Five', 'Five Ten', 'granite', 'Itai', 'Ten', 'Tramway']
+id: 6525106776057270943
+location: ''
+tags:
+  - post
+  - Axelrad
+  - black mamba
+  - Bouldering
+  - Climbing
+  - Eden
+  - Five
+  - Five Ten
+  - granite
+  - Itai
+  - Ten
+  - Tramway
 ---
 
 Itai and I headed up to Tramway on Saturday for the first time in a year. We decided to start the day by jumping on our project - Black Mamba (V12). This line adds a sit start to Stretch Armstrong, a low percentage one-move-wonder V10. We both got agonizingly close, falling on the last move many times. Definitely feels like it'll go down this summer! 

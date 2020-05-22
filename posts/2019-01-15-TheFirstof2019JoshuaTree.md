@@ -4,9 +4,19 @@ date: '2019-01-15T08:45:00-08:00'
 updated: '2019-01-15T08:45:34-08:00'
 thumbnail: 'IMG_7529.JPG'
 author: 'Eden and Itai Axelrad'
-id: '2001157132732296394'
-location: None
-tags: ['a streetcar named desire', 'Axelrad', 'Bouldering', 'Climbing', 'granite', 'Joshua', 'joshua tree', 'the chube', 'Tree']
+id: 2001157132732296394
+location: ''
+tags:
+  - post
+  - a streetcar named desire
+  - Axelrad
+  - Bouldering
+  - Climbing
+  - granite
+  - Joshua
+  - joshua tree
+  - the chube
+  - Tree
 ---
 
 On Sunday Cody and I drove out to Joshua Tree for a quick day trip. It had rained the day before and some of the boulders were still a bit wet in the morning. However, they dried out after a few hours of intermittent sunshine. We started out in the Barker Dam area and made our way out to Planet X after lunch. We jumped on a few classic moderates and I opened up Iron Resolution as a potential project for the winter :) 

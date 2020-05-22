@@ -4,9 +4,15 @@ date: '2011-07-28T17:45:00-07:00'
 updated: '2020-04-30T12:50:20-07:00'
 thumbnail: '_HopScotch_1311896122.jpg'
 author: 'Eden and Itai Axelrad'
-id: '2344579672445703480'
-location: {'name': 'Idyllwild-Pine Cove, CA, USA', 'lat': 33.7467471, 'lng': -116.7152556, 'span': '0.211258,0.322723'}
-tags: ['Black Mountain', 'California', 'granite', 'highball', 'idyllwild']
+id: 2344579672445703480
+location: 'Idyllwild-Pine Cove, CA, USA'
+tags:
+  - post
+  - Black Mountain
+  - California
+  - granite
+  - highball
+  - idyllwild
 ---
 
 This last Saturday I headed up to Black with a few friends from the gym. We made our way to Hop Scotch early in the morning. It is a great looking climb but unfortunately the temps were not as ideal as we had anticipated even in the early morning. I was forced to make quick work of the sloping crimps before they became too greasy to climb. I sent Hop Scotch (V9), and made my way over to the Tour de France boulder. 

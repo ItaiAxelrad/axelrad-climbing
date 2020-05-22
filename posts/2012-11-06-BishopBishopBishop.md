@@ -4,9 +4,16 @@ date: '2012-11-06T18:53:00-08:00'
 updated: '2012-11-25T12:39:55-08:00'
 thumbnail: 'IMG_5636.JPG'
 author: 'Eden and Itai Axelrad'
-id: '4458571346857952426'
-location: None
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'Climbing', 'Itai']
+id: 4458571346857952426
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - Bouldering
+  - buttermilks
+  - Climbing
+  - Itai
 ---
 
 The first trip of the season had been on everyone’s mind for quite some time. The temperature was nice and school was manageable this weekend, so I took the opportunity to get out of San Luis Obispo and into the Sierras.

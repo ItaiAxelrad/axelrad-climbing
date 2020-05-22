@@ -4,9 +4,28 @@ date: '2013-06-17T10:22:00-07:00'
 updated: '2013-06-17T10:40:12-07:00'
 thumbnail: 'IMG_6645.jpg'
 author: 'Eden and Itai Axelrad'
-id: '9004037673791672496'
-location: None
-tags: ['Ashima Shiraishi', 'Bautista', 'Beall', 'Carlo Traversi', 'Chris Sharma', 'Climbing', 'Competition', 'Johnson', 'Kevin Jorgenson', 'Kinder', 'Martin', 'Owen', 'Paul Robinson', 'Sanders', 'Sender One', 'Sierra Blair Coyle', 'Tommy Caldwell', 'walltopia']
+id: 9004037673791672496
+location: ''
+tags:
+  - post
+  - Ashima Shiraishi
+  - Bautista
+  - Beall
+  - Carlo Traversi
+  - Chris Sharma
+  - Climbing
+  - Competition
+  - Johnson
+  - Kevin Jorgenson
+  - Kinder
+  - Martin
+  - Owen
+  - Paul Robinson
+  - Sanders
+  - Sender One
+  - Sierra Blair Coyle
+  - Tommy Caldwell
+  - walltopia
 ---
 
 Marina, Jake and I arrived in Santa Ana at 10 am this Saturday with a long but exciting day ahead of us. It was the grand opening of Chris Sharma’s new super-gym, Sender One. There was already a crowd outside, waiting to climb on the futuristic Walltopia features.

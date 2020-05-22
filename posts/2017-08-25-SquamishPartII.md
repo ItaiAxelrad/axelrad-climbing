@@ -4,9 +4,22 @@ date: '2017-08-25T16:14:00-07:00'
 updated: '2017-08-25T16:21:46-07:00'
 thumbnail: 'FullSizeRender%209.jpg'
 author: 'Eden and Itai Axelrad'
-id: '4858288617202703986'
-location: None
-tags: ['Axelrad', 'blog', 'Bouldering', 'Five Ten', 'forest', 'granite', 'highball', 'murrin park', 'north wall', 'squaminator', 'Squamish', 'summoning']
+id: 4858288617202703986
+location: ''
+tags:
+  - post
+  - Axelrad
+  - blog
+  - Bouldering
+  - Five Ten
+  - forest
+  - granite
+  - highball
+  - murrin park
+  - north wall
+  - squaminator
+  - Squamish
+  - summoning
 ---
 Cody and I were left alone in the campsite and relegated to a party of two. We kept up the motivation and made it a goal not to take any rest days and climb as many problems as we could. This involved checking out new areas that we had never been to on previous trips, but first, we spent some time in the familiar grand wall area and filled all the unchecked boxes in our guidebook.
 

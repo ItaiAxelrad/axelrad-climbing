@@ -4,9 +4,14 @@ date: '2012-06-18T15:58:00-07:00'
 updated: '2013-08-01T00:39:59-07:00'
 thumbnail: 'IMG_3505.JPG'
 author: 'Eden and Itai Axelrad'
-id: '3981617014516433928'
-location: None
-tags: ['Axelrad', 'Charleston', 'Climbing', 'Itai']
+id: 3981617014516433928
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Charleston
+  - Climbing
+  - Itai
 ---
 It was a humbling weekend for a boulderer.
 

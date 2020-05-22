@@ -4,9 +4,25 @@ date: '2015-02-09T21:02:00-08:00'
 updated: '2015-02-09T21:19:11-08:00'
 thumbnail: 'IMG_1420.jpg'
 author: 'Eden and Itai Axelrad'
-id: '3346874932921829213'
-location: None
-tags: ['Ascent', 'Axelrad', 'Black Mountain', 'blog', 'Bouldering', 'boulders', 'California', 'Climbing', 'Eden', 'First', 'Five Ten', 'highball', 'Itai', 'Mountain', 'Rock']
+id: 3346874932921829213
+location: ''
+tags:
+  - post
+  - Ascent
+  - Axelrad
+  - Black Mountain
+  - blog
+  - Bouldering
+  - boulders
+  - California
+  - Climbing
+  - Eden
+  - First
+  - Five Ten
+  - highball
+  - Itai
+  - Mountain
+  - Rock
 ---
 This past weekend Itai and I headed out to Black Mountain for the first time in a while. We met up with Isaac and a few of his friends, and had a fun day exploring the OK Corral. Isaac was a solid tour guide, and managed to get us all excited about the area even though temperatures were far from ideal.
 

@@ -4,9 +4,22 @@ date: '2014-02-20T10:58:00-08:00'
 updated: '2014-02-22T16:10:56-08:00'
 thumbnail: 'photo_3.jpg'
 author: 'Eden and Itai Axelrad'
-id: '5386639621554268288'
-location: None
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilker', 'buttermilks', 'California', 'Chris Llewellyn', 'Eden', 'ethan pringle', 'Five Ten', 'footprints', 'Itai']
+id: 5386639621554268288
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - Bouldering
+  - buttermilker
+  - buttermilks
+  - California
+  - Chris Llewellyn
+  - Eden
+  - ethan pringle
+  - Five Ten
+  - footprints
+  - Itai
 ---
 
 ![image alt](/images/photo_3.jpg)

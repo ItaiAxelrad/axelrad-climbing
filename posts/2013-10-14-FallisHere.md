@@ -4,9 +4,19 @@ date: '2013-10-14T13:17:00-07:00'
 updated: '2013-10-14T13:57:21-07:00'
 thumbnail: 'IMG_9198.jpg'
 author: 'Eden and Itai Axelrad'
-id: '6065889109151129444'
-location: None
-tags: ['Axelrad', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'California', 'Climbing', 'highball', 'Itai']
+id: 6065889109151129444
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - Bouldering
+  - boulders
+  - buttermilks
+  - California
+  - Climbing
+  - highball
+  - Itai
 ---
 
 Although we still have beach weather in San Luis Obispo, it is October in Bishop and the temps were looking good enough to venture outside for the first trip of the season. Joe, Sara, Sam and I rendezvoused with Cody, Alex and (surprisingly) Adam at the Buttermilks for a mellow weekend on granite. 

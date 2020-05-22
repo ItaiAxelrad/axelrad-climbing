@@ -4,9 +4,21 @@ date: '2014-03-09T14:31:00-07:00'
 updated: '2014-03-09T14:38:01-07:00'
 thumbnail: 'default.jpg'
 author: 'Eden and Itai Axelrad'
-id: '4752905453386032339'
-location: None
-tags: ['Andy Lamb', 'Axelrad', 'Bouldering', 'California', 'CCS', 'Climbing', 'Collegiate', 'Competition', 'finals', 'Slo Op', 'the send']
+id: 4752905453386032339
+location: ''
+tags:
+  - post
+  - Andy Lamb
+  - Axelrad
+  - Bouldering
+  - California
+  - CCS
+  - Climbing
+  - Collegiate
+  - Competition
+  - finals
+  - Slo Op
+  - the send
 ---
 
 I made my way to Slo Op on Friday afternoon to help forerun the problems. It was t-minus 15 hours until the annual Slo Op CCS Competition began. The routes were looking great, and the finalists were in for a surprising dyno! 

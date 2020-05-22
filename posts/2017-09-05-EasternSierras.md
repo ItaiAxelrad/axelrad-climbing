@@ -4,9 +4,24 @@ date: '2017-09-05T21:49:00-07:00'
 updated: '2017-09-05T22:04:14-07:00'
 thumbnail: 'IMG_3015.JPG'
 author: 'Eden and Itai Axelrad'
-id: '369583439622087749'
-location: None
-tags: ['Axelrad', 'Bouldering', 'Eden', 'Five', 'Five Ten', 'gneiss', 'granite', 'mammoth', 'meadows', 'one love', 'space and time', 'Ten', 'tuolumne', 'way lake']
+id: 369583439622087749
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - Eden
+  - Five
+  - Five Ten
+  - gneiss
+  - granite
+  - mammoth
+  - meadows
+  - one love
+  - space and time
+  - Ten
+  - tuolumne
+  - way lake
 ---
 
 Jovanna and I headed up to Mammoth Lakes on Friday to enjoy the long (Labor Day) weekend in the Eastern Sierras. We arrived about mid day and hiked up to the beautiful Crystal Lake.

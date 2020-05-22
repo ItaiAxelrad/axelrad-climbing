@@ -4,9 +4,20 @@ date: '2013-12-18T13:13:00-08:00'
 updated: '2013-12-18T13:52:42-08:00'
 thumbnail: 'IMG_9522.jpg'
 author: 'Eden and Itai Axelrad'
-id: '1994483482726823387'
-location: None
-tags: ['Axelrad', 'Bouldering', 'boulders', 'Climbing', 'Itai', 'Kraft', 'Nevada', 'Red', 'Rock', 'sandstone']
+id: 1994483482726823387
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - boulders
+  - Climbing
+  - Itai
+  - Kraft
+  - Nevada
+  - Red
+  - Rock
+  - sandstone
 ---
 Finals were over quickly this quarter and I was itching to get outside and climb. I picked up Joe and we met up with Cody for a few days of ~~partying in Las Vegas~~ sandstone bouldering.
 

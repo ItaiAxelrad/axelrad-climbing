@@ -4,9 +4,26 @@ date: '2015-04-13T23:04:00-07:00'
 updated: '2015-04-13T23:32:22-07:00'
 thumbnail: 'IMG_2067.jpg'
 author: 'Eden and Itai Axelrad'
-id: '1283405937755795291'
-location: None
-tags: ['Axelrad', 'bishop', 'blog', 'Bouldering', 'buttermilker', 'buttermilks', 'California', 'Climbing', 'Eden', 'Five', 'Five Ten', 'granite', 'highball', 'hot', 'Itai', 'Photo']
+id: 1283405937755795291
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - blog
+  - Bouldering
+  - buttermilker
+  - buttermilks
+  - California
+  - Climbing
+  - Eden
+  - Five
+  - Five Ten
+  - granite
+  - highball
+  - hot
+  - Itai
+  - Photo
 ---
 
 The crew rallied from Los Angeles to Bishop for what might be the last trip before fall. Eden, Jovanna and I met up with Marina, Jake and Emily in town for a coffee Saturday morning before heading up the bumpy Buttermilk Road. 

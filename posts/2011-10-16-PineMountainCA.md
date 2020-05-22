@@ -4,9 +4,14 @@ date: '2011-10-16T17:56:00-07:00'
 updated: '2020-04-30T12:51:03-07:00'
 thumbnail: 'IMG_2128.JPG'
 author: 'Eden and Itai Axelrad'
-id: '1095609288186886031'
-location: None
-tags: ['California', 'Mountain', 'Pine', 'sandstone']
+id: 1095609288186886031
+location: ''
+tags:
+  - post
+  - California
+  - Mountain
+  - Pine
+  - sandstone
 ---
 
 This Friday was my first time climbing in Pine Mountain. It has large sandstone boulders with interesting features. I wish I would have gotten up there sooner than this year. I headed up to the mountain at 8 on Friday morning with five other climbers from San Luis Obispo. We were all excited to get outside at the fist sign of fall temps. 

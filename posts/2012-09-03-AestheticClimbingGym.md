@@ -4,9 +4,21 @@ date: '2012-09-03T21:02:00-07:00'
 updated: '2013-08-14T12:12:47-07:00'
 thumbnail: 'IMG_5475_2.JPG'
 author: 'Eden and Itai Axelrad'
-id: '5201842742969073791'
-location: None
-tags: ['Aesthetic', 'Alex Johnson', 'Axelrad', 'Bouldering', 'Climbing', 'Competition', 'Daniel Woods', 'hot', 'Matt Wilder', 'Nina Williams', 'Sierra Blair Coyle']
+id: 5201842742969073791
+location: ''
+tags:
+  - post
+  - Aesthetic
+  - Alex Johnson
+  - Axelrad
+  - Bouldering
+  - Climbing
+  - Competition
+  - Daniel Woods
+  - hot
+  - Matt Wilder
+  - Nina Williams
+  - Sierra Blair Coyle
 ---
 
 This Sunday, my brother and I attended the highly anticipated ACG opening competition.

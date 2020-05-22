@@ -4,9 +4,16 @@ date: '2012-11-25T12:11:00-08:00'
 updated: '2012-11-25T12:40:13-08:00'
 thumbnail: 'IMG_5673.JPG'
 author: 'Eden and Itai Axelrad'
-id: '5238055004877709036'
-location: None
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'Climbing', 'Itai']
+id: 5238055004877709036
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - Bouldering
+  - buttermilks
+  - Climbing
+  - Itai
 ---
 
 Despite the thin skin on my fingers and a looming cold, I could hardly resist returning to Bishop.

@@ -4,9 +4,20 @@ date: '2014-11-25T21:22:00-08:00'
 updated: '2014-11-25T21:23:20-08:00'
 thumbnail: 'IMG_4832.JPG'
 author: 'Eden and Itai Axelrad'
-id: '2231554257974863578'
-location: None
-tags: ['Axelrad', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'California', 'Climbing', 'Eden', 'Five Ten', 'granite']
+id: 2231554257974863578
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - Bouldering
+  - boulders
+  - buttermilks
+  - California
+  - Climbing
+  - Eden
+  - Five Ten
+  - granite
 ---
 
 ![image alt](/images/IMG_4832.JPG)

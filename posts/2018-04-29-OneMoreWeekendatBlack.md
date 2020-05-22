@@ -4,9 +4,16 @@ date: '2018-04-29T20:30:00-07:00'
 updated: '2018-05-02T18:26:20-07:00'
 thumbnail: 'IMG_4029%202.jpg'
 author: 'Eden and Itai Axelrad'
-id: '849605771138296132'
-location: None
-tags: ['Axelrad', 'beowulf', 'Black Mountain', 'Bouldering', 'Climbing', 'granite']
+id: 849605771138296132
+location: ''
+tags:
+  - post
+  - Axelrad
+  - beowulf
+  - Black Mountain
+  - Bouldering
+  - Climbing
+  - granite
 ---
 
 Drew, Kody, Itai and I met up Saturday morning to start off a weekend at Black. Our first day was filled with exploration - hiking, scoping, cleaning, and some climbing.

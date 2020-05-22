@@ -4,9 +4,25 @@ date: '2015-03-17T08:20:00-07:00'
 updated: '2015-03-17T09:03:23-07:00'
 thumbnail: 'IMG_1612.jpg'
 author: 'Eden and Itai Axelrad'
-id: '947930032973856394'
-location: None
-tags: ['Axelrad', 'boulders', 'buttermilks', 'California', 'Climbing', 'Druid Stones', 'Eden', 'Five Ten', 'granite', 'green wall', 'Itai', 'Photo', 'Picture', 'solitaire', "xavier's roof"]
+id: 947930032973856394
+location: ''
+tags:
+  - post
+  - Axelrad
+  - boulders
+  - buttermilks
+  - California
+  - Climbing
+  - Druid Stones
+  - Eden
+  - Five Ten
+  - granite
+  - green wall
+  - Itai
+  - Photo
+  - Picture
+  - solitaire
+  - xavier's roof
 ---
 
 Cody, Itai and I drove out to Bishop on Friday afternoon for a weekend adventure. We got into the Buttermilks around 7:30 and decided to have a night session before turning in. 

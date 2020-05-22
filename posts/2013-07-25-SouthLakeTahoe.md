@@ -4,9 +4,17 @@ date: '2013-07-25T14:12:00-07:00'
 updated: '2013-07-25T14:14:00-07:00'
 thumbnail: 'photo_3%20copy.jpg'
 author: 'Eden and Itai Axelrad'
-id: '5059644913304119206'
-location: None
-tags: ['Axelrad', 'Chris', 'Eden', 'Ground Control', 'Itai', 'south lake', 'Tahoe']
+id: 5059644913304119206
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Chris
+  - Eden
+  - Ground Control
+  - Itai
+  - south lake
+  - Tahoe
 ---
 
 ![image alt](/images/photo_3%20copy.jpg)

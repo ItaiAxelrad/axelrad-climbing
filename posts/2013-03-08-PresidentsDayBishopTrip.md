@@ -4,9 +4,18 @@ date: '2013-03-08T10:38:00-08:00'
 updated: '2013-03-08T10:40:50-08:00'
 thumbnail: 'IMG_6255.JPG'
 author: 'Eden and Itai Axelrad'
-id: '7201376457507176611'
-location: None
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'Climbing', 'Itai', 'The Swarm']
+id: 7201376457507176611
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - Bouldering
+  - buttermilks
+  - California
+  - Climbing
+  - Itai
+  - The Swarm
 ---
 
 It was a beautiful three-day weekend. The weather was perfect and people flocked to Bishop from all over the country. Despite the large crowds, Jason, Nick, Cody and I still managed to have a great time climbing, heckling and stargazing. Here are some photos of the trip:

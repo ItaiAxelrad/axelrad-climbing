@@ -4,9 +4,14 @@ date: '2012-02-05T17:45:00-08:00'
 updated: '2020-04-30T12:51:36-07:00'
 thumbnail: '1.jpg'
 author: 'Eden and Itai Axelrad'
-id: '1913249902880637721'
-location: None
-tags: ['boulders', 'California', 'Columbia', 'Rocklin']
+id: 1913249902880637721
+location: ''
+tags:
+  - post
+  - boulders
+  - California
+  - Columbia
+  - Rocklin
 ---
 I had to take advantage of this winter's unusually dry weather, so before school got chaotic I decided to check out some new local bouldering areas. The first was Rocklin, a set of boulders hidden in a small park right off a main road. The rock was good, but the lines were not necessarily top notch. Regardless I was happy to get outdoors and snag a couple of fun climbs.
 

@@ -4,9 +4,17 @@ date: '2014-04-01T13:42:00-07:00'
 updated: '2020-05-14T13:53:54-07:00'
 thumbnail: 'climbers_tennis_golf_elbow.jpg'
 author: 'Itai'
-id: '3677206927352933563'
-location: None
-tags: ['elbow', 'golf', 'pain', 'prevent', 'tendinosis', 'tennis', 'treat']
+id: 3677206927352933563
+location: ''
+tags:
+  - post
+  - elbow
+  - golf
+  - pain
+  - prevent
+  - tendinosis
+  - tennis
+  - treat
 ---
 
 This article only describes the personal experiences and recommendations of a self-proclaimed injured climber dealing with climber’s elbow. If you already suffer from chronic pain or discomfort, consult a physical therapist for a personalized rehabilitation program. This article first appeared on [mojagear](/images/).

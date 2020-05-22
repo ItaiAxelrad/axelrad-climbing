@@ -4,9 +4,23 @@ date: '2017-04-09T14:05:00-07:00'
 updated: '2017-04-09T14:05:02-07:00'
 thumbnail: 'IMG_1792.JPG'
 author: 'Eden and Itai Axelrad'
-id: '3995835144682595238'
-location: None
-tags: ['Axelrad', 'Bouldering', 'Climbing', 'Five', 'Five Ten', 'fred nicole', 'granite', 'Joshua', 'nicole problem', 'Ten', 'Tree', 'v10', 'yogi']
+id: 3995835144682595238
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - Climbing
+  - Five
+  - Five Ten
+  - fred nicole
+  - granite
+  - Joshua
+  - nicole problem
+  - Ten
+  - Tree
+  - v10
+  - yogi
 ---
 
 Itai and I ran out to Joshua Tree yesterday for a day trip in the desert. When we arrived, the weather was beautiful and the wildflowers were blooming. 

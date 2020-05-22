@@ -4,9 +4,13 @@ date: '2012-02-15T10:48:00-08:00'
 updated: '2020-04-30T12:52:07-07:00'
 thumbnail: 'IMG_0200.JPG'
 author: 'Eden and Itai Axelrad'
-id: '4971576544688933478'
-location: {'name': 'Castle Rock Trail, California 95033, USA', 'lat': 37.2288142, 'lng': -122.0961526, 'span': '0.012643,0.02017'}
-tags: ['California', 'Castle', 'Rock']
+id: 4971576544688933478
+location: 'Castle Rock Trail, California 95033, USA'
+tags:
+  - post
+  - California
+  - Castle
+  - Rock
 ---
 After a weekend at San Louis Obispo, Alex and I decided to stop at Castle Rock on the way back to Davis. It rained the previous night and we were worried that the rock would be too wet. While the ground was damp, the rock remained fairly dry and we were able to climb. After some aimless hiking through the overcast forest we managed to find one of the main boulder areas.
 

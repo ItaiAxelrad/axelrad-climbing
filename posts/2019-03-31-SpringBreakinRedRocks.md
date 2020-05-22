@@ -4,9 +4,16 @@ date: '2019-03-31T17:15:00-07:00'
 updated: '2019-04-05T18:25:30-07:00'
 thumbnail: '04BF174E-24DA-4FC3-B104-D330C86CB63A.jpg'
 author: 'Eden and Itai Axelrad'
-id: '4162868336278429043'
-location: None
-tags: ['Axelrad', 'Bouldering', 'Climbing', 'Red Rocks', 'the pearl', 'woods problem']
+id: 4162868336278429043
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - Climbing
+  - Red Rocks
+  - the pearl
+  - woods problem
 ---
 
 The original spring break plan was to be in Yosemite, but we had to bail on that due to campsite damage and weather. Because this happened relatively last minute, we quickly switched plans to Red Rocks and hoped for the best.

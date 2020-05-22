@@ -4,9 +4,17 @@ date: '2012-06-25T13:14:00-07:00'
 updated: '2013-01-22T21:52:05-08:00'
 thumbnail: 'IMG_3722.jpg'
 author: 'Eden and Itai Axelrad'
-id: '9058537813027630432'
-location: None
-tags: ['Axelrad', 'Black Mountain', 'Bouldering', 'California', 'Climbing', 'Eden', 'Itai']
+id: 9058537813027630432
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Black Mountain
+  - Bouldering
+  - California
+  - Climbing
+  - Eden
+  - Itai
 ---
 
 Isaac and I drove up to Black Mountain on Friday morning. Isaac was meeting Natalie (who he is coaching) and Douglas Hunter (father of the four-by-four) to film an athlete profile.

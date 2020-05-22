@@ -4,9 +4,20 @@ date: '2019-07-03T11:29:00-07:00'
 updated: '2019-07-03T11:33:30-07:00'
 thumbnail: 'GoBot.jpg'
 author: 'Itai'
-id: '4460816252139277326'
-location: None
-tags: ['Axelrad', 'Bouldering', 'Chaos Canyon', 'Colorado', 'gobot', 'lower', 'Mountain', 'park', 'RMNP', 'v11']
+id: 4460816252139277326
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - Chaos Canyon
+  - Colorado
+  - gobot
+  - lower
+  - Mountain
+  - park
+  - RMNP
+  - v11
 ---
 
 After the requisite early start and uphill approach, we found ourselves in lower chaos. The crew had planned on meeting at the warm-up boulder but to our surprise it was buried in snow with just the top out holds visible. Our options for the day were cut down by the freakishly snowy winter and spring here in Colorado. 

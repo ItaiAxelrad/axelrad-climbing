@@ -4,9 +4,16 @@ date: '2012-02-18T11:45:00-08:00'
 updated: '2013-10-14T13:27:08-07:00'
 thumbnail: 'IMG_2861.JPG'
 author: 'Eden and Itai Axelrad'
-id: '8994722291086465342'
-location: None
-tags: ['Axelrad', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'California']
+id: 8994722291086465342
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - Bouldering
+  - boulders
+  - buttermilks
+  - California
 ---
 It was a three-day weekend, and my roommates and I planned on taking advantage of it by making a trip to Bishop. We departed at 4 in the morning on Saturday to meet up with the hoard of other SLO climbers.
 Cody drove us the six hours to the base of the stormy Mount Tom.

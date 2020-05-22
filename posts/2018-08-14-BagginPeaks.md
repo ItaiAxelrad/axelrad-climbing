@@ -4,9 +4,22 @@ date: '2018-08-14T07:39:00-07:00'
 updated: '2019-01-17T08:32:56-08:00'
 thumbnail: 'IMG_6373.jpg'
 author: 'Itai'
-id: '8411768772573044275'
-location: None
-tags: ['Alpine', 'Axelrad', 'bishop', 'Bouldering', 'California', 'granite', 'Mountain', 'peak', 'summit', 'traditional', 'tuolumne', 'yosemite']
+id: 8411768772573044275
+location: ''
+tags:
+  - post
+  - Alpine
+  - Axelrad
+  - bishop
+  - Bouldering
+  - California
+  - granite
+  - Mountain
+  - peak
+  - summit
+  - traditional
+  - tuolumne
+  - yosemite
 ---
 When it's too hot to boulder, we boulder anyway, but sometimes we retreat into the high Sierra instead.
 

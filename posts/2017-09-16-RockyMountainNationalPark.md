@@ -4,9 +4,17 @@ date: '2017-09-16T12:46:00-07:00'
 updated: '2017-09-20T22:13:01-07:00'
 thumbnail: 'FullSizeRender%2014.jpg'
 author: 'Eden and Itai Axelrad'
-id: '7003752050501105175'
-location: None
-tags: ['Alpine', 'Axelrad', 'Bouldering', 'Chaos Canyon', 'Climbing', 'Colorado', 'RMNP']
+id: 7003752050501105175
+location: ''
+tags:
+  - post
+  - Alpine
+  - Axelrad
+  - Bouldering
+  - Chaos Canyon
+  - Climbing
+  - Colorado
+  - RMNP
 ---
 Our trip to Colorado was moments away from being canceled due to suspect weather but our restlessness got the best of us. What's the worst that could happen? Even if we got rained out every day, sitting in a cabin in Estes Park sounded far more pleasant than sitting in traffic in Los Angeles.
 

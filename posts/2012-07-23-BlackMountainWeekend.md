@@ -4,9 +4,16 @@ date: '2012-07-23T12:34:00-07:00'
 updated: '2013-01-22T21:51:44-08:00'
 thumbnail: 'IMG_4024.JPG'
 author: 'Eden and Itai Axelrad'
-id: '7779394840728548627'
-location: None
-tags: ['Axelrad', 'Black Mountain', 'Bouldering', 'California', 'Eden', 'Itai']
+id: 7779394840728548627
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Black Mountain
+  - Bouldering
+  - California
+  - Eden
+  - Itai
 ---
 
 ![image alt](/images/IMG_4024.JPG)

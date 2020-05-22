@@ -4,9 +4,18 @@ date: '2018-11-14T18:20:00-08:00'
 updated: '2018-11-14T18:20:54-08:00'
 thumbnail: 'IMG_6870.JPG'
 author: 'Eden and Itai Axelrad'
-id: '8416773187708074952'
-location: None
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'Climbing', 'mandala', 'perfectly chicken', 'sierra nevada']
+id: 8416773187708074952
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - Bouldering
+  - buttermilks
+  - Climbing
+  - mandala
+  - perfectly chicken
+  - sierra nevada
 ---
 
 ![image alt](/images/IMG_6870.JPG)

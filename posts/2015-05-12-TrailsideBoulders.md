@@ -4,9 +4,21 @@ date: '2015-05-12T12:17:00-07:00'
 updated: '2015-05-12T15:16:17-07:00'
 thumbnail: 'IMG_2235.jpg'
 author: 'Eden and Itai Axelrad'
-id: '7790454096504482486'
-location: None
-tags: ['Axelrad', 'Black Mountain', 'blog', 'Bouldering', 'California', 'Climbing', 'Five Ten', 'granite', 'Itai', 'Rock', 'trailside']
+id: 7790454096504482486
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Black Mountain
+  - blog
+  - Bouldering
+  - California
+  - Climbing
+  - Five Ten
+  - granite
+  - Itai
+  - Rock
+  - trailside
 ---
 
 Isaac and Alexandra had plans to show some friends from Flagstaff - Andrew and Jordan - around Black Mountain, and were kind enough to invite me along. However, upon our arrival we discovered that the road was closed due to maintenance and that our initial plan was spoiled.

@@ -4,9 +4,19 @@ date: '2016-06-17T13:40:00-07:00'
 updated: '2016-12-30T13:41:02-08:00'
 thumbnail: 'IMG_3330.jpg'
 author: 'Eden and Itai Axelrad'
-id: '5441408441798322037'
-location: None
-tags: ['Axelrad', 'Bouldering', 'Climbing', 'Five', 'Five Ten', 'granite', 'Itai', 'Lincoln', 'Woods']
+id: 5441408441798322037
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - Climbing
+  - Five
+  - Five Ten
+  - granite
+  - Itai
+  - Lincoln
+  - Woods
 ---
 
 What's a vacation without climbing?

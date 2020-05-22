@@ -4,9 +4,18 @@ date: '2014-02-22T17:41:00-08:00'
 updated: '2014-02-22T17:42:09-08:00'
 thumbnail: 'default.jpg'
 author: 'Eden and Itai Axelrad'
-id: '2334975553528166647'
-location: None
-tags: ['ABS 15', 'Axelrad', 'Bouldering', 'Climbing', 'finals', 'live', 'nationals', 'open']
+id: 2334975553528166647
+location: ''
+tags:
+  - post
+  - ABS 15
+  - Axelrad
+  - Bouldering
+  - Climbing
+  - finals
+  - live
+  - nationals
+  - open
 ---
 ![image alt](/images/86457271)(click the image for a preview of Nationals)
 

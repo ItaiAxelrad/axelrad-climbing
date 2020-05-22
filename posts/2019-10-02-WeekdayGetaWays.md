@@ -4,9 +4,24 @@ date: '2019-10-02T10:33:00-07:00'
 updated: '2019-10-02T10:33:24-07:00'
 thumbnail: 'IMG_0723.jpg'
 author: 'Itai'
-id: '3706807781461784118'
-location: None
-tags: ['Alpine', 'Axelrad', 'Bouldering', 'Climbing', 'Colorado', 'granite', 'Guanella', 'Lake', 'Lincoln', 'Pass', 'Summer', 'talus', 'v12', 'v13']
+id: 3706807781461784118
+location: ''
+tags:
+  - post
+  - Alpine
+  - Axelrad
+  - Bouldering
+  - Climbing
+  - Colorado
+  - granite
+  - Guanella
+  - Lake
+  - Lincoln
+  - Pass
+  - Summer
+  - talus
+  - v12
+  - v13
 ---
 
 As a 9 to 5er or weekend warrior, your climbing to do list can pile up quickly. You often only get one day outside every week. If your skin sucks or if the weather sucks or if you suck there goes your chance at the project.

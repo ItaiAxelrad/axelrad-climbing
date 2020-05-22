@@ -1,13 +1,9 @@
 ---
 layout: base.njk
-tags: pages
-eleventyExcludeFromCollections: true
-eleventyNavigation:
-  key: About
-  order: 2
 ---
 
-<article>
 <h1>{{ title }}</h1>
+<hr>
+<article id="{{ title }}">
 {{ content | safe}}
 </article>

@@ -4,9 +4,17 @@ date: '2019-01-27T17:39:00-08:00'
 updated: '2019-01-27T17:42:20-08:00'
 thumbnail: 'IMG_3388%202.jpg'
 author: 'Itai'
-id: '5345359962296384214'
-location: None
-tags: ['Axelrad', 'Bouldering', 'crimps', 'hueco', 'tanka', 'texas', 'v10']
+id: 5345359962296384214
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - crimps
+  - hueco
+  - tanka
+  - texas
+  - v10
 ---
 The last day or two of the trip involved more lounging than climbing. Skin, energy, and sends were running thin on our final tour to East Mountain. Thankfully, the crew had just enough left in the tank to get a send train on the sharp and crimpy Wu-Tang.
 

@@ -38,6 +38,8 @@ main {
 }
 
 img {
+  display: block;
+  margin: 0 auto;
   max-width: 100%;
 }
 
@@ -55,7 +57,8 @@ nav {
 }
 
 .menu a {
-  padding-left: 1rem;
+  line-height: 24px;
+  padding-left: 0.5rem;
 }
 
 nav a:first-of-type {
@@ -82,12 +85,30 @@ header {
   margin-block-end: 1rem;
 }
 
+address,
 time {
+  display: inline-block;
+  font-style: normal;
   color: var(--gray);
 }
 
+code {
+  background: var(--dark);
+  color: var(--light);
+  border-radius: 3px;
+  padding: 0.15rem;
+}
+
+hr {
+  background: var(--color);
+  border: none;
+  height: 1px;
+  margin-block-start: 0.5rem;
+  margin-block-end: 1rem;
+}
+
 p {
-  margin-bottom: 1rem;
+  margin-block-end: 1rem;
 }
 
 footer {
@@ -126,15 +147,16 @@ li time::before {
 
 /* svg logo / tint icon */
 .icon {
-  fill: currentColor;
+  fill: var(--color);
+  padding-inline-end: 0 0.5rem;
   display: inline-block;
+  transform: translateY(1px);
   height: 1rem;
 }
 
 .logo {
-  fill: currentColor;
+  fill: var(--color);
   display: inline-block;
-  transform: translateY(-2px);
   height: 1.5rem;
 }
 
@@ -144,6 +166,11 @@ li time::before {
   border: none;
   background: none;
   color: currentColor;
+}
+
+blockquote {
+  border-left: 2px solid var(--color);
+  padding: 0 1rem;
 }
 
 form {
@@ -178,11 +205,7 @@ textarea {
     margin: 1rem;
   }
   nav {
-    font-size: 75%;
-  }
-  .logo {
-    transform: none;
-    height: 1rem;
+    font-size: 80%;
   }
   .posts {
     display: block;

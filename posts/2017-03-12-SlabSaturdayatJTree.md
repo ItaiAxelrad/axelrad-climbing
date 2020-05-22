@@ -4,9 +4,16 @@ date: '2017-03-12T14:27:00-07:00'
 updated: '2017-04-01T15:18:57-07:00'
 thumbnail: 'IMG_4065.jpg'
 author: 'Eden and Itai Axelrad'
-id: '5574427812550977871'
-location: None
-tags: ['Axelrad', 'California', 'Climbing', 'Joshua', 'trad', 'Tree']
+id: 5574427812550977871
+location: ''
+tags:
+  - post
+  - Axelrad
+  - California
+  - Climbing
+  - Joshua
+  - trad
+  - Tree
 ---
 I made the ever familiar drive out to Joshua Tree for the second weekend in a row. There was a promising weather window before a storm rolled in that I had to take advantage of. I met Alex and Chris out at intersection rock for what ended up being a non-stop day of trad climbing.
 

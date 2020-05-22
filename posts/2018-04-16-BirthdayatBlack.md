@@ -4,9 +4,26 @@ date: '2018-04-16T15:10:00-07:00'
 updated: '2018-04-16T17:13:28-07:00'
 thumbnail: 'IMG_3882%202.jpg'
 author: 'Eden and Itai Axelrad'
-id: '7194511671878203955'
-location: None
-tags: ['adamantium', 'Axelrad', 'bang on', 'Black Mountain', 'Bouldering', 'California', 'Climbing', 'der kapitan', 'Eden', 'Five Ten', 'glow worm', 'granite', 'Itai', 'v10', 'v12', 'v13']
+id: 7194511671878203955
+location: ''
+tags:
+  - post
+  - adamantium
+  - Axelrad
+  - bang on
+  - Black Mountain
+  - Bouldering
+  - California
+  - Climbing
+  - der kapitan
+  - Eden
+  - Five Ten
+  - glow worm
+  - granite
+  - Itai
+  - v10
+  - v12
+  - v13
 ---
 Itai and I decided to spend part of our birthday weekend up at Black Mountain. We drove up early on Friday and quickly got started!
 

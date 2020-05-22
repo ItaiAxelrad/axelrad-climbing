@@ -4,9 +4,18 @@ date: '2015-12-20T20:25:00-08:00'
 updated: '2015-12-20T20:25:00-08:00'
 thumbnail: 'IMG_3020.jpg'
 author: 'Eden and Itai Axelrad'
-id: '3306225579898198477'
-location: None
-tags: ['Axelrad', 'Bouldering', 'California', 'Five Ten', 'granite', 'highball', 'Joshua', 'Tree']
+id: 3306225579898198477
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - California
+  - Five Ten
+  - granite
+  - highball
+  - Joshua
+  - Tree
 ---
 
 Over the past few weeks, Eden and I have made some trips out towards the beautiful desert east of Los Angeles. Joshua Tree hosts some impressive granite peaks and boulders with equally impressive views. It's been great to get out there with friends and explore some of the classics. Here are some pictures from the last few trips:

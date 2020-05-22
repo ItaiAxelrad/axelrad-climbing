@@ -4,9 +4,13 @@ date: '2018-05-13T22:30:00-07:00'
 updated: '2018-05-13T22:30:38-07:00'
 thumbnail: 'IMG_4042.JPG'
 author: 'Eden and Itai Axelrad'
-id: '986954860785407227'
-location: None
-tags: ['Bouldering', 'Joshua', 'Tree']
+id: 986954860785407227
+location: ''
+tags:
+  - post
+  - Bouldering
+  - Joshua
+  - Tree
 ---
 
 Jovanna and I drove out to Joshua Tree for a nice weekend getaway and to celebrate her birthday. We spent Saturday climbing, and while it was hot, we had a great time exploring and climbing in the park. Here are a few photos from the day! 

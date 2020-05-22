@@ -4,9 +4,18 @@ date: '2013-01-21T09:39:00-08:00'
 updated: '2013-01-22T21:48:37-08:00'
 thumbnail: 'IMG_5888.jpg'
 author: 'Eden and Itai Axelrad'
-id: '7392476836606023872'
-location: None
-tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Itai', "Lizard's", 'Mouth', 'Santa Barbara']
+id: 7392476836606023872
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - California
+  - Climbing
+  - Itai
+  - Lizard's
+  - Mouth
+  - Santa Barbara
 ---
 
 What a beautiful weekend! Jason, Marina, Cody and I enjoyed the warm Santa Barbara hills and ocean view while scrambling around Lizard's Mouth this Sunday. None of us had been to the area before, but we managed to find a handful of boulders to keep us busy for the day. I sent a good amount of new climbs and got spit off the top-out of even more. We all rediscovered that Santa Barbara is notorious for its sloping and desperate top-outs. 

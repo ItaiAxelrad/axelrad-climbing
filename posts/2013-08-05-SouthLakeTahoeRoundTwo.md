@@ -4,9 +4,14 @@ date: '2013-08-05T14:10:00-07:00'
 updated: '2013-08-05T14:13:49-07:00'
 thumbnail: 'IMG_6139.JPG'
 author: 'Eden and Itai Axelrad'
-id: '1038161577249136554'
-location: None
-tags: ['Axelrad', 'Ground Control', 'south lake', 'Tahoe']
+id: 1038161577249136554
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Ground Control
+  - south lake
+  - Tahoe
 ---
 
 Last Tuesday Chris and I headed back up to Ground Control (V11) to give it a second session.

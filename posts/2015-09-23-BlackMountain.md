@@ -4,9 +4,20 @@ date: '2015-09-23T11:01:00-07:00'
 updated: '2015-09-23T13:52:24-07:00'
 thumbnail: 'IMG_2785.jpg'
 author: 'Eden and Itai Axelrad'
-id: '6819394891124172890'
-location: None
-tags: ['Axelrad', 'Black Mountain', 'blog', 'Bouldering', 'California', 'Five Ten', 'flash', 'granite', 'highball', 'Itai']
+id: 6819394891124172890
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Black Mountain
+  - blog
+  - Bouldering
+  - California
+  - Five Ten
+  - flash
+  - granite
+  - highball
+  - Itai
 ---
 Cody and I set out Friday night to meet up with Joe, Sara and Jason at Black Mountain. We battled heavy traffic the whole way but eventually made it, ready for a night of sleep. Unfortunately, due to recent rain, the dirt road up to the basin campgrounds was too much for our low clearance vehicles. After a short nap we tried our luck at a different campsite and called it a night.
 

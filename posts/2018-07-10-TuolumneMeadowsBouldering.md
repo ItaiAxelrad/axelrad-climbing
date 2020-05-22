@@ -4,9 +4,16 @@ date: '2018-07-10T08:36:00-07:00'
 updated: '2020-05-13T15:53:42-07:00'
 thumbnail: 'IMG_6349.jpg'
 author: 'Itai'
-id: '999029866075926321'
-location: None
-tags: ['Axelrad', 'Bouldering', 'meadows', 'one love', 'tuolumne', 'v12']
+id: 999029866075926321
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - meadows
+  - one love
+  - tuolumne
+  - v12
 ---
 While I had been to Tuolumne before, I had strangely never climbed there. I finally got the chance to make a quick and successful trip up to The Meadows this summer. Most of the weekend was spent relaxing by swim holes and avoiding mosquitos, though I did get serious and came away with a flash of Galaxy 5000 (V10), Out of Your League (V11), One Love (V12), and High Lonesome Rambler (V12).
 

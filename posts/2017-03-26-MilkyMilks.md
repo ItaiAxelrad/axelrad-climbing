@@ -4,9 +4,18 @@ date: '2017-03-26T15:11:00-07:00'
 updated: '2017-04-01T15:17:52-07:00'
 thumbnail: 'File_000%25284%2529.jpg'
 author: 'Eden and Itai Axelrad'
-id: '556122969207573177'
-location: None
-tags: ['Axelrad', 'bishop', 'buttermilks', 'California', 'flash', 'granite', 'highball', 'Itai']
+id: 556122969207573177
+location: ''
+tags:
+  - post
+  - Axelrad
+  - bishop
+  - buttermilks
+  - California
+  - flash
+  - granite
+  - highball
+  - Itai
 ---
 It shames me to even mention that it had been over a year since I last set my eyes on the beautiful Buttermilk country. Over a year since my fingers got tested by the large crystals of those perfect granite crimps. Cody and I set forth for Bishop early last Friday despite some questionable weather forecasts, and I'm very glad we did.
 Aside from being a little scared topping out Saigon and Roadside Highball in slight rain when we first arrived, it quickly blew past us and never returned.

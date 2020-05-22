@@ -4,9 +4,20 @@ date: '2013-03-05T11:32:00-08:00'
 updated: '2013-03-05T16:32:51-08:00'
 thumbnail: 'IMG_6432.JPG'
 author: 'Eden and Itai Axelrad'
-id: '1753147586390830921'
-location: None
-tags: ['Axelrad', 'Bouldering', 'California', 'CCS', 'Climbing', 'Collegiate', 'Competition', 'Eden', 'Itai', 'Slo Op']
+id: 1753147586390830921
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - California
+  - CCS
+  - Climbing
+  - Collegiate
+  - Competition
+  - Eden
+  - Itai
+  - Slo Op
 ---
 
 The annual Citizen's / CCS (Collegiate Climbing Series) Slo Op competition was held this past Saturday. Collegiate teams showed up from all over California, so Eden got a ride down with the UC Davis team. He didn’t compete, but he did shoot some photos. I opted out of setting this year so I could compete on the 90 new amazing routes that were put up.

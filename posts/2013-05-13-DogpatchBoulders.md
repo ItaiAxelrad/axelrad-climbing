@@ -4,9 +4,16 @@ date: '2013-05-13T10:43:00-07:00'
 updated: '2013-05-22T11:02:49-07:00'
 thumbnail: 'aaaM.jpg'
 author: 'Eden and Itai Axelrad'
-id: '3556564995911773616'
-location: None
-tags: ['Axelrad', 'boulders', 'Climbing', 'Dogpatch', 'touchstone', 'walltopia']
+id: 3556564995911773616
+location: ''
+tags:
+  - post
+  - Axelrad
+  - boulders
+  - Climbing
+  - Dogpatch
+  - touchstone
+  - walltopia
 ---
 
 On Friday, Alex and I headed into San Francisco to check out the relatively new touchstone gym called Dogpatch Boulders. We met up with Marina, who also happened to be in the city. Dogpatch hosted a comp about a week before, so we all got to jump on the comp routes.

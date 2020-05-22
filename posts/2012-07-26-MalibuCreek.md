@@ -4,9 +4,16 @@ date: '2012-07-26T19:16:00-07:00'
 updated: '2013-01-22T21:51:13-08:00'
 thumbnail: 'IMG_4138.JPG'
 author: 'Eden and Itai Axelrad'
-id: '3613573202698829466'
-location: None
-tags: ['Axelrad', 'California', 'Climbing', 'Eden', 'Itai', 'Malibu']
+id: 3613573202698829466
+location: ''
+tags:
+  - post
+  - Axelrad
+  - California
+  - Climbing
+  - Eden
+  - Itai
+  - Malibu
 ---
 
 ![image alt](/images/IMG_4138.JPG)Itai entering the crux of Brenna

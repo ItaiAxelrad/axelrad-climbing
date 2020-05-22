@@ -4,9 +4,16 @@ date: '2012-08-20T10:44:00-07:00'
 updated: '2013-01-22T21:50:17-08:00'
 thumbnail: 'IMG_4528.JPG'
 author: 'Eden and Itai Axelrad'
-id: '7602402492623889883'
-location: None
-tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Itai', 'Malibu']
+id: 7602402492623889883
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - California
+  - Climbing
+  - Itai
+  - Malibu
 ---
 
 Climbing in 90 percent humidity, 90 degree weather is less than ideal. Isaac, Miguel, Mariana, Eden and I discovered this yesterday while trying some of Malibu Creeks's finest climbs. We still enjoyed the day despite the heat. Here are some photos:

@@ -4,9 +4,19 @@ date: '2019-08-23T16:53:00-07:00'
 updated: '2019-09-24T10:55:24-07:00'
 thumbnail: 'IMG_5906.jpg'
 author: 'Eden and Itai Axelrad'
-id: '3523204279705276569'
-location: None
-tags: ['8a', 'america', 'Axelrad', 'Bouldering', 'Climbing', 'lofoten', 'monster', 'norway', 'v11']
+id: 3523204279705276569
+location: ''
+tags:
+  - post
+  - 8a
+  - america
+  - Axelrad
+  - Bouldering
+  - Climbing
+  - lofoten
+  - monster
+  - norway
+  - v11
 ---
 Jovanna and I took a 3 week vacation to celebrate finishing graduate school and the California bar exam. Our last stop of the trip was in Norway, where we explored Lofoten - an archipelago in the arctic circle. Originally, this was planned as a hiking trip, as we had no idea there was any climbing in the area. However, I eventually realized that there was in fact a lot of (incredible) climbing on the islands! Here are a few pictures of the beautiful climbs we got to sample...
 

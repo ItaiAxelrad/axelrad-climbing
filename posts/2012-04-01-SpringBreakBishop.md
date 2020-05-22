@@ -4,9 +4,15 @@ date: '2012-04-01T16:47:00-07:00'
 updated: '2020-05-14T14:10:21-07:00'
 thumbnail: '559596_2934016557765_1090340333_n.jpg'
 author: 'Eden and Itai Axelrad'
-id: '5851488996713781117'
-location: None
-tags: ['Axelrad', 'Bouldering', 'buttermilks', 'California', 'Eden']
+id: 5851488996713781117
+location: ''
+tags:
+  - post
+  - Axelrad
+  - Bouldering
+  - buttermilks
+  - California
+  - Eden
 ---
 The Sunday after finals I headed for Bishop with fellow Davis climbers Alex and Fed. Due to the rest of the group's varying schedules our plan was to meet up with them slightly later in the week. After a ~~12 hour~~ quick detour through the Sierras we found ourselves in a rainy Bishop. We set up our tents and hoped that tomorrow would bring sun and dry rock.
 
