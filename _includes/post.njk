@@ -15,10 +15,16 @@ layout: base.njk
   >
     <use xlink:href="/images/defs.svg#marker"></use>
   </svg>
-  <address>{{ location }}</address> 
-  {% else %} {% endif %}
+  <address>{{ location }}</address>
   <br>
+  {% else %} {% endif %}
   <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address>{{ author }}<address>
 </header>
 {{ content | safe}}
 </article>
+<nav>
+{%- set nextPost = collections.post | getNextCollectionItem(page) -%}
+{%- if nextPost %}Next Post:&nbsp;<a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>{%- endif %}
+{%- set previousPost = collections.post | getPreviousCollectionItem(page) -%}
+{%- if previousPost %}Previous Post:&nbsp;<a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>{%- endif %}
+</nav>

@@ -5,7 +5,7 @@ tags: pages
 ---
 
 <h1>{{ title }}</h1>
-<p>Get in touch!</p>
+<p>Got a question or comment? Get in touch!</p>
 <form name="contact" method="POST" data-netlify="true">
   <label for="email">Email</label>
   <input
@@ -23,3 +23,20 @@ tags: pages
   ></textarea>
   <input type="submit" />
 </form>
+
+<section class="comments">
+<h2>Comments</h2>
+{%- for comment in comments.comments | reverse %}
+<div class="comment">
+  <h3>{{ comment.subject }}</h3> 
+  {{ comment.author }} commented on  <time datetime="{{ comment.date }}">{{ comment.date }}</time>
+  <blockquote>{{ comment.body }}</blockquote>
+</div>
+{%- if comment.replies. author %}
+  <div class="comment reply">
+    {{ comment.replies.author }} replied on <time datetime="{{ comment.replies.date }}">{{ comment.replies.date }}</time>
+    <blockquote>{{ comment.replies.body }}</blockquote>
+  </div>
+{%- endif %}
+{%- endfor %}
+</section>
