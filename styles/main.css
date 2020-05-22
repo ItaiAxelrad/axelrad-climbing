@@ -172,3 +172,22 @@ textarea:focus {
 textarea {
   resize: vertical;
 }
+
+@media screen and (max-width: 700px) {
+  body {
+    margin: 1rem;
+  }
+  nav {
+    font-size: 75%;
+  }
+  .logo {
+    transform: none;
+    height: 1rem;
+  }
+  .posts {
+    display: block;
+  }
+  .post {
+    margin-block-end: 1rem;
+  }
+}
