@@ -3,16 +3,16 @@ title: Blog Posts
 layout: base.njk
 pagination:
   data: collections.post
-  reverse: true
   size: 4
+  reverse: true
   alias: posts
 ---
 
 <div class="posts">
-{%- for post in posts %}
-<div class="post">
+{% for post in posts %}
+<div class="post{% if loop.index == 1 %} new{% endif %}">
   <img
-    src="/images/{{ post.data.thumbnail }}"
+    src="{{ post.url }}/uploads/{{ post.data.thumbnail }}"
     alt="{{ post.data.title }}"
     class="feature"
     loading="lazy"
@@ -24,15 +24,32 @@ pagination:
   <time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate}}</time>
   </div>
 </div>
-{%- endfor %}
+{% endfor %}
 </div>
 
 <nav>
   {% if pagination.href.previous %}
-  <a href="{{ pagination.href.previous }}">Previous</a>
+  <a href="{{ pagination.href.previous }}">
+  <svg
+    viewBox="0 0 24 24"
+    class="icon"
+    role="img"
+    aria-hidden="true"
+    focusable="false"
+  >
+    <use xlink:href="/images/defs.svg#chevron_left"></use>
+  </svg>Previous</a>
   {% else %} 
   <a href="/"></a>
   {% endif %} {% if pagination.href.next %}
-  <a href="{{ pagination.href.next }}">Next</a>
+  <a href="{{ pagination.href.next }}">Next  <svg
+    viewBox="0 0 24 24"
+    class="icon"
+    role="img"
+    aria-hidden="true"
+    focusable="false"
+  >
+    <use xlink:href="/images/defs.svg#chevron_right"></use>
+  </svg></a>
   {% else %} {% endif %}
 </nav>

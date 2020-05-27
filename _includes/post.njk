@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+tags: post
 ---
 
 <article>
@@ -16,7 +17,7 @@ layout: base.njk
     <use xlink:href="/images/defs.svg#marker"></use>
   </svg>
   <address>{{ location }}</address>
-  <br>
+
   {% else %} {% endif %}
   <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address>{{ author }}<address>
 </header>

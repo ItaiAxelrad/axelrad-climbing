@@ -1,0 +1,44 @@
+---
+title: 'Red Rocks 2018! '
+date: '2018-02-21T16:38:00-08:00'
+updated: '2018-02-28T16:42:37-08:00'
+thumbnail: 'IMG_4088.JPG'
+uploads: ['IMG_4088.JPG', 'IMG_4090.JPG', 'IMG_4125.JPG', 'IMG_4121.JPG', 'IMG_4134.JPG', '20Lemon.JPG', 'IMG_4160.JPG', 'IMG_4171.jpg', 'IMG_4127.JPG']
+author: 'Eden and Itai Axelrad'
+id: 1773389114748798125
+location: ''
+tags: ['Axelrad', 'Bouldering', 'Climbing', 'Eden', 'fiveten', 'Itai', 'meadowlark lemon', 'metolius', 'Nevada', 'power slave', 'Red Rocks', 'sandstone']
+---
+
+We rallied a big crew (Me, Itai, Jovanna, Cody and Wynne) out to Red Rocks for a long weekend of climbing. We spent the first day running around the Kraft Boulders and Gateway Canyon. It was sunny, and warmer than we expected - but we made the best of it! 
+
+![image alt](uploads/IMG_4088.JPG)*Itai on the classic Plumber's Crack*
+
+![image alt](uploads/IMG_4090.JPG)*Cody working on Slice N' Dice (V9)*
+
+![image alt](uploads/IMG_4125.JPG)*Itai sending Fear of a Black Hat (V9) at sunset*
+
+![image alt](uploads/IMG_4121.JPG)*Itai taking a lap on the right side of the cube*
+
+There was a high wind warning in the weather forecast for the second day, but it was only supposed to pick up around noon. Luckily, Itai was able to send Meadowlark Lemon Stand (V12/13) before it got too bad! This climb was one of my goals for the trip, so I knew I'd be back the next day for a final shot at getting it. 
+
+![image alt](uploads/IMG_4134.JPG)*Itai sending Meadowlark Lemon Stand (V12/13)*
+
+A cold front was supposed to roll in on Monday,
+and it was much much colder than the previous two days. Also, the wind wasn't quite as strong. We were thankful! Itai and I ran out to Meadowlark Lemon Stand (V12/13) so I could try and finish it up. I rehearsed the top moves a few times and started working it from the bottom. It took some fighting, but I was finally able to get it done!
+
+After that, we decided to stop at Power Slave (V12) on our way back out to Kraft. It fit our strength and style perfectly and we both managed to make quick work of it.
+
+We spent the rest of the afternoon in Kraft jumping and working on classic lines!
+
+![image alt](uploads/Meadowlark%20Lemon.JPG)*Meadowlark Lemon Stand (V12/13)*
+
+![image alt](uploads/IMG_4160.JPG)*Itai sending Power Slave (V12)*
+
+![image alt](uploads/IMG_4171.jpg)*Jovanna working The Pearl (V5)*
+
+![image alt](uploads/IMG_4127.JPG)
+
+See you out there!
+
+\- Eden

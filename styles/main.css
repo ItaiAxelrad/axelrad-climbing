@@ -1,7 +1,8 @@
 :root {
   --ff: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial,
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-  --color: hsl(45, 90%, 50%);
+  --color: hsl(45, 90%, 52%);
+  --comp: hsl(225, 40%, 98%);
   --light: hsl(0, 0%, 98%);
   --gray: hsl(0, 0%, 33%);
   --dark: hsl(0, 0%, 12%);
@@ -28,7 +29,7 @@
 body {
   max-width: var(--width);
   margin: 1rem auto;
-  background: var(--light);
+  background: var(--comp);
   font-family: var(--ff);
   color: var(--dark);
 }
@@ -50,6 +51,14 @@ img {
   border-radius: 5px 5px 0 0;
 }
 
+img + em {
+  display: block;
+  padding: 0.5rem;
+  text-align: center;
+  font-style: normal;
+  color: var(--gray);
+}
+
 nav {
   display: flex;
   justify-content: flex-end;
@@ -67,7 +76,6 @@ nav a:first-of-type {
 
 a {
   text-decoration: none;
-  padding-inline-end: 0.25rem;
   color: currentColor;
 }
 
@@ -87,7 +95,7 @@ header {
 
 address,
 time {
-  display: inline-block;
+  display: inline;
   font-style: normal;
   color: var(--gray);
 }
@@ -125,6 +133,10 @@ li time::before {
   content: '- ';
 }
 
+article a[href] {
+  text-decoration: underline var(--color);
+}
+
 .posts {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -140,6 +152,16 @@ li time::before {
 .post-title {
   padding: 0.5rem 0.5rem 1rem 1rem;
 }
+
+/* .post.new::before {
+  content: 'New Post!';
+  position: absolute;
+  margin: 0.5rem;
+  background: var(--gray);
+  padding: 0.25rem;
+  border-radius: 3px;
+  color: var(--color);
+} */
 
 .comment {
   margin: 1rem auto;
@@ -199,14 +221,14 @@ textarea {
   margin: 0.5rem 0 1rem 0;
   padding: 0.5rem;
   color: currentColor;
-  background: var(--clr-light);
   border: 1px solid var(--gray);
   border-radius: 5px;
 }
 
 input:focus,
 textarea:focus {
-  border-color: var(--dark);
+  outline: none;
+  border-color: var(--color);
 }
 
 textarea {
