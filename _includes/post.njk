@@ -6,19 +6,6 @@ tags: post
 <article>
 <header>
   <h1>{{ title }}</h1>
-  {% if location %}
-  <svg
-    viewBox="0 0 384 512"
-    class="icon"
-    role="img"
-    aria-hidden="true"
-    focusable="false"
-  >
-    <use xlink:href="/images/defs.svg#marker"></use>
-  </svg>
-  <address>{{ location }}</address>
-
-  {% else %} {% endif %}
   <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address>{{ author }}<address>
 </header>
 {{ content | safe}}
