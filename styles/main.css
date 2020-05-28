@@ -11,12 +11,10 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --light: hsl(0, 0%, 12%);
+    --light: hsl(0, 0%, 10%);
     --gray: hsl(0, 0%, 67%);
     --dark: hsl(0, 0%, 98%);
-  }
-  .post {
-    border: 1px solid var(--color);
+    --comp: hsl(0, 0%, 12%);
   }
 }
 
@@ -220,7 +218,6 @@ textarea {
   width: 100%;
   margin: 0.5rem 0 1rem 0;
   padding: 0.5rem;
-  color: currentColor;
   border: 1px solid var(--gray);
   border-radius: 5px;
 }
