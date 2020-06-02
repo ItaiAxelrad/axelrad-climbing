@@ -98,21 +98,6 @@ time {
   color: var(--gray);
 }
 
-code {
-  background: var(--dark);
-  color: var(--light);
-  border-radius: 3px;
-  padding: 0.15rem;
-}
-
-hr {
-  background: var(--color);
-  border: none;
-  height: 1px;
-  margin-block-start: 0.5rem;
-  margin-block-end: 1rem;
-}
-
 p {
   margin-block-end: 1rem;
 }
@@ -151,7 +136,7 @@ article a[href] {
   padding: 0.5rem 0.5rem 1rem 1rem;
 }
 
-/* .post.new::before {
+.post.new::before {
   content: 'New Post!';
   position: absolute;
   margin: 0.5rem;
@@ -159,7 +144,7 @@ article a[href] {
   padding: 0.25rem;
   border-radius: 3px;
   color: var(--color);
-} */
+}
 
 .comment {
   margin: 1rem auto;
@@ -198,6 +183,14 @@ article a[href] {
   border: none;
   background: none;
   color: currentColor;
+}
+
+article > section {
+  margin: 1rem auto;
+  padding: 1rem;
+  background: var(--light);
+  box-shadow: 0px 0px 25px hsla(0 0% 20% / 0.1);
+  border-radius: 5px;
 }
 
 blockquote {

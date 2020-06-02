@@ -10,6 +10,7 @@ pagination:
 
 <div class="posts">
 {% for post in posts %}
+
 <div class="post{% if loop.index == 1 %} new{% endif %}">
   <img
     src="{{ post.url }}uploads/{{ post.data.thumbnail }}"
@@ -39,9 +40,8 @@ pagination:
   >
     <use xlink:href="/images/defs.svg#chevron_left"></use>
   </svg>Previous</a>
-  {% else %} 
-  <a href="/"></a>
-  {% endif %} {% if pagination.href.next %}
+  {% else %} {% endif %} 
+  {% if pagination.href.next %}
   <a href="{{ pagination.href.next }}">Next  <svg
     viewBox="0 0 24 24"
     class="icon"
