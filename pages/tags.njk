@@ -1,0 +1,23 @@
+---
+title: Tags
+layout: page.njk
+tags: pages
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter: [ all, post, posts, pages, tagList, Axelrad, Climbing, Bouldering ]
+  addAllPagesToCollections: true
+permalink: /tags/{{ tag }}/
+---
+
+<ol>
+{% set taglist = collections[ tag ] %}
+{% for post in taglist | reverse %}
+<li>
+<strong><a href="{{ post.url | url }}">{{ post.data.title }}</a></strong> &bull;
+<time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate}}</time> &bull;
+<address>{{ post.data.author }}</address>
+</li>
+{% endfor %}
+</ol>

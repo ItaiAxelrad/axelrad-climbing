@@ -13,7 +13,7 @@
       name="keywords"
       content="Itai, Eden, Axelrad, Climbing, Bouldering, California, Colorado, blog, post, twins"
     />
-    <meta name="theme-color" content="#66aacc" />
+    <meta name="theme-color" content="#ffffff" />
     <!-- iOS PWA -->
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
@@ -22,21 +22,44 @@
     <link href="images/icon.png" rel="apple-touch-icon" />
     <link href="images/icon.png" rel="icon" type="image/png" />
     <link href="/styles/main.css" rel="stylesheet" type="text/css" />
+    <link
+      href="/manifest.json"
+      rel="manifest"
+      type="application/json"
+      crossorigin="use-credentials"
+    />
+    <script>
+    // register a service worker
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker
+          .register('/sw.js') // register a service worker
+          .then(reg => console.log('Service Worker: Registered')) // Registration was successful
+          .catch(err => console.log(`Service Worker: ${err}`)); // Registration error
+      });
+    };
+    </script>
   </head>
   <body>
+
     <nav class="menu">
-        <svg 
-          class="logo"
-          viewBox="0 0 24 24"
-          aria-hidden="true"
-          focusable="false"
-        >
-          <use xlink:href="/images/defs.svg#logo"></use>
-        </svg>
-      <a href="/" class="home">{{ metadata.title }}</a>
-      <a href='/pages/about'>About</a>
-      <a href='/pages/archive'>Archive</a>
-      <a href='/pages/contact'>Contact</a>
+      <div class="home">
+          <svg 
+            class="logo"
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use xlink:href="/images/defs.svg#logo"></use>
+          </svg>
+        <strong><a href="/">{{ metadata.title }}</a></strong>
+      </div>
+      <div class="pages">
+        {%- for page in collections.pages %}
+        <a href="{{ page.url | url }}">{{ page.data.title }}</a>
+        {%- endfor %}
+      </div>
+
     </nav>
     <main>
       {{ content | safe }}

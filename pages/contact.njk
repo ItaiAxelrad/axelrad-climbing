@@ -2,6 +2,7 @@
 title: Contact
 layout: base.njk
 tags: pages
+permalink: /contact/
 ---
 
 <h1>{{ title }}</h1>
@@ -36,13 +37,13 @@ tags: pages
 <section class="comments">
 <h2>Comments</h2>
 {%- for comment in comments.comments | reverse %}
-<div class="comment">
+<div class="card">
   <h3>{{ comment.subject }}</h3> 
   {{ comment.author }} commented on  <time datetime="{{ comment.date }}">{{ comment.date }}</time>
   <blockquote>{{ comment.body }}</blockquote>
 </div>
 {%- if comment.replies. author %}
-  <div class="comment reply">
+  <div class="card reply">
     {{ comment.replies.author }} replied on <time datetime="{{ comment.replies.date }}">{{ comment.replies.date }}</time>
     <blockquote>{{ comment.replies.body }}</blockquote>
   </div>

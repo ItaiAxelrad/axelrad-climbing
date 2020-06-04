@@ -2,11 +2,12 @@
   --ff: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial,
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
   --color: hsl(45, 90%, 52%);
-  --comp: hsl(225, 40%, 98%);
+  --comp: hsl(225, 10%, 96%);
   --light: hsl(0, 0%, 98%);
   --gray: hsl(0, 0%, 33%);
   --dark: hsl(0, 0%, 12%);
   --width: 700px;
+  --radius: 3px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -39,52 +40,49 @@ main {
 img {
   display: block;
   margin: 0 auto;
-  max-width: 100%;
+  margin-block-end: 0.5rem;
+  width: 100%;
+  border-radius: var(--radius);
 }
 
 .feature {
   object-fit: cover;
   height: 200px;
-  width: 100%;
-  border-radius: 5px 5px 0 0;
 }
 
 img + em {
   display: block;
-  padding: 0.5rem;
   text-align: center;
   font-style: normal;
   color: var(--gray);
 }
 
 nav {
-  display: flex;
-  justify-content: flex-end;
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: auto auto;
   padding: 1rem 0;
 }
 
-.menu a {
+nav a {
   line-height: 24px;
-  padding-left: 0.5rem;
-}
-
-nav a:first-of-type {
-  margin-right: auto;
-}
-
-a {
+  vertical-align: top;
   text-decoration: none;
   color: currentColor;
 }
 
-a:hover {
+nav a:hover {
   text-decoration: underline var(--color);
+}
+
+.pages a {
+  padding-inline-start: 1rem;
 }
 
 h1,
 h2,
 h3 {
-  margin-block-end: 0.25rem;
+  margin-block-end: 0.5rem;
 }
 
 header {
@@ -102,22 +100,28 @@ p {
   margin-block-end: 1rem;
 }
 
+li {
+  padding-block-end: 1rem;
+  line-height: 1.6;
+}
+
 footer {
   padding: 1rem;
   text-align: center;
 }
 
-li {
-  list-style-position: inside;
-  padding: 0.15rem 0;
+main a[href]:hover {
+  color: var(--color);
 }
 
-li time::before {
-  content: '- ';
-}
-
-article a[href] {
+a {
+  color: currentColor;
   text-decoration: underline var(--color);
+}
+
+a[rel='noreferrer']:after {
+  content: '↗';
+  font-size: small;
 }
 
 .posts {
@@ -127,53 +131,54 @@ article a[href] {
 }
 
 .post {
+  padding: 0.75rem;
   background: var(--light);
   box-shadow: 0px 0px 25px hsla(0 0% 20% / 0.1);
-  border-radius: 5px;
+  border-radius: var(--radius);
 }
 
-.post-title {
-  padding: 0.5rem 0.5rem 1rem 1rem;
-}
-
-.post.new::before {
+.new .post-title::after {
   content: 'New Post!';
-  position: absolute;
-  margin: 0.5rem;
-  background: var(--gray);
   padding: 0.25rem;
   border-radius: 3px;
+  background: var(--comp);
   color: var(--color);
+  font-size: small;
 }
 
-.comment {
+.card {
   margin: 1rem auto;
   padding: 1rem;
   background: var(--light);
-  box-shadow: 0px 0px 25px hsla(0 0% 20% / 0.1);
-  border-radius: 5px;
+  box-shadow: 0px 4px 16px hsla(0 0% 20% / 0.1);
+  border-radius: var(--radius);
 }
 
 .reply {
   margin-inline-start: 2rem;
 }
 
-.home {
-  font-weight: bold;
+.tag {
+  padding: 0.25rem;
+  border-radius: 3px;
+  background: var(--light);
+  color: var(--gray);
+  font-size: small;
+  text-decoration: none;
 }
 
 /* svg logo / tint icon */
 .icon {
   fill: var(--color);
-  padding-inline-end: 0 0.5rem;
   display: inline-block;
-  transform: translateY(1px);
+  vertical-align: middle;
   height: 1rem;
 }
 
 .logo {
   fill: var(--color);
   display: inline-block;
+  vertical-align: middle;
   height: 1.5rem;
 }
 
@@ -185,12 +190,8 @@ article a[href] {
   color: currentColor;
 }
 
-article > section {
-  margin: 1rem auto;
-  padding: 1rem;
-  background: var(--light);
-  box-shadow: 0px 0px 25px hsla(0 0% 20% / 0.1);
-  border-radius: 5px;
+.hidden {
+  visibility: hidden;
 }
 
 blockquote {
@@ -204,6 +205,12 @@ form {
   margin: 0 auto;
   padding: 1rem;
   display: block;
+}
+
+input[type='submit'] {
+  color: currentColor;
+  background: var(--light);
+  cursor: pointer;
 }
 
 input,

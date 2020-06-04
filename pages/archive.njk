@@ -2,6 +2,7 @@
 title: Archive
 layout: base.njk
 tags: pages
+permalink: /archive/
 ---
 
 <h1>{{ title }}</h1>
@@ -9,8 +10,13 @@ tags: pages
 <ol reversed >
   {%- for post in collections.post | reverse -%}
     <li>
-      <a href="{{ post.url }}">{{ post.data.title }}</a>
-      <time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate}}</time>
+      <strong><a href="{{ post.url | url}}">{{ post.data.title }}</a></strong> &bull; 
+      <time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate}}</time> &bull; 
+      <address>{{ post.data.author }}</address>
+      <br>
+      {% for tag in post.data.tags %}
+      <a href="/tags/{{ tag }}" class="tag">{{ tag }}</a>
+      {% endfor %}
     </li>
   {%- endfor -%}
 </ol>
