@@ -18,4 +18,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
     return DateTime.fromISO(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
   });
+  eleventyConfig.addFilter('excludeTags', (tags) => {
+    const toRemove = [ 'all', 'post', 'posts', 'pages', 'tagList', 'Axelrad', 'Climbing', 'Bouldering' ]
+    return tags.filter( tag => !toRemove.includes( tag ));
+  });
 };

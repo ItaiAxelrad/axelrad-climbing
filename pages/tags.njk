@@ -8,7 +8,7 @@ pagination:
   alias: tag
   filter: [ all, post, posts, pages, tagList, Axelrad, Climbing, Bouldering ]
   addAllPagesToCollections: true
-permalink: /tags/{{ tag }}/
+permalink: /tags/{{ tag | replace("'", "") | slug | url }}/
 ---
 
 <ol>

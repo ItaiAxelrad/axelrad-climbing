@@ -14,8 +14,9 @@ permalink: /archive/
       <time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate}}</time> &bull; 
       <address>{{ post.data.author }}</address>
       <br>
-      {% for tag in post.data.tags %}
-      <a href="/tags/{{ tag }}" class="tag">{{ tag }}</a>
+      {% set tagList = post.data.tags | excludeTags %}
+      {% for tag in tagList %}
+      <a href="/tags/{{ tag | replace("'", "") | slug | url }}" class="tag">{{ tag }}</a>
       {% endfor %}
     </li>
   {%- endfor -%}
