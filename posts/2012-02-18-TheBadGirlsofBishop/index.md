@@ -4,7 +4,7 @@ date: '2012-02-18T11:45:00-08:00'
 updated: '2013-10-14T13:27:08-07:00'
 thumbnail: 'IMG_2861.JPG'
 uploads: ['IMG_2861.JPG', 'IMG_2915.jpg', 'IMG_2916.jpg', 'IMG_2843.JPG', 'IMG_2784.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 8994722291086465342
 location: ''
 tags: ['Axelrad', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'California']

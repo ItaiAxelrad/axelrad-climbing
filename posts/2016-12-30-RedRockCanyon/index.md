@@ -4,7 +4,7 @@ date: '2016-12-30T13:51:00-08:00'
 updated: '2016-12-30T13:52:47-08:00'
 thumbnail: 'IMG_3889.jpg'
 uploads: ['IMG_3889.jpg', 'IMG_3897.jpg', 'IMG_3898.jpg', 'IMG_3893.jpg', 'IMG_3902.jpg', 'IMG_3912.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 1812482651326744158
 location: ''
 tags: ['Axelrad', 'Bouldering', 'Five Ten', 'flash', 'highball', 'Itai', 'Las Vegas', 'Nevada', 'Red Rocks']

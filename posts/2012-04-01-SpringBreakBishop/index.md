@@ -4,7 +4,7 @@ date: '2012-04-01T16:47:00-07:00'
 updated: '2020-05-14T14:10:21-07:00'
 thumbnail: '559596_2934016557765_1090340333_n.jpg'
 uploads: ['559596_2934016557765_1090340333_n.jpg', '557753_2934035518239_1481580039_32171301_1676422052_n.jpg', '1.jpg', '2.jpg', '3.jpg', '4.jpg', 'IMG_0222.JPG']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 5851488996713781117
 location: ''
 tags: ['Axelrad', 'Bouldering', 'buttermilks', 'California', 'Eden']

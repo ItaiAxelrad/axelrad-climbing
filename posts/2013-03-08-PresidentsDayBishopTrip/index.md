@@ -4,7 +4,7 @@ date: '2013-03-08T10:38:00-08:00'
 updated: '2013-03-08T10:40:50-08:00'
 thumbnail: 'IMG_6255.JPG'
 uploads: ['IMG_6255.JPG', 'IMG_6327.JPG', 'IMG_6255.JPG', 'IMG_6347_2.JPG', 'IMG_6395.JPG', 'BishopFeb038_flat.jpg', 'BishopFeb045_flat.jpg', 'BishopFeb027_flat.jpg', 'BishopFeb007_flat.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 7201376457507176611
 location: ''
 tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'Climbing', 'Itai', 'The Swarm']

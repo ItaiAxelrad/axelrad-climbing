@@ -18,9 +18,9 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <meta name="apple-mobile-web-app-title" content="blog" />
-    <link href="images/icon.png" rel="apple-touch-startup-image" />
-    <link href="images/icon.png" rel="apple-touch-icon" />
-    <link href="images/icon.png" rel="icon" type="image/png" />
+    <link href="/images/icon.png" rel="apple-touch-startup-image" />
+    <link href="/images/icon.png" rel="apple-touch-icon" />
+    <link href="/images/icon.png" rel="icon" type="image/png" />
     <link href="/styles/main.css" rel="stylesheet" type="text/css" />
     <link
       href="/manifest.json"
@@ -56,7 +56,7 @@
       </div>
       <div class="pages">
         {%- for page in collections.pages %}
-        <a href="{{ page.url | url }}">{{ page.data.title }}</a>
+        <a href="{{ page.url | url }}" {% if page.url == page.data.url %} class="active" {% endif %}>{{ page.data.title }}</a> 
         {%- endfor %}
       </div>
 

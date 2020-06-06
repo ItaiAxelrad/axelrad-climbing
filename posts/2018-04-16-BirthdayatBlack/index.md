@@ -4,7 +4,7 @@ date: '2018-04-16T15:10:00-07:00'
 updated: '2018-04-16T17:13:28-07:00'
 thumbnail: '202.jpg'
 uploads: ['202.jpg', '202.jpg', 'IMG_3902.jpg', 'IMG_3908.jpg', '20PM.jpg', 'IMG_4597.JPG']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 7194511671878203955
 location: ''
 tags: ['adamantium', 'Axelrad', 'bang on', 'Black Mountain', 'Bouldering', 'California', 'Climbing', 'der kapitan', 'Eden', 'Five Ten', 'glow worm', 'granite', 'Itai', 'v10', 'v12', 'v13']

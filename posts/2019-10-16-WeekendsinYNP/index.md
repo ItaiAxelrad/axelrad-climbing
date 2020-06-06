@@ -4,7 +4,7 @@ date: '2019-10-16T11:36:00-07:00'
 updated: '2019-10-16T11:36:29-07:00'
 thumbnail: 'IMG_9935.jpg'
 uploads: ['IMG_9935.jpg', 'IMG_6419.jpg', 'IMG_9914.JPG', 'IMG_6441.jpg', 'IMG_9983.jpg', 'IMG_6686.jpg', 'IMG_6718.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 3046514497989467770
 location: 'Yosemite National Park, California, USA'
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'g23 arete', 'granite', 'tuolumne', 'yosemite']

@@ -4,7 +4,7 @@ date: '2017-09-24T19:59:00-07:00'
 updated: '2017-09-28T08:15:40-07:00'
 thumbnail: 'IMG_4970.JPG'
 uploads: ['IMG_4970.JPG', 'IMG_4982.JPG', 'IMG_4982.JPG', 'IMG_4982.JPG', '2011.jpg', 'IMG_5001.JPG', 'IMG_4999.JPG', 'IMG_4999.JPG', 'IMG_4999.JPG']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 1700869977427004587
 location: ''
 tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'The Swarm']

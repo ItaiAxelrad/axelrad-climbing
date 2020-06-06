@@ -4,7 +4,7 @@ date: '2019-10-27T18:46:00-07:00'
 updated: '2019-10-29T19:22:07-07:00'
 thumbnail: 'IMG_0077.jpg'
 uploads: ['IMG_0077.jpg', 'IMG_0067.jpg', 'IMG_0111.jpg', 'IMG_0100.jpg', 'IMG_0072.jpg', 'IMG_0089.jpg', 'IMG_0104.JPG', 'IMG_0106.JPG', 'IMG_0107.JPG', 'IMG_0098.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 8561630215291612274
 location: 'Yosemite National Park, California, USA'
 tags: ['Axelrad', 'boulder', 'Bouldering', 'Climbing', 'granite', 'the seam', 'Valley', 'yosemite']

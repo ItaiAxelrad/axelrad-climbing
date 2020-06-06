@@ -4,7 +4,7 @@ date: '2015-12-28T21:11:00-08:00'
 updated: '2016-01-12T18:04:46-08:00'
 thumbnail: 'IMG_7578.JPG'
 uploads: ['IMG_7578.JPG', 'IMG_3333.jpg', 'IMG_3323.jpg', 'IMG_3345.jpg', 'IMG_3348.jpg', 'IMG_3354.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 3543772926963033921
 location: ''
 tags: ['Axelrad', 'blog', 'Bouldering', 'boulders', 'Canyon', 'Climbing', 'cold', 'Five Ten', 'Red', 'Red Rocks', 'road trip', 'sandstone', 'velvet']

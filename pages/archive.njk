@@ -1,23 +1,12 @@
 ---
 title: Archive
-layout: base.njk
+layout: page.njk
 tags: pages
-permalink: /archive/
+permalink: /posts/
 ---
-
-<h1>{{ title }}</h1>
 
 <ol reversed >
   {%- for post in collections.post | reverse -%}
-    <li>
-      <strong><a href="{{ post.url | url}}">{{ post.data.title }}</a></strong> &bull; 
-      <time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate}}</time> &bull; 
-      <address>{{ post.data.author }}</address>
-      <br>
-      {% set tagList = post.data.tags | excludeTags %}
-      {% for tag in tagList %}
-      <a href="/tags/{{ tag | replace("'", "") | slug | url }}" class="tag">{{ tag }}</a>
-      {% endfor %}
-    </li>
+    {% include 'listItem.njk' %}
   {%- endfor -%}
 </ol>

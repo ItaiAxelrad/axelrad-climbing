@@ -4,7 +4,7 @@ date: '2017-03-26T21:01:00-07:00'
 updated: '2017-04-04T21:14:23-07:00'
 thumbnail: 'FullSizeRender.jpg'
 uploads: ['FullSizeRender.jpg', 'IMG_1595.JPG', '20hands.jpg', 'IMG_1627.JPG', 'IMG_1633.JPG', 'IMG_1646.JPG', 'IMG_1652.JPG', 'IMG_1655.JPG', 'IMG_1659.JPG']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 1388554954357933477
 location: ''
 tags: ['Axelrad', 'Climbing', 'direct', 'Five', 'Five Ten', 'israil', 'moes valley', 'sandstone', 'show of hands', 'Ten', 'utah']

@@ -4,6 +4,7 @@
   --color: hsl(45, 90%, 52%);
   --comp: hsl(225, 10%, 96%);
   --light: hsl(0, 0%, 98%);
+  --lightgray: hsl(0, 0%, 88%);
   --gray: hsl(0, 0%, 33%);
   --dark: hsl(0, 0%, 12%);
   --width: 700px;
@@ -66,7 +67,6 @@ nav {
 
 nav a {
   line-height: 24px;
-  vertical-align: top;
   text-decoration: none;
   color: currentColor;
 }
@@ -79,25 +79,41 @@ nav a:hover {
   padding-inline-start: 1rem;
 }
 
-h1,
-h2,
-h3 {
+h1 {
+  margin-block-end: 1rem;
+}
+
+h2 {
   margin-block-end: 0.5rem;
 }
 
+article h1,
+h3 {
+  margin-block-end: 0.25rem;
+}
+
 header {
-  margin-block-end: 1rem;
+  margin-block-end: 0.75rem;
+}
+
+article header::after {
+  content: '―';
+  display: block;
+  padding-block-start: 0.25rem;
 }
 
 address,
 time {
   display: inline;
   font-style: normal;
-  color: var(--gray);
 }
 
 p {
   margin-block-end: 1rem;
+}
+
+small {
+  color: var(--gray);
 }
 
 li {
@@ -119,8 +135,11 @@ a {
   text-decoration: underline var(--color);
 }
 
+a[href^="http://"]:after,
+a[href^="https://"]:after,
 a[rel='noreferrer']:after {
   content: '↗';
+  color: var(--gray);
   font-size: small;
 }
 
@@ -146,6 +165,11 @@ a[rel='noreferrer']:after {
   font-size: small;
 }
 
+.postNav {
+  border-block-start: 1px solid var(--lightgray);
+  margin-block-start: 2rem;
+}
+
 .card {
   margin: 1rem auto;
   padding: 1rem;
@@ -162,7 +186,6 @@ a[rel='noreferrer']:after {
   padding: 0.25rem;
   border-radius: 3px;
   background: var(--light);
-  color: var(--gray);
   font-size: small;
   text-decoration: none;
 }
@@ -178,7 +201,7 @@ a[rel='noreferrer']:after {
 .logo {
   fill: var(--color);
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: top;
   height: 1.5rem;
 }
 
@@ -238,6 +261,9 @@ textarea {
   }
   nav {
     font-size: 80%;
+  }
+  li {
+    list-style-position: inside;
   }
   .posts {
     display: block;

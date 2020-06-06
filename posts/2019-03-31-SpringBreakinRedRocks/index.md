@@ -4,7 +4,7 @@ date: '2019-03-31T17:15:00-07:00'
 updated: '2019-04-05T18:25:30-07:00'
 thumbnail: '04BF174E-24DA-4FC3-B104-D330C86CB63A.jpg'
 uploads: ['04BF174E-24DA-4FC3-B104-D330C86CB63A.jpg', 'IMG_8050.jpg', 'IMG_8076.jpg', 'IMG_4192.jpg', 'IMG_4195.jpg', 'IMG_8083.jpg', 'IMG_8099.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 4162868336278429043
 location: ''
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'Red Rocks', 'the pearl', 'woods problem']

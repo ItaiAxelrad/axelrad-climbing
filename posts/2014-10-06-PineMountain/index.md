@@ -4,7 +4,7 @@ date: '2014-10-06T12:03:00-07:00'
 updated: '2014-10-06T12:09:03-07:00'
 thumbnail: 'IMG_4456.JPG'
 uploads: ['IMG_4456.JPG', 'IMG_4387.JPG', 'IMG_4404.JPG', 'IMG_4424.jpg', 'IMG_4429.jpg', 'IMG_4459.JPG', 'IMG_4460.JPG']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 3817849856789710117
 location: ''
 tags: ['911', 'Axelrad', 'blog', 'Bouldering', 'Climbing', 'Eden', 'Five Ten', 'Itai', 'Mountain', 'Pine', 'sandstone', 'whiplash']

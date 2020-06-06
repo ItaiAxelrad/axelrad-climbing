@@ -4,7 +4,7 @@ date: '2016-01-19T19:55:00-08:00'
 updated: '2016-01-20T16:34:44-08:00'
 thumbnail: 'IMG_3436.jpg'
 uploads: ['IMG_3436.jpg', 'IMG_3439.jpg', 'IMG_3439.jpg', 'IMG_3429-2.jpg', 'IMG_3463.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 5187042405130522440
 location: ''
 tags: ['Axelrad', 'Bouldering', 'California', 'highball', "Potter's Point", 'sandstone', 'Santa Barbara']

@@ -4,7 +4,7 @@ date: '2019-12-16T14:28:00-08:00'
 updated: '2020-05-06T09:29:53-07:00'
 thumbnail: 'IMG_4169.jpg'
 uploads: ['IMG_4169.jpg', 'IMG_2345.jpg', 'IMG_0409.jpg', 'IMG_0448.jpg', 'IMG_0412.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 4435397574616793804
 location: 'Bishop, CA 93514, USA'
 tags: ['a maze of death', 'Axelrad', 'bishop', 'boulder', 'Bouldering', 'buttermilks', 'Climbing']

@@ -4,7 +4,7 @@ date: '2017-01-28T12:00:00-08:00'
 updated: '2017-02-11T12:03:13-08:00'
 thumbnail: '16463769_10154951230009547_8303650977913390281_o.jpg'
 uploads: ['16463769_10154951230009547_8303650977913390281_o.jpg', 'IMG_3997.JPG', 'IMG_4001.JPG', 'IMG_4015.JPG', '16252072_10154945993234547_331957342315451315_o.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 6824819391289044924
 location: ''
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'granite', 'highball', 'Itai', 'Joshua', 'trad', 'traditional', 'Tree']

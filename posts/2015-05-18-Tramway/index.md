@@ -4,7 +4,7 @@ date: '2015-05-18T18:39:00-07:00'
 updated: '2015-05-18T18:39:09-07:00'
 thumbnail: 'IMG_2256.jpg'
 uploads: ['IMG_2256.jpg', 'IMG_2247.jpg', 'IMG_2257.jpg', 'IMG_2267.jpg', 'IMG_2296.jpg', 'IMG_2347.jpg', 'IMG_2361.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 5836944207169943167
 location: ''
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'emerald city', 'Five Ten', 'granite', 'highball', 'Itai', 'Rock', 'Tramway']

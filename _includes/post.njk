@@ -13,18 +13,21 @@ layout: base.njk
 
 </article>
 
-<nav>
-
-{%- set nextPost = collections.post | getNextCollectionItem(page) -%}
-{%- if nextPost %}
-Next Post:&nbsp;<a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
-{% else %} 
-{%- endif %}
-
-{%- set previousPost = collections.post | getPreviousCollectionItem(page) -%}
-{%- if previousPost %}
-Previous Post:&nbsp;<a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
-{% else %} 
-{%- endif %}
-
+<nav class="postNav">
+  <div class="next">
+    {%- set nextPost = collections.post | getNextCollectionItem(page) -%}
+    {%- if nextPost %}
+    <small>Next Post:</small><br>
+    <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
+    {% else %} 
+    {%- endif %}
+  </div>
+  <div class="previous">
+    {%- set previousPost = collections.post | getPreviousCollectionItem(page) -%}
+    {%- if previousPost %}
+    <small>Previous Post:</small><br>
+    <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
+    {% else %}
+    {%- endif %}
+  </div>
 </nav>

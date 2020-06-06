@@ -1,0 +1,21 @@
+<li>
+      <strong><a href="{{ post.url | url}}">{{ post.data.title }}</a></strong>
+      <br>
+      <small> 
+      <time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate}}</time> &bull; 
+      <address>{{ post.data.author }}</address> {% if post.data.location %} &bull; {{ post.data.location }} {% endif %} 
+      </small>
+      <br>
+      <svg 
+            class="icon"
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+            focusable="false"
+          >
+          <use xlink:href="/images/defs.svg#style"></use>
+      </svg>
+      {% set tagList = post.data.tags | excludeTags %}
+      {% for tag in tagList %}
+      <a href="/tags/{{ tag | replace("'", "") | slug | url }}" class="tag">{{ tag }}</a>
+      {% endfor %}
+    </li>

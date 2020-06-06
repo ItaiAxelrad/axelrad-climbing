@@ -4,7 +4,7 @@ date: '2018-08-31T19:26:00-07:00'
 updated: '2018-08-31T19:28:11-07:00'
 thumbnail: 'IMG_5609.jpg'
 uploads: ['IMG_5609.jpg', 'IMG_5598.jpg', 'IMG_5631.jpg', 'IMG_5658.jpg', 'IMG_5672.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 6815715697630975811
 location: ''
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Five Ten', 'paper dragon', 'Tramway', 'v10']

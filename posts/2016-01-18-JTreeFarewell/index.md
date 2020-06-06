@@ -4,7 +4,7 @@ date: '2016-01-18T19:24:00-08:00'
 updated: '2016-01-18T19:34:02-08:00'
 thumbnail: 'IMG_3409.jpg'
 uploads: ['IMG_3409.jpg', 'IMG_3378.jpg', 'IMG_3397.jpg', 'IMG_3405.jpg']
-author: 'Eden and Itai Axelrad'
+author: 'Eden'
 id: 3276006307431663160
 location: ''
 tags: ['Axelrad', 'Bouldering', 'California', 'cold', 'Five Ten', 'granite', 'highball', 'Isaac', 'Joshua', 'Palatt', 'Tree']
