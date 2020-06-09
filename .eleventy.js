@@ -1,7 +1,9 @@
 const { DateTime } = require('luxon');
 
 module.exports = function (eleventyConfig) {
+
   eleventyConfig.setDataDeepMerge(true);
+  // add passthrough files
   eleventyConfig.addPassthroughCopy('images');
   eleventyConfig.addPassthroughCopy('posts/*/uploads/*');
   eleventyConfig.addPassthroughCopy('styles');
@@ -18,8 +20,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
     return DateTime.fromISO(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
   });
+  // remove tags
   eleventyConfig.addFilter('excludeTags', (tags) => {
-    const toRemove = [ 'all', 'post', 'posts', 'pages', 'tagList', 'Eden', 'Itai', 'Axelrad', 'Climbing', 'Bouldering' ]
+    const toRemove = [ 'all', 'post', 'posts', 'pages', 'blog', 'tagList', 'Eden', 'Itai', 'Axelrad', 'Climbing', 'Bouldering', 'Five', 'Ten' ]
     return tags.filter( tag => !toRemove.includes( tag ));
+  });
+  // Get only content that matches a tag
+  eleventyConfig.addCollection("pagedPosts", collectionApi => {
+    return collectionApi.getFilteredByTag("post").reverse().slice(4);
   });
 };

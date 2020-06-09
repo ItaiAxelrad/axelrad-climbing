@@ -1,22 +1,18 @@
 ---
-layout: page.njk
-tags: pages
+eleventyComputed:
+  title: Posts Tagged '{{ tag }}'
+permalink: /tags/{{ tag | replace("'", "") | slug | url }}/
 pagination:
   data: collections
   size: 1
   alias: tag
-  filter: [ 'all', 'post', 'posts', 'pages', 'tagList', 'Eden', 'Itai', 'Axelrad', 'Climbing', 'Bouldering' ]
+  filter: [ 'all', 'post', 'posts', 'pages', 'blog', 'tagList', 'Eden', 'Itai', 'Axelrad', 'Climbing', 'Bouldering', 'Five', 'ten' ]
   addAllPagesToCollections: true
-permalink: /tags/{{ tag | replace("'", "") | slug | url }}/
-renderData:
-  title: Tagged “{{ tag }}”
 ---
-
-<h1>Posts Tagged “{{ tag }}”</h1>
 
 <ol reversed >
 {% set taglist = collections[ tag ] %}
 {% for post in taglist | reverse %}
-{% include 'listItem.njk' %}
+{% include 'components/listItem.njk' %}
 {% endfor %}
 </ol>

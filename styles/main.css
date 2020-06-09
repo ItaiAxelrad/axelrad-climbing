@@ -1,13 +1,14 @@
 :root {
-  --ff: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial,
-    sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  --ff: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol';
   --color: hsl(45, 90%, 52%);
   --comp: hsl(225, 10%, 96%);
   --light: hsl(0, 0%, 98%);
   --lightgray: hsl(0, 0%, 88%);
   --gray: hsl(0, 0%, 33%);
   --dark: hsl(0, 0%, 12%);
-  --width: 700px;
+  --width: 760px;
   --radius: 3px;
 }
 
@@ -35,20 +36,38 @@ body {
 }
 
 main {
-  margin: 1rem auto;
+  margin: 2rem auto 1rem auto;
 }
 
 img {
   display: block;
   margin: 0 auto;
-  margin-block-end: 0.5rem;
+  object-fit: cover;
   width: 100%;
+  height: 100%;
+}
+
+article img {
+  margin-block-end: 0.5rem;
+}
+
+.post-image {
+  object-fit: cover;
+  height: 150px;
+  margin-block-end: 0rem;
+}
+
+.thumbnail {
+  height: 5rem;
   border-radius: var(--radius);
 }
 
-.feature {
-  object-fit: cover;
-  height: 200px;
+.list-item {
+  list-style: none;
+}
+
+.featured-post img {
+  margin: 0;
 }
 
 img + em {
@@ -76,7 +95,7 @@ nav a:hover {
 }
 
 .pages a {
-  padding-inline-start: 1rem;
+  padding: 0 0.5rem;
 }
 
 h1 {
@@ -126,10 +145,6 @@ footer {
   text-align: center;
 }
 
-main a[href]:hover {
-  color: var(--color);
-}
-
 a {
   color: currentColor;
   text-decoration: underline var(--color);
@@ -145,26 +160,35 @@ a[rel='noreferrer']:after {
 
 .posts {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 250px 250px;
+  gap: 1.5rem;
 }
 
 .post {
-  padding: 0.75rem;
-  background: var(--light);
-  box-shadow: 0px 0px 25px hsla(0 0% 20% / 0.1);
-  border-radius: var(--radius);
+  border: 1px solid transparent;
 }
 
-.new .post-title::after {
-  content: 'New Post!';
-  padding: 0.25rem;
-  border-radius: 3px;
-  background: var(--comp);
-  color: var(--color);
-  font-size: small;
+.post:hover {
+  border: 1px solid var(--lightgray);
 }
 
+.post-title {
+  padding: 1rem;
+}
+
+.featured-post {
+  grid-column: 1/-1;
+  display: grid;
+  gap: calc(1rem - 3px);
+  grid-template-columns: 2fr 1fr;
+}
+
+.topNav {
+  border-block-end: 1px solid var(--lightgray);
+}
+
+.pageNav,
 .postNav {
   border-block-start: 1px solid var(--lightgray);
   margin-block-start: 2rem;
@@ -174,8 +198,8 @@ a[rel='noreferrer']:after {
   margin: 1rem auto;
   padding: 1rem;
   background: var(--light);
-  box-shadow: 0px 4px 16px hsla(0 0% 20% / 0.1);
   border-radius: var(--radius);
+  box-shadow: 0px 4px 16px hsla(0 0% 20% / 0.1);
 }
 
 .reply {
@@ -195,7 +219,7 @@ a[rel='noreferrer']:after {
   fill: var(--color);
   display: inline-block;
   vertical-align: middle;
-  height: 1rem;
+  height: 1.2rem;
 }
 
 .logo {
@@ -206,11 +230,20 @@ a[rel='noreferrer']:after {
 }
 
 .btn {
+  display: inline-block;
   margin: 0;
-  padding: 0;
-  border: none;
-  background: none;
-  color: currentColor;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid var(--lightgray);
+  background: var(--comp);
+  text-decoration: none;
+  color: var(--dark);
+  cursor: pointer;
+}
+
+.active {
+  text-decoration: underline var(--color);
+  background: var(--light);
+  border-radius: var(--radius);
 }
 
 .hidden {
@@ -220,7 +253,7 @@ a[rel='noreferrer']:after {
 blockquote {
   margin: 1rem 0;
   padding: 0 1rem;
-  border-left: 2px solid var(--color);
+  border-inline-start: 2px solid var(--color);
 }
 
 form {

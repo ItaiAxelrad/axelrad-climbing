@@ -1,12 +1,10 @@
 ---
-title: Archive
-layout: page.njk
-tags: pages
+title: Posts
 permalink: /posts/
 ---
 
 <ol reversed >
   {%- for post in collections.post | reverse -%}
-    {% include 'listItem.njk' %}
+    {% include 'components/listItem.njk' %}
   {%- endfor -%}
 </ol>

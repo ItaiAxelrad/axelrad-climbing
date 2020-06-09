@@ -1,0 +1,18 @@
+{% set featuredPost = collections.post | last %}
+<div class="post featured-post">
+  <img
+    src="{{ featuredPost.url }}uploads/{{ featuredPost.data.thumbnail }}"
+    alt="{{ featuredPost.data.title }}"
+    class="featured-image"
+    loading="lazy"
+  />
+  <div class="post-title">
+  <h3><a href="{{ featuredPost.url }}">{{ featuredPost.data.title }}</a></h3>
+  <time datetime="{{ featuredPost.data.date | htmlDateString }}">{{ featuredPost.data.date | readableDate}}</time>
+  <br>―
+  {{ featuredPost.templateContent | truncate(80, true, "...") | safe }}
+  <br>
+  <br>
+  <a href="{{ featuredPost.url }}" class="btn">read more →</a>
+  </div>
+</div>

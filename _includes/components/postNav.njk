@@ -1,33 +1,18 @@
----
-layout: base.njk
----
-
-<article>
-
-<header>
-  <h1>{{ title }}</h1>
-  <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address>{{ author }}<address>
-</header>
-
-{{ content | safe}}
-
-</article>
-
 <nav class="postNav">
   <div class="next">
     {%- set nextPost = collections.post | getNextCollectionItem(page) -%}
-    {%- if nextPost %}
+    {%- if nextPost -%}
     <small>Next Post:</small><br>
     <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
-    {% else %} 
-    {%- endif %}
+    {%- else -%} 
+    {%- endif -%}
   </div>
   <div class="previous">
     {%- set previousPost = collections.post | getPreviousCollectionItem(page) -%}
-    {%- if previousPost %}
+    {%- if previousPost -%}
     <small>Previous Post:</small><br>
     <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
-    {% else %}
-    {%- endif %}
+    {%- else -%}
+    {%- endif -%}
   </div>
 </nav>
