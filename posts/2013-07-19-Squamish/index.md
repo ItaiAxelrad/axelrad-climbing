@@ -2,8 +2,8 @@
 title: 'Squamish'
 date: '2013-07-19T11:19:00-07:00'
 updated: '2015-02-22T22:56:48-08:00'
-thumbnail: '20PM.jpg'
-uploads: ['20PM.jpg', 'IMG_7189.jpg', 'IMG_7197.jpg', 'IMG_7346.jpg', 'IMG_7294.jpg', 'IMG_7221.jpg', 'IMG_7411.jpg', 'IMG_7070.jpg', 'IMG_7370.jpg', 'IMG_7484.jpg', 'IMG_7444.jpg', 'IMG_7462.jpg', 'IMG_7546.jpg', 'IMG_7327.jpg']
+thumbnail: '53%20PM.jpg'
+uploads: ['53%20PM.jpg', 'IMG_7189.jpg', 'IMG_7197.jpg', 'IMG_7346.jpg', 'IMG_7294.jpg', 'IMG_7221.jpg', 'IMG_7411.jpg', 'IMG_7070.jpg', 'IMG_7370.jpg', 'IMG_7484.jpg', 'IMG_7444.jpg', 'IMG_7462.jpg', 'IMG_7546.jpg', 'IMG_7327.jpg']
 author: 'Eden'
 id: 288361898781234696
 location: ''

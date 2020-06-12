@@ -3,7 +3,7 @@ title: 'The First of 2019: Joshua Tree'
 date: '2019-01-15T08:45:00-08:00'
 updated: '2019-01-15T08:45:34-08:00'
 thumbnail: 'IMG_7529.JPG'
-uploads: ['IMG_7529.JPG', '202.jpg', '202.jpg', 'IMG_7549.JPG']
+uploads: ['IMG_7529.JPG', 'IMG_0076%202.jpg', 'IMG_0088%202.jpg', 'IMG_7549.JPG']
 author: 'Eden'
 id: 2001157132732296394
 location: ''

@@ -5,10 +5,10 @@ layout: layouts/base.njk
 
 <section class="posts">
 
-  {% include 'components/featuredPost.njk' %}
+  {%- include 'components/featuredPost.njk' -%}
 
-  {% set posts = collections.post | reverse %}
-  {% for post in posts.slice(1, 4) %}
+  {%- set posts = collections.post | reverse -%}
+  {%- for post in posts.slice(1, 4) -%}
 
     <div class="post">
       <img
@@ -27,7 +27,7 @@ layout: layouts/base.njk
       </div>
     </div>
 
-  {% endfor %}
+  {%- endfor -%}
 
 </section>
 

@@ -2,8 +2,8 @@
 title: 'Rocky Mountain National Park'
 date: '2017-09-16T12:46:00-07:00'
 updated: '2017-09-20T22:13:01-07:00'
-thumbnail: '2014.jpg'
-uploads: ['2014.jpg', '2010.jpg', 'IMG_4814.JPG', '2013.jpg', 'IMG_4876.JPG', '20copy.jpg', 'IMG_4913.JPG', 'IMG_4913.JPG', 'IMG_4932.JPG']
+thumbnail: 'FullSizeRender%2014.jpg'
+uploads: ['FullSizeRender%2014.jpg', 'FullSizeRender%2010.jpg', 'IMG_4814.JPG', 'FullSizeRender%2013.jpg', 'IMG_4876.JPG', 'FullSizeRender%2010%20copy.jpg', 'IMG_4913.JPG', 'IMG_4913.JPG', 'IMG_4932.JPG']
 author: 'Eden'
 id: 7003752050501105175
 location: ''

@@ -2,8 +2,8 @@
 title: 'Squamish (Part II)'
 date: '2017-08-25T16:14:00-07:00'
 updated: '2017-08-25T16:21:46-07:00'
-thumbnail: '209.jpg'
-uploads: ['209.jpg', 'IMG_4787.JPG', 'IMG_4741.JPG', 'IMG_4756.JPG', 'IMG_4764.JPG', 'IMG_4774.JPG', 'IMG_4789.JPG']
+thumbnail: 'FullSizeRender%209.jpg'
+uploads: ['FullSizeRender%209.jpg', 'IMG_4787.JPG', 'IMG_4741.JPG', 'IMG_4756.JPG', 'IMG_4764.JPG', 'IMG_4774.JPG', 'IMG_4789.JPG']
 author: 'Eden'
 id: 4858288617202703986
 location: ''

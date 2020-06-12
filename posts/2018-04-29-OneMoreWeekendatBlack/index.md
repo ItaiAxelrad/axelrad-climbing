@@ -2,8 +2,8 @@
 title: 'One More Weekend at Black '
 date: '2018-04-29T20:30:00-07:00'
 updated: '2018-05-02T18:26:20-07:00'
-thumbnail: '202.jpg'
-uploads: ['202.jpg', '202.jpg', '202.jpg', '202.jpg', 'IMG_4671.JPG', 'IMG_4679.JPG', '202.jpg', '202.jpg', '202.jpg', '202.jpg']
+thumbnail: 'IMG_4029%202.jpg'
+uploads: ['IMG_4029%202.jpg', 'IMG_3911%202.jpg', 'IMG_3934%202.jpg', 'IMG_3955%202.jpg', 'IMG_4671.JPG', 'IMG_4679.JPG', 'IMG_3971%202.jpg', 'IMG_3993%202.jpg', 'IMG_4024%202.jpg', 'IMG_4008%202.jpg']
 author: 'Eden'
 id: 849605771138296132
 location: ''

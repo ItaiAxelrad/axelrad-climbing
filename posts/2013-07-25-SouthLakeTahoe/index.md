@@ -2,8 +2,8 @@
 title: 'South Lake Tahoe'
 date: '2013-07-25T14:12:00-07:00'
 updated: '2013-07-25T14:14:00-07:00'
-thumbnail: '20copy.jpg'
-uploads: ['20copy.jpg', 'photo_4.jpg', 'photo_1.jpg', 'photo.jpg']
+thumbnail: 'photo_3%20copy.jpg'
+uploads: ['photo_3%20copy.jpg', 'photo_4.jpg', 'photo_1.jpg', 'photo.jpg']
 author: 'Eden'
 id: 5059644913304119206
 location: ''
