@@ -4,7 +4,7 @@ date: '2012-04-18T17:09:00-07:00'
 updated: '2020-05-14T14:05:13-07:00'
 thumbnail: 'Crimps-of-Wrath.jpg'
 uploads: ['Crimps-of-Wrath.jpg']
-author: 'Eden'
+author: 'Itai'
 id: 7280536218268461960
 location: ''
 tags: ['Ascent', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'First']

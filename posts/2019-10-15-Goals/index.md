@@ -18,15 +18,17 @@ I have never truly projected anything in my 14 years of climbing. I tell myself 
 
 As a result, I have been plateaued at the same grade for over 8 years - most of my climbing career. How can that be? I feel much more technical and experienced now but have nothing to show for it in terms of progress in difficulty. Sure, I have a better looking ‘pyramid’ but the tip is looking awfully dull.
 
-### Enter The Project
+### Enter The Project 
 
 When it comes to test-pieces of a generation, Jade stands out among the rest. In recent years, the climb has seen many quick ascents by the up and coming freaks including a flash by none other than Adam Ondra. While it’s no longer one of the hardest climbs around, it’s still iconic in my eyes.
 
-![image alt](uploads/IMG-1016.jpg)_The Move_
+![image alt](uploads/IMG-1016.jpg)*The Move*
 
 My first day working the climb I surprised myself by sticking “the move” - the definitive crux move that perhaps warrants a V13 grade on it’s own. I quickly rehearsed the upper section and began trying it from the start with high hopes. While I had a few good attempts, the rain rolled in and chased us away. The next couple of sessions I either immediately split my tips or battled rain and gale force winds. The first snow fell last week, and with it my chances of completing the climb this season.
 
-![image alt](uploads/IMG_0165.jpg)_Jade: 1 | Itai: 0_
+![image alt](uploads/IMG_0165.jpg)*Jade: 1
+|
+Itai: 0*
 
 ### Uncertainty
 
@@ -34,8 +36,9 @@ My introduction to projecting went about as well as expected. Close but no cigar
 
 While projecting inherently requires perseverance, it would be easy with guaranteed success at the end. Thankfully, there’s plenty to keep my uncertain mind busy until The Park thaws out in the spring. When it does, I’ll be coming back with a vengeance.
 
-![image alt](uploads/IMG-0781.JPG)_From darkness into light_
+![image alt](uploads/IMG-0781.JPG)*From darkness into light*
 
 Till next time,
 
 Itai
+

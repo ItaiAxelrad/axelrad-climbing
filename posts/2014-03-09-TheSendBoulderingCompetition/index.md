@@ -4,7 +4,7 @@ date: '2014-03-09T14:31:00-07:00'
 updated: '2014-03-09T14:38:01-07:00'
 thumbnail: './images/default.jpg'
 uploads: []
-author: 'Eden'
+author: 'Itai'
 id: 4752905453386032339
 location: ''
 tags: ['Andy Lamb', 'Axelrad', 'Bouldering', 'California', 'CCS', 'Climbing', 'Collegiate', 'Competition', 'finals', 'Slo Op', 'the send']

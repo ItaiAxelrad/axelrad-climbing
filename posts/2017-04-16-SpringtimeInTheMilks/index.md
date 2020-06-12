@@ -4,7 +4,7 @@ date: '2017-04-16T16:41:00-07:00'
 updated: '2017-05-02T19:40:15-07:00'
 thumbnail: 'IMG_4259.JPG'
 uploads: ['IMG_4259.JPG', 'IMG_4226.JPG', 'IMG_4250.JPG', 'IMG_4251.jpg', 'IMG_4249.JPG', 'IMG_4263.JPG']
-author: 'Eden'
+author: 'Itai'
 id: 8442610548258711824
 location: ''
 tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'Climbing', 'Eden', 'granite', 'highball', 'Itai']

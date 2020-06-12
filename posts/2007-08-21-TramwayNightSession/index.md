@@ -7,7 +7,7 @@ uploads: ['IMG_3383.JPG', 'IMG_3382.JPG', 'IMG_3355.JPG', 'IMG_3360.JPG', 'IMG_3
 author: 'Itai'
 id: 469862867412637510
 location: 'Tramway'
-tags: ['granite', 'highball', 'Tramway']
+tags: ['granite', 'highball', 'Tramway', 'photoshoot', 'night']
 ---
 
 We escaped the summer heat by heading to our usual spot, Tramway! Damon Corso was with us and ended up setting up his camera to capture some great shoots of the Tribe Called Conquest wall. Really fun day out with the Hangar 18 upland crew. Can't wait to go back!

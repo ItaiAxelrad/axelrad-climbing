@@ -4,7 +4,7 @@ date: '2017-03-12T14:27:00-07:00'
 updated: '2017-04-01T15:18:57-07:00'
 thumbnail: 'IMG_4065.jpg'
 uploads: ['IMG_4065.jpg', '17211915_10155141822199096_2585577538384379766_o.jpg', '17192346_10155141823424096_8955559923503349275_o.jpg', '16819221_10155092356289096_5818588970824874555_o.jpg']
-author: 'Eden'
+author: 'Itai'
 id: 5574427812550977871
 location: ''
 tags: ['Axelrad', 'California', 'Climbing', 'Joshua', 'trad', 'Tree']

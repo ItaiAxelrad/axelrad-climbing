@@ -4,7 +4,7 @@ date: '2013-10-14T13:17:00-07:00'
 updated: '2013-10-14T13:57:21-07:00'
 thumbnail: 'IMG_9198.jpg'
 uploads: ['IMG_9198.jpg', 'IMG_9271.jpg', 'IMG_9258.jpg', 'IMG_9223.jpg', 'IMG_9288.jpg']
-author: 'Eden'
+author: 'Itai'
 id: 6065889109151129444
 location: ''
 tags: ['Axelrad', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'California', 'Climbing', 'highball', 'Itai']

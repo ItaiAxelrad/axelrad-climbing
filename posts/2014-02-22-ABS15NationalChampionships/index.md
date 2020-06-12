@@ -4,7 +4,7 @@ date: '2014-02-22T17:41:00-08:00'
 updated: '2014-02-22T17:42:09-08:00'
 thumbnail: './images/default.jpg'
 uploads: []
-author: 'Eden'
+author: 'Itai'
 id: 2334975553528166647
 location: ''
 tags: ['ABS 15', 'Axelrad', 'Bouldering', 'Climbing', 'finals', 'live', 'nationals', 'open']

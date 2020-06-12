@@ -4,7 +4,7 @@ date: '2012-06-18T15:58:00-07:00'
 updated: '2020-05-28T08:46:57-07:00'
 thumbnail: 'IMG_3505.JPG'
 uploads: ['IMG_3505.JPG', 'IMG_3420.jpg', 'IMG_3475.JPG', 'IMG_3522.JPG', 'IMG_3580.JPG', 'IMG_3594.JPG', 'IMG_3659.JPG', 'IMG_3672.JPG']
-author: 'Eden'
+author: 'Itai'
 id: 3981617014516433928
 location: ''
 tags: ['Axelrad', 'Charleston', 'Climbing', 'Itai']

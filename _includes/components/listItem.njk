@@ -1,17 +1,16 @@
 <li class="list-item">
-      <strong>
+      <h4>
             <a href="{{ post.url | url}}">{{ post.data.title }}</a>
-      </strong>
-      <br>
+      </h4>
       <small>
-            {{ loop.length - loop.index0 }} &bull;
+            {{- loop.length - loop.index0 }} &bull;
       <time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate}}</time> &bull; 
       <address>{{ post.data.author }}</address>
-            {% -if post.data.location %} &bull; {{ post.data.location }}
+            {%- if post.data.location %} &bull; {{ post.data.location }}
             {%- endif %}
       </small>
       <br>
-      {%- set tagList = post.data.tags | excludeTags -%}
+      {% set tagList = post.data.tags | excludeTags %}
       {%- for tag in tagList %}
             <a href="/tags/{{ tag | replace("'", "") | slug | url }}" class="tag">{{ tag }}</a>
       {%- endfor %}

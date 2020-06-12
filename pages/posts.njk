@@ -3,8 +3,8 @@ title: Posts
 permalink: /posts/
 ---
 
-<ol reversed >
-  {%- for post in collections.post | reverse -%}
+<ol class="post-list" reversed >
+  {% for post in collections.post | reverse %}
     {% include 'components/listItem.njk' %}
-  {%- endfor -%}
+  {% endfor %}
 </ol>

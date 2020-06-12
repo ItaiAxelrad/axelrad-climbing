@@ -10,7 +10,7 @@
   --dark: hsl(0, 0%, 12%);
   --width: 760px;
   --radius: 3px;
-  --shadow: 0px 4px 16px hsla(0, 0%, 20%, 0.1);
+  --shadow: 0px 4px 16px hsla(0, 12%, 5%, 0.1);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -203,6 +203,10 @@ a[rel='noreferrer']:after {
   margin-inline-start: 2rem;
 }
 
+.post-list h4 {
+  display: inline-block;
+}
+
 .list-item {
   list-style: none;
   padding: 0.5rem;
@@ -304,9 +308,6 @@ textarea {
   nav {
     font-size: 80%;
   }
-  li {
-    list-style-position: inside;
-  }
   article img {
     left: 50%;
     margin-left: -50vw;
@@ -316,9 +317,8 @@ textarea {
     right: 50%;
     width: 100vw;
   }
-  .featured-post {
-    display: block;
-  }
+  .post-list h4,
+  .featured-post,
   .posts {
     display: block;
   }

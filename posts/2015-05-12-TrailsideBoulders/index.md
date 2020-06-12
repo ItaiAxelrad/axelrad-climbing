@@ -4,7 +4,7 @@ date: '2015-05-12T12:17:00-07:00'
 updated: '2015-05-12T15:16:17-07:00'
 thumbnail: 'IMG_2235.jpg'
 uploads: ['IMG_2235.jpg', 'IMG_2202.jpg', 'IMG_2211.jpg', 'IMG_2230.jpg', 'IMG_2237.jpg']
-author: 'Eden'
+author: 'Itai'
 id: 7790454096504482486
 location: ''
 tags: ['Axelrad', 'Black Mountain', 'blog', 'Bouldering', 'California', 'Climbing', 'Five Ten', 'granite', 'Itai', 'Rock', 'trailside']

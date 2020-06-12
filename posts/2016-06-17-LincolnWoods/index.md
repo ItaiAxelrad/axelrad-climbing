@@ -4,7 +4,7 @@ date: '2016-06-17T13:40:00-07:00'
 updated: '2016-12-30T13:41:02-08:00'
 thumbnail: 'IMG_3330.jpg'
 uploads: ['IMG_3330.jpg']
-author: 'Eden'
+author: 'Itai'
 id: 5441408441798322037
 location: ''
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'Five', 'Five Ten', 'granite', 'Itai', 'Lincoln', 'Woods']
