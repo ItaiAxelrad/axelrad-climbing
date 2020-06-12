@@ -47,4 +47,5 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('pagedPosts', (collectionApi) => {
     return collectionApi.getFilteredByTag('post').reverse().slice(4);
   });
+
 };

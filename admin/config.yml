@@ -22,7 +22,7 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     preview_path: 'posts/{{year}}-{{month}}-{{day}}-{{slug}}' # preview location
     preview_path_date_field: 'date'
-    summary: '{{fields.title}} - {{fields.date}}'
+    summary: '{{fields.title}} - {{fields.author}} - {{fields.date}}'
     fields: # The fields for each document, usually in front matter
       - { label: 'Title', name: 'title', widget: 'string' }
       - {
@@ -30,6 +30,7 @@ collections:
           name: 'date',
           widget: 'datetime',
           default: Created,
+          dateFormat: 'DD.MM.YYYY',
         }
       - {
           label: 'Update Date',
@@ -49,10 +50,10 @@ collections:
     description: 'A collection of all blog pages'
     label: 'Pages' # Used in the UI
     label_singular: 'Page' # Used in the UI
-    folder: 'pages/{{slug}}' # The path to the folder where the documents are stored
+    folder: '/{{slug}}' # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
-    slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-    preview_path: pages/{{slug}} # preview location
+    slug: '/{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    preview_path: '/{{slug}}' # preview location
     fields: # The fields for each document, usually in front matter
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }

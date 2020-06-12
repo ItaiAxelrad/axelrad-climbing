@@ -1,4 +1,4 @@
-{% set featuredPost = collections.post | last %}
+{%- set featuredPost = collections.post | last -%}
 <div class="post featured-post">
   <img
     src="{{ featuredPost.url }}uploads/{{ featuredPost.data.thumbnail }}"

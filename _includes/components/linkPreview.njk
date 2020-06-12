@@ -1,0 +1,4 @@
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ content | striptags(true) | escape | truncate(80, true, "...") }}">
+<meta property="og:image" content="{{ thumbnail }}">
+<meta property="og:url" content="{{ page.url | url }}">

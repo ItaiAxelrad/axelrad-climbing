@@ -4,13 +4,13 @@ layout: layouts/base.njk
 
 <article id="{{ title | slug }}">
 
-<header>
-  <h1>{{ title }}</h1>
-  <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address>{{ author }}<address>
-</header>
+  <header>
+    <h1>{{ title }}</h1>
+    <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address>{{ author }}
+      <address></header>
 
-{{ content | safe}}
+      {{ content | safe}}
 
-</article>
+    </article>
 
-{% include 'components/postNav.njk' %}
+    {%- include 'components/postNav.njk' -%}
