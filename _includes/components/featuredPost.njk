@@ -5,14 +5,15 @@
     alt="{{ featuredPost.data.title }}"
     class="featured-image"
     loading="lazy"
-  />
+/>
   <div class="post-title">
-  <h3><a href="{{ featuredPost.url }}">{{ featuredPost.data.title }}</a></h3>
-  <time datetime="{{ featuredPost.data.date | htmlDateString }}">{{ featuredPost.data.date | readableDate}}</time>
-  <br>―
-  {{ featuredPost.templateContent | truncate(80, true, "...") | safe }}
-  <br>
-  <br>
-  <a href="{{ featuredPost.url }}" class="btn">read more →</a>
+    <h3>
+      <a href="{{ featuredPost.url }}">{{ featuredPost.data.title }}</a>
+    </h3>
+    <time datetime="{{ featuredPost.data.date | htmlDateString }}">{{ featuredPost.data.date | readableDate}}</time>
+    <br>―
+    {{- featuredPost.templateContent | truncate(75, true, "...") | safe -}}
+    <br>
+    <a href="{{ featuredPost.url }}" class="btn">read more →</a>
   </div>
 </div>

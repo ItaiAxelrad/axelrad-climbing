@@ -3,47 +3,50 @@ title: Contact
 permalink: /contact/
 ---
 
-<p>Got a question or comment? Get in touch!</p>
-<form name="contact" method="POST" data-netlify="true">
-  <label for="email">Email</label>
-  <input
+<section>
+  <p>Got a question or comment? Get in touch!</p>
+
+  <form name="contact" method="POST" data-netlify="true" class="form-contact">
+    <label for="email">Email</label>
+    <input
     id="email"
     type="email"
     name="email"
     placeholder="your@email.com"
     required
-  />
-  <label for="subject">Subject</label>
-  <input
+/>
+    <label for="subject">Subject</label>
+    <input
     id="subject"
     type="text"
     name="subject"
     placeholder="Subject"
     required
-  />
-  <label for="message">Message</label>
-  <textarea
+/>
+    <label for="message">Message</label>
+    <textarea
     id="message"
     name="message"
-    placeholder="Hello world"
+    placeholder="Gamba, gamba!"
     required
   ></textarea>
-  <input type="submit" />
-</form>
+    <input type="submit"/>
+  </form>
+</section>
 
-<section class="comments">
-<h2>Comments</h2>
-{%- for comment in comments.comments | reverse %}
-<div class="card">
-  <h3>{{ comment.subject }}</h3> 
-  {{ comment.author }} commented on  <time datetime="{{ comment.date }}">{{ comment.date }}</time>
-  <blockquote>{{ comment.body }}</blockquote>
-</div>
-{%- if comment.replies. author %}
-  <div class="card reply">
-    {{ comment.replies.author }} replied on <time datetime="{{ comment.replies.date }}">{{ comment.replies.date }}</time>
-    <blockquote>{{ comment.replies.body }}</blockquote>
-  </div>
-{%- endif %}
-{%- endfor %}
+<section>
+  <h2>Comments</h2>
+  {%- for comment in comments.comments | reverse %}
+    <div class="card">
+      <h3>{{ comment.subject }}</h3>
+      {{ comment.author }} commented on  <time datetime="{{ comment.date }}">{{ comment.date }}</time>
+      <blockquote>{{ comment.body }}</blockquote>
+    </div>
+    {%- if comment.replies. author %}
+      <div class="card reply">
+        {{ comment.replies.author }} replied on <time datetime="{{ comment.replies.date }}">{{ comment.replies.date }}</time>
+        <blockquote>{{ comment.replies.body }}</blockquote>
+      </div>
+    {%- endif %}
+  {%- endfor %}
 </section>

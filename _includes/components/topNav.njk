@@ -1,18 +1,23 @@
 <nav class="topNav">
   <div class="home">
-          <svg 
-            class="logo"
-            viewBox="0 0 24 24"
-            aria-hidden="true"
-            focusable="false"
-          >
-            <use xlink:href="/images/defs.svg#logo"></use>
-          </svg>
-        <strong><a href="/">{{ metadata.title }}</a></strong>
+    <svg 
+        class="logo"
+        viewBox="0 0 24 24"
+        aria-hidden="true"
+        focusable="false"
+    >
+      <g id="logo">
+        <path d="M0 0h24v24H0V0z" fill="none"/>
+        <path d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-4.86 8.86l-3 3.87L9 13.14 6 17h12l-3.86-5.14z"/>
+      </g>
+    </svg>
+    <strong>
+      <a href="/">{{ metadata.title }}</a>
+    </strong>
   </div>
   <div class="pages">
-        {%- for entry in collections.pages -%}
-        <a href="{{ entry.url | url }}" {% if page.url == entry.url %} class="active" {% endif %}>{{ entry.data.title }}</a>
-        {%- endfor -%}
+    {%- for entry in collections.pages -%}
+      <a href="{{ entry.url | url }}" {% if page.url == entry.url %} class="active" {% endif %}>{{ entry.data.title }}</a>
+    {%- endfor -%}
   </div>
 </nav>
