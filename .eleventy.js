@@ -9,6 +9,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('images');
   eleventyConfig.addPassthroughCopy('posts/*/uploads/*');
   eleventyConfig.addPassthroughCopy('admin');
+    eleventyConfig.addPassthroughCopy('sw.js');
   eleventyConfig.addPassthroughCopy('manifest.json');
 
   //minify CSS filter for inline injection
