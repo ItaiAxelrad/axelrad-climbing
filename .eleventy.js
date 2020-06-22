@@ -1,4 +1,6 @@
 const { DateTime } = require('luxon');
+const CleanCSS = require('clean-css');
+const Terser = require('terser');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
@@ -6,10 +8,23 @@ module.exports = function (eleventyConfig) {
   // add passthrough files
   eleventyConfig.addPassthroughCopy('images');
   eleventyConfig.addPassthroughCopy('posts/*/uploads/*');
-  eleventyConfig.addPassthroughCopy('styles');
   eleventyConfig.addPassthroughCopy('admin');
-  eleventyConfig.addPassthroughCopy('sw.js');
   eleventyConfig.addPassthroughCopy('manifest.json');
+
+  //minify CSS filter for inline injection
+  eleventyConfig.addFilter('cssmin', (code) => {
+    return new CleanCSS({}).minify(code).styles;
+  });
+
+  // minify JS filter for inline injection
+  eleventyConfig.addFilter('jsmin', (code) => {
+    let minified = Terser.minify(code);
+    if (minified.error) {
+      console.log('Terser error: ', minified.error);
+      return code;
+    }
+    return minified.code;
+  });
 
   // parse datetime to readable
   eleventyConfig.addFilter('readableDate', (dateObj) => {
@@ -37,6 +52,8 @@ module.exports = function (eleventyConfig) {
       'Axelrad',
       'Climbing',
       'Bouldering',
+      'Five Ten',
+      'fiveten',
       'Five',
       'Ten',
     ];
@@ -47,5 +64,4 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('pagedPosts', (collectionApi) => {
     return collectionApi.getFilteredByTag('post').reverse().slice(4);
   });
-
 };

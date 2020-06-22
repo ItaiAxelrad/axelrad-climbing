@@ -1,5 +1,5 @@
 :root {
-  --ff: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+  --ff: 'Open-Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
     Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
     'Segoe UI Symbol';
   --color: hsl(45, 90%, 52%);
@@ -35,6 +35,7 @@ body {
   margin: 1rem auto;
   background: var(--comp);
   font-family: var(--ff);
+  line-height: 1.3;
   color: var(--dark);
 }
 
@@ -91,9 +92,12 @@ header {
 }
 
 article header::after {
-  content: '―';
+  content: '';
   display: block;
-  padding-block-start: 0.25rem;
+  height: 4px;
+  width: 2rem;
+  background: var(--color);
+  margin: 1rem 0;
 }
 
 address,
@@ -292,6 +296,10 @@ textarea:focus {
 
 textarea {
   resize: vertical;
+}
+
+::placeholder {
+  color: var(--color);
 }
 
 @media screen and (max-width: 700px) {

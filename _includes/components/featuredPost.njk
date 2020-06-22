@@ -13,7 +13,7 @@
     <time datetime="{{ featuredPost.data.date | htmlDateString }}">{{ featuredPost.data.date | readableDate}}</time>
     <br>―
     {{- featuredPost.templateContent | truncate(75, true, "...") | safe -}}
-    <br>
+    <br><br>
     <a href="{{ featuredPost.url }}" class="btn">read more →</a>
   </div>
 </div>

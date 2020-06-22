@@ -2,15 +2,16 @@
 layout: layouts/base.njk
 ---
 
-<article id="{{ title | slug }}">
+<article id="{{ title | slug }}" class="h-entry">
 
-  <header>
-    <h1>{{ title }}</h1>
-    Posted <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address>{{- author -}}
+  <header class="h-card">
+    <h1 class="p-name">{{ title }}</h1>
+    Posted on <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address class="p-name">{{- author -}}
       <address></header>
 
-      {{ content | safe}}
-
+      <div class="e-content">
+        {{ content | safe}}
+      </div>
     </article>
 
     {%- include 'components/postNav.njk' -%}

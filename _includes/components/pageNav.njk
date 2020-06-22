@@ -2,16 +2,16 @@
   <div class="previous-page">
     {%- if pagination.href.previous %}
       <a href="{{ pagination.href.previous }}">
-        ≪ Previous Page</a>
+        ← Previous Page</a>
     {%- else %}
       <a href="/">
-  ≪ Previous Page</a>
+  ← Previous Page</a>
     {%- endif %}
   </div>
   <div class="next-page">
     {%- if pagination.href.next %}
-      <a href="{{ pagination.href.next }}">Next Page ≫</a>
-    {%- else %}
-    {%- endif %}
-  </div>
-</nav>
+      <a href="{{ pagination.href.next }}">Next Page →</a>
+      {%- else %}
+      {%- endif %}
+    </div>
+  </nav>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{{ metadata.title }}</title>
+    <title>{{ metadata.name }}</title>
     <meta charset="UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <meta
@@ -18,6 +18,9 @@
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
     <meta name="apple-mobile-web-app-title" content="blog"/>
+    <!-- Fonts -->
+    <link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;display=swap" rel="stylesheet">
 
     <!-- link preview -->
     {%- include 'components/linkPreview.njk' -%}
@@ -26,30 +29,31 @@
     <link href="/images/icon.png" rel="apple-touch-startup-image"/>
     <link href="/images/icon.png" rel="apple-touch-icon"/>
     <link href="/images/icon.png" rel="icon" type="image/png"/>
-
-    <link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&amp;display=swap" rel="stylesheet">
-
-    <link href="/styles/main.css" rel="stylesheet" type="text/css"/>
-
     <link
       href="/manifest.json"
       rel="manifest"
       type="application/json"
       crossorigin="use-credentials"
 />
+    <!-- capture the CSS content as a Nunjucks variable -->
+    {% set css %}
+    {% include "../styles/main.css" %}
+    {% endset %}
+
+    <!-- feed it through our cssmin filter to minify -->
+    <style>
+      {{css | cssmin | safe}}
+    </style>
+
+    <!-- capture the JS content as a Nunjucks variable -->
+    {% set js %}
+    {% include "../scripts/main.js" %}
+    {% endset %}
+    <!-- feed it through our jsmin filter to minify -->
     <script>
-      // register a service worker
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-          navigator
-            .serviceWorker
-            .register('/sw.js') // register a service worker
-            .then(reg => console.log('Service Worker: Registered')) // Registration was successful
-            .catch(err => console.log(`Service Worker: ${err}`)); // Registration error
-        });
-      };
+      {{ js | jsmin | safe }}
     </script>
+
   </head>
   <body>
 
@@ -60,7 +64,7 @@
     </main>
 
     <footer>
-      <small>&copy; {{ metadata.title }}</small>
+      <small>&copy; {{ metadata.name }}</small>
     </footer>
 
   </body>
