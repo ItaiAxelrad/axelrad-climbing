@@ -36,28 +36,19 @@ body {
   background: var(--comp);
   font-family: var(--ff);
   line-height: 1.3;
+  box-decoration-break: clone;
   color: var(--dark);
 }
 
 main {
-  margin: 2rem auto 1rem auto;
+  margin: 1rem auto;
 }
 
 nav {
-  display: grid;
+  display: flex;
   justify-content: space-between;
-  grid-template-columns: auto auto;
   padding: 1rem 0;
-}
-
-nav a {
   line-height: 24px;
-  text-decoration: none;
-  color: currentColor;
-}
-
-nav a:hover {
-  text-decoration: underline var(--color);
 }
 
 .topNav {
@@ -126,15 +117,19 @@ footer {
 
 a {
   color: currentColor;
+  text-decoration: none;
+}
+
+.active,
+a:hover {
   text-decoration: underline var(--color);
 }
 
-a[href^="http://"]:after,
-a[href^="https://"]:after,
-a[rel='noreferrer']:after {
+a[href^="http://"]::after,
+a[href^="https://"]::after,
+a[rel='noreferrer']::after {
   content: '↗';
   color: var(--gray);
-  font-size: small;
 }
 
 img {
@@ -226,11 +221,11 @@ article img {
 
 .tag {
   padding: 0.25rem;
+  margin: 0.25rem 0;
   color: var(--gray);
   background: var(--light);
   border-radius: var(--radius);
   font-size: small;
-  text-decoration: none;
 }
 
 .tag:hover {
@@ -247,17 +242,12 @@ article img {
 
 .btn {
   display: inline-block;
+  cursor: pointer;
   margin: 0.5rem 0;
   padding: 0.25rem 0.75rem;
   border: var(--border);
   background: var(--comp);
-  text-decoration: none;
   color: var(--dark);
-  cursor: pointer;
-}
-
-.active {
-  text-decoration: underline var(--color);
 }
 
 blockquote {
@@ -299,7 +289,7 @@ textarea {
 }
 
 ::placeholder {
-  color: var(--color);
+  color: var(--gray);
 }
 
 @media screen and (max-width: 700px) {

@@ -1,6 +1,7 @@
 const { DateTime } = require('luxon');
 const CleanCSS = require('clean-css');
 const Terser = require('terser');
+const pluginLocalRespimg = require('eleventy-plugin-local-respimg');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
@@ -9,7 +10,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('images');
   eleventyConfig.addPassthroughCopy('posts/*/uploads/*');
   eleventyConfig.addPassthroughCopy('admin');
-    eleventyConfig.addPassthroughCopy('sw.js');
+  eleventyConfig.addPassthroughCopy('sw.js');
   eleventyConfig.addPassthroughCopy('manifest.json');
 
   //minify CSS filter for inline injection
@@ -65,4 +66,28 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('pagedPosts', (collectionApi) => {
     return collectionApi.getFilteredByTag('post').reverse().slice(4);
   });
+
+  // eleventyConfig.addPlugin(pluginLocalRespimg, {
+  //   folders: {
+  //     source: '', // Folder images are stored in
+  //     output: '', // Folder images should be output to
+  //   },
+  //   images: {
+  //     resize: {
+  //       min: 250, // Minimum width to resize an image to
+  //       max: 1500, // Maximum width to resize an image to
+  //       step: 150, // Width difference between each resized image
+  //     },
+  //     gifToVideo: false, // Convert GIFs to MP4 videos
+  //     sizes: '100vw', // Default image `sizes` attribute
+  //     lazy: true, // Include `loading="lazy"` attribute for images
+  //     additional: [
+  //       // Globs of additional images to optimize (won't be resized)
+  //       '',
+  //     ],
+  //     watch: {
+  //       src: '', // Glob of images that Eleventy should watch for changes to
+  //     },
+  //   },
+  // });
 };
