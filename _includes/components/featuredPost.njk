@@ -10,9 +10,9 @@
     <h3>
       <a href="{{ featuredPost.url }}">{{ featuredPost.data.title }}</a>
     </h3>
-    <time datetime="{{ featuredPost.data.date | htmlDateString }}">{{ featuredPost.data.date | readableDate}}</time>
+    <small><time datetime="{{ featuredPost.data.date | htmlDateString }}">{{ featuredPost.data.date | readableDate}}</time></small>
     <br>―
-    {{- featuredPost.templateContent | truncate(75, true, "...") | safe -}}
+    {{- featuredPost.templateContent | truncate(70, true, "...") | safe -}}
     <br><br>
     <a href="{{ featuredPost.url }}" class="btn">read more →</a>
   </div>

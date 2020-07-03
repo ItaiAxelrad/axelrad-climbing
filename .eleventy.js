@@ -9,7 +9,7 @@ module.exports = function (eleventyConfig) {
   // add passthrough files
   eleventyConfig.addPassthroughCopy('images');
   eleventyConfig.addPassthroughCopy('posts/*/uploads/*');
-  eleventyConfig.addPassthroughCopy('admin');
+  eleventyConfig.addPassthroughCopy('config.yml');
   eleventyConfig.addPassthroughCopy('sw.js');
   eleventyConfig.addPassthroughCopy('manifest.json');
 
