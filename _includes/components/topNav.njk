@@ -19,5 +19,6 @@
     {%- for entry in collections.pages -%}
       <a href="{{ entry.url | url }}" {% if page.url == entry.url %} class="active" {% endif %}>{{ entry.data.title }}</a>
     {%- endfor -%}
+    <button id="schemeBtn" class="btn">🔆</button>
   </div>
 </nav>
