@@ -2,7 +2,14 @@
   <div class="previous-page">
     {%- if pagination.href.previous %}
       <a href="{{ pagination.href.previous }}">
-        ← Previous Page</a>
+        <svg
+          class="icon"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="/images/defs.svg#chevron_left"></use>
+  </svg> Previous Page</a>
     {%- else %}
       <a href="/">
   ← Previous Page</a>
@@ -10,7 +17,15 @@
   </div>
   <div class="next-page">
     {%- if pagination.href.next %}
-      <a href="{{ pagination.href.next }}">Next Page →</a>
+      <a href="{{ pagination.href.next }}">Next Page <svg
+          class="icon"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="/images/defs.svg#chevron_right"></use>
+  </svg>
+  </a>
       {%- else %}
       {%- endif %}
     </div>

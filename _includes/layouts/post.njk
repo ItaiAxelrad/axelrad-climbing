@@ -6,8 +6,10 @@ layout: layouts/base.njk
 
   <header class="h-card">
     <h1 class="p-name">{{ title }}</h1>
-    Posted on <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address class="p-name">{{- author }}
-      <address></header>
+    <small>
+    Posted on <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address class="p-name">{{- author }}</address>
+    </small>
+    </header>
 
       <div class="e-content">
         {{ content | safe}}

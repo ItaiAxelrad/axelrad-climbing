@@ -14,6 +14,13 @@
     <br>―
     {{- featuredPost.templateContent | truncate(70, true, "...") | safe -}}
     <br><br>
-    <a href="{{ featuredPost.url }}" class="btn">read more →</a>
+    <a href="{{ featuredPost.url }}" class="btn">read more <svg
+          class="icon"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="/images/defs.svg#chevron_right"></use>
+  </svg></a>
   </div>
 </div>
