@@ -7,20 +7,21 @@
     loading="lazy"
 />
   <div class="post-title">
+  <small class="block"><time datetime="{{ featuredPost.data.date | htmlDateString }}">{{ featuredPost.data.date | readableDate}}</time></small>
     <h3>
       <a href="{{ featuredPost.url }}">{{ featuredPost.data.title }}</a>
     </h3>
-    <small><time datetime="{{ featuredPost.data.date | htmlDateString }}">{{ featuredPost.data.date | readableDate}}</time></small>
-    <br>―
-    {{- featuredPost.templateContent | truncate(70, true, "...") | safe -}}
-    <br><br>
-    <a href="{{ featuredPost.url }}" class="btn">read more <svg
+    {{- featuredPost.templateContent | truncate(100, true, "...") | safe -}}
+    
+    <p>
+    <a href="{{ featuredPost.url }}" class="read-more btn">read more <svg
           class="icon"
           viewBox="0 0 24 24"
           aria-hidden="true"
           focusable="false"
         >
           <use xlink:href="/images/defs.svg#chevron_right"></use>
-  </svg></a>
+  </svg></a></p>
+  
   </div>
 </div>
