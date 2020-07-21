@@ -10,15 +10,13 @@ location: ''
 tags: ['Axelrad', 'Bouldering', 'California', 'highball', "Potter's Point", 'sandstone', 'Santa Barbara']
 ---
 
-Last weekend I headed out to Potter's Point with Itai and Cody in order to explore a new area and meet up with Joe. Unfortunately we got lost on the way in, and spent an extra hour in the car fighting off feelings of frustration and motion sickness. After our prolonged tour of the Santa Barbara hills we managed to locate the crag with enough time for a solid half day of climbing. 
+Last weekend I headed out to Potter's Point with Itai and Cody in order to explore a new area and meet up with Joe. Unfortunately we got lost on the way in, and spent an extra hour in the car fighting off feelings of frustration and motion sickness. After our prolonged tour of the Santa Barbara hills we managed to locate the crag with enough time for a solid half day of climbing.
 
-![image alt](uploads/IMG_3436.jpg)*The area classic, Debra (V8), turned out to be very enjoyable. The line features fun movement, a committing crux, and a proud topout. Itai and I managed to put it down in a couple of goes, and Cody got agonizingly close.*
+![image alt](uploads/IMG_3436.jpg)
+
+The area classic, Debra (V8), turned out to be very enjoyable. The line features fun movement, a committing crux, and a proud topout. Itai and I managed to put it down in a couple of goes, and Cody got agonizingly close.
 
 ![image alt](uploads/IMG_3439.jpg)*Cody working out the moves on Debra*
-
-[
-
-](http://4.bp.blogspot.com/-VxafTfB1b44/VpwUocdczdI/AAAAAAAACCk/nyzmJB_daBQ/s1600/IMG_3439.jpg)
 
 ![image alt](uploads/IMG_3429-2.jpg)*Debra*
 

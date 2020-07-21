@@ -41,4 +41,3 @@ We met up with Laura Griffiths and a bunch of Organic pads to get some shots for
 ![image alt](uploads/14.jpg)
 
 ![image alt](uploads/15.jpg)
-

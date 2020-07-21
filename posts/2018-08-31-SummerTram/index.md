@@ -26,4 +26,3 @@ After that we were able to find the cluster of boulders we searched for earlier.
 It was nice to get back out in the mountains and explore. See you out there!
 
 \- Eden
-

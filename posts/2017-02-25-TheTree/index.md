@@ -14,7 +14,7 @@ We had to take advantage of some dry weather this last weekend, so Itai, Cody an
 
 ![image alt](uploads/IMG_1418.JPG)
 
-We woke up fairly early on Saturday morning after a cold desert night, and the guys made me warm up by leading my first trad climb. Can't believe it took nearly 12 years of climbing! 
+We woke up fairly early on Saturday morning after a cold desert night, and the guys made me warm up by leading my first trad climb. Can't believe it took nearly 12 years of climbing!
 
 ![image alt](uploads/IMG_1459.JPG)
 
@@ -24,11 +24,9 @@ We transitioned from rope to bouldering, and spent some time working on Tidal Wa
 
 ![image alt](uploads/IMG_1436.JPG)
 
-![image alt](uploads/IMG_1437.JPG)*Itai sticking the crux on Igneous Ambiance (V7)*![image alt](https://4.bp.blogspot.com/-8ILEuy5uu6g/WLT4MUFxFwI/AAAAAAAACOo/X0AsHtJD3gYG4QJuCGB05kl384vQfcqHACEw/s640/IMG_1448.JPG)*Itai snagging the last move on Mulligan Variation (V8)*
+![image alt](uploads/IMG_1437.JPG)*Itai sticking the crux on Igneous Ambiance (V7)*
 
-[](https://4.bp.blogspot.com/-8ILEuy5uu6g/WLT4MUFxFwI/AAAAAAAACOo/X0AsHtJD3gYG4QJuCGB05kl384vQfcqHACEw/s1600/IMG_1448.JPG)
-
-[](https://4.bp.blogspot.com/-8ILEuy5uu6g/WLT4MUFxFwI/AAAAAAAACOo/X0AsHtJD3gYG4QJuCGB05kl384vQfcqHACEw/s1600/IMG_1448.JPG)
+![image alt](uploads/IMG_1448.JPG)*Itai snagging the last move on Mulligan Variation (V8)*
 
 ![image alt](uploads/IMG_1451.JPG)*And Cody, getting agonizingly close...*
 

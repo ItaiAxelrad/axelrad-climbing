@@ -22,11 +22,13 @@ Last weekend I headed to the Purple Stones with Marina, Jake and Alex. This was 
 
 ![image alt](uploads/GOPR0649.JPG)*"I said, everything is purple (swag)" - A$AP Rocky, Purple Stones local*
 
-By the time we reached the actual climbing destination it was fairly late and we were drained. Nonetheless we had a go at some routes. Here are some photos of the climbs we complained about. 
+By the time we reached the actual climbing destination it was fairly late and we were drained. Nonetheless we had a go at some routes. Here are some photos of the climbs we complained about.
 
 ![image alt](uploads/GOPR0661.JPG)
 
-![image alt](uploads/GOPR0662.JPG)*Alex working out the sequence on some piece of rock*![image alt](uploads/Screen%20shot%202014-07-28%20at%2012.07.55%20PM.jpg)*Group sesh on Purple Prow, V8?*
+![image alt](uploads/GOPR0662.JPG)*Alex working out the sequence on some piece of rock*
+
+![image alt](uploads/Screen%20shot%202014-07-28%20at%2012.07.55%20PM.jpg)*Group sesh on Purple Prow, V8?*
 
 Roses are red,
 
@@ -37,4 +39,3 @@ These boulders were purple,
 I bid you adieu
 
 \- Eden
-

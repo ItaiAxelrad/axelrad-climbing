@@ -23,4 +23,3 @@ After a long lunch break we headed back out to explore the area a bit more. Here
 ![image alt](uploads/IMG_5419.JPG)*Joey on his first outdoor V2!*
 
 ![image alt](uploads/IMG_5423.JPG)*Cody on another slab*
-

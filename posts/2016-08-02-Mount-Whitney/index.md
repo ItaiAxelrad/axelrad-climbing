@@ -10,9 +10,9 @@ location: 'Whitney Portal, CA'
 tags: ['trad', 'Alpine', 'Mount', 'Whitney', 'granite', 'summit', 'mountaineers', 'route']
 ---
 
-After a surreal couple of days in the dust of [Desert Trip](https://deserttrip.com/) we made the moonlight venture up the hill to Tahquitz. Our short morning out on Coffin Nail (5.8) would both commence and conclude our 'training' for an attempt at the East Buttress of Mount Whitney. What could possibly go wrong?
+After a surreal couple of days in the dust of [Desert Trip](https://deserttrip.com/), Cody and I made the moonlight venture up the hill to Tahquitz. Our short morning out on Coffin Nail (5.8) would both commence and conclude our 'training' for an attempt at the East Buttress of Mount Whitney. What could possibly go wrong?
 
-A month later, we found ourselves at Whitney Portal, attempting to force the rented bear canister into already brimming bags before commencing our trek. We climbed passed the Ebersbacher ledges and pushed on towards the lakes. First Lower Boy Scout, Upper Boy Scout, and finally Iceberg. We had spent the night by Lower Boy Scout to acclimate.
+A month later, we found ourselves at Whitney Portal, attempting to force the rented bear canister into already brimming bags before beginning our trek. We climbed passed the Ebersbacher ledges and pushed on towards the lakes. First Lower Boy Scout, Upper Boy Scout, and finally Iceberg. We had spent the night by Lower Boy Scout to acclimate.
 
 ![image alt](uploads/IMG_3517.JPG)*So close, yet so far*
 

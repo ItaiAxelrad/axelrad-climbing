@@ -10,7 +10,7 @@ location: ''
 tags: ['Axelrad', 'Bouldering', 'Chaos Canyon', 'Colorado', 'gobot', 'lower', 'Mountain', 'park', 'RMNP', 'v11']
 ---
 
-After the requisite early start and uphill approach, we found ourselves in lower chaos. The crew had planned on meeting at the warm-up boulder but to our surprise it was buried in snow with just the top out holds visible. Our options for the day were cut down by the freakishly snowy winter and spring here in Colorado. 
+After the requisite early start and uphill approach, we found ourselves in lower chaos. The crew had planned on meeting at the warm-up boulder but to our surprise it was buried in snow with just the top out holds visible. Our options for the day were cut down by the freakishly snowy winter and spring here in Colorado.
 
 After showing the first-timers in our group the classic Tomy's Arete, we headed towards the recently broken Deep Puddle Dynamics. I managed a second go send before the 80-degree weather crept in. After some lounging, we jumped on the long and sustained Gobot which I sent in a few tries. It looks like my sporadic sport climbing is paying off!
 
@@ -25,4 +25,3 @@ Video of the above-mentioned climbs (and several more) can be found [here](https
 See you out there!
 
 \- Itai
-

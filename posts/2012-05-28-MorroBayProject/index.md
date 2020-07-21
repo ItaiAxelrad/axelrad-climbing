@@ -9,6 +9,7 @@ id: 3598890732947104359
 location: ''
 tags: ['Bay', 'Morro', 'Project']
 ---
+
 This weekend, Joe showed me the cave project he found at Morro Bay. The low roof lies just off Morro Rock, in a field of poison oak. Joe had cleaned and tried the project several times before, but could not figure out the last move. We went back to the project hoping to unlock the last move.
 
 ![image alt](uploads/IMG_3286.JPG)
@@ -16,4 +17,3 @@ This weekend, Joe showed me the cave project he found at Morro Bay. The low roof
 We were unable to stick the last move, but linked the middle moves of the problem a few times. I am sure we will return to the project to figure out the last move soon though.
 
 \- Itai
-

@@ -18,7 +18,7 @@ I have never truly projected anything in my 14 years of climbing. I tell myself 
 
 As a result, I have been plateaued at the same grade for over 8 years - most of my climbing career. How can that be? I feel much more technical and experienced now but have nothing to show for it in terms of progress in difficulty. Sure, I have a better looking ‘pyramid’ but the tip is looking awfully dull.
 
-### Enter The Project 
+### Enter The Project
 
 When it comes to test-pieces of a generation, Jade stands out among the rest. In recent years, the climb has seen many quick ascents by the up and coming freaks including a flash by none other than Adam Ondra. While it’s no longer one of the hardest climbs around, it’s still iconic in my eyes.
 
@@ -26,9 +26,7 @@ When it comes to test-pieces of a generation, Jade stands out among the rest. In
 
 My first day working the climb I surprised myself by sticking “the move” - the definitive crux move that perhaps warrants a V13 grade on it’s own. I quickly rehearsed the upper section and began trying it from the start with high hopes. While I had a few good attempts, the rain rolled in and chased us away. The next couple of sessions I either immediately split my tips or battled rain and gale force winds. The first snow fell last week, and with it my chances of completing the climb this season.
 
-![image alt](uploads/IMG_0165.jpg)*Jade: 1
-|
-Itai: 0*
+![image alt](uploads/IMG_0165.jpg)*Jade: 1 | Itai: 0*
 
 ### Uncertainty
 
@@ -41,4 +39,3 @@ While projecting inherently requires perseverance, it would be easy with guarant
 Till next time,
 
 Itai
-

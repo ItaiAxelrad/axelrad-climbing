@@ -24,7 +24,7 @@ By mid-week we had spent a few sessions at Gibb's cave, where Itai sent Black Ho
 
 ![image alt](uploads/IMG_2861.jpg)*Me on Black Hole*
 
-On the crowded days we found refuge in the North Wall Boulders, where we got to explore new areas. Itai and I also began working out the moves on Perfect Cave (V11) which we both eventually sent. 
+On the crowded days we found refuge in the North Wall Boulders, where we got to explore new areas. Itai and I also began working out the moves on Perfect Cave (V11) which we both eventually sent.
 
 ![image alt](uploads/IMG_2878.jpg)
 
@@ -40,7 +40,7 @@ Jovanna joined us on Thursday and got to see the forest for the first time! :)
 
 ![image alt](uploads/IMG_2935.jpg)
 
-It rained Sunday night, which forced a rest day. We decided to hike the Chief since the smoke was clearing out. The views did not disappoint! 
+It rained Sunday night, which forced a rest day. We decided to hike the Chief since the smoke was clearing out. The views did not disappoint!
 
 ![image alt](uploads/IMG_2930.jpg)*View from the top!*
 
@@ -50,9 +50,8 @@ Our flight out of Vancouver was scheduled for 8:00pm, which was just enough time
 
 ![image alt](uploads/IMG_2962.jpg)*Itai on Resurrection (V9)*
 
-As always, it was hard to leave the forest and I can't wait to go back! 
+As always, it was hard to leave the forest and I can't wait to go back!
 
-Itai and Cody are still up there, so stay tuned for [Part II](http://www.axelradclimbing.com/2017/08/squamish-part-ii.html)
+Itai and Cody are still up there, so stay tuned for Part II.
 
 ![image alt](uploads/IMG_2932.jpg)
-

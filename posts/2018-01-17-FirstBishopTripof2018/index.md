@@ -16,7 +16,9 @@ Marina, Itai, and I took advantage of a three day weekend and drove out to Bisho
 
 We started off at Marina's project, High Plains Drifter (V7) where she quickly got her high point.
 
-![image alt](uploads/IMG_5405.JPG)*Marina working High Plains Drifter (V7)*After the midday session we headed out to the Bardini Boulders so Itai could revisit A Maze of Death (V12). After getting reacquainted with the movement he was able to grab the send!
+![image alt](uploads/IMG_5405.JPG)*Marina working High Plains Drifter (V7)*
+
+After the midday session we headed out to the Bardini Boulders so Itai could revisit A Maze of Death (V12). After getting reacquainted with the movement he was able to grab the send!
 
 ![image alt](uploads/7650975184_IMG_3825.JPG)*Itai sending A Maze of Death (V12)*
 

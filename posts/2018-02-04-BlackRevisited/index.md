@@ -18,4 +18,3 @@ I seem to have forgotten how good Black Mountain is. The rock quality is usually
 ![image alt](uploads/IMG_5591.JPG)*Itai on Teahupoo*
 
 ![image alt](uploads/IMG_5593.JPG)*Itai on Howl's Moving Castle*
-

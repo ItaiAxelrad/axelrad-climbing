@@ -10,9 +10,11 @@ location: ''
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Competition', 'Five Ten', 'Itai', 'Santa Barbara']
 ---
 
-The new Santa Barbara Rock Gym hosted a competition this past Saturday, so Emily and I took a break from studying and drove down. They had great climbs and awesome prizes. 
+The new Santa Barbara Rock Gym hosted a competition this past Saturday, so Emily and I took a break from studying and drove down. They had great climbs and awesome prizes.
 
-![image alt](uploads/IMG_2548.JPG)*Itai finishing up a climb. Photo by Emily*![image alt](uploads/IMG_6544.JPG)*I won a rope!*
+![image alt](uploads/IMG_2548.JPG)*Itai finishing up a climb. Photo by Emily*
+
+![image alt](uploads/IMG_6544.JPG)*I won a rope!*
 
 Thank you SBRG!
 

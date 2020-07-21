@@ -16,12 +16,10 @@ Cody, Marina, Jake and I left LA’s wet concrete for a short, but much needed, 
 
 ![image alt](uploads/IMG_5816.JPG)*Jake with an impressive flash of The Chube*
 
-![image alt](uploads/487010_10151208748528382_229822770_n.jpg)*Itai, (not getting any farther than where he is at the moment this photo was taken) on Iron Resolution.*
-Photo by Marina.
+![image alt](uploads/487010_10151208748528382_229822770_n.jpg)*Itai, (not getting any farther than where he is at the moment this photo was taken) on Iron Resolution. Photo by Marina.*
 
 ![image alt](uploads/IMG_5826.jpg)*Cody gettin’ high on High Noon*
 
 Hope everyone has/had a Happy Hanukah, Merry Christmas and Holy Kwanzaa!
 
 \- Itai
-

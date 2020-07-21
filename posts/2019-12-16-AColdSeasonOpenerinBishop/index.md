@@ -27,4 +27,3 @@ Here's a few photos from the trip...
 ![image alt](uploads/IMG_0448.jpg)*Ben sending High Plains Drifter (V7)*
 
 ![image alt](uploads/IMG_0412.jpg)*The walk back from the Pollen Grains*
-

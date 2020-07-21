@@ -16,7 +16,8 @@ This past weekend Jovanna and I headed up to Yosemite to camp, hike, climb, and 
 
 ![image alt](uploads/IMG_0731.jpg)*Holding the crux deadpoint on Detached (V8)*
 
-![image alt](uploads/IMG_0728.jpg)*Me on The Flakes (V1)*![image alt](uploads/IMG_0719.JPG)*Jovanna, enjoying the view after topping out her first outdoor V1*
+![image alt](uploads/IMG_0728.jpg)*Me on The Flakes (V1)*
+
+![image alt](uploads/IMG_0719.JPG)*Jovanna, enjoying the view after topping out her first outdoor V1*
 
 Can't wait to come back here in fall!
-

@@ -10,13 +10,13 @@ location: ''
 tags: ['Axelrad', 'black mamba', 'Bouldering', 'Climbing', 'Eden', 'Five', 'Five Ten', 'granite', 'Itai', 'Ten', 'Tramway']
 ---
 
-Itai and I headed up to Tramway on Saturday for the first time in a year. We decided to start the day by jumping on our project - Black Mamba (V12). This line adds a sit start to Stretch Armstrong, a low percentage one-move-wonder V10. We both got agonizingly close, falling on the last move many times. Definitely feels like it'll go down this summer! 
+Itai and I headed up to Tramway on Saturday for the first time in a year. We decided to start the day by jumping on our project - Black Mamba (V12). This line adds a sit start to Stretch Armstrong, a low percentage one-move-wonder V10. We both got agonizingly close, falling on the last move many times. Definitely feels like it'll go down this summer!
 
 ![image alt](uploads/IMG_2075.jpg)*Screengrab of Itai on Black Mamba (V12)*
 
 ![image alt](uploads/IMG_2064.jpg)*Me on the same*
 
-After working Black Mamba for a while, we headed up the hill to the Icebergs to jump on Greenpeace Sit (V10) and Science Friction (V10). We made quick work of both! 
+After working Black Mamba for a while, we headed up the hill to the Icebergs to jump on Greenpeace Sit (V10) and Science Friction (V10). We made quick work of both!
 
 ![image alt](uploads/IMG_2069.JPG)*Itai sending Greenpeace Sit (V10)*
 

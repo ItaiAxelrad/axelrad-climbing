@@ -14,7 +14,7 @@ The first trip of the season had been on everyone’s mind for quite some time. 
 
 ![image alt](uploads/IMG_5636.JPG)
 
-We drove up Friday afternoon and met up with some of Joe’s friends. The next morning we warmed up in the Buttermilks main area before making our way into the Pollen Grains. 
+We drove up Friday afternoon and met up with some of Joe’s friends. The next morning we warmed up in the Buttermilks main area before making our way into the Pollen Grains.
 
 ![image alt](uploads/IMG_5580.JPG)*Cody, sending Smooth Shrimp (V6)*
 
@@ -24,7 +24,7 @@ It had been years since I climbed in the Pollen Grains, and I was excited to get
 
 ![image alt](uploads/IMG_5586.jpg)*Cody dunking on Suspended in Silence (V5)*
 
-We had a fun session on the tricky Lydia’s Mouth, which took everyone more than a few goes to figure out. Then, after a few hopeful attempts on the stunning Specter, we moved to the equally impressive Jedi Mind Tricks. 
+We had a fun session on the tricky Lydia’s Mouth, which took everyone more than a few goes to figure out. Then, after a few hopeful attempts on the stunning Specter, we moved to the equally impressive Jedi Mind Tricks.
 
 ![image alt](uploads/IMG_5603.JPG)*Patrick, staring down the next hold on Lydia's Mouth (V3)*
 
@@ -40,9 +40,7 @@ Sunday was a hot and sendfull half-day at the Happy Boulders that included a pad
 
 It was a great start to the season. As always, I can't wait to be back.
 
-The Swarm: 1
-
-Me: 0
+The Swarm: 1 | Me: 0
 
 Round 2: Thanksgiving
 

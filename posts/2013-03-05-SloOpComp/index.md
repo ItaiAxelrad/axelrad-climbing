@@ -14,16 +14,12 @@ The annual Citizen's / CCS (Collegiate Climbing Series) Slo Op competition was h
 
 ![image alt](uploads/IMG_6432.JPG)*The crowd*
 
-| ![image alt](uploads/IMG_6449.jpg)*Conor on Men's 1*
+![image alt](uploads/IMG_6449.jpg)*Conor on Men's 1*
 
 ![image alt](uploads/IMG_6483.JPG)*Nic on Men's 2*
 
-![image alt](uploads/IMG_6515.jpg)
+![image alt](uploads/IMG_6515.jpg)*Chris and I neck and neck on Men's 3*
 
-Chris and I neck and neck on Men's 3 
-
-Congratulations to Chris and Karsyn on first place and a big thanks to the amazing volunteer setting crew. They did a wonderful job and I can’t wait to get back on all the problems I didn’t have time for during the competition.
+Congratulations to Chris and Karsyn on first place and a big thanks to the amazing volunteer setting crew. They did a wonderful job and I can’t wait to get back on all the problems I didn’t have time for during the competition. (Full results can be found at <http://greendoghost.com/sloopclimbing/?page_id=45>)
 
 \- Itai
-
-(Full results can be found at <http://greendoghost.com/sloopclimbing/?page_id=45> )

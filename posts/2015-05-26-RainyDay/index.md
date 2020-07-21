@@ -13,9 +13,14 @@ Isaac and I headed up to Black Mt. Saturday morning, optimistic and ready to cli
 
 ![image alt](uploads/IMG_2382.jpg)*Trying not to slip off of the wet holds on The Last Survivors...(V7).*
 
-Uncut footage of the send
+Find uncut footage of the send on Isaac's YouTube page.
 
-![image alt](uploads/IMG_2384.jpg)*Dead trees in the mist. (Is that the title of a Stephen King novel?)*![image alt](uploads/IMG_2401.jpg)*Trying a dyno on a hard project.*![image alt](uploads/IMG_2366.jpg)*Condensation*It's hard to get upset about getting rained out considering California is in a severe drought, but we managed. A redemption trip is a must!
+![image alt](uploads/IMG_2384.jpg)*Dead trees in the mist. (Is that the title of a Stephen King novel?)*
+
+![image alt](uploads/IMG_2401.jpg)*Trying a dyno on a hard project.*
+
+![image alt](uploads/IMG_2366.jpg)*Condensation*
+
+It's hard to get upset about getting rained out considering California is in a severe drought, but we managed. A redemption trip is a must!
 
 \- Itai
-

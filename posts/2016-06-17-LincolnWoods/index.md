@@ -20,4 +20,4 @@ The fine grained yet sharp granite put us all in our place as we ran the classic
 
 Thanks for playing tour guide, Ike!
 
-\- Itai 
+\- Itai

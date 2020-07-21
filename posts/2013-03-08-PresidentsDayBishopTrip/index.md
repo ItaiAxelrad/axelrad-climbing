@@ -16,7 +16,7 @@ It was a beautiful three-day weekend. The weather was perfect and people flocked
 
 ![image alt](uploads/IMG_6327.JPG)*Cody, testing his balance on Robinson’s Rubber Tester (V0)*
 
-[](http://1.bp.blogspot.com/-Ld2fHLcEpBA/UTosFZufeRI/AAAAAAAAAfk/4uAqZw4mrgk/s1600/IMG_6255.JPG)
+![image alt](uploads/IMG_6255.JPG)
 
 ![image alt](uploads/IMG_6347_2.JPG)*Jason snagging the pinch on Soul Slinger (V9)*
 
@@ -30,9 +30,6 @@ It was a beautiful three-day weekend. The weather was perfect and people flocked
 
 ![image alt](uploads/BishopFeb007_flat.jpg)*Itai attempting The Swarm (V13/14). Photo credit: Jason Morgan*
 
-Thanks for driving, Cody! 
-
-Thanks for the awesome photos, Jason! 
+Thanks for driving, Cody! Thanks for the awesome photos, Jason!
 
 \- Itai
-

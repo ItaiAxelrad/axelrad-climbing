@@ -16,4 +16,3 @@ Quick, impulsive trips to Joshua Tree never get old. Here are some pictures from
 ![image alt](uploads/IMG_5273.JPG)*The length reach on Kandahar*
 
 ![image alt](uploads/IMG_5404.JPG)*Slab Life*
-

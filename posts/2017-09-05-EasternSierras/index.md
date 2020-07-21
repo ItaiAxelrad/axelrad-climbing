@@ -26,7 +26,7 @@ After the morning session we had lunch at Tenya lake, and explored the Tuolumne 
 
 ![image alt](uploads/IMG_3097.JPG)
 
-When it cooled down a bit we decided to make one last stop at Dana Meadows before leaving the park. Dana Meadows doesn't have many boulders, but it's home to One Love (V12), which I wanted to check out. The line fit my style perfectly and I was able to send it before sunset! 
+When it cooled down a bit we decided to make one last stop at Dana Meadows before leaving the park. Dana Meadows doesn't have many boulders, but it's home to One Love (V12), which I wanted to check out. The line fit my style perfectly and I was able to send it before sunset!
 
 ![image alt](uploads/IMG_3077.jpg)*Me on One Love (V12)*
 
@@ -35,4 +35,3 @@ When it cooled down a bit we decided to make one last stop at Dana Meadows befor
 The next day we stayed "local" and ran up to Way Lake in Mammoth. It was my first time there and I was excited to check it out. Unfortunately the lower areas were teeming with mosquitos and so we decided to approach the less marshy Meadow Boulders from an alternate route (for those familiar with the area). This lead to a long and arduous search. Eventually we found a few of the boulders, but by then we had very little time and energy left. We departed Way Lake with zero notable sends and over 30 collective mosquito bites... but I'm sure I'll be back ;)
 
 \- Eden
-

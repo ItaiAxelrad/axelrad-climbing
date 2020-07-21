@@ -9,6 +9,7 @@ id: 7403796000274816716
 location: ''
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'granite', 'highball', 'Joshua', 'trad', 'Tree']
 ---
+
 Cody and I drove out to Joshua Tree late Friday night to meet up with Joe and Sara. We had a wonderful weekend catching up with friends and mixing it up between bouldering and trad climbing.
 
 The crew collectively had a very successful weekend out in the windy desert.

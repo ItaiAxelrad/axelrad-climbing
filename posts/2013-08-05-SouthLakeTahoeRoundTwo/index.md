@@ -34,7 +34,6 @@ Also, if you're interested in seeing a well-made [vid](http://vimeo.com/16855611
 
 ![image alt](uploads/IMG_6146.JPG)*¡Mucho Tiempo!*
 
-And thanks again Chris for the great photos! 
+And thanks again Chris for the great photos!
 
 \- Eden
-

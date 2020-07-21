@@ -23,4 +23,3 @@ Alex and I made quick work of Barefoot on Sacred Ground (V12), and I ticked off 
 We've earned ourselves some burritos and a rest day, so check in later this week for more!
 
 \- Itai
-

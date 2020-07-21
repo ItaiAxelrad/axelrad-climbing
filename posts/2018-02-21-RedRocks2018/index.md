@@ -10,7 +10,7 @@ location: ''
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'Eden', 'fiveten', 'Itai', 'meadowlark lemon', 'metolius', 'Nevada', 'power slave', 'Red Rocks', 'sandstone']
 ---
 
-We rallied a big crew (Me, Itai, Jovanna, Cody and Wynne) out to Red Rocks for a long weekend of climbing. We spent the first day running around the Kraft Boulders and Gateway Canyon. It was sunny, and warmer than we expected - but we made the best of it! 
+We rallied a big crew (Me, Itai, Jovanna, Cody and Wynne) out to Red Rocks for a long weekend of climbing. We spent the first day running around the Kraft Boulders and Gateway Canyon. It was sunny, and warmer than we expected - but we made the best of it!
 
 ![image alt](uploads/IMG_4088.JPG)*Itai on the classic Plumber's Crack*
 
@@ -20,7 +20,7 @@ We rallied a big crew (Me, Itai, Jovanna, Cody and Wynne) out to Red Rocks for a
 
 ![image alt](uploads/IMG_4121.JPG)*Itai taking a lap on the right side of the cube*
 
-There was a high wind warning in the weather forecast for the second day, but it was only supposed to pick up around noon. Luckily, Itai was able to send Meadowlark Lemon Stand (V12/13) before it got too bad! This climb was one of my goals for the trip, so I knew I'd be back the next day for a final shot at getting it. 
+There was a high wind warning in the weather forecast for the second day, but it was only supposed to pick up around noon. Luckily, Itai was able to send Meadowlark Lemon Stand (V12/13) before it got too bad! This climb was one of my goals for the trip, so I knew I'd be back the next day for a final shot at getting it.
 
 ![image alt](uploads/IMG_4134.JPG)*Itai sending Meadowlark Lemon Stand (V12/13)*
 

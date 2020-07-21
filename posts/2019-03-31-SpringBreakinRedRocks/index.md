@@ -32,7 +32,6 @@ Our last day in Red Rocks was Saturday, and thankfully the temperature dropped a
 
 ![image alt](uploads/IMG_8099.jpg)
 
-Can't wait to get back out there! 
+Can't wait to get back out there!
 
-Eden 
-
+Eden

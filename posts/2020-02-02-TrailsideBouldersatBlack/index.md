@@ -24,4 +24,3 @@ Here are some pictures from the day...
 See you all out there!
 
 \- Eden
-

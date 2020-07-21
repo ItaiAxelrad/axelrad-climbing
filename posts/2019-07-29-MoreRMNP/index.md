@@ -9,6 +9,7 @@ id: 153840134079096312
 location: ''
 tags: ['Alpine', 'Axelrad', 'blood money', 'Bouldering', 'Chaos Canyon', 'Climbing', 'Colorado', 'ethics', 'leave no trace', 'pad', 'RMNP', 'stashing', 'top notch', 'v13']
 ---
+
 If you can ignore the hoards of tourists, Rocky Mountain National Park is a lovely place. I did not think so at first but it has grown on me in the past few weeks. Good times in the alpine with a fine crew of people will do that!
 
 ![image alt](uploads/IMG_0632.JPG)*Striking a pose*
@@ -38,4 +39,3 @@ There are many more articles and forums out there addressing this issue. Feel fr
 Till next time,
 
 \- Itai
-

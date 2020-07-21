@@ -16,4 +16,3 @@ Eden, Marina and I headed out to Tramway with the objective of putting down Blac
 ![image alt](uploads/IMG_5062.JPG)*Mood*
 
 ![image alt](uploads/IMG_5226.jpg)*A screengrab from the send video of Black Mamba (V12).*
-

@@ -25,4 +25,6 @@ Photo by Isaac Palat*
 
 ![image alt](uploads/IMG_4585.JPG)*Itai, on a roof climb (V3)*
 
-![image alt](uploads/IMG_4611.jpg)*Itai climbing another pocket overhang (V5)*\- Itai
+![image alt](uploads/IMG_4611.jpg)*Itai climbing another pocket overhang (V5)*
+
+\- Itai

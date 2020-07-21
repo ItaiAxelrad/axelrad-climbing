@@ -25,4 +25,3 @@ We escaped the summer heat by heading to our usual spot, Tramway! Damon Corso wa
 ![image alt](uploads/IMG_3363.JPG)
 
 ![image alt](uploads/IMG_3364.JPG)
-

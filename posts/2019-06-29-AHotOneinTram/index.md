@@ -9,6 +9,7 @@ id: 7093561005345250255
 location: '1 Tram Way, Palm Springs, CA 92262, USA'
 tags: ['angus', 'Axelrad', 'Bouldering', 'Climbing', 'granite', 'master blaster', 'somewhere in time', 'Tramway']
 ---
+
 This Saturday I met up with Cody at Tramway for a fun day outdoors. We spent most of our time off the main sectors, chasing shade and trying to find a bit of energy. Thankfully the afternoon brought some much needed cloud coverage and wind. Here's a few pics from the day!
 
 ![image alt](uploads/IMG_0601.jpg)*Trying Somewhere in Time (V12) early in the day*

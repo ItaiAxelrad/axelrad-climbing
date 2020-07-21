@@ -14,7 +14,7 @@ Hundreds of climbers gathered at The Gear Co-Op courtyard this Wednesday afterno
 
 ![image alt](uploads/IMG_4490.JPG)*People standing in line to get their posters signed by Chris Sharma*
 
-Chris Sharma, who is one of the four partners opening Sender One, took the stage and showed the crowd clips of his accomplishments this past year. Wes, Wes and Alice, (the other three partners) joined him on stage later to explain the features of their new gym. 
+Chris Sharma, who is one of the four partners opening Sender One, took the stage and showed the crowd clips of his accomplishments this past year. Wes, Wes and Alice, (the other three partners) joined him on stage later to explain the features of their new gym.
 
 The 22,000 square-foot facility includes fifty plus foot lead walls, a world cup competition bouldering arena, yoga / fitness rooms, and a play room called Funtopia. What more can you ask for?
 
@@ -28,11 +28,9 @@ Chris Sharma and his lady, Daila Ojeda, were kind enough to sign some posters fo
 
 ![image alt](uploads/IMG_4494.JPG)*Eden and Daila Ojeda*
 
-![image alt](uploads/IMG_4495.JPG)*
-Itai and Daila*
+![image alt](uploads/IMG_4495.JPG)*Itai and Daila*
 
-![image alt](uploads/IMG_4496.JPG)*(Putaaa.. love, Chris)
-(Venga Bitches, Daila)*
+![image alt](uploads/IMG_4496.JPG)*(Putaaa.. love, Chris) (Venga Bitches, Daila)*
 
 ![image alt](uploads/XGqHRFq_BqvqlHZ1fDku6Q8mvERlGzJfBMm45mAHBaU.jpg)*Between two legends, Chris Sharma and John Long. Photo by Matthew Hulet.*
 

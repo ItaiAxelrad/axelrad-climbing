@@ -23,13 +23,12 @@ I spent what in all likelihood will be my last spring break in Joe's Valley. Dus
 
 ![image alt](uploads/A87ABA34-9F69-41C2-B4D9-37C41C44C78E.jpg)*Kayla on Vertical Ice (V6)*
 
-![image alt](https://4.bp.blogspot.com/-kff4_Xhllmk/WtWZWzn45-I/AAAAAAAAC4E/BJn40ppcUQw9bXkA24N79GR2ihK1HJp8QCLcBGAs/s640/CA48555E-6278-4182-A5E9-82E4381B3E1E.jpg)*Sara topping out the Scary Monsters boulder.*
+![image alt](uploads/CA48555E-6278-4182-A5E9-82E4381B3E1E.jpg)*Sara topping out the Scary Monsters boulder*
 
-![image alt](uploads/D56ED765-9D6E-4A2F-8800-773937580A8D.jpg)*Yet another climb on the Scary Monsters boulder.*
+![image alt](uploads/D56ED765-9D6E-4A2F-8800-773937580A8D.jpg)*Yet another climb on the Scary Monsters boulder*
 
 On the last day, I grabbed a quick send of Pagan Poetry (V11), Beyond Life Sit (V12), and Blackout (V13) for a send off triple double. Check out the video from the trip for more - [Joe's Valley Bouldering](https://www.youtube.com/watch?v=rt1nZMkSDnQ).
 
 Till next time!
 
 \- Itai
-

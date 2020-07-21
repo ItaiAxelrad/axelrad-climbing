@@ -29,4 +29,3 @@ Over the last few weeks I've had the privilege of spending two weekends in Yosem
 See you guys out there!
 
 \- Eden
-

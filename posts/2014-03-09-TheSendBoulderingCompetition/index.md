@@ -10,7 +10,7 @@ location: ''
 tags: ['Andy Lamb', 'Axelrad', 'Bouldering', 'California', 'CCS', 'Climbing', 'Collegiate', 'Competition', 'finals', 'Slo Op', 'the send']
 ---
 
-I made my way to Slo Op on Friday afternoon to help forerun the problems. It was t-minus 15 hours until the annual Slo Op CCS Competition began. The routes were looking great, and the finalists were in for a surprising dyno! 
+I made my way to Slo Op on Friday afternoon to help forerun the problems. It was t-minus 15 hours until the annual Slo Op CCS Competition began. The routes were looking great, and the finalists were in for a surprising dyno!
 
 On Saturday, climbing teams from Cal Poly, Davis, Stanford, Humboldt and Sierra-Nevada drove in to town to compete for the win. Amongst the Stanford crowd was Andy Lamb, fresh off of the ABS Nationals podium. It was a stiff competition with some crazy finals routes!
 
@@ -21,4 +21,3 @@ Disclaimer: This video was not produced by LT11. Please lower your expectations 
 Thank you Slo Op and volunteers for putting on this awesome event each year!
 
 \- Itai
-

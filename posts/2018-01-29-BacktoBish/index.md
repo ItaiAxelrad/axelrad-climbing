@@ -24,8 +24,7 @@ The climb consists of around 4 moves and is a stand-start drop-off, which sounds
 
 ![image alt](uploads/IMG_3944.JPG)*Me sending Social Distortion (V12/13)*
 
-We spent Sunday exclusively in the Buttermilks before surrendering to the heat and heading home. We started our day at
-High Plains Drifter (V7), where Marina got to put in some solid work on her project. We then headed down to Grandma Peabody where I tried my hand at the Mystery (V12). I worked out all the moves but couldn't link it together this time. After that, Jovanna got to jump on some milks classics.
+We spent Sunday exclusively in the Buttermilks before surrendering to the heat and heading home. We started our day at High Plains Drifter (V7), where Marina got to put in some solid work on her project. We then headed down to Grandma Peabody where I tried my hand at the Mystery (V12). I worked out all the moves but couldn't link it together this time. After that, Jovanna got to jump on some milks classics.
 
 ![image alt](uploads/IMG_3946.JPG)*Polish climber friend topping out Pope's Prow in the heat*
 
@@ -40,4 +39,3 @@ I wonder if actual winter temps and conditions will ever come this year? I hope 
 See you out there,
 
 Eden
-

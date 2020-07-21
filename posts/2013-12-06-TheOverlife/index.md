@@ -9,11 +9,11 @@ id: 889461984404642893
 location: ''
 tags: ['Black Mountain', 'Bouldering', 'California', 'Eden', 'Five Ten', 'Itai', 'Overlife']
 ---
+
 Last summer, Rich Salamone and his crew filmed a short video featuring my brother and I climbing at Black Mountain, CA. Check out the video, [The Overlife](http://vimeo.com/81134263). Great job guys!
 
-![image alt](uploads/IMG_5425.JPG)*The Overlife (<http://vimeo.com/81134263>)*
+![image alt](uploads/IMG_5425.JPG)*The Overlife*
 
-Did he fall, or finish the climb? [](http://www.blogger.com/)
+Did he fall, or finish the climb?
 
 \- Itai or Eden?
-

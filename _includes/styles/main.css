@@ -300,8 +300,9 @@ article img {
 }
 
 .tag {
+  display: inline-block;
+  margin: 0.15rem 0;
   padding: 0.25rem 0.5rem;
-  margin: 0.25rem 0;
   color: var(--dark-gray);
   background: var(--light-gray);
   border-radius: var(--radius);

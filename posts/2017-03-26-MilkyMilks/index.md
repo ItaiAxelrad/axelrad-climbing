@@ -9,6 +9,7 @@ id: 556122969207573177
 location: ''
 tags: ['Axelrad', 'bishop', 'buttermilks', 'California', 'flash', 'granite', 'highball', 'Itai']
 ---
+
 It shames me to even mention that it had been over a year since I last set my eyes on the beautiful Buttermilk country. Over a year since my fingers got tested by the large crystals of those perfect granite crimps. Cody and I set forth for Bishop early last Friday despite some questionable weather forecasts, and I'm very glad we did.
 Aside from being a little scared topping out Saigon and Roadside Highball in slight rain when we first arrived, it quickly blew past us and never returned.
 
@@ -20,14 +21,14 @@ The first day ended with the highlight of sending the rarely done Scenic Crank L
 
 The next day Joe and Sara joined us for yet another full day of great climbing which included a flash of Pope's Hat and a few sunset laps on the giant Peabody's aretes.
 
-![image alt](uploads/File_000(2).jpg)*Joe topping out Verdad (V5)*![image alt](https://4.bp.blogspot.com/-mEOAFHCwKuM/WOAheFVWqjI/AAAAAAAACRY/IP3aH0eg13EJ0jux8dnQcK5KQjsaUSzHQCLcB/s640/File_001.jpg)*Itai, pulling out of the roof and onto the tall finish on the flash of Pope's Hat (V10)*
+![image alt](uploads/File_000(2).jpg)*Joe topping out Verdad (V5)*
 
-[](https://4.bp.blogspot.com/-mEOAFHCwKuM/WOAheFVWqjI/AAAAAAAACRY/IP3aH0eg13EJ0jux8dnQcK5KQjsaUSzHQCLcB/s1600/File_001.jpg)
-
-[](https://4.bp.blogspot.com/-mEOAFHCwKuM/WOAheFVWqjI/AAAAAAAACRY/IP3aH0eg13EJ0jux8dnQcK5KQjsaUSzHQCLcB/s1600/File_001.jpg)
+![image alt](uploads/File_001.jpg)*Itai, pulling out of the roof and onto the tall finish on the flash of Pope's Hat (V10)*
 
 ![image alt](uploads/File_000(1).jpg)*Joe, starting his long quest up Grandpa Peabody's East Arete (5.10a)*
 
-![image alt](uploads/File_000.jpg)*Itai, nearing the top of East Arete (5.10) as the sun sets on the Milks.*My fingers are still recovering from the non-stop bouldering weekend but as always, I can't wait to go back.
+![image alt](uploads/File_000.jpg)*Itai, nearing the top of East Arete (5.10) as the sun sets on the Milks.*
+
+My fingers are still recovering from the non-stop bouldering weekend but as always, I can't wait to go back.
 
 \- Itai

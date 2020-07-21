@@ -27,4 +27,3 @@ It was getting later and we decided to start heading out and back to the tram. B
 ![image alt](uploads/IMG_3571.JPG)*Sending Black Mamba (V12)*
 
 \- Eden
-

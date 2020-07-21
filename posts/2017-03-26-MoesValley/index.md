@@ -10,7 +10,7 @@ location: ''
 tags: ['Axelrad', 'Climbing', 'direct', 'Five', 'Five Ten', 'israil', 'moes valley', 'sandstone', 'show of hands', 'Ten', 'utah']
 ---
 
-Jovanna and I headed up to Zion for a short, but much deserved (on her part) vacation. We decided to make a quick pit-stop in Moe's Valley during our Utah adventure. At first it was tough to navigate due to the fact that we did not have a guidebook, but we managed to find the valley of boulders and enjoyed a full day of climbing. We were not disappointed! 
+Jovanna and I headed up to Zion for a short, but much deserved (on her part) vacation. We decided to make a quick pit-stop in Moe's Valley during our Utah adventure. At first it was tough to navigate due to the fact that we did not have a guidebook, but we managed to find the valley of boulders and enjoyed a full day of climbing. We were not disappointed!
 
 ![image alt](uploads/FullSizeRender.jpg)*View of the valley*
 
@@ -37,4 +37,3 @@ We spent the rest of the day trying out boulder problems and exploring the new a
 One day was not enough. I can't wait to be back!
 
 \- Eden
-

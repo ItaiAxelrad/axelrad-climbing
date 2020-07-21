@@ -9,6 +9,7 @@ id: 5345359962296384214
 location: ''
 tags: ['Axelrad', 'Bouldering', 'crimps', 'hueco', 'tanka', 'texas', 'v10']
 ---
+
 The last day or two of the trip involved more lounging than climbing. Skin, energy, and sends were running thin on our final tour to East Mountain. Thankfully, the crew had just enough left in the tank to get a send train on the sharp and crimpy Wu-Tang.
 
 ![image alt](uploads/IMG_3388%202.jpg)*Just moments before my blood sacrifice to Wu-Tang (V10). Photo by Ben Rampsee*

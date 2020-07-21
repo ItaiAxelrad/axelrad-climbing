@@ -15,7 +15,7 @@ Here are some uncharacteristic pictures of scenery, hiking, traditional climbing
 
 ![image alt](uploads/IMG_6373.jpg)*A Sierra Nevada sunset*
 
-![image alt](uploads/IMG_6084.jpg)*Taking in the view on pitch two of The Trough on Tahquitz Rock.*
+![image alt](uploads/IMG_6084.jpg)*Taking in the view on pitch two of The Trough on Tahquitz Rock*
 
 ![image alt](uploads/IMG_6200.jpg)*Alpine start for Lone Pine Peak (upper left)*
 
@@ -25,13 +25,10 @@ Here are some uncharacteristic pictures of scenery, hiking, traditional climbing
 
 ![image alt](uploads/IMG_6392.jpg)*Gem Lake on the approach trail to Bear Creek Spire*
 
-![image alt](https://4.bp.blogspot.com/-S7qGDRAJITw/XECohTSTbPI/AAAAAAAAQoQ/Lvb5NPe_UdAsPq6DskjY9bfMlaEahyB5gCLcBGAs/s640/IMG_6397.jpg)*The final push towards the Bear Creek Spire summit via The Northeast Ridge*
-
-[](https://4.bp.blogspot.com/-S7qGDRAJITw/XECohTSTbPI/AAAAAAAAQoQ/Lvb5NPe_UdAsPq6DskjY9bfMlaEahyB5gCLcBGAs/s1600/IMG_6397.jpg)
+![image alt](uploads/IMG_6397.jpg)*The final push towards the Bear Creek Spire summit via The Northeast Ridge*
 
 ![image alt](uploads/IMG_6395.jpg)*Views down the valley from the Spire*
 
 ![image alt](uploads/IMG_6406.jpg)*The beautiful but mosquito infested (not pictured) hike out*
 
 ![image alt](uploads/IMG_6408.jpg)*The massif (with Bear Creek Spire farthest back and left)*
-

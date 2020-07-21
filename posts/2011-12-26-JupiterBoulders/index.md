@@ -10,29 +10,15 @@ location: ''
 tags: ['Black Mountain', 'Bouldering', 'California', 'jupiter']
 ---
 
-Finals were done and it was time to get outdoors. We teamed up with Isaac and Anthony and
+Finals were done and it was time to get outdoors. We teamed up with Isaac and Anthony and planned on heading up to Black Mountain on Sunday. But when we reached Banning we could see that the mountain was still covered in snow, and some dark rain clouds were moving in. We cut our losses and opted for the Jupiter Boulders, which are lower in elevation.
 
-planned on heading up to Black Mountain on Sunday. But when we reached Banning we
+![image alt](uploads/view.JPG)*Here is a view from slightly up the canyon*
 
-could see that the mountain was still covered in snow, and some dark rain clouds were moving in.
+Anthony was our guide since he was the only one who was familiar with the area. He quickly lead us to Air Flash Gordon (V8), and Unemployed Black Astronaut (V9). After flashing Air Flash Gordon (left), and snagging the V9 on the second go we hiked over to the Supernova Boulder.
 
-We cut our losses and opted for the Jupiter Boulders, which are lower in elevation.
+![image alt](uploads/DSC_0277.jpg)*Photo Credit Isaac Palatt*
 
-![image alt](uploads/view.JPG)
-
-Here is a view from slightly up the canyon
-
-Anthony was our guide since he was the only one who was familiar with the area. He quickly lead
-
-us to Air Flash Gordon (V8), and Unemployed Black Astronaut (V9). After flashing Air Flash Gordon (left), and snagging the V9 on the second go we hiked over to the Supernova Boulder.
-
-![image alt](uploads/DSC_0277.jpg)
-
-(Photo Credit Isaac Palatt)
-
-Supernova is a compression problem that starts on a blunt arete and tops out on a slab. After sending
-
-the problem last week, Anthony assured us that it was one of the best climbs in the area. Itai, making quick work of Supernova (V10):
+Supernova is a compression problem that starts on a blunt arete and tops out on a slab. After sending the problem last week, Anthony assured us that it was one of the best climbs in the area. Itai, making quick work of Supernova (V10):
 
 ![image alt](uploads/IMG_2467.JPG)
 
@@ -54,21 +40,14 @@ the problem last week, Anthony assured us that it was one of the best climbs in 
 
 ![image alt](uploads/IMG_2477.JPG)
 
-After some trial and error Isaac and I were able to unlock the problem. Here are the videos of the sends:
+After some trial and error Isaac and I were able to unlock the problem. [Here is a link of isaac sending it](http://www.youtube.com/watch?v=F0Gci-LlBFs&context=C3d2f080ADOEgsToPDskKHcLZ7d1nSRbya0p-u0VLx).
 
-[Here](http://www.youtube.com/watch?v=F0Gci-LlBFs&context=C3d2f080ADOEgsToPDskKHcLZ7d1nSRbya0p-u0VLx) is a link of isaac sending it. 
-
-Then we headed down toward an aesthetic boulder that was home to some great climbs, including Suck My Venus (V8) and Lick Uranus (V11). After a flash of the V8 by both Itai and I, and a send on the third go by Isaac, we all began working Lick Uranus. 
+Then we headed down toward an aesthetic boulder that was home to some great climbs, including Suck My Venus (V8) and Lick Uranus (V11). After a flash of the V8 by both Itai and I, and a send on the third go by Isaac, we all began working Lick Uranus.
 
 ![image alt](uploads/DSC_0306-1.jpg)
 
-![image alt](uploads/DSC_0327.jpg)
+![image alt](uploads/DSC_0327.jpg)*Eden and Itai flashing, photo cred Isaac Palatt*
 
-(Eden and Itai flashing, photo cred Isaac Palatt)
+![image alt](uploads/IMG_2505.JPG)*Isaac sending*
 
-![image alt](uploads/IMG_2505.JPG)
-
-(Isaac sending)
-
-But by the time we had unlocked the beta to the eleven we were all out of energy. So we left it for next time and headed for some good Thai food on the way back home. 
-
+But by the time we had unlocked the beta to the eleven we were all out of energy. So we left it for next time and headed for some good Thai food on the way back home.

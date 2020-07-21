@@ -26,11 +26,10 @@ I got to open Mandala Sit (V13) as a potential project and Jovanna made quick wo
 
 ![image alt](uploads/IMG_1929.jpg)*Trying to piece together the moves of Form Destroyer (V12)*
 
-The second day felt considerably warmer but we managed some good sessions including Mandala Sit (V13) and Flyboy Arete (V5) before heading home in the afternoon. This trip definitely helped us get excited for the next one! 
+The second day felt considerably warmer but we managed some good sessions including Mandala Sit (V13) and Flyboy Arete (V5) before heading home in the afternoon. This trip definitely helped us get excited for the next one!
 
 ![image alt](uploads/IMG_6939%202.jpg)*Spanned out on Mandala Sit (V13)*
 
 ![image alt](uploads/IMG_6916%202.jpg)*Taking a goodbye lap on The Rising (V4)*
 
-See you out there! 
-
+See you out there!

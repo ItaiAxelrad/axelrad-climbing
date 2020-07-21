@@ -9,6 +9,7 @@ id: 6386287449275371723
 location: ''
 tags: ['Axelrad', 'boulder', 'Bouldering', 'Colorado', 'flash', 'granite', 'v12', 'wild']
 ---
+
 Perhaps it's time for a short update.
 
 The past few months in Colorado have seen little climbing due to snow, injuries, work or general lack of psyche. Despite the excuses above, I've still managed to visit many local crags like Wild Basin, Boulder Canyon, Eleven Mile Canyon, Thunder Ridge, Eldorado Canyon, Clear Creek, Poudre Canyon, Horsetooth Reservoir, and Shelf Road (gross).

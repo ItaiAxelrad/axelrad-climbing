@@ -20,6 +20,6 @@ After four amazing years, it is time to say goodbye to San Luis Obispo. Luckily,
 
 I know Bishop Peak is not world class climbing, but I forget how spoiled I have been to have some rock 5 minutes from my apartment. I’m going to miss this place.
 
-Goodbye San Luis Obispo. 
+Goodbye San Luis Obispo.
 
 \- Itai

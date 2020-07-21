@@ -9,6 +9,7 @@ id: 6824819391289044924
 location: ''
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'granite', 'highball', 'Itai', 'Joshua', 'trad', 'traditional', 'Tree']
 ---
+
 As the title of this post suggests, it was a cold and windy weekend out in the desert. Cody and I arrived at Intersection Rock and were happy to that find Toe Jam and other classic trad lines were empty. We soon discovered why. As if the 30 degree weather was not enough to convince us to climb in our puffies, a not so gentle 40-50 mile wind storm threatened to blow us off the climb.
 
 We switched gears and tried out some pebble wrestling at the pig pen boulder in hopes of some protection from the wind. We had no such luck but bumped into a group of old friends from San Luis Obispo.
