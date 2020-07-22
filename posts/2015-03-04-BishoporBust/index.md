@@ -34,7 +34,7 @@ Carlo made a commendable send before the 50-mile an hour gusts of wind, which ca
 
 ![image alt](uploads/IMG_1518.jpg)*Alex Biale, on the last committing move of his project.*
 
-After some valiant efforts and unnerving drops, Alex and the rest of the crew had to call it a night.Meanwhile, just to the left of Evilution, Toru Nakajima was making some of the hardest moves in America look like no big deal. After silently sipping some tea, he nearly sent Lucid Dreaming, wearing socks and capris pants. I scraped my jaw off the ground.
+After some valiant efforts and unnerving drops, Alex and the rest of the crew had to call it a night. Meanwhile, just to the left of Evilution, Toru Nakajima was making some of the hardest moves in America look like no big deal. After silently sipping some tea, he nearly sent Lucid Dreaming, wearing socks and capris pants. I scraped my jaw off the ground.
 
 What a truly humbling and inspiring climbing session.
 

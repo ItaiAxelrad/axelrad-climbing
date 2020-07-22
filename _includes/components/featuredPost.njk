@@ -1,16 +1,16 @@
 {%- set featuredPost = collections.post | last -%}
 <div class="post featured-post">
+<a href="{{ featuredPost.url }}">
   <img
     src="{{ featuredPost.url }}uploads/{{ featuredPost.data.thumbnail }}"
     alt="{{ featuredPost.data.title }}"
     class="featured-image"
     loading="lazy"
 />
+</a>
   <div class="post-title">
   <small class="block"><time datetime="{{ featuredPost.data.date | htmlDateString }}">{{ featuredPost.data.date | readableDate}}</time></small>
-    <h3>
-      <a href="{{ featuredPost.url }}">{{ featuredPost.data.title }}</a>
-    </h3>
+    <a href="{{ featuredPost.url }}"><h3>{{ featuredPost.data.title }}</h3></a>
     {{- featuredPost.templateContent | truncate(100, true, "...") | safe -}}
     
     <p>

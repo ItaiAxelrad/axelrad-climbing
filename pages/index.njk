@@ -13,20 +13,20 @@ permalink: index.html
   {%- for post in posts.slice(1, 4) -%}
 
     <div class="post">
+    <a href="{{ post.url }}">
       <img
-    src="{{ post.url }}uploads/{{ post.data.thumbnail }}"
-    alt="{{ post.data.title }}"
-    class="post-image"
-    loading="lazy"
-/>
+        src="{{ post.url }}uploads/{{ post.data.thumbnail }}"
+        alt="{{ post.data.title }}"
+        class="post-image"
+        loading="lazy"
+      />
       <div class="post-title">
-        <h4>
-          <a href="{{ post.url }}">{{ post.data.title }}</a>
-        </h4>
+        <h4>{{ post.data.title }}</h4>
         <small>
           <time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate}}</time>
         </small>
       </div>
+      </a>
     </div>
 
   {%- endfor -%}
