@@ -2,4 +2,5 @@ _site/
 node_modules/
 post_api.py
 blogger_api.py
+image-alt.py
 package-lock.json

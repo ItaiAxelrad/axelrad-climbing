@@ -21,7 +21,7 @@
     --light: hsl(0, 0%, 23%);
     --light-gray: hsl(0, 0%, 18%);
     --gray: hsl(0, 0%, 13%);
-    --dark-gray: hsl(0, 0%, 88%);
+    --dark-gray: hsl(0, 0%, 83%);
     --dark: hsl(0, 0%, 93%);
     --opaque: hsla(0, 0%, 10%, 0.5);
     --border: 1px solid var(--light);
@@ -37,7 +37,7 @@
   --light: hsl(0, 0%, 23%);
   --light-gray: hsl(0, 0%, 18%);
   --gray: hsl(0, 0%, 13%);
-  --dark-gray: hsl(0, 0%, 88%);
+  --dark-gray: hsl(0, 0%, 83%);
   --dark: hsl(0, 0%, 93%);
   --opaque: hsla(0, 0%, 10%, 0.5);
   --border: 1px solid var(--light);
@@ -233,6 +233,7 @@ img + em {
   display: block;
   text-align: center;
   font-style: normal;
+  font-size: smaller;
   color: var(--dark-gray);
 }
 
@@ -430,6 +431,9 @@ textarea {
   body {
     display: block;
     padding: 0.75rem;
+  }
+  nav {
+    justify-content: flex-start;
   }
   .pageNav,
   .postNav,

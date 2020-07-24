@@ -1,12 +1,18 @@
 {
   "name": "Axelrad Climbing",
   "short_name": "AxeClimbing",
-  "description": "the climbing blog of twins Eden, and Itai Axelrad",
+  "description": "The climbing blog of twins Eden, and Itai Axelrad",
   "start_url": "https://axelradclimbing.netlify.app/",
   "homepage_url": "https://axelradclimbing.netlify.app/",
   "version": "0.1",
   "manifest_version": 2,
   "splash_pages": null,
+  "feed": {
+    "subtitle": "The climbing blog of twins Eden, and Itai Axelrad",
+    "filename": "feed.xml",
+    "path": "/feed.xml",
+    "id": "1"
+  },
   "author": [
     {
       "name": "Itai Axelrad",

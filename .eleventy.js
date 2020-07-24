@@ -2,9 +2,13 @@ const { DateTime } = require('luxon');
 const CleanCSS = require('clean-css');
 const Terser = require('terser');
 const pluginLocalRespimg = require('eleventy-plugin-local-respimg');
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
+  
+  // add plugins
+  eleventyConfig.addPlugin(pluginRss);
 
   // add passthrough files
   eleventyConfig.addPassthroughCopy('images');

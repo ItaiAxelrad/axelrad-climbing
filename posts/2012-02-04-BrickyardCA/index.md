@@ -4,7 +4,7 @@ date: '2012-02-04T15:00:00-08:00'
 updated: '2012-02-08T18:57:05-08:00'
 thumbnail: 'IMG_2685.JPG'
 uploads: ['IMG_2685.JPG', 'IMG_2724.jpg']
-author: 'Eden'
+author: 'Itai'
 id: 5157839849754319896
 location: ''
 tags: ['Axelrad', 'Bouldering', 'Brickyard', 'Climbing', 'Itai']

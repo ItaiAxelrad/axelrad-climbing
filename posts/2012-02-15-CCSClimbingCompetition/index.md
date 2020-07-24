@@ -13,6 +13,6 @@ Come to the CCS bouldering competition in San Luis Obispo!
 
 Here is a [promo video](http://vimeo.com/36815638) made by Alex Biale featuring himself, Joe Maier and I.
 
-![ccs bouldering comp](file://server-golden/Home/itai.axelrad/CCScomp.JPG)*Cut Loose*
+![ccs bouldering comp](uploads/CCScomp.JPG)*Cut Loose*
 
 \- Itai
