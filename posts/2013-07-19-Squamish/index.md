@@ -12,41 +12,41 @@ tags: ['Bouldering', 'Climbing', 'Eden', 'enchanted', 'granite', 'highball', 'It
 
 What started out as a daydream in some lecture hall this spring quarter finally materialized. Cody, Jason, Eden and I set out early one morning to drive nearly the entire length of Interstate 5 towards Squamish, British Columbia.
 
-![image alt](uploads/Screen%20shot%202013-07-18%20at%206.06.53%20PM.jpg)*The 1,439 mile route from Jason’s house to Squamish.*
+![The 1,439 mile route from Jason’s house to Squamish.](uploads/Screen%20shot%202013-07-18%20at%206.06.53%20PM.jpg)*The 1,439 mile route from Jason’s house to Squamish.*
 
 My brother and I were returning to the summer climbing Mecca after three years. The little town of Squamish (Skwxwu7mesh) is located about an hour North of Vancouver, at the end of Howe Sound. The adjacent 1,368 foot granite dome, called the Stawamus Chief, boasts some of the world's best boulder, sport and trad routes - and great summer weather, or so we hoped!
 
-![image alt](uploads/IMG_7189.jpg)*Driving. Driving. And more driving.*
+![Driving. Driving. And more driving.](uploads/IMG_7189.jpg)*Driving. Driving. And more driving.*
 
 After three days of driving, and short stops in Mt. Shasta, Eugene, Portland, Seattle and Vancouver, we arrived in Squamish, our home for the next 20 days. Unfortunately, we only got one dry day of climbing before a storm came through and held us hostage at the Squamish Adventure Centre. Although we were pretty upset about the weather, it gave us time to recover from injuries. My brother and I had taken several months off due to elbow tendonitis, and Jason had just suffered a (hideous) toe injury.
 
-![image alt](uploads/IMG_7197.jpg)*Eden, reading in the Adventure Centre with a view of the soaking wet Stawamus Chief.*
+![Eden, reading in the Adventure Centre with a view of the soaking wet Stawamus Chief.](uploads/IMG_7197.jpg)*Eden, reading in the Adventure Centre with a view of the soaking wet Stawamus Chief.*
 
 Six days, 15 bottomless coffees and 1,000 pages of reading later, the sun made its much-anticipated appearance, and with it came the rest of our climbing crew. Joe, Sara, Adam and Alex (from Australia) all began to arrive.
 
-![image alt](uploads/IMG_7346.jpg)*The Lucky Dundees (sans Alex) enjoying the usual crashpad siesta.*
+![The Lucky Dundees (sans Alex) enjoying the usual crashpad siesta.](uploads/IMG_7346.jpg)*The Lucky Dundees (sans Alex) enjoying the usual crashpad siesta.*
 
 The rest of the trip was thankfully uneventful. We enjoyed the remainder of our days in Squamish climbing boulders, sport and trad as well as eating samosas, breakfast burritos and sweet potato gnocchi.
 
-![image alt](uploads/IMG_7294.jpg)*Cody, making it look easy on the Squamish classic, Easy in an Easy Chair, V4.*
+![Cody, making it look easy on the Squamish classic, Easy in an Easy Chair, V4.](uploads/IMG_7294.jpg)*Cody, making it look easy on the Squamish classic, Easy in an Easy Chair, V4.*
 
-![image alt](uploads/IMG_7221.jpg)*Jason, walking up a route on the Burgers and Fries wall.*
+![Jason, walking up a route on the Burgers and Fries wall.](uploads/IMG_7221.jpg)*Jason, walking up a route on the Burgers and Fries wall.*
 
-![image alt](uploads/IMG_7411.jpg)*Adam placing some gear at the Smoke Bluffs.*
+![Adam placing some gear at the Smoke Bluffs.](uploads/IMG_7411.jpg)*Adam placing some gear at the Smoke Bluffs.*
 
-![image alt](uploads/IMG_7070.jpg)*Itai, at full reach on Minor Threat, V6.*
+![Itai, at full reach on Minor Threat, V6.](uploads/IMG_7070.jpg)*Itai, at full reach on Minor Threat, V6.*
 
-![image alt](uploads/IMG_7370.jpg)*Eden, focusing in on the tiny crimps of Black Slabbath, V7. Photo by Sara Roudebush.*
+![Eden, focusing in on the tiny crimps of Black Slabbath, V7. Photo by Sara Roudebush.](uploads/IMG_7370.jpg)*Eden, focusing in on the tiny crimps of Black Slabbath, V7. Photo by Sara Roudebush.*
 
-![image alt](uploads/IMG_7484.jpg)*Joe, trying hard on Black Magic, V13.*
+![Joe, trying hard on Black Magic, V13.](uploads/IMG_7484.jpg)*Joe, trying hard on Black Magic, V13.*
 
-![image alt](uploads/IMG_7444.jpg)*Cody, slapping a sloper on Trad Killer, V4.*
+![Cody, slapping a sloper on Trad Killer, V4.](uploads/IMG_7444.jpg)*Cody, slapping a sloper on Trad Killer, V4.*
 
-![image alt](uploads/IMG_7462.jpg)*Sara, slabbing it up at the Apron Boulders on a sunny morning.*
+![Sara, slabbing it up at the Apron Boulders on a sunny morning.](uploads/IMG_7462.jpg)*Sara, slabbing it up at the Apron Boulders on a sunny morning.*
 
-![image alt](uploads/IMG_7546.jpg)*Joe, climbing high in Paradise Valley on Enchanted, V4.*
+![Joe, climbing high in Paradise Valley on Enchanted, V4.](uploads/IMG_7546.jpg)*Joe, climbing high in Paradise Valley on Enchanted, V4.*
 
-![image alt](uploads/IMG_7327.jpg)*Eden, moving through the crux on Golden Boy, V7.*
+![Eden, moving through the crux on Golden Boy, V7.](uploads/IMG_7327.jpg)*Eden, moving through the crux on Golden Boy, V7.*
 
 ¡Gracias a todos los involucrados en este increíble viaje!
 

@@ -16,17 +16,17 @@ This past weekend I went to Bishop with Jake and Marina. It was pretty cold, and
 
 Here's a photo of my hands at the end of the trip.
 
-![image alt](uploads/swiss-cheese-edited.jpg)*Just kidding, if you look really closely you can tell that's actually a photo of Swiss cheese.*
+![Just kidding, if you look really closely you can tell that's actually a photo of Swiss cheese.](uploads/swiss-cheese-edited.jpg)*Just kidding, if you look really closely you can tell that's actually a photo of Swiss cheese.*
 
 The trip didn't see any noticeable ticks, but we all had a good time figuring out beta and hanging out with friends. Here are some photos of the climbs we worked or sent over the weekend.
 
-![image alt](uploads/IMG_4690.JPG)*Jake working out the moves on Every Color You Are (V6)*
+![Jake working out the moves on Every Color You Are (V6)](uploads/IMG_4690.JPG)*Jake working out the moves on Every Color You Are (V6)*
 
-![image alt](uploads/IMG_4715.JPG)*Danny on his send of Action Figure (V6)*
+![Danny on his send of Action Figure (V6)](uploads/IMG_4715.JPG)*Danny on his send of Action Figure (V6)*
 
-![image alt](uploads/IMG_4793.jpg)*Marina eyeing some pockets on Morning Dove White (V7/8) - PC: Jack Hanes*
+![Marina eyeing some pockets on Morning Dove White (V7/8) - PC: Jack Hanes](uploads/IMG_4793.jpg)*Marina eyeing some pockets on Morning Dove White (V7/8) - PC: Jack Hanes*
 
-![image alt](uploads/IMG_4790.jpg)*Here I am on Bubba Gets Committed (V10) - PC: Jack Hanes*
+![Here I am on Bubba Gets Committed (V10) - PC: Jack Hanes](uploads/IMG_4790.jpg)*Here I am on Bubba Gets Committed (V10) - PC: Jack Hanes*
 
 I'm looking forward to next weekend, when I plan to head back to Bishop.
 

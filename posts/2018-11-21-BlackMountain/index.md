@@ -16,9 +16,9 @@ On Sunday morning I drove out to Black Mountain with Alex and Katie for a day of
 
 We began at The Visor boulder where we warmed up and jumped on the many variations that it has to offer. By the time we left I managed to sneak in a send of Piss Mob (V11), a variation that exits the right side of the roof.
 
-![image alt](uploads/Bishop_11_03_18_00038.jpg)*Mikey on Can Opener (V8) - Photo by Alex Aristei*
+![Mikey on Can Opener (V8) - Photo by Alex Aristei](uploads/Bishop_11_03_18_00038.jpg)*Mikey on Can Opener (V8) - Photo by Alex Aristei*
 
-![image alt](uploads/Bishop_11_03_18_00035.jpg)*Alex on the same - Photo by Alex Aristei*
+![Alex on the same - Photo by Alex Aristei](uploads/Bishop_11_03_18_00035.jpg)*Alex on the same - Photo by Alex Aristei*
 
 Our next stop was at the classic Ex Patriot (V10/11), where the crew put in a solid session. This line lived up to the hype and I'm happy to check it off the list!
 
@@ -26,17 +26,17 @@ Our next stop was at the classic Ex Patriot (V10/11), where the crew put in a so
 
 ![image alt](uploads/Bishop_11_03_18_00063.jpg)
 
-![image alt](uploads/Bishop_11_03_18_00068.jpg)*Finishing up Ex-Patriot (V10/11) - Photos by Alex Aristei*
+![Finishing up Ex-Patriot (V10/11) - Photos by Alex Aristei](uploads/Bishop_11_03_18_00068.jpg)*Finishing up Ex-Patriot (V10/11) - Photos by Alex Aristei*
 
-![image alt](uploads/IMG-6970.JPG)*Alex working Ex-Patriot (V10/11)*
+![Alex working Ex-Patriot (V10/11)](uploads/IMG-6970.JPG)*Alex working Ex-Patriot (V10/11)*
 
 We ended the day by checking out the Summit Corridor area. It offers many great problems like Wildcat (V8), Derailed (V5), Dekaled (V10) and the superb Brotherhood (V10).
 
-![image alt](uploads/IMG-6987.JPG)*Me on Dekaled (V10) - Photo by Katie Lawler*
+![Me on Dekaled (V10) - Photo by Katie Lawler](uploads/IMG-6987.JPG)*Me on Dekaled (V10) - Photo by Katie Lawler*
 
-![image alt](uploads/Bishop_11_03_18_00330%202.jpg)*Sending Brotherhood (V10) - Photo by Alex Aristei*
+![Sending Brotherhood (V10) - Photo by Alex Aristei](uploads/Bishop_11_03_18_00330%202.jpg)*Sending Brotherhood (V10) - Photo by Alex Aristei*
 
-![image alt](uploads/IMG-6999.JPG)*Alex on the big swing of Brotherhood (V10)*
+![Alex on the big swing of Brotherhood (V10)](uploads/IMG-6999.JPG)*Alex on the big swing of Brotherhood (V10)*
 
 I had a great day exploring some new areas and I can't wait to get back out there!
 

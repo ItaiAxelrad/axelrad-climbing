@@ -16,11 +16,11 @@ Yesterday morning Chris and I left Davis and headed out to South Lake for a day 
 
 Here are some photos of our battle with Ground Control.
 
-![image alt](uploads/photo_4.jpg)*Chris sticking the sloper*
+![Chris sticking the sloper](uploads/photo_4.jpg)*Chris sticking the sloper*
 
-![image alt](uploads/photo_1.jpg)*Chris, about to match the crimp rail*
+![Chris, about to match the crimp rail](uploads/photo_1.jpg)*Chris, about to match the crimp rail*
 
-![image alt](uploads/photo.jpg)*Sticking the crux move*
+![Sticking the crux move](uploads/photo.jpg)*Sticking the crux move*
 
 By 4:30 the sun had drained all of our energy and we called it a day - sendless. But we managed to do all of the bottom section, including the crux, so Chris and I plan on heading out next week for another round. Stay tuned.
 

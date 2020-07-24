@@ -16,12 +16,12 @@ Last weekend I headed out to Potter's Point with Itai and Cody in order to explo
 
 The area classic, Debra (V8), turned out to be very enjoyable. The line features fun movement, a committing crux, and a proud topout. Itai and I managed to put it down in a couple of goes, and Cody got agonizingly close.
 
-![image alt](uploads/IMG_3439.jpg)*Cody working out the moves on Debra*
+![Cody working out the moves on Debra](uploads/IMG_3439.jpg)*Cody working out the moves on Debra*
 
-![image alt](uploads/IMG_3429-2.jpg)*Debra*
+![Debra](uploads/IMG_3429-2.jpg)*Debra*
 
 After our session on Debra, we headed toward The Brute (V9). Joe, Itai, and I were able to snag the stand, and began unlocking the beta for the sit. Unfortunately no one got the send, but I have a feeling we will be back shortly!
 
-![image alt](uploads/IMG_3463.jpg)*Working The Brute Sit (V11)*
+![Working The Brute Sit (V11)](uploads/IMG_3463.jpg)*Working The Brute Sit (V11)*
 
 \- Eden

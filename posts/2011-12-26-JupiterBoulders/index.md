@@ -12,11 +12,11 @@ tags: ['Black Mountain', 'Bouldering', 'California', 'jupiter']
 
 Finals were done and it was time to get outdoors. We teamed up with Isaac and Anthony and planned on heading up to Black Mountain on Sunday. But when we reached Banning we could see that the mountain was still covered in snow, and some dark rain clouds were moving in. We cut our losses and opted for the Jupiter Boulders, which are lower in elevation.
 
-![image alt](uploads/view.JPG)*Here is a view from slightly up the canyon*
+![Here is a view from slightly up the canyon](uploads/view.JPG)*Here is a view from slightly up the canyon*
 
 Anthony was our guide since he was the only one who was familiar with the area. He quickly lead us to Air Flash Gordon (V8), and Unemployed Black Astronaut (V9). After flashing Air Flash Gordon (left), and snagging the V9 on the second go we hiked over to the Supernova Boulder.
 
-![image alt](uploads/DSC_0277.jpg)*Photo Credit Isaac Palatt*
+![Photo Credit Isaac Palatt](uploads/DSC_0277.jpg)*Photo Credit Isaac Palatt*
 
 Supernova is a compression problem that starts on a blunt arete and tops out on a slab. After sending the problem last week, Anthony assured us that it was one of the best climbs in the area. Itai, making quick work of Supernova (V10):
 
@@ -46,8 +46,8 @@ Then we headed down toward an aesthetic boulder that was home to some great clim
 
 ![image alt](uploads/DSC_0306-1.jpg)
 
-![image alt](uploads/DSC_0327.jpg)*Eden and Itai flashing, photo cred Isaac Palatt*
+![Eden and Itai flashing, photo cred Isaac Palatt](uploads/DSC_0327.jpg)*Eden and Itai flashing, photo cred Isaac Palatt*
 
-![image alt](uploads/IMG_2505.JPG)*Isaac sending*
+![Isaac sending](uploads/IMG_2505.JPG)*Isaac sending*
 
 But by the time we had unlocked the beta to the eleven we were all out of energy. So we left it for next time and headed for some good Thai food on the way back home.

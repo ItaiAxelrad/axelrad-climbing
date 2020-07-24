@@ -20,7 +20,7 @@ Also, if you're interested in seeing a well-made [vid](http://vimeo.com/16855611
 
 ![image alt](uploads/IMG_6141.JPG)
 
-![image alt](uploads/IMG_6142.JPG)*The crux dead-point*
+![The crux dead-point](uploads/IMG_6142.JPG)*The crux dead-point*
 
 ![image alt](uploads/IMG_6159.jpg)
 
@@ -30,9 +30,9 @@ Also, if you're interested in seeing a well-made [vid](http://vimeo.com/16855611
 
 ![image alt](uploads/IMG_6172.jpg)
 
-![image alt](uploads/IMG_6176.jpg)*The top section*
+![The top section](uploads/IMG_6176.jpg)*The top section*
 
-![image alt](uploads/IMG_6146.JPG)*¡Mucho Tiempo!*
+![¡Mucho Tiempo!](uploads/IMG_6146.JPG)*¡Mucho Tiempo!*
 
 And thanks again Chris for the great photos!
 

@@ -10,7 +10,7 @@ location: ''
 tags: ['ABS 15', 'Axelrad', 'Bouldering', 'Climbing', 'finals', 'live', 'nationals', 'open']
 ---
 
-![image alt](uploads/86457271.jpg)*(click the image for a preview of Nationals)*
+![(click the image for a preview of Nationals)](uploads/86457271.jpg)*(click the image for a preview of Nationals)*
 
 ABS 15 finals are coming up at 6:30 PST. Live stream via [lt11](http://lt11.com/) can be found here: <http://www.youtube.com/watch?v=l51KxaPHsEw>
 

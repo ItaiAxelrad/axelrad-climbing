@@ -14,11 +14,11 @@ Itai and I headed out to Joshua Tree for a quick day trip on Sunday. Our main ob
 
 However, during one of our pit stops, I managed to snag a send of Blood Diamond (V10) - a redeeming quality to an otherwise frustrating day. This beautiful problem follows a thin seam from start to finish, and requires some crimp strength and willing tendons. Highly recommended.
 
-![image alt](uploads/1.jpg)*Me working on Blood Diamond (V10)*
+![Me working on Blood Diamond (V10)](uploads/1.jpg)*Me working on Blood Diamond (V10)*
 
-![image alt](uploads/4.jpg)*The send go...*
+![The send go...](uploads/4.jpg)*The send go...*
 
-![image alt](uploads/3.jpg)*Itai showing me the beta by repeating the problem ;p*
+![Itai showing me the beta by repeating the problem ;p](uploads/3.jpg)*Itai showing me the beta by repeating the problem ;p*
 
 With about 45 minutes of daylight left we decided to throw in the towel on finding this incognito "project", and spent some time messing around on roadside boulders.
 

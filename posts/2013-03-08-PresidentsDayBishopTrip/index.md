@@ -12,23 +12,23 @@ tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'Climbing
 
 It was a beautiful three-day weekend. The weather was perfect and people flocked to Bishop from all over the country. Despite the large crowds, Jason, Nick, Cody and I still managed to have a great time climbing, heckling and stargazing. Here are some photos of the trip:
 
-![image alt](uploads/IMG_6255.JPG)*The Sierras*
+![The Sierras](uploads/IMG_6255.JPG)*The Sierras*
 
-![image alt](uploads/IMG_6327.JPG)*Cody, testing his balance on Robinson’s Rubber Tester (V0)*
+![Cody, testing his balance on Robinson’s Rubber Tester (V0)](uploads/IMG_6327.JPG)*Cody, testing his balance on Robinson’s Rubber Tester (V0)*
 
 ![image alt](uploads/IMG_6255.JPG)
 
-![image alt](uploads/IMG_6347_2.JPG)*Jason snagging the pinch on Soul Slinger (V9)*
+![Jason snagging the pinch on Soul Slinger (V9)](uploads/IMG_6347_2.JPG)*Jason snagging the pinch on Soul Slinger (V9)*
 
-![image alt](uploads/IMG_6395.JPG)*Nick warming down on the jugs of China Doll (V0)*
+![Nick warming down on the jugs of China Doll (V0)](uploads/IMG_6395.JPG)*Nick warming down on the jugs of China Doll (V0)*
 
-![image alt](uploads/BishopFeb038_flat.jpg)*Cody, with a last minute send of Last Dance (V9). Photo credit: Jason Morgan*
+![Cody, with a last minute send of Last Dance (V9). Photo credit: Jason Morgan](uploads/BishopFeb038_flat.jpg)*Cody, with a last minute send of Last Dance (V9). Photo credit: Jason Morgan*
 
-![image alt](uploads/BishopFeb045_flat.jpg)*Itai, with a last minute send of Standing Kill Order (V10). Photo credit: Jason Morgan*
+![Itai, with a last minute send of Standing Kill Order (V10). Photo credit: Jason Morgan](uploads/BishopFeb045_flat.jpg)*Itai, with a last minute send of Standing Kill Order (V10). Photo credit: Jason Morgan*
 
-![image alt](uploads/BishopFeb027_flat.jpg)*Itai finishing up a flash of Queen Sweet Nectar (V9). Photo credit: Jason Morgan*
+![Itai finishing up a flash of Queen Sweet Nectar (V9). Photo credit: Jason Morgan](uploads/BishopFeb027_flat.jpg)*Itai finishing up a flash of Queen Sweet Nectar (V9). Photo credit: Jason Morgan*
 
-![image alt](uploads/BishopFeb007_flat.jpg)*Itai attempting The Swarm (V13/14). Photo credit: Jason Morgan*
+![Itai attempting The Swarm (V13/14). Photo credit: Jason Morgan](uploads/BishopFeb007_flat.jpg)*Itai attempting The Swarm (V13/14). Photo credit: Jason Morgan*
 
 Thanks for driving, Cody! Thanks for the awesome photos, Jason!
 

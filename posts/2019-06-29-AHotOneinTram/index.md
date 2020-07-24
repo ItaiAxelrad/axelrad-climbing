@@ -12,15 +12,15 @@ tags: ['angus', 'Axelrad', 'Bouldering', 'Climbing', 'granite', 'master blaster'
 
 This Saturday I met up with Cody at Tramway for a fun day outdoors. We spent most of our time off the main sectors, chasing shade and trying to find a bit of energy. Thankfully the afternoon brought some much needed cloud coverage and wind. Here's a few pics from the day!
 
-![image alt](uploads/IMG_0601.jpg)*Trying Somewhere in Time (V12) early in the day*
+![Trying Somewhere in Time (V12) early in the day](uploads/IMG_0601.jpg)*Trying Somewhere in Time (V12) early in the day*
 
-![image alt](uploads/IMG_0619.JPG)*Topping out Master Blaster (V9)*
+![Topping out Master Blaster (V9)](uploads/IMG_0619.JPG)*Topping out Master Blaster (V9)*
 
-![image alt](uploads/IMG_8679.jpg)*Cody sending Fly, Robin Fly (V6/7?)*
+![Cody sending Fly, Robin Fly (V6/7?)](uploads/IMG_8679.jpg)*Cody sending Fly, Robin Fly (V6/7?)*
 
-![image alt](uploads/IMG_8706.jpg)*Repeating Angus (V9)*
+![Repeating Angus (V9)](uploads/IMG_8706.jpg)*Repeating Angus (V9)*
 
-![image alt](uploads/IMG_8710.jpg)*Cody playing piano on the slopers of Malcom (V6)*
+![Cody playing piano on the slopers of Malcom (V6)](uploads/IMG_8710.jpg)*Cody playing piano on the slopers of Malcom (V6)*
 
 See you out there,
 

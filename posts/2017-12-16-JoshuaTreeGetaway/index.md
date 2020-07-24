@@ -11,8 +11,8 @@ tags: ['Axelrad', 'California', 'granite', 'Joshua', 'Tree']
 ---
 Quick, impulsive trips to Joshua Tree never get old. Here are some pictures from the latest one. Enjoy!
 
-![image alt](uploads/IMG_5264.JPG)*Ollie on Muligan 2*
+![Ollie on Muligan 2](uploads/IMG_5264.JPG)*Ollie on Muligan 2*
 
-![image alt](uploads/IMG_5273.JPG)*The length reach on Kandahar*
+![The length reach on Kandahar](uploads/IMG_5273.JPG)*The length reach on Kandahar*
 
-![image alt](uploads/IMG_5404.JPG)*Slab Life*
+![Slab Life](uploads/IMG_5404.JPG)*Slab Life*

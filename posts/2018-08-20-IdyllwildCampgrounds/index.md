@@ -14,12 +14,12 @@ On Saturday I drove out with Jovanna to meet up with Joey, Rachel, Cody, Itai, a
 
 After a long lunch break we headed back out to explore the area a bit more. Here are a few photos from the day!
 
-![image alt](uploads/IMG_5408.jpg)*Cody smiling his way up a slab*
+![Cody smiling his way up a slab](uploads/IMG_5408.jpg)*Cody smiling his way up a slab*
 
-![image alt](uploads/IMG_5415.jpg)*Reaching for the lip*
+![Reaching for the lip](uploads/IMG_5415.jpg)*Reaching for the lip*
 
 ![image alt](uploads/IMG_5418.JPG)
 
-![image alt](uploads/IMG_5419.JPG)*Joey on his first outdoor V2!*
+![Joey on his first outdoor V2!](uploads/IMG_5419.JPG)*Joey on his first outdoor V2!*
 
-![image alt](uploads/IMG_5423.JPG)*Cody on another slab*
+![Cody on another slab](uploads/IMG_5423.JPG)*Cody on another slab*

@@ -14,4 +14,4 @@ Our old coach, Taylor Reed discussing the coach / climber dynamic. He gave us a 
 
 Have a listen at [powercompanyclimbing.podbean.com](https://powercompanyclimbing.podbean.com/e/ep-90-the-coachclimber-dynamic-with-taylor-reed-and-bella-jariel/)
 
-![The Power Company Podcast header image 1](https://powercompanyclimbing.podbean.com/mf/web/st86ur/thepowercompanypodcastbannersmall.jpg)*The Power Company Podcast*
+![The Power Company Podcast](https://powercompanyclimbing.podbean.com/mf/web/st86ur/thepowercompanypodcastbannersmall.jpg)*The Power Company Podcast*

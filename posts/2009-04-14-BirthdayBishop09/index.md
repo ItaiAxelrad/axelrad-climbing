@@ -12,6 +12,6 @@ tags: ['bishop', 'Bouldering', 'buttermilks', 'California', 'granite', 'mandala'
 
 Birthday Bishop trip in 2009! We managed sends of Hit the High Hard One sit (V9), Bubba Gump Variation (V10) and The Mandala (V12).
 
-![image alt](uploads/Bishop%20-april%20%252708%20042.jpg)*Eden, on the Mandala crux move*
+![Eden, on the Mandala crux move](uploads/Bishop%20-april%20%252708%20042.jpg)*Eden, on the Mandala crux move*
 
 Video of The Mandala can be seen below: [The Mandala](http://www.youtube.com/watch?v=_knJN0ndbig&context=C3594030ADOEgsToPDskLp6uXYl-aUxgofxhnzCSw5)

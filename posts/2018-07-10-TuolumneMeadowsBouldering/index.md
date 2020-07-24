@@ -12,11 +12,11 @@ tags: ['Axelrad', 'Bouldering', 'meadows', 'one love', 'tuolumne', 'v12']
 
 While I had been to Tuolumne before, I had strangely never climbed there. I finally got the chance to make a quick and successful trip up to The Meadows this summer. Most of the weekend was spent relaxing by swim holes and avoiding mosquitos, though I did get serious and came away with a flash of Galaxy 5000 (V10), Out of Your League (V11), One Love (V12), and High Lonesome Rambler (V12).
 
-![image alt](uploads/IMG_6349.jpg)*Morning fog on the lake*
+![Morning fog on the lake](uploads/IMG_6349.jpg)*Morning fog on the lake*
 
-![image alt](uploads/20180706_185335.jpg)*Victory Apple*
+![Victory Apple](uploads/20180706_185335.jpg)*Victory Apple*
 
-![image alt](uploads/20180705_155325.jpg)*Out of Your League (V11)*
+![Out of Your League (V11)](uploads/20180705_155325.jpg)*Out of Your League (V11)*
 
 See Eden's video for his send of One Love [and more](https://www.youtube.com/watch?v=gHJ1KIYwyWY).
 

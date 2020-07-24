@@ -24,10 +24,10 @@ We transitioned from rope to bouldering, and spent some time working on Tidal Wa
 
 ![image alt](uploads/IMG_1436.JPG)
 
-![image alt](uploads/IMG_1437.JPG)*Itai sticking the crux on Igneous Ambiance (V7)*
+![Itai sticking the crux on Igneous Ambiance (V7)](uploads/IMG_1437.JPG)*Itai sticking the crux on Igneous Ambiance (V7)*
 
-![image alt](uploads/IMG_1448.JPG)*Itai snagging the last move on Mulligan Variation (V8)*
+![Itai snagging the last move on Mulligan Variation (V8)](uploads/IMG_1448.JPG)*Itai snagging the last move on Mulligan Variation (V8)*
 
-![image alt](uploads/IMG_1451.JPG)*And Cody, getting agonizingly close...*
+![And Cody, getting agonizingly close...](uploads/IMG_1451.JPG)*And Cody, getting agonizingly close...*
 
 Next time!

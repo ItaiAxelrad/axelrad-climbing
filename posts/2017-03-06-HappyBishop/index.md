@@ -12,21 +12,21 @@ tags: ['Axelrad', 'bishop', 'Bouldering', 'Climbing', 'Five', 'Five Ten', 'grani
 
 Jovanna and I drove up to Bishop early Saturday morning for a full day at the Happy Boulders. It had been a year since I'd last been to Bishop, and even longer since I climbed at the tablelands. I was excited to be back!
 
-![image alt](uploads/IMG_1482.JPG)*Mount Tom, draped in snow*
+![Mount Tom, draped in snow](uploads/IMG_1482.JPG)*Mount Tom, draped in snow*
 
 We spent the morning meandering through the canyon floor and jumping on fun classics.
 
-![image alt](uploads/IMG_1485.JPG)*Jovanna running up Mmm... Nice*
+![Jovanna running up Mmm... Nice](uploads/IMG_1485.JPG)*Jovanna running up Mmm... Nice*
 
 It started heating up and getting more crowded so we headed up the canyon side so I could jump on He Got Game (V11). After figuring out the beta for the crux sequences exiting the roof, I managed to send!
 
-![image alt](uploads/IMG_1503.JPG)*The crux sequence on He Got Game (V11)*
+![The crux sequence on He Got Game (V11)](uploads/IMG_1503.JPG)*The crux sequence on He Got Game (V11)*
 
-![image alt](uploads/IMG_1489.JPG)*Another angle of the same move*
+![Another angle of the same move](uploads/IMG_1489.JPG)*Another angle of the same move*
 
 We continued climbing throughout the afternoon until our skin had us stop.
 
-![image alt](uploads/IMG_1495%202.jpg)*Jovanna, climbing Paranormal in the West Country (V1) on our way out*
+![Jovanna, climbing Paranormal in the West Country (V1) on our way out](uploads/IMG_1495%202.jpg)*Jovanna, climbing Paranormal in the West Country (V1) on our way out*
 
 It was great getting out to the Sierras and I can't wait to get back!
 

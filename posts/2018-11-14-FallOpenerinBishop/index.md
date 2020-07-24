@@ -18,18 +18,18 @@ I got to open Mandala Sit (V13) as a potential project and Jovanna made quick wo
 
 ![image alt](uploads/IMG_6834.JPG)
 
-![image alt](uploads/IMG_6835.JPG)*Cody on Knobs (V5)*
+![Cody on Knobs (V5)](uploads/IMG_6835.JPG)*Cody on Knobs (V5)*
 
-![image alt](uploads/IMG_6862.JPG)*Jovanna climbing Perfectly Chicken (V5)!*
+![Jovanna climbing Perfectly Chicken (V5)!](uploads/IMG_6862.JPG)*Jovanna climbing Perfectly Chicken (V5)!*
 
-![image alt](uploads/IMG_1953.jpg)*Messing around on The Sharma Traverse (V10) at sunset*
+![Messing around on The Sharma Traverse (V10) at sunset](uploads/IMG_1953.jpg)*Messing around on The Sharma Traverse (V10) at sunset*
 
-![image alt](uploads/IMG_1929.jpg)*Trying to piece together the moves of Form Destroyer (V12)*
+![Trying to piece together the moves of Form Destroyer (V12)](uploads/IMG_1929.jpg)*Trying to piece together the moves of Form Destroyer (V12)*
 
 The second day felt considerably warmer but we managed some good sessions including Mandala Sit (V13) and Flyboy Arete (V5) before heading home in the afternoon. This trip definitely helped us get excited for the next one!
 
-![image alt](uploads/IMG_6939%202.jpg)*Spanned out on Mandala Sit (V13)*
+![Spanned out on Mandala Sit (V13)](uploads/IMG_6939%202.jpg)*Spanned out on Mandala Sit (V13)*
 
-![image alt](uploads/IMG_6916%202.jpg)*Taking a goodbye lap on The Rising (V4)*
+![Taking a goodbye lap on The Rising (V4)](uploads/IMG_6916%202.jpg)*Taking a goodbye lap on The Rising (V4)*
 
 See you out there!

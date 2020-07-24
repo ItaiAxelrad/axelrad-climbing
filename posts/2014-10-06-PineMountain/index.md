@@ -11,21 +11,21 @@ tags: ['911', 'Axelrad', 'blog', 'Bouldering', 'Climbing', 'Eden', 'Five Ten', '
 ---
 Yesterday Marina, Jake and I headed up to Pine Mountain for a much needed escape from the city. Pine Mountain is situated above Ojai, in Reyes Peak - with an elevation of roughly 7,000 feet. It was my first time going to this crag, and I was excited to explore yet another climbing area.
 
-![image alt](uploads/IMG_4456.JPG)*The drive up*
+![The drive up](uploads/IMG_4456.JPG)*The drive up*
 
-![image alt](uploads/IMG_4387.JPG)*Reyes Peak Campgrounds*
+![Reyes Peak Campgrounds](uploads/IMG_4387.JPG)*Reyes Peak Campgrounds*
 
 We jumped on a few classics and socialized with the other climbers that were out there. I managed to snag a send of 911 (V8), and unlock all the moves on Whiplash (V11). Hopefully I can return in more optimal temps in order to link the moves.
 
-![image alt](uploads/IMG_4404.JPG)*Jake gettin high on a V4?*
+![Jake gettin high on a V4?](uploads/IMG_4404.JPG)*Jake gettin high on a V4?*
 
-![image alt](uploads/IMG_4424.jpg)*Marina, finding out that flies and slab don't mix*
+![Marina, finding out that flies and slab don't mix](uploads/IMG_4424.jpg)*Marina, finding out that flies and slab don't mix*
 
-![image alt](uploads/IMG_4429.jpg)*Flies and slab don't mix - seriously, don't swat and slab*
+![Flies and slab don't mix - seriously, don't swat and slab](uploads/IMG_4429.jpg)*Flies and slab don't mix - seriously, don't swat and slab*
 
 ![image alt](uploads/IMG_4459.JPG)
 
-![image alt](uploads/IMG_4460.JPG)*Me, grunting on Whiplash (PC: Marina)*
+![Me, grunting on Whiplash (PC: Marina)](uploads/IMG_4460.JPG)*Me, grunting on Whiplash (PC: Marina)*
 
 All in all, it was not the most eventful day, and our trip was actually cut short due to the heat and the flies - but mostly the flies. I would spare you the details, but putting up a complaint-free blog is just not my style. So, if you aren't a fan of melodramatic tangents, feel free to skip the following ~~rant~~ paragraph.
 

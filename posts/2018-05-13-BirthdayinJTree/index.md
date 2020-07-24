@@ -12,14 +12,14 @@ tags: ['Bouldering', 'Joshua', 'Tree']
 
 Jovanna and I drove out to Joshua Tree for a nice weekend getaway and to celebrate her birthday. We spent Saturday climbing, and while it was hot, we had a great time exploring and climbing in the park. Here are a few photos from the day!
 
-![image alt](uploads/IMG_4042.JPG)*Me on Thin Lizzy (V8)*
+![Me on Thin Lizzy (V8)](uploads/IMG_4042.JPG)*Me on Thin Lizzy (V8)*
 
-![image alt](uploads/IMG_4051.JPG)*Jovanna on Thingamajig (V0)*
+![Jovanna on Thingamajig (V0)](uploads/IMG_4051.JPG)*Jovanna on Thingamajig (V0)*
 
-![image alt](uploads/IMG_4054.JPG)*Jovanna taking a lap on Chunkers (V0)*
+![Jovanna taking a lap on Chunkers (V0)](uploads/IMG_4054.JPG)*Jovanna taking a lap on Chunkers (V0)*
 
-![image alt](uploads/IMG_4060.JPG)*Jovanna enjoying the slab on a roadside boulder*
+![Jovanna enjoying the slab on a roadside boulder](uploads/IMG_4060.JPG)*Jovanna enjoying the slab on a roadside boulder*
 
-![image alt](uploads/IMG_4076.JPG)*Lip Service (V2)*
+![Lip Service (V2)](uploads/IMG_4076.JPG)*Lip Service (V2)*
 
 ![image alt](uploads/IMG_4078.JPG)

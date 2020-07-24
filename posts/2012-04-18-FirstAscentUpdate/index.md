@@ -14,7 +14,7 @@ I have been emailing Wills Young about my recent Bishop first ascent, Crimps of 
 
 A few people have commented already, several having repeated the climb. Thanks again Wills for posting, (and writing the guidebook).
 
-![image alt](uploads/Crimps-of-Wrath.jpg)*The Beta*
+![The Beta](uploads/Crimps-of-Wrath.jpg)*The Beta*
 
 P.S.
 

@@ -18,15 +18,15 @@ I had to take advantage of this winter's unusually dry weather, so before school
 
 ![image alt](uploads/3.jpg)
 
-![image alt](uploads/4.jpg)*Quarry Pinch, V8 - Photos by Alex Shimm*
+![Quarry Pinch, V8 - Photos by Alex Shimm](uploads/4.jpg)*Quarry Pinch, V8 - Photos by Alex Shimm*
 
-![image alt](uploads/5.jpg)*Windmill, V8 - Photo by Alex Shimm*
+![Windmill, V8 - Photo by Alex Shimm](uploads/5.jpg)*Windmill, V8 - Photo by Alex Shimm*
 
 About a week after Rocklin, the local climbing crew (Alex, Damien, Theo and I) headed to Columbia Boulders. These boulders are located in a community college's arboretum, and offer a fairly large amount of climbing material - not to mention a lot of potential for development. For most of the day we stayed at the Triple Cracks boulder, which houses one of California's best V6s.
 
-![image alt](uploads/6.jpg)*Theo on Twin Cracks, V4*
+![Theo on Twin Cracks, V4](uploads/6.jpg)*Theo on Twin Cracks, V4*
 
-![image alt](uploads/7.jpg)*Alex on Lobster Claw, V5*
+![Alex on Lobster Claw, V5](uploads/7.jpg)*Alex on Lobster Claw, V5*
 
 ![image alt](uploads/8.jpg)
 

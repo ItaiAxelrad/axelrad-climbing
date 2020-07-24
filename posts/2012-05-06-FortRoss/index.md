@@ -20,11 +20,11 @@ On Saturday I headed to Fort Ross with Damien and Alex. Fort Ross is a little kn
 
 When we got to the boulder Damien pointed out that the sand is exceptionally low. This made the fall a few feet longer, and it also exposed some rocks right under the landing. (In the photo below Alex is standing on the rock that is normally buried by sand) The only line which we could safely try was the direct face climb Fort Rossta, V6.
 
-![image alt](uploads/IMG_0252.jpg)*(Trying to figure out the best pad arrangement)*
+![(Trying to figure out the best pad arrangement)](uploads/IMG_0252.jpg)*(Trying to figure out the best pad arrangement)*
 
 By the end of the trip we all managed to send the climb. Here are some more photos:
 
-![image alt](uploads/IMG_0256.jpg)*(Alex topping out)*
+![(Alex topping out)](uploads/IMG_0256.jpg)*(Alex topping out)*
 
 ![image alt](uploads/IMG_0272.JPG)
 
@@ -36,8 +36,8 @@ By the end of the trip we all managed to send the climb. Here are some more phot
 
 ![image alt](uploads/IMG_0276.JPG)
 
-![image alt](uploads/IMG_0277.JPG)*(Damien sticking the crux move, and topping out)*
+![(Damien sticking the crux move, and topping out)](uploads/IMG_0277.JPG)*(Damien sticking the crux move, and topping out)*
 
-![image alt](uploads/IMG_0287.JPG)*(The drive back)*
+![(The drive back)](uploads/IMG_0287.JPG)*(The drive back)*
 
 \- Eden

@@ -14,12 +14,12 @@ Cody and I drove out to Joshua Tree late Friday night to meet up with Joe and Sa
 
 The crew collectively had a very successful weekend out in the windy desert.
 
-![image alt](uploads/IMG_5536.JPG)*Joe on the heady Satellite Left*
+![Joe on the heady Satellite Left](uploads/IMG_5536.JPG)*Joe on the heady Satellite Left*
 
-![image alt](uploads/IMG_5500.JPG)*Joe leading O'Kelly's Crack*
+![Joe leading O'Kelly's Crack](uploads/IMG_5500.JPG)*Joe leading O'Kelly's Crack*
 
-![image alt](uploads/IMG_5509.JPG)*Cody sending Nicole Overhang*
+![Cody sending Nicole Overhang](uploads/IMG_5509.JPG)*Cody sending Nicole Overhang*
 
-![image alt](uploads/IMG_5516.JPG)*Taking in some sun*
+![Taking in some sun](uploads/IMG_5516.JPG)*Taking in some sun*
 
-![image alt](uploads/IMG_5540.JPG)*A direct entrance to the new addition, Iron Curtain*
+![A direct entrance to the new addition, Iron Curtain](uploads/IMG_5540.JPG)*A direct entrance to the new addition, Iron Curtain*
