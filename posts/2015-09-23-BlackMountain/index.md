@@ -14,25 +14,25 @@ Cody and I set out Friday night to meet up with Joe, Sara and Jason at Black Mou
 
 We awoke after very little sleep, so I decided to get the gang on the infamous Big Greeny in hopes of waking everyone up some more. I think it worked.
 
-![Cody, a move away from peeling off the wall.](uploads/IMG_2785.jpg)*Cody, a move away from peeling off the wall.*
+![Cody, a move away from peeling off the wall.](uploads/IMG_2785.jpg)
 
-![Joe, staying composed on the committing last move.](uploads/IMG_2777.jpg)*Joe, staying composed on the committing last move.*
+![Joe, staying composed on the committing last move.](uploads/IMG_2777.jpg)
 
 After running through the warm-up circuit, I showed everyone some harder moderates including the classics Tour de France and Hopscotch.
 
-![Cody, on a problem I put up several years ago called Captain America.](uploads/IMG_2814.jpg)*Cody, on a problem I put up several years ago called Captain America.*
+![Cody, on a problem I put up several years ago called Captain America.](uploads/IMG_2814.jpg)
 
-![Joe, on the elevator door move of Tour de France Sit.](uploads/IMG_2820.jpg)*Joe, on the elevator door move of Tour de France Sit.*
+![Joe, on the elevator door move of Tour de France Sit.](uploads/IMG_2820.jpg)
 
-![Cody on Tour de France.](uploads/IMG_2830.jpg)*Cody on Tour de France.*
+![Cody on Tour de France.](uploads/IMG_2830.jpg)
 
 Sunday was hot and we were tired but of course we still found the energy to climb. I took the crew out towards the Lion's Main boulder which I had never been to before. Making committing moves up high in the noon sun was rather draining, and most of the group decided to head home. Cody and I stayed for a few more hours, working some projects and hiking around.
 
-![Jason slabbing it up.](uploads/IMG_2861-2.jpg)*Jason slabbing it up.*
+![Jason slabbing it up.](uploads/IMG_2861-2.jpg)
 
-![Cody, figuring out his beta on Loh Roof.](uploads/IMG_2883-2.jpg)*Cody, figuring out his beta on Loh Roof.*
+![Cody, figuring out his beta on Loh Roof.](uploads/IMG_2883-2.jpg)
 
-![Chalk Heart](uploads/IMG_2863-2.jpg)*Chalk Heart*
+![Chalk Heart](uploads/IMG_2863-2.jpg)
 
 It was nice to get back out to Black Mountain and play tour guide for a weekend with some good friends. I'm hoping they'll be back soon (with better temps).
 

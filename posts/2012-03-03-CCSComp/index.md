@@ -12,8 +12,8 @@ tags: ['CSS', 'Luis', 'Obsispo', 'San', 'Slo Op']
 
 This weekend the local climbing gym was holding a CCS and Citizens competition. I volunteered to set some climbs for the comp and for finals. Joe Maier and I were in charge of men's 3rd and last finals route. The whole setting crew did an amazing job. It was lots of fun.
 
-![Alex Biale on Men's 1](uploads/1.jpg)*Alex Biale on Men's 1*
+![Alex Biale on Men's 1](uploads/1.jpg)
 
-![Alex Biale on Men's 2](uploads/2.JPG)*Alex Biale on Men's 2*
+![Alex Biale on Men's 2](uploads/2.JPG)
 
 \- Itai

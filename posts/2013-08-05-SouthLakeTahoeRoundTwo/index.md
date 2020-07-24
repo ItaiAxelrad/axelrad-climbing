@@ -16,23 +16,23 @@ This time we headed out early and had a couple of hours to work the problem whil
 
 Also, if you're interested in seeing a well-made [vid](http://vimeo.com/16855611) of this climb, check out Alex Savage on the 2nd ascent. (<http://vimeo.com/16855611>)
 
-![image alt](uploads/IMG_6139.JPG)
+![](uploads/IMG_6139.JPG)
 
-![image alt](uploads/IMG_6141.JPG)
+![](uploads/IMG_6141.JPG)
 
-![The crux dead-point](uploads/IMG_6142.JPG)*The crux dead-point*
+![The crux dead-point](uploads/IMG_6142.JPG)
 
-![image alt](uploads/IMG_6159.jpg)
+![](uploads/IMG_6159.jpg)
 
-![image alt](uploads/IMG_6164.jpg)
+![](uploads/IMG_6164.jpg)
 
-![image alt](uploads/IMG_6169.jpg)
+![](uploads/IMG_6169.jpg)
 
-![image alt](uploads/IMG_6172.jpg)
+![](uploads/IMG_6172.jpg)
 
-![The top section](uploads/IMG_6176.jpg)*The top section*
+![The top section](uploads/IMG_6176.jpg)
 
-![¡Mucho Tiempo!](uploads/IMG_6146.JPG)*¡Mucho Tiempo!*
+![¡Mucho Tiempo!](uploads/IMG_6146.JPG)
 
 And thanks again Chris for the great photos!
 

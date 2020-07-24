@@ -11,8 +11,8 @@ tags: ['Axelrad', 'California', 'granite', 'palm springs', 'Tramway', 'v12']
 ---
 Eden, Marina and I headed out to Tramway with the objective of putting down Black Mamba. This Tramway crimping testpiece was originally done by Dan Mills many years ago and given the grade of V13, though consensus has settled at hard end V12 since then. The redpoint crux of the climb revolves around a low percentage dynamic move to a slot and can be very frustrating to work. The day was unseasonably warm, but after a tremendous amount of complaining, the project went. The uncut video of the send can be found at <https://www.youtube.com/watch?v=fFg8Eu9FodA>.
 
-![Views from the ride up the mountain.](uploads/IMG_5028.JPG)*Views from the ride up the mountain.*
+![Views from the ride up the mountain.](uploads/IMG_5028.JPG)
 
-![Mood](uploads/IMG_5062.JPG)*Mood*
+![Mood](uploads/IMG_5062.JPG)
 
-![A screengrab from the send video of Black Mamba (V12).](uploads/IMG_5226.jpg)*A screengrab from the send video of Black Mamba (V12).*
+![A screengrab from the send video of Black Mamba (V12).](uploads/IMG_5226.jpg)

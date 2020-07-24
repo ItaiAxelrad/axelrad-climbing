@@ -12,32 +12,32 @@ tags: ['bishop', 'deadpoint', 'Photo']
 
 We met up with Laura Griffiths and a bunch of Organic pads to get some shots for the upcoming DeadPoint magazine feature. Stay tuned for the release! In the meantime, here are some photos from the trip to Bishop:
 
-![image alt](uploads/1.jpg)
+![](uploads/1.jpg)
 
-![image alt](uploads/2.jpg)
+![](uploads/2.jpg)
 
-![image alt](uploads/3.jpg)
+![](uploads/3.jpg)
 
-![image alt](uploads/4.jpg)
+![](uploads/4.jpg)
 
-![image alt](uploads/5.jpg)
+![](uploads/5.jpg)
 
-![image alt](uploads/6.jpg)
+![](uploads/6.jpg)
 
-![image alt](uploads/7.jpg)
+![](uploads/7.jpg)
 
-![image alt](uploads/8.jpg)
+![](uploads/8.jpg)
 
-![image alt](uploads/9.jpg)
+![](uploads/9.jpg)
 
-![image alt](uploads/10.jpg)
+![](uploads/10.jpg)
 
-![image alt](uploads/11.jpg)
+![](uploads/11.jpg)
 
-![image alt](uploads/12.jpg)
+![](uploads/12.jpg)
 
-![image alt](uploads/13.jpg)
+![](uploads/13.jpg)
 
-![image alt](uploads/14.jpg)
+![](uploads/14.jpg)
 
-![image alt](uploads/15.jpg)
+![](uploads/15.jpg)

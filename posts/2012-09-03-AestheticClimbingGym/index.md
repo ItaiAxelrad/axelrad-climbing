@@ -38,19 +38,19 @@ Female:
 9. Jill Carpenter
 10. Mariana Mendoza
 
-![Sierra Blair-Coyle keeping her balance on the Women's 1](uploads/IMG_5475_2.JPG)*Sierra Blair-Coyle keeping her balance on the Women's 1*
+![Sierra Blair-Coyle keeping her balance on the Women's 1](uploads/IMG_5475_2.JPG)
 
-![Looking at the finish](uploads/IMG_5477.jpg)*Looking at the finish*
+![Looking at the finish](uploads/IMG_5477.jpg)
 
-![Nina Williams looking up Women's 1](uploads/IMG_5493.JPG)*Nina Williams looking up Women's 1*
+![Nina Williams looking up Women's 1](uploads/IMG_5493.JPG)
 
-![Jon Cardwell, taking a look at what's to come on the rest of Men's 1](uploads/IMG_5537.JPG)*Jon Cardwell, taking a look at what's to come on the rest of Men's 1*
+![Jon Cardwell, taking a look at what's to come on the rest of Men's 1](uploads/IMG_5537.JPG)
 
-![Matt Wilder, bustin ' out the roof on Men's 1](uploads/IMG_5517.JPG)*Matt Wilder, bustin ' out the roof on Men's 1*
+![Matt Wilder, bustin ' out the roof on Men's 1](uploads/IMG_5517.JPG)
 
-![Matt Wilder on burly Men's 2](uploads/IMG_5533.JPG)*Matt Wilder on burly Men's 2*
+![Matt Wilder on burly Men's 2](uploads/IMG_5533.JPG)
 
-![Daniel Woods finishing up Men's 3](uploads/IMG_5512.jpg)*Daniel Woods finishing up Men's 3*
+![Daniel Woods finishing up Men's 3](uploads/IMG_5512.jpg)
 
 Congratulations everyone! It was a great competition and I can't wait for next year.
 

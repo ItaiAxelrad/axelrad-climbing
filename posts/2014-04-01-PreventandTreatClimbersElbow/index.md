@@ -28,7 +28,7 @@ Tennis Elbow is a term for tendinosis of the lateral elbow tendons (also called 
 
 Tendonitis is caused from a single strenuous motion and results in inflamed or swollen elbow tendons. Although elbow tendinosis and tendinitis are two separate injuries, they are unfortunately often concurrent ones. Prevented measures for tendinitis include regular icing and moderate use of NSAID (Non-Steroidal Anti-Inflammatory Drugs) to reduce swelling.
 
-![Areas of pain associated with each tendon injury. Photo source: rpm-therapy.com](uploads/climbers_tennis_golf_elbow.jpg)*Areas of pain associated with each tendon injury. Photo source: rpm-therapy.com*
+![Areas of pain associated with each tendon injury. Photo source: rpm-therapy.com](uploads/climbers_tennis_golf_elbow.jpg)
 
 ## Prevention
 

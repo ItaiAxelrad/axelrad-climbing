@@ -18,12 +18,12 @@ The next day we ran around the main Buttermilks area trying classics and project
 
 Here's a few photos from the trip...
 
-![Ben working on A Maze of Death (V12)](uploads/IMG_4169.jpg)*Ben working on A Maze of Death (V12)*
+![Ben working on A Maze of Death (V12)](uploads/IMG_4169.jpg)
 
-![Giving a burn on Spectre (V13)](uploads/IMG_2345.jpg)*Giving a burn on Spectre (V13)*
+![Giving a burn on Spectre (V13)](uploads/IMG_2345.jpg)
 
-![Views from the Bardini Boulders](uploads/IMG_0409.jpg)*Views from the Bardini Boulders*
+![Views from the Bardini Boulders](uploads/IMG_0409.jpg)
 
-![Ben sending High Plains Drifter (V7)](uploads/IMG_0448.jpg)*Ben sending High Plains Drifter (V7)*
+![Ben sending High Plains Drifter (V7)](uploads/IMG_0448.jpg)
 
-![The walk back from the Pollen Grains](uploads/IMG_0412.jpg)*The walk back from the Pollen Grains*
+![The walk back from the Pollen Grains](uploads/IMG_0412.jpg)

@@ -11,10 +11,10 @@ tags: ['Axelrad', 'Black Mountain', 'Bouldering', 'California', 'Climbing', 'gra
 ---
 I seem to have forgotten how good Black Mountain is. The rock quality is usually amazing, the climbing movement is always fun, and the views are breathtaking. What more can you ask for?
 
-![Joel on Brut Us](uploads/IMG_5394.JPG)*Joel on Brut Us*
+![Joel on Brut Us](uploads/IMG_5394.JPG)
 
-![Itai on Brut Us](uploads/IMG_5549.JPG)*Itai on Brut Us*
+![Itai on Brut Us](uploads/IMG_5549.JPG)
 
-![Itai on Teahupoo](uploads/IMG_5591.JPG)*Itai on Teahupoo*
+![Itai on Teahupoo](uploads/IMG_5591.JPG)
 
-![Itai on Howl's Moving Castle](uploads/IMG_5593.JPG)*Itai on Howl's Moving Castle*
+![Itai on Howl's Moving Castle](uploads/IMG_5593.JPG)

@@ -12,15 +12,15 @@ tags: ['Alpine', 'Axelrad', 'blood money', 'Bouldering', 'Chaos Canyon', 'Climbi
 
 If you can ignore the hoards of tourists, Rocky Mountain National Park is a lovely place. I did not think so at first but it has grown on me in the past few weeks. Good times in the alpine with a fine crew of people will do that!
 
-![Striking a pose](uploads/IMG_0632.JPG)*Striking a pose*
+![Striking a pose](uploads/IMG_0632.JPG)
 
 While there were plenty of wobblers to be had, the trips were an overall success. Kayla took down the wonderful Windy in a Basket in a few goes, Isaac and I put Blood Money to rest, and I even managed a quick send of the life-lister Top Notch ([video link](https://youtu.be/f68S6CJ5vKg)).
 
-![Kayla crimping her way through Windy in a Basket (V7)](uploads/IMG_0515.JPG)*Kayla crimping her way through Windy in a Basket (V7)*
+![Kayla crimping her way through Windy in a Basket (V7)](uploads/IMG_0515.JPG)
 
-![Isaac climbing the thuggy roof of Blood Money (V12)](uploads/IMG_0655.jpg)*Isaac climbing the thuggy roof of Blood Money (V12)*
+![Isaac climbing the thuggy roof of Blood Money (V12)](uploads/IMG_0655.jpg)
 
-![Myself, on the classic Top Notch (V13)](uploads/IMG_0656.jpg)*Myself, on the classic Top Notch (V13)*
+![Myself, on the classic Top Notch (V13)](uploads/IMG_0656.jpg)
 
 And now, here's a rant about the disappearance of the "leave no trace" ethics.
 
@@ -34,7 +34,7 @@ This was an issue a dozen years ago, and the sport has experienced exponential g
 
 There are many more articles and forums out there addressing this issue. Feel free to inform yourself and please be respectful!
 
-![The beautiful alpine wilderness of Chaos Canyon](uploads/IMG_0490.jpg)*The beautiful alpine wilderness of Chaos Canyon*
+![The beautiful alpine wilderness of Chaos Canyon](uploads/IMG_0490.jpg)
 
 Till next time,
 

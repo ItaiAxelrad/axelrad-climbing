@@ -10,7 +10,7 @@ location: ''
 tags: ['deadpoint', 'magazine']
 ---
 
-![The Cover](uploads/dpm3prev.jpg)*The Cover*
+![The Cover](uploads/dpm3prev.jpg)
 
 Here is a link to Climbing Narc's write up: <https://climbingnarc.com/2009/02/issue-3-of-deadpoint-magazine-now-available/>
 

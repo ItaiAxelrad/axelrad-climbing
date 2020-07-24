@@ -12,11 +12,11 @@ tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Luis', 'Obispo', 'San
 
 After four amazing years, it is time to say goodbye to San Luis Obispo. Luckily, before I left I got the chance to show my brother around Bishop Peak and reclimb some of my favorites.
 
-![image alt](uploads/IMG_0655.jpg)
+![](uploads/IMG_0655.jpg)
 
-![image alt](uploads/IMG_0711.jpg)
+![](uploads/IMG_0711.jpg)
 
-![image alt](uploads/IMG_0685.jpg)
+![](uploads/IMG_0685.jpg)
 
 I know Bishop Peak is not world class climbing, but I forget how spoiled I have been to have some rock 5 minutes from my apartment. I’m going to miss this place.
 

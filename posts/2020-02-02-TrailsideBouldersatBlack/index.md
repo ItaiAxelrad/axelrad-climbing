@@ -13,13 +13,13 @@ Last Saturday Mikey and I made the trek up to The Trailside Boulders at Black Mo
 
 Here are some pictures from the day...
 
-![image alt](uploads/IMG_0682.jpg)
+![](uploads/IMG_0682.jpg)
 
-![image alt](uploads/IMG_0662.jpg)
+![](uploads/IMG_0662.jpg)
 
-![image alt](uploads/IMG_0646.jpg)
+![](uploads/IMG_0646.jpg)
 
-![image alt](uploads/IMG_0629.jpg)
+![](uploads/IMG_0629.jpg)
 
 See you all out there!
 

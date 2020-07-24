@@ -12,19 +12,19 @@ tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Itai', 'Malibu']
 
 Climbing in 90 percent humidity, 90 degree weather is less than ideal. Isaac, Miguel, Mariana, Eden and I discovered this yesterday while trying some of Malibu Creeks's finest climbs. We still enjoyed the day despite the heat. Here are some photos:
 
-![Eden holding on to the sweating 2 finger roof pocket on Chubs (V11)](uploads/IMG_4528.JPG)*Eden holding on to the sweating 2 finger roof pocket on Chubs (V11)*
+![Eden holding on to the sweating 2 finger roof pocket on Chubs (V11)](uploads/IMG_4528.JPG)
 
-![image alt](uploads/IMG_4514.jpg)*Itai trying his luck on the Malibu Project (V14).
+![](uploads/IMG_4514.jpg)*Itai trying his luck on the Malibu Project (V14).
 Photo by Isaac Palat*
 
-![Miguel climbing up the Malibu classic, Ghetto Blaster (5.13b)](uploads/IMG_4544.jpg)*Miguel climbing up the Malibu classic, Ghetto Blaster (5.13b)*
+![Miguel climbing up the Malibu classic, Ghetto Blaster (5.13b)](uploads/IMG_4544.jpg)
 
-![Isaac figuring out the sequence on a Project](uploads/IMG_4561.jpg)*Isaac figuring out the sequence on a Project*
+![Isaac figuring out the sequence on a Project](uploads/IMG_4561.jpg)
 
-![Isaac pulling through the next move on the Project](uploads/IMG_4572.jpg)*Isaac pulling through the next move on the Project*
+![Isaac pulling through the next move on the Project](uploads/IMG_4572.jpg)
 
-![Itai, on a roof climb (V3)](uploads/IMG_4585.JPG)*Itai, on a roof climb (V3)*
+![Itai, on a roof climb (V3)](uploads/IMG_4585.JPG)
 
-![Itai climbing another pocket overhang (V5)](uploads/IMG_4611.jpg)*Itai climbing another pocket overhang (V5)*
+![Itai climbing another pocket overhang (V5)](uploads/IMG_4611.jpg)
 
 \- Itai

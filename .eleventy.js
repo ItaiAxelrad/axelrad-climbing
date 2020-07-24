@@ -1,14 +1,33 @@
 const { DateTime } = require('luxon');
 const CleanCSS = require('clean-css');
 const Terser = require('terser');
+const markdownIt = require('markdown-it');
+const lazy_loading = require('markdown-it-image-lazy-loading');
+const implicitFigures = require('markdown-it-implicit-figures');
 const pluginLocalRespimg = require('eleventy-plugin-local-respimg');
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginRss = require('@11ty/eleventy-plugin-rss');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
-  
+
   // add plugins
   eleventyConfig.addPlugin(pluginRss);
+
+  /* Markdown Overrides */
+  let markdownLibrary = markdownIt({
+    html: true,
+    breaks: true,
+    linkify: true,
+    typographer: false,
+  })
+    .use(lazy_loading)
+    .use(implicitFigures, {
+      dataType: false, // <figure data-type="image">, default: false
+      figcaption: true, // <figcaption>alternative text</figcaption>, default: false
+      tabindex: false, // <figure tabindex="1+n">..., default: false
+      link: false, // <a href="img.png"><img src="img.png"></a>, default: false
+    });
+  eleventyConfig.setLibrary('md', markdownLibrary);
 
   // add passthrough files
   eleventyConfig.addPassthroughCopy('images');
@@ -16,6 +35,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('config.yml');
   eleventyConfig.addPassthroughCopy('sw.js');
   eleventyConfig.addPassthroughCopy('manifest.json');
+  eleventyConfig.addPassthroughCopy('_includes/scripts/main.js');
 
   //minify CSS filter for inline injection
   eleventyConfig.addFilter('cssmin', (code) => {

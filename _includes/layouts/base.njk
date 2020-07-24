@@ -47,15 +47,6 @@
       {{css | cssmin | safe}}
     </style>
 
-    <!-- capture the JS content as a Nunjucks variable -->
-    {% set js %}
-    {% include "../scripts/main.js" %}
-    {% endset %}
-    <!-- feed it through our jsmin filter to minify -->
-    <script>
-      {{ js | jsmin | safe }}
-    </script>
-
   </head>
   <body>
 
@@ -68,6 +59,15 @@
     <footer>
       <small>&copy; {{ metadata.name }}</small>
     </footer>
+    
+    <!-- capture the JS content as a Nunjucks variable -->
+    {% set js %}
+    {% include "../scripts/main.js" %}
+    {% endset %}
+    <!-- feed it through our jsmin filter to minify -->
+    <script defer async>
+      {{ js | jsmin | safe }}
+    </script>
 
   </body>
 </html>

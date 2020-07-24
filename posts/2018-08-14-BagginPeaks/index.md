@@ -13,22 +13,22 @@ When it's too hot to boulder, we boulder anyway, but sometimes we retreat into t
 
 Here are some uncharacteristic pictures of scenery, hiking, traditional climbing, and even some alpine adventures from the summer.
 
-![A Sierra Nevada sunset](uploads/IMG_6373.jpg)*A Sierra Nevada sunset*
+![A Sierra Nevada sunset](uploads/IMG_6373.jpg)
 
-![Taking in the view on pitch two of The Trough on Tahquitz Rock](uploads/IMG_6084.jpg)*Taking in the view on pitch two of The Trough on Tahquitz Rock*
+![Taking in the view on pitch two of The Trough on Tahquitz Rock](uploads/IMG_6084.jpg)
 
-![Alpine start for Lone Pine Peak (upper left)](uploads/IMG_6200.jpg)*Alpine start for Lone Pine Peak (upper left)*
+![Alpine start for Lone Pine Peak (upper left)](uploads/IMG_6200.jpg)
 
-![Summit of Crystal Crag via Crystal Corridor](uploads/IMG_6216.jpg)*Summit of Crystal Crag via Crystal Corridor*
+![Summit of Crystal Crag via Crystal Corridor](uploads/IMG_6216.jpg)
 
-![The downclimb to Crystal Crag](uploads/IMG_6222.jpg)*The downclimb to Crystal Crag*
+![The downclimb to Crystal Crag](uploads/IMG_6222.jpg)
 
-![Gem Lake on the approach trail to Bear Creek Spire](uploads/IMG_6392.jpg)*Gem Lake on the approach trail to Bear Creek Spire*
+![Gem Lake on the approach trail to Bear Creek Spire](uploads/IMG_6392.jpg)
 
-![The final push towards the Bear Creek Spire summit via The Northeast Ridge](uploads/IMG_6397.jpg)*The final push towards the Bear Creek Spire summit via The Northeast Ridge*
+![The final push towards the Bear Creek Spire summit via The Northeast Ridge](uploads/IMG_6397.jpg)
 
-![Views down the valley from the Spire](uploads/IMG_6395.jpg)*Views down the valley from the Spire*
+![Views down the valley from the Spire](uploads/IMG_6395.jpg)
 
-![The beautiful but mosquito infested (not pictured) hike out](uploads/IMG_6406.jpg)*The beautiful but mosquito infested (not pictured) hike out*
+![The beautiful but mosquito infested (not pictured) hike out](uploads/IMG_6406.jpg)
 
-![The massif (with Bear Creek Spire farthest back and left)](uploads/IMG_6408.jpg)*The massif (with Bear Creek Spire farthest back and left)*
+![The massif (with Bear Creek Spire farthest back and left)](uploads/IMG_6408.jpg)

@@ -14,15 +14,15 @@ As the title of this post suggests, it was a cold and windy weekend out in the d
 
 We switched gears and tried out some pebble wrestling at the pig pen boulder in hopes of some protection from the wind. We had no such luck but bumped into a group of old friends from San Luis Obispo.
 
-![Misery loves company. Belyn battling the end of Pig Pen (V4). PC: Sami Hawkins.](uploads/16463769_10154951230009547_8303650977913390281_o.jpg)*Misery loves company. Belyn battling the end of Pig Pen (V4). PC: Sami Hawkins.*
+![Misery loves company. Belyn battling the end of Pig Pen (V4). PC: Sami Hawkins.](uploads/16463769_10154951230009547_8303650977913390281_o.jpg)
 
-![Cody, earning style points for the drop knee on Chili Sauce (V7).](uploads/IMG_3997.JPG)*Cody, earning style points for the drop knee on Chili Sauce (V7).*
+![Cody, earning style points for the drop knee on Chili Sauce (V7).](uploads/IMG_3997.JPG)
 
-![Belyn starting up White Lightning (5.7)](uploads/IMG_4001.JPG)*Belyn starting up White Lightning (5.7)*
+![Belyn starting up White Lightning (5.7)](uploads/IMG_4001.JPG)
 
-![Sami on a mock lead of the classic, Sail Away (5.8)](uploads/IMG_4015.JPG)*Sami on a mock lead of the classic, Sail Away (5.8)*
+![Sami on a mock lead of the classic, Sail Away (5.8)](uploads/IMG_4015.JPG)
 
-![Belyn crushing the test-piece, Heart of Darkness (5.11). PC: Sami Hawkins](uploads/16252072_10154945993234547_331957342315451315_o.jpg)*Belyn crushing the test-piece, Heart of Darkness (5.11). PC: Sami Hawkins*
+![Belyn crushing the test-piece, Heart of Darkness (5.11). PC: Sami Hawkins](uploads/16252072_10154945993234547_331957342315451315_o.jpg)
 
 Despite the alpine like conditions and "why the fuck am I doing this" thought that seemed to permeate the entire weekend, we managed to have lots of fun as always.
 

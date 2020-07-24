@@ -10,14 +10,14 @@ location: ''
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'Five Ten', 'granite', 'meadows', 'tuolumne', 'yosemite']
 ---
 
-![image alt](uploads/IMG_0697.JPG)
+![](uploads/IMG_0697.JPG)
 
 This past weekend Jovanna and I headed up to Yosemite to camp, hike, climb, and enjoy the outdoors. On Friday we dedicated the first half of the day to sampling the Tuolumne Meadows granite before heading to Lake Tenya to cool off.
 
-![Holding the crux deadpoint on Detached (V8)](uploads/IMG_0731.jpg)*Holding the crux deadpoint on Detached (V8)*
+![Holding the crux deadpoint on Detached (V8)](uploads/IMG_0731.jpg)
 
-![Me on The Flakes (V1)](uploads/IMG_0728.jpg)*Me on The Flakes (V1)*
+![Me on The Flakes (V1)](uploads/IMG_0728.jpg)
 
-![Jovanna, enjoying the view after topping out her first outdoor V1](uploads/IMG_0719.JPG)*Jovanna, enjoying the view after topping out her first outdoor V1*
+![Jovanna, enjoying the view after topping out her first outdoor V1](uploads/IMG_0719.JPG)
 
 Can't wait to come back here in fall!
