@@ -1,0 +1,59 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+  squash_merges: true
+site_url: http://axelradclimbing.netlify.app/
+display_url: http://axelradclimbing.netlify.app/
+logo_url: http://axelradclimbing.netlify.app//images/icon.png
+publish_mode: editorial_workflow # enable drafts
+media_folder: 'uploads' # Media files will be stored in the repo under images/uploads
+collections:
+  # Blog posts
+  - name: 'posts' # Used in routes, e.g., /admin/collections/blog
+    identifier_field: name
+    description: 'A collection of all blog posts'
+    label: 'Posts' # Used in the UI
+    label_singular: 'Post' # Used in the UI
+    folder: 'posts' # The path to the folder where the documents are stored
+    path: '{{year}}-{{month}}-{{day}}-{{slug}}/index'
+    media_folder: 'uploads'
+    public_folder: 'uploads'
+    create: true # Allow users to create new documents in this collection
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    preview_path: 'posts/{{year}}-{{month}}-{{day}}-{{slug}}' # preview location
+    preview_path_date_field: 'date'
+    summary: '{{fields.title}} - {{fields.author}} - {{fields.date}}'
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          default: Created,
+          dateFormat: 'DD.MM.YYYY',
+        }
+      - {
+          label: 'Update Date',
+          name: 'update',
+          widget: 'datetime',
+          default: Last Modified,
+        }
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: True }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Location', name: 'location', widget: 'string' }
+      - { label: 'Feature Image', name: 'thumbnail', widget: 'image' }
+      - { label: 'Tags', name: 'tags', widget: 'list', default: ['post'] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Pages
+  - name: 'pages' # Used in routes, e.g., /admin/collections/blog
+    identifier_field: name
+    description: 'A collection of all blog pages'
+    label: 'Pages' # Used in the UI
+    label_singular: 'Page' # Used in the UI
+    folder: '/{{slug}}' # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    slug: '/{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    preview_path: '/{{slug}}' # preview location
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

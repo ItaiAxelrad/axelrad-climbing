@@ -6,12 +6,14 @@ const lazy_loading = require('markdown-it-image-lazy-loading');
 const implicitFigures = require('markdown-it-implicit-figures');
 const pluginLocalRespimg = require('eleventy-plugin-local-respimg');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
+const xmlFiltersPlugin = require('eleventy-xml-plugin');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
   // add plugins
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(xmlFiltersPlugin);
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
@@ -30,12 +32,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary('md', markdownLibrary);
 
   // add passthrough files
-  eleventyConfig.addPassthroughCopy('images');
-  eleventyConfig.addPassthroughCopy('posts/*/uploads/*');
-  eleventyConfig.addPassthroughCopy('config.yml');
-  eleventyConfig.addPassthroughCopy('sw.js');
-  eleventyConfig.addPassthroughCopy('manifest.json');
-  eleventyConfig.addPassthroughCopy('_includes/scripts/main.js');
+  eleventyConfig.addPassthroughCopy('src/images');
+  eleventyConfig.addPassthroughCopy('src/posts/*/uploads/*');
+  eleventyConfig.addPassthroughCopy('src/config.yml');
+  eleventyConfig.addPassthroughCopy('src/sw.js');
+  eleventyConfig.addPassthroughCopy('src/manifest.json');
+  eleventyConfig.addPassthroughCopy('src/includes/scripts/main.js');
 
   //minify CSS filter for inline injection
   eleventyConfig.addFilter('cssmin', (code) => {
@@ -114,4 +116,19 @@ module.exports = function (eleventyConfig) {
   //     },
   //   },
   // });
+
+  // Base Config
+  return {
+    dir: {
+            input: 'src',
+            output: 'dist',
+            includes: 'includes',
+            // layouts: 'layouts',
+            data: 'data'
+    },
+    templateFormats: ['njk', 'md', '11ty.js'],
+    htmlTemplateEngine: 'njk',
+    markdownTemplateEngine: 'njk'
+  }
+
 };
