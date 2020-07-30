@@ -1,4 +1,5 @@
 _site/
+dist/
 node_modules/
 post_api.py
 blogger_api.py
