@@ -3,10 +3,14 @@ title: Posts
 permalink: /{{ title | lower }}/
 ---
 
-<h1>{{ title }}</h1>
+<main>
 
-<ol class="post-list" reversed >
-  {% for post in collections.post | reverse %}
-    {% include 'components/listItem.njk' %}
-  {% endfor %}
-</ol>
+  <h1>{{ title }}</h1>
+
+  <ol class="post-list" reversed >
+    {% for post in collections.post | reverse %}
+      {% include 'components/listItem.njk' %}
+    {% endfor %}
+  </ol>
+
+</main>

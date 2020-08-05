@@ -5,15 +5,14 @@ eleventyExcludeFromCollections: true
 permalink: index.html
 ---
 
-<section class="posts">
+<main class="posts">
 
   {%- include 'components/featuredPost.njk' -%}
 
   {%- set posts = collections.post | reverse -%}
   {%- for post in posts.slice(1, 4) -%}
 
-    <div class="post">
-    <a href="{{ post.url }}">
+    <a href="{{ post.url }}" class="post" aria-label="{{ post.data.title }}">
       <img
         src="{{ post.url }}uploads/{{ post.data.thumbnail }}"
         alt="{{ post.data.title }}"
@@ -27,11 +26,10 @@ permalink: index.html
         </small>
       </div>
       </a>
-    </div>
 
   {%- endfor -%}
 
-</section>
+</main>
 
 <nav class="pageNav">
   <div class="previous-page"></div>

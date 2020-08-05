@@ -18,7 +18,7 @@ Not long after we climbed the classic Dan Osman Arete I found a short crimp line
 
 ![Working the moves on Transitory State (V10/11?)](uploads/IMG_1430.jpg)
 
-| ![A GIF of the first two moves of Transitory State (V10/11?)](uploads/output_zxN2Yr.gif)
+![A GIF of the first two moves of Transitory State (V10/11?)](uploads/output_zxN2Yr.gif)
 
 After the session on the project, we headed down to the lower OK Corral area to scope out more blocs. Isaac's tour only got better when he showed us the Hueco Wall (V3) and Loh Roof (V8), which were both crowd favorites. Here are some photos from the afternoon session.
 

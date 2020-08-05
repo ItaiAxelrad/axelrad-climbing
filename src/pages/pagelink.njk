@@ -9,12 +9,11 @@ pagination:
   alias: posts
 ---
 
-<section class="posts">
+<main class="posts">
 
   {% for post in posts %}
 
-    <div class="post">
-    <a href="{{ post.url }}">
+    <a href="{{ post.url }}" class="post" aria-label="{{ post.data.title }}">
       <img
     src="{{ post.url }}uploads/{{ post.data.thumbnail }}"
     alt="{{ post.data.title }}"
@@ -28,10 +27,9 @@ pagination:
         </small>
       </div>
     </a>
-    </div>
 
   {% endfor %}
 
-</section>
+</main>
 
 {%- include 'components/pageNav.njk' -%}
