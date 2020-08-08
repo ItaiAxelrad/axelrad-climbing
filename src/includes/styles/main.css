@@ -5,14 +5,19 @@
   --ff-serif: Georgia, Droid Serif, Times New Roman, serif;
   /* Mono */
   --ff-mono: Menlo, Consolas, monospace;
+  /* theme colors */
+  --hue: 45;
+  --sat: 90%;
+  --lit: 52%;
   /* color scheme */
-  --color: hsl(45, 90%, 52%);
-  --color-light: hsl(45, 90%, 92%);
-  --light: hsl(45, 7%, 97%);
-  --light-gray: hsl(45, 7%, 96%);
-  --gray: hsl(45, 7%, 93%);
-  --dark-gray: hsl(225, 7%, 27%);
-  --dark: hsl(225, 7%, 13%);
+  --theme: hsl(var(--hue), var(--sat), var(--lit));
+  --theme-light: hsl(var(--hue), var(--sat), 92%);
+  --comp: hsl(calc(var(--hue) - 180), var(--sat), var(--lit));
+  --light: hsl(var(--hue), 7%, 97%);
+  --light-gray: hsl(var(--hue), 7%, 96%);
+  --gray: hsl(var(--hue), 7%, 93%);
+  --dark-gray: hsl(calc(var(--hue) - 180), 7%, 27%);
+  --dark: hsl(calc(var(--hue) - 180), 7%, 13%);
   --opaque: hsla(0, 0%, 20%, 0.1);
   /* UI parts */
   --shadow: 0px 2px 16px var(--opaque);
@@ -23,12 +28,12 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color: hsl(45, 90%, 52%);
+    --theme: hsl(45, 90%, 52%);
     --light: hsl(225, 7%, 23%);
     --light-gray: hsl(225, 7%, 18%);
     --gray: hsl(225, 7%, 13%);
     --dark-gray: hsl(45, 7%, 83%);
-    --dark: hsl(45, 7%, 93%);
+    --dark: hsl(45, 7%, 90%);
     --opaque: hsla(0, 0%, 10%, 0.5);
     --shadow: 0px 2px 16px var(--opaque);
     --border: 1px solid var(--light);
@@ -43,19 +48,19 @@
 
 /* dark light mode */
 .scheme-dark {
-  --color: hsl(45, 90%, 52%);
+  --theme: hsl(45, 90%, 52%);
   --light: hsl(225, 7%, 23%);
-  --light-gray: hsl(225, 0%, 18%);
+  --light-gray: hsl(225, 7%, 18%);
   --gray: hsl(225, 7%, 13%);
   --dark-gray: hsl(45, 7%, 83%);
-  --dark: hsl(45, 7%, 93%);
+  --dark: hsl(45, 7%, 90%);
   --opaque: hsla(0, 0%, 10%, 0.5);
   --shadow: 0px 2px 16px var(--opaque);
   --border: 1px solid var(--light);
 }
 
 .scheme-light {
-  --color: hsl(45, 90%, 52%);
+  --theme: hsl(45, 90%, 52%);
   --light: hsl(45, 7%, 97%);
   --light-gray: hsl(45, 7%, 96%);
   --gray: hsl(45, 7%, 93%);
@@ -185,7 +190,7 @@ article header::after {
   display: block;
   height: 2px;
   width: 2rem;
-  background: var(--color);
+  background: var(--theme);
   margin: 0.5rem 0 1rem 0;
 }
 
@@ -230,13 +235,13 @@ a[href^="http://"],
 a[href^="https://"],
 a[rel='noreferrer'],
 a[rel='noopener'] {
-  text-decoration: underline var(--color);
+  text-decoration: underline var(--theme);
 }
 a[href^="http://"]:hover,
 a[href^="https://"]:hover,
 a[rel='noreferrer']:hover,
 a[rel='noopener']:hover {
-  color: var(--color);
+  color: var(--theme);
 }
 a[href^="http://"]::after,
 a[href^="https://"]::after,
@@ -254,7 +259,7 @@ img {
 }
 
 figure {
-  margin-block-end: 1rem;
+  margin-block-end: 0.75rem;
 }
 
 figure img {
@@ -372,7 +377,7 @@ figcaption {
 }
 
 .logo {
-  /* fill: var(--color); */
+  /* fill: var(--theme); */
   display: inline-block;
   vertical-align: top;
   height: 1.5rem;
@@ -423,7 +428,7 @@ button:focus {
 blockquote {
   margin: 1rem 0;
   padding: 0 1rem;
-  border-inline-start: 2px solid var(--color);
+  border-inline-start: 2px solid var(--theme);
 }
 
 form {

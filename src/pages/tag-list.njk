@@ -5,9 +5,13 @@ eleventyExcludeFromCollections: true
 layout: layouts/page.njk
 ---
 
+<main>
+
 <h1>{{ title }}</h1>
 
-{% for tag in collections.post[ tags ] %}
-  {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-  <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+{% for tag in collections.tagList | excludeTags | sort(arr) %}
+  {% set tagUrl %}/tags/{{ tag }}{% endset %}
+  <a href="/tags/{{ tag | replace("'", "") | slug | url }}" class="tag p-category" rel="tag">{{ tag }}</a>
 {% endfor %}
+
+</main>

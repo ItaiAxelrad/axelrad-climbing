@@ -24,12 +24,9 @@ There was a high wind warning in the weather forecast for the second day, but it
 
 ![Itai sending Meadowlark Lemon Stand (V12/13)](uploads/IMG_4134.JPG)
 
-A cold front was supposed to roll in on Monday,
-and it was much much colder than the previous two days. Also, the wind wasn't quite as strong. We were thankful! Itai and I ran out to Meadowlark Lemon Stand (V12/13) so I could try and finish it up. I rehearsed the top moves a few times and started working it from the bottom. It took some fighting, but I was finally able to get it done!
+A cold front was supposed to roll in on Monday, and it was much much colder than the previous two days. Also, the wind wasn't quite as strong. We were thankful! Itai and I ran out to Meadowlark Lemon Stand (V12/13) so I could try and finish it up. I rehearsed the top moves a few times and started working it from the bottom. It took some fighting, but I was finally able to get it done!
 
-After that, we decided to stop at Power Slave (V12) on our way back out to Kraft. It fit our strength and style perfectly and we both managed to make quick work of it.
-
-We spent the rest of the afternoon in Kraft jumping and working on classic lines!
+After that, we decided to stop at Power Slave (V12) on our way back out to Kraft. It fit our strength and style perfectly and we both managed to make quick work of it. We spent the rest of the afternoon in Kraft jumping and working on classic lines!
 
 ![Meadowlark Lemon Stand (V12/13)](uploads/Meadowlark%20Lemon.JPG)
 
@@ -37,7 +34,7 @@ We spent the rest of the afternoon in Kraft jumping and working on classic lines
 
 ![Jovanna working The Pearl (V5)](uploads/IMG_4171.jpg)
 
-![](uploads/IMG_4127.JPG)
+![A Kraft Sunset](uploads/IMG_4127.JPG)
 
 See you out there!
 

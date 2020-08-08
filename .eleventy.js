@@ -88,6 +88,20 @@ module.exports = function (eleventyConfig) {
     return tags.filter((tag) => !toRemove.includes(tag));
   });
 
+  // Get tags from all posts
+  eleventyConfig.addCollection('tagList', (collection) => {
+      let tagSet = new Set();
+      collection.getAll().forEach( (item) => {
+        if( "tags" in item.data ) {
+          let tags = item.data.tags;
+          for (const tag of tags) {
+            tagSet.add(tag);
+          }
+        }
+      });
+      return [...tagSet];
+    });
+
   // Get paginated posts
   eleventyConfig.addCollection('pagedPosts', (collectionApi) => {
     return collectionApi.getFilteredByTag('post').reverse().slice(4);

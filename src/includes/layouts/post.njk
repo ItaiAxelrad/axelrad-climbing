@@ -5,7 +5,7 @@ layout: layouts/base.njk
 <article id="{{ title | slug }}" class="e-content">
   <header class="h-card">
     <small>
-    Posted on <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address class="p-name">{{- author }}</address>
+    Posted on <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time> by <address class="p-name">{{ author }}</address>
     </small>
     <h1 class="p-name">{{ title }}</h1>
     </header>
