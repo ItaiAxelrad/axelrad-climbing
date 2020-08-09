@@ -6,6 +6,7 @@ site_url: http://axelradclimbing.netlify.app/
 display_url: http://axelradclimbing.netlify.app/
 logo_url: http://axelradclimbing.netlify.app//images/icon.png
 publish_mode: editorial_workflow # enable drafts
+show_preview_links: true # show post / page live preview 
 media_folder: 'uploads' # Media files will be stored in the repo under images/uploads
 collections:
   # Blog posts
@@ -14,13 +15,13 @@ collections:
     description: 'A collection of all blog posts'
     label: 'Posts' # Used in the UI
     label_singular: 'Post' # Used in the UI
-    folder: 'posts' # The path to the folder where the documents are stored
-    path: '{{year}}-{{month}}-{{day}}-{{slug}}/index'
+    folder: 'src/posts' # The path to the folder where the documents are stored
+    path: '{{year}}-{{month}}-{{day}}-{{slug}}/'
     media_folder: 'uploads'
     public_folder: 'uploads'
     create: true # Allow users to create new documents in this collection
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-    preview_path: 'posts/{{year}}-{{month}}-{{day}}-{{slug}}' # preview location
+    slug: 'index.md' # Filename template, e.g., YYYY-MM-DD-title.md
+    preview_path: 'posts/{{year}}-{{month}}-{{day}}-{{title}}/index.html' # preview location
     preview_path_date_field: 'date'
     summary: '{{fields.title}} - {{fields.author}} - {{fields.date}}'
     fields: # The fields for each document, usually in front matter
@@ -31,6 +32,7 @@ collections:
           widget: 'datetime',
           default: Created,
           dateFormat: 'DD.MM.YYYY',
+          format: 'MMM Dd YY'
         }
       - {
           label: 'Update Date',
@@ -50,7 +52,7 @@ collections:
     description: 'A collection of all blog pages'
     label: 'Pages' # Used in the UI
     label_singular: 'Page' # Used in the UI
-    folder: '/{{slug}}' # The path to the folder where the documents are stored
+    folder: 'src/pages/{{slug}}' # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
     slug: '/{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     preview_path: '/{{slug}}' # preview location

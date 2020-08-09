@@ -8,7 +8,7 @@
   /* theme colors */
   --hue: 45;
   --sat: 90%;
-  --lit: 52%;
+  --lit: 60%;
   /* color scheme */
   --theme: hsl(var(--hue), var(--sat), var(--lit));
   --theme-light: hsl(var(--hue), var(--sat), 92%);
@@ -417,12 +417,12 @@ button:focus {
 .visually-hidden {
   position: absolute;
   overflow: hidden;
+  white-space: nowrap;
   width: 1px;
   height: 1px;
-  white-space: nowrap;
   border: 0;
-  clip: rect(0 0 0 0);
   padding: 0;
+  clip: rect(0 0 0 0);
 }
 
 blockquote {
@@ -507,6 +507,13 @@ textarea {
   .featured-post,
   .posts {
     display: block;
+  }
+  .post-title {
+    max-height: 250px;
+    margin-block-end: 2rem;
+    padding: 1rem;
+    background: var(--light-gray);
+    border-radius: 0 0 3px 3px;
   }
   .featured-post img {
     border-radius: 3px 3px 0 0;
