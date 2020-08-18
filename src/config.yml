@@ -4,7 +4,7 @@ backend:
   squash_merges: true
 site_url: http://axelradclimbing.netlify.app/
 display_url: http://axelradclimbing.netlify.app/
-logo_url: http://axelradclimbing.netlify.app//images/icon.png
+logo_url: http://axelradclimbing.netlify.app/images/icon.png
 publish_mode: editorial_workflow # enable drafts
 show_preview_links: true # show post / page live preview 
 media_folder: 'uploads' # Media files will be stored in the repo under images/uploads
@@ -52,7 +52,7 @@ collections:
     description: 'A collection of all blog pages'
     label: 'Pages' # Used in the UI
     label_singular: 'Page' # Used in the UI
-    folder: 'src/pages/{{slug}}' # The path to the folder where the documents are stored
+    folder: 'src/pages' # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
     slug: '/{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     preview_path: '/{{slug}}' # preview location

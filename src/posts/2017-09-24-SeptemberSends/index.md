@@ -16,7 +16,7 @@ A cold streak appeared on the forecast and beckoned us towards the Sierras. It w
 
 ![Itai on Stained Glass (V10)](uploads/IMG_4982.JPG)
 
-We then made our way over to The Mandala, an iconic Chris Sharma line that had thwarted me for years (Eden had sent the climb nearly a decade before). How iconic is this line? Well, it has its own Wikipedia page <https://en.wikipedia.org/wiki/The_Mandala>. I managed to put it down on my second go this trip. Jovanna sent both Hero Roof and the committing Sunshine Slab.
+We then made our way over to The Mandala, an iconic Chris Sharma line that had thwarted me for years (Eden had sent the climb nearly a decade before). How iconic is this line? Well, it has its own [Wikipedia page](https://en.wikipedia.org/wiki/The_Mandala). I managed to put it down on my second go this trip. Jovanna sent both Hero Roof and the committing Sunshine Slab.
 
 ![Itai on The Mandala (V12)](uploads/FullSizeRender%2011.jpg)
 

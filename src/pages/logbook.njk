@@ -1,0 +1,33 @@
+---
+title: Logbook
+permalink: /{{ title | lower }}/
+eleventyExcludeFromCollections: true
+---
+
+<main id="{{ title }}">
+
+<table>
+  <caption>{{ title }}</caption>
+    <thead>
+        <tr>
+          <th>Grade</th>
+          <th>Route</th>
+          <th>Crag</th>
+          <th>Date</th>
+          <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+    {%- for boulder in logbook.boulders %}
+        <tr>
+            <td>{{ boulder.grade }}</td>
+            <td>{{ boulder.route }}</td>
+            <td>{{ boulder.crag }}</td>
+            <td>{{ boulder.date }}</td>
+            <td>{{ boulder.comment }}</td>
+        </tr>
+    {%- endfor %}
+    </tbody>
+</table>
+
+</main>

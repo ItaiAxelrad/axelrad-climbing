@@ -150,8 +150,7 @@ nav .btn {
 /* post and page  */
 h1,
 h2,
-h3,
-h4 {
+h3 {
   font-family: var(--ff-serif);
   font-weight: bold;
   letter-spacing: 0.25px;
@@ -159,6 +158,7 @@ h4 {
 }
 
 h1 {
+  font-size: xx-large;
   margin-block-end: 1rem;
 }
 
@@ -198,6 +198,7 @@ address,
 time {
   display: inline;
   font-style: normal;
+  font-size: smaller;
 }
 
 p {
@@ -205,6 +206,7 @@ p {
 }
 
 small {
+  font-size: 0.9rem;
   color: var(--dark-gray);
 }
 
@@ -351,10 +353,18 @@ figcaption {
   border-block-end: var(--border);
 }
 
+li .p-name {
+  text-decoration: underline var(--theme);
+}
+
+li .p-name:hover {
+  color: var(--theme);
+}
+
 .tag {
   display: inline-block;
   margin: 0.15rem 0;
-  padding: 0.25rem 0.5rem;
+  padding: 0.2rem 0.5rem;
   color: var(--dark-gray);
   background: var(--light-gray);
   border-radius: var(--radius);
@@ -521,4 +531,41 @@ textarea {
   .post-image {
     height: 200px;
   }
+}
+
+/* table style */
+
+table {
+  position: relative;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+th {
+  position: sticky;
+  top: 0;
+  background: var(--gray);
+  padding: 1rem;
+}
+
+tbody tr:hover {
+  background: var(--light);
+}
+
+td {
+  font-size: small;
+  text-align: left;
+  padding: 0.25rem .5rem;
+  border-block-start: var(--border);
+  color: var(--dark-gray)
+}
+
+td:first-of-type {
+  text-align: center;
+}
+
+td:hover {
+  cursor: pointer;
+  border-color: var(--theme);
+  color: var(--dark)
 }
