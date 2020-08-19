@@ -17,3 +17,5 @@
 
   [plugins.inputs.minifierOptions]
     collapseInlineTagWhitespace = false
+    collapseWhitespace=true
+    conservativeCollapse=true
