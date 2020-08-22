@@ -8,9 +8,15 @@ permalink: /{{ title | lower }}/
   <h1>{{ title }}</h1>
 
   <ol class="post-list" reversed >
+    {% set currentYear = "" %}
     {% for post in collections.post | reverse %}
+        {% set postYear = post.date.getFullYear() %}
+        {% if currentYear != postYear %}
+        {% set currentYear = postYear %}
+        <h2 class="list-header">{{ postYear }}</h2>
+        {% endif %}
       {% include 'components/listItem.njk' %}
     {% endfor %}
-  </ol>
+    </ol>
 
 </main>

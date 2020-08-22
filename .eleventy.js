@@ -37,7 +37,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/config.yml');
   eleventyConfig.addPassthroughCopy('src/sw.js');
   eleventyConfig.addPassthroughCopy('src/manifest.json');
-  eleventyConfig.addPassthroughCopy('src/includes/scripts/main.js');
+  eleventyConfig.addPassthroughCopy('src/includes/scripts/*');
+  eleventyConfig.addPassthroughCopy('src/data/logbook.json');
 
   //minify CSS filter for inline injection
   eleventyConfig.addFilter('cssmin', (code) => {
@@ -106,6 +107,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('pagedPosts', (collectionApi) => {
     return collectionApi.getFilteredByTag('post').reverse().slice(4);
   });
+
 
   // eleventyConfig.addPlugin(pluginLocalRespimg, {
   //   folders: {

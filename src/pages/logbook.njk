@@ -6,11 +6,14 @@ eleventyExcludeFromCollections: true
 
 <main id="{{ title }}">
 
+<div class="container">
+  <canvas id="myChart"></canvas>
+</div>
+
 <table>
-  <caption>{{ title }}</caption>
+  <caption>Itai's {{ title }}</caption>
     <thead>
         <tr>
-          <th>Grade</th>
           <th>Route</th>
           <th>Crag</th>
           <th>Date</th>
@@ -18,16 +21,24 @@ eleventyExcludeFromCollections: true
         </tr>
     </thead>
     <tbody>
-    {%- for boulder in logbook.boulders %}
+    {% set currentGrade = "" %}
+    {% for boulder in logbook.boulders %}
+    {% set boulderGrade = boulder.grade %}
+    {% if currentGrade != boulderGrade %}
+        {% set currentGrade = boulderGrade %}
+        <tr><th class="grade-header" colspan="4" data-grade="{{ boulderGrade }}">{{ boulderGrade }}</th></tr>
+        {% endif %}
         <tr>
-            <td>{{ boulder.grade }}</td>
             <td>{{ boulder.route }}</td>
             <td>{{ boulder.crag }}</td>
             <td>{{ boulder.date }}</td>
             <td>{{ boulder.comment }}</td>
         </tr>
-    {%- endfor %}
+    {% endfor %}
     </tbody>
 </table>
 
 </main>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script src="../includes/scripts/chart.js" defer ></script>

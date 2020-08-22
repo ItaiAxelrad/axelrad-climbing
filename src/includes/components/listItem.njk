@@ -1,12 +1,10 @@
 <li class="list-item h-card">
       <strong><a href="{{ post.url | url}}" class="p-name">{{ post.data.title }}</a></strong>
-      <br>
-      <small>{{- loop.length - loop.index0 }}</small> &bull; 
+      <small>#{{- loop.length - loop.index0 }}</small> &bull; 
       <time datetime="{{ post.data.date | htmlDateString }}" class="dt-published">{{ post.data.date | readableDate}}</time> &bull; 
       <address class="p-author">{{ post.data.author }}</address>
       {%- if post.data.location %} &bull; <small class="p-location">{{ post.data.location }}</small>
       {%- endif %}
-
       <br>
       {%- set tagList = post.data.tags | excludeTags -%}
       {%- for tag in tagList %}

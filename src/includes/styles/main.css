@@ -5,19 +5,19 @@
   --ff-serif: Georgia, Droid Serif, Times New Roman, serif;
   /* Mono */
   --ff-mono: Menlo, Consolas, monospace;
-  /* theme colors */
-  --hue: 45;
-  --sat: 90%;
-  --lit: 60%;
+  /* hsl theme color */
+  --h: 45;
+  --s: 90%;
+  --l: 60%;
   /* color scheme */
-  --theme: hsl(var(--hue), var(--sat), var(--lit));
-  --theme-light: hsl(var(--hue), var(--sat), 92%);
-  --comp: hsl(calc(var(--hue) - 180), var(--sat), var(--lit));
-  --light: hsl(var(--hue), 7%, 97%);
-  --light-gray: hsl(var(--hue), 7%, 96%);
-  --gray: hsl(var(--hue), 7%, 93%);
-  --dark-gray: hsl(calc(var(--hue) - 180), 7%, 27%);
-  --dark: hsl(calc(var(--hue) - 180), 7%, 13%);
+  --theme: hsl(var(--h), var(--s), var(--l));
+  --theme-light: hsl(var(--h), var(--s), 92%);
+  --comp: hsl(calc(var(--h) - 180), var(--s), var(--l));
+  --light: hsl(var(--h), 7%, 97%);
+  --light-gray: hsl(var(--h), 7%, 96%);
+  --gray: hsl(var(--h), 7%, 93%);
+  --dark-gray: hsl(calc(var(--h) - 180), 7%, 27%);
+  --dark: hsl(calc(var(--h) - 180), 7%, 13%);
   --opaque: hsla(0, 0%, 20%, 0.1);
   /* UI parts */
   --shadow: 0px 2px 16px var(--opaque);
@@ -222,7 +222,7 @@ footer {
 
 hr {
   margin: 1.5rem 0;
-  background: var(--opaque);
+  background: var(--light-gray);
   border: none;
   height: 1px;
 }
@@ -350,11 +350,16 @@ figcaption {
 .list-item {
   list-style: none;
   padding: 0.5rem;
+}
+
+.list-header {
   border-block-end: var(--border);
+  margin-block-start: 1.5rem;
 }
 
 li .p-name {
   text-decoration: underline var(--theme);
+  padding-inline-end: 0.25rem;
 }
 
 li .p-name:hover {
@@ -539,33 +544,43 @@ table {
   position: relative;
   border-collapse: collapse;
   border-spacing: 0;
+  margin-block-start: 2rem;
 }
 
-th {
+caption {
+  font-family: var(--ff-mono);
+  color: var(--dark-gray);
+}
+
+thead th {
   position: sticky;
   top: 0;
   background: var(--gray);
   padding: 1rem;
 }
 
-tbody tr:hover {
-  background: var(--light);
+tbody th {
+  position: sticky;
+  top: 52px;
+  background: var(--light-gray);
+  padding: 0.5rem;
+}
+
+tr:nth-child(even) {
+  background: var(--opaque);
 }
 
 td {
   font-size: small;
   text-align: left;
-  padding: 0.25rem .5rem;
-  border-block-start: var(--border);
-  color: var(--dark-gray)
-}
-
-td:first-of-type {
-  text-align: center;
+  padding: 0.25rem 0.5rem;
+  min-width: 95px;
+  /* border-block-start: var(--border); */
+  color: var(--dark-gray);
 }
 
 td:hover {
   cursor: pointer;
   border-color: var(--theme);
-  color: var(--dark)
+  color: var(--dark);
 }
