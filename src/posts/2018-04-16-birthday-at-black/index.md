@@ -1,5 +1,5 @@
 ---
-title: 'Birthday at Black! '
+title: 'Birthday at Black!'
 date: '2018-04-16T15:10:00-07:00'
 updated: '2020-07-19T16:25:19-07:00'
 thumbnail: 'IMG_3882%202.jpg'

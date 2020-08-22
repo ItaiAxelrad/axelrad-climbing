@@ -3,11 +3,34 @@ title: 'The Underground'
 date: '2016-02-12T19:01:00-08:00'
 updated: '2016-02-12T19:01:08-08:00'
 thumbnail: 'IMG_7898.JPG'
-uploads: ['IMG_7898.JPG', 'IMG_3509.jpg', 'IMG_3540.jpg', 'IMG_7881.JPG', 'IMG_3486.jpg', 'IMG_7892.JPG', 'IMG_7855.JPG', 'IMG_3518.jpg', 'IMG_3529.jpg', 'IMG_3508.jpg']
+uploads:
+  [
+    'IMG_7898.JPG',
+    'IMG_3509.jpg',
+    'IMG_3540.jpg',
+    'IMG_7881.JPG',
+    'IMG_3486.jpg',
+    'IMG_7892.JPG',
+    'IMG_7855.JPG',
+    'IMG_3518.jpg',
+    'IMG_3529.jpg',
+    'IMG_3508.jpg',
+  ]
 author: 'Itai'
 id: 8877279212193941505
-location: 'Joshua Tree, CA
-tags: ['Axelrad', 'California', 'Eden', 'granite', 'highball', 'Itai', 'Joshua', 'Tree', 'underground']
+location: 'Joshua Tree, CA'
+tags:
+  [
+    'Axelrad',
+    'California',
+    'Eden',
+    'granite',
+    'highball',
+    'Itai',
+    'Joshua',
+    'Tree',
+    'underground',
+  ]
 ---
 
 We awoke after a short sleep in what must have been the last camping spot in the whole park and headed down the dirt road to Queen Mountain pullout. Cody, Eden and I had discussed hiking out to the underground for several months, and today was finally the day. The infamous approach deters most, but we felt up for the challenge and the opportunity to escape the crowds.
