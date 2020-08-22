@@ -6,7 +6,7 @@ thumbnail: 'IMG_2446.jpg'
 uploads: ['IMG_2446.jpg', 'IMG_2449.jpg', 'IMG_2425.jpg', 'IMG_2435.jpg', 'IMG_2467.jpg']
 author: 'Eden'
 id: 7986292823208833947
-location: ''
+location: 'Santa Barbara, CA'
 tags: ['Axelrad', 'Bouldering', 'Brickyard', 'California', 'highball', 'Itai', 'sandstone', 'Santa Barbara']
 ---
 

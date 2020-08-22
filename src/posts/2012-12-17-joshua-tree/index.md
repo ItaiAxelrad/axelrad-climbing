@@ -6,7 +6,7 @@ thumbnail: 'IMG_5806.JPG'
 uploads: ['IMG_5806.JPG', 'IMG_5816.JPG', '487010_10151208748528382_229822770_n.jpg', 'IMG_5826.jpg']
 author: 'Itai'
 id: 1944267772079572758
-location: ''
+location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Itai', 'Joshua', 'Tree']
 ---
 

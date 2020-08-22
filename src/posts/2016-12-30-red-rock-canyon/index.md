@@ -6,7 +6,7 @@ thumbnail: 'IMG_3889.jpg'
 uploads: ['IMG_3889.jpg', 'IMG_3897.jpg', 'IMG_3898.jpg', 'IMG_3893.jpg', 'IMG_3902.jpg', 'IMG_3912.jpg']
 author: 'Itai'
 id: 1812482651326744158
-location: ''
+location: 'Las Vegas, NV'
 tags: ['Axelrad', 'Bouldering', 'Five Ten', 'flash', 'highball', 'Itai', 'Las Vegas', 'Nevada', 'Red Rocks']
 ---
 

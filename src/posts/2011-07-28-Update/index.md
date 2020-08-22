@@ -6,7 +6,7 @@ thumbnail: '11934_264767101503009364556106479906099769269347186n_1311954545.jpg'
 uploads: ['11934_264767101503009364556106479906099769269347186n_1311954545.jpg']
 author: 'Itai'
 id: 282037750318133486
-location: ''
+location: 'San Luis Obispo, CA'
 tags: ['California', 'college', 'Collegiate', 'update']
 ---
 

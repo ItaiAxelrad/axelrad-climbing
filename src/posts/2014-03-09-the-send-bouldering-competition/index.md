@@ -6,7 +6,7 @@ thumbnail: 'thesend.jpg'
 uploads: ['thesend.jpg']
 author: 'Itai'
 id: 4752905453386032339
-location: ''
+location: 'San Luis Obispo, CA'
 tags: ['Andy Lamb', 'Axelrad', 'Bouldering', 'California', 'CCS', 'Climbing', 'Collegiate', 'Competition', 'finals', 'Slo Op', 'the send']
 ---
 

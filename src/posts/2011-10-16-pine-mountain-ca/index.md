@@ -6,7 +6,7 @@ thumbnail: 'IMG_2128.JPG'
 uploads: ['IMG_2128.JPG', 'IMG_2180.jpg', 'IMG_2188.jpg', 'IMG_2207.jpg', '_phpfnwqxdPM_1318806321.jpg']
 author: 'Itai'
 id: 1095609288186886031
-location: ''
+location: 'Pine Mountain, CA'
 tags: ['California', 'Mountain', 'Pine', 'sandstone']
 ---
 

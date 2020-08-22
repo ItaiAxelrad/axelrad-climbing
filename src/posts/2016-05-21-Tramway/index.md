@@ -6,7 +6,7 @@ thumbnail: 'IMG_0356.JPG'
 uploads: ['IMG_0356.JPG', 'IMG_0379.jpg', 'IMG_0400.JPG', 'IMG_0448.JPG', 'IMG_0451.jpg']
 author: 'Eden'
 id: 5681403658349092349
-location: ''
+location: 'Palm Springs, CA'
 tags: ['Axelrad', 'black mamba', 'Bouldering', 'Five Ten', 'granite', 'Tramway']
 ---
 

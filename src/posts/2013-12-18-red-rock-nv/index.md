@@ -6,7 +6,7 @@ thumbnail: 'IMG_9522.jpg'
 uploads: ['IMG_9522.jpg', 'IMG_9485.jpg', 'IMG_9501.jpg', 'IMG_9506.jpg', 'IMG_9511.jpg', 'IMG_9539.jpg', 'IMG_9541.jpg', 'IMG_9571.jpg']
 author: 'Itai'
 id: 1994483482726823387
-location: ''
+location: 'Las Vegas, NV'
 tags: ['Axelrad', 'Bouldering', 'boulders', 'Climbing', 'Itai', 'Kraft', 'Nevada', 'Red', 'Rock', 'sandstone']
 ---
 

@@ -6,7 +6,7 @@ thumbnail: 'IMG_2548.JPG'
 uploads: ['IMG_2548.JPG', 'IMG_6544.JPG']
 author: 'Itai'
 id: 4533169255126501684
-location: ''
+location: 'Santa Barbara, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Competition', 'Five Ten', 'Itai', 'Santa Barbara']
 ---
 

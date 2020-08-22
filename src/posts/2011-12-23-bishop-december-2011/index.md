@@ -6,7 +6,7 @@ thumbnail: 'IMG_2596.JPG'
 uploads: ['IMG_2596.JPG']
 author: 'Eden'
 id: 3673751976227584369
-location: ''
+location: 'Bishop, CA'
 tags: ['Axelrad', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'California']
 ---
 

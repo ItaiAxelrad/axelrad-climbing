@@ -6,7 +6,7 @@ thumbnail: 'IMG_2235.jpg'
 uploads: ['IMG_2235.jpg', 'IMG_2202.jpg', 'IMG_2211.jpg', 'IMG_2230.jpg', 'IMG_2237.jpg']
 author: 'Itai'
 id: 7790454096504482486
-location: ''
+location: 'Black Mountain, CA'
 tags: ['Axelrad', 'Black Mountain', 'blog', 'Bouldering', 'California', 'Climbing', 'Five Ten', 'granite', 'Itai', 'Rock', 'trailside']
 ---
 

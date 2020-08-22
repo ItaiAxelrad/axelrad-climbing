@@ -6,7 +6,7 @@ thumbnail: 'IMG_2495.jpg'
 uploads: ['IMG_2495.jpg', 'IMG_6982.jpg', 'IMG_9346.jpg', 'IMG_4425.jpg']
 author: 'Itai'
 id: 4832847861390354511
-location: ''
+location: 'El Paso, TX'
 tags: ['Axelrad', 'Bouldering', 'east', 'el paso', 'flash', 'hueco', 'Mountain', 'north', 'tanks', 'texas']
 ---
 

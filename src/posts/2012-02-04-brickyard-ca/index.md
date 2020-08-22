@@ -6,7 +6,7 @@ thumbnail: 'IMG_2685.JPG'
 uploads: ['IMG_2685.JPG', 'IMG_2724.jpg']
 author: 'Itai'
 id: 5157839849754319896
-location: ''
+location: 'Santa Barbra, CA'
 tags: ['Axelrad', 'Bouldering', 'Brickyard', 'Climbing', 'Itai']
 ---
 

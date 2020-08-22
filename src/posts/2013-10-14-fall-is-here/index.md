@@ -6,7 +6,7 @@ thumbnail: 'IMG_9198.jpg'
 uploads: ['IMG_9198.jpg', 'IMG_9271.jpg', 'IMG_9258.jpg', 'IMG_9223.jpg', 'IMG_9288.jpg']
 author: 'Itai'
 id: 6065889109151129444
-location: ''
+location: 'Bishop, CA'
 tags: ['Axelrad', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'California', 'Climbing', 'highball', 'Itai']
 ---
 

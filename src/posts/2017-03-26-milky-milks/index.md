@@ -6,7 +6,7 @@ thumbnail: 'File_001.jpg'
 uploads: ['File_001.jpg', 'File_001.jpg', 'File_001.jpg', 'File_000.jpg']
 author: 'Itai'
 id: 556122969207573177
-location: ''
+location: 'Bishop, CA'
 tags: ['Axelrad', 'bishop', 'buttermilks', 'California', 'flash', 'granite', 'highball', 'Itai']
 ---
 

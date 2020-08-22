@@ -6,7 +6,7 @@ thumbnail: 'IMG_0655.jpg'
 uploads: ['IMG_0655.jpg', 'IMG_0711.jpg', 'IMG_0685.jpg']
 author: 'Itai'
 id: 464562836651532923
-location: ''
+location: 'San Luis Obispo, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Luis', 'Obispo', 'San', 'Slo']
 ---
 

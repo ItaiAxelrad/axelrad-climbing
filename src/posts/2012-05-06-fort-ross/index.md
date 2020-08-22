@@ -6,7 +6,7 @@ thumbnail: 'IMG_0282.JPG'
 uploads: ['IMG_0282.JPG', 'IMG_0241.JPG', 'IMG_0246.JPG', 'IMG_0252.jpg', 'IMG_0256.jpg', 'IMG_0272.JPG', 'IMG_0273.JPG', 'IMG_0274.JPG', 'IMG_0275.JPG', 'IMG_0276.JPG', 'IMG_0277.JPG', 'IMG_0287.JPG']
 author: 'Eden'
 id: 6593575809652397635
-location: ''
+location: 'Fort Ross, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'Eden', 'Fort', 'Ross', 'Rossta']
 ---
 

@@ -6,7 +6,7 @@ thumbnail: 'IMG_0723.jpg'
 uploads: ['IMG_0723.jpg', 'IMG_0430.jpg', 'IMG_0523.jpg', 'IMG_0517.jpg']
 author: 'Itai'
 id: 3706807781461784118
-location: ''
+location: 'Golden, CO'
 tags: ['Alpine', 'Axelrad', 'Bouldering', 'Climbing', 'Colorado', 'granite', 'Guanella', 'Lake', 'Lincoln', 'Pass', 'Summer', 'talus', 'v12', 'v13']
 ---
 

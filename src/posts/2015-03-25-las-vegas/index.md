@@ -6,7 +6,7 @@ thumbnail: 'IMG_1943.jpg'
 uploads: ['IMG_1943.jpg', 'IMG_1973.jpg', 'IMG_1987.jpg', 'IMG_2006.jpg']
 author: 'Itai'
 id: 8272175470487520513
-location: ''
+location: 'Las Vegas, NV'
 tags: ['Axelrad', 'blog', 'Bouldering', 'Climbing', 'Eden', 'Five Ten', 'highball', 'Itai', 'Kraft', 'Las Vegas', 'Nevada', 'Red', 'Red Rocks', 'Rock', 'sandstone']
 ---
 

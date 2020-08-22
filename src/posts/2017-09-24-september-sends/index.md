@@ -6,7 +6,7 @@ thumbnail: 'IMG_4970.JPG'
 uploads: ['IMG_4970.JPG', 'IMG_4982.JPG', 'IMG_4982.JPG', 'IMG_4982.JPG', 'FullSizeRender%2011.jpg', 'IMG_5001.JPG', 'IMG_4999.JPG', 'IMG_4999.JPG', 'IMG_4999.JPG']
 author: 'Itai'
 id: 1700869977427004587
-location: ''
+location: 'Bishop, CA'
 tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'The Swarm']
 ---
 

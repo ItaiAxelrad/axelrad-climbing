@@ -6,7 +6,7 @@ thumbnail: 'IMG_5056.JPG'
 uploads: ['IMG_5056.JPG', 'IMG_1198.jpg', 'IMG_1208.jpg', 'IMG_1272-2.jpg', 'IMG_5109.jpg']
 author: 'Itai'
 id: 6438197052569548435
-location: ''
+location: 'Horse Flats, CA'
 tags: ['Axelrad', 'Bouldering', 'boulders', 'California', 'Eden', 'Five Ten', 'flash', 'flats', 'granite', 'highball', 'horse', 'Itai']
 ---
 

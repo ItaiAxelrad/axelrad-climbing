@@ -6,7 +6,7 @@ thumbnail: 'GoBot.jpg'
 uploads: ['GoBot.jpg', 'RMNP%20V11.jpg', 'IMG_0388.jpg']
 author: 'Itai'
 id: 4460816252139277326
-location: ''
+location: 'Estes Park, CO'
 tags: ['Axelrad', 'Bouldering', 'Chaos Canyon', 'Colorado', 'gobot', 'lower', 'Mountain', 'park', 'RMNP', 'v11']
 ---
 

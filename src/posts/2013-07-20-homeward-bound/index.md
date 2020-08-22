@@ -6,7 +6,7 @@ thumbnail: 'IMG_7725.jpg'
 uploads: ['IMG_7725.jpg', 'IMG_7748.jpg', 'IMG_7758.jpg', 'IMG_7742.jpg', 'IMG_7790.jpg', 'IMG_7824.jpg']
 author: 'Eden'
 id: 469727283989317490
-location: ''
+location: 'Leavenworth, WA'
 tags: ['Axelrad', 'Bouldering', 'boulders', 'Itai', 'Leavenworth', 'road trip', 'Rock', 'Smith']
 ---
 

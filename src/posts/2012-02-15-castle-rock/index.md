@@ -6,7 +6,7 @@ thumbnail: 'IMG_0200.JPG'
 uploads: ['IMG_0200.JPG', 'IMG_1928.JPG', 'IMG_1921.jpg', 'IMG_1924.jpg', '403362_2706066339152_1481580039_32077030_653608925_n.jpg', 'IMG_0171.jpg', 'IMG_0172.jpg', 'IMG_0173.jpg']
 author: 'Eden'
 id: 4971576544688933478
-location: 'Castle Rock Trail, California 95033, USA'
+location: 'Castle Rock Trail, CA'
 tags: ['California', 'Castle', 'Rock']
 ---
 

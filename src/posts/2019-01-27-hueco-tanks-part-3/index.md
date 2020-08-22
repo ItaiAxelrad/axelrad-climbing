@@ -6,7 +6,7 @@ thumbnail: 'IMG_3388%202.jpg'
 uploads: ['IMG_3388%202.jpg', 'IMG_3350.jpg', 'IMG_0103%202.jpg', 'IMG_0105.jpg']
 author: 'Itai'
 id: 5345359962296384214
-location: ''
+location: 'El Paso, TX'
 tags: ['Axelrad', 'Bouldering', 'crimps', 'hueco', 'tanka', 'texas', 'v10']
 ---
 

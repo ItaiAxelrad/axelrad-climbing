@@ -6,7 +6,7 @@ thumbnail: 'IMG_5536.JPG'
 uploads: ['IMG_5536.JPG', 'IMG_5500.JPG', 'IMG_5509.JPG', 'IMG_5516.JPG', 'IMG_5540.JPG']
 author: 'Eden'
 id: 7403796000274816716
-location: ''
+location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'granite', 'highball', 'Joshua', 'trad', 'Tree']
 ---
 

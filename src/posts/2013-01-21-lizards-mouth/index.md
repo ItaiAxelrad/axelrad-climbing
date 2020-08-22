@@ -6,7 +6,7 @@ thumbnail: 'IMG_5888.jpg'
 uploads: ['IMG_5888.jpg', 'IMG_5906.JPG', 'IMG_5928.JPG', 'IMG_5956.JPG']
 author: 'Itai'
 id: 7392476836606023872
-location: ''
+location: 'Santa Barbara, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Itai', "Lizard's", 'Mouth', 'Santa Barbara']
 ---
 

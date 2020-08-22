@@ -21,9 +21,7 @@ permalink: index.html
       />
       <div class="post-title">
         <h4>{{ post.data.title }}</h4>
-        <small>
-          <time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate}}</time>
-        </small>
+          <time datetime="{{ post.data.date | htmlDateString }}" class="subtitle">{{ post.data.date | readableDate}}</time>
       </div>
       </a>
 

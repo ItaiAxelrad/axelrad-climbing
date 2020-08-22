@@ -6,7 +6,7 @@ thumbnail: '16463769_10154951230009547_8303650977913390281_o.jpg'
 uploads: ['16463769_10154951230009547_8303650977913390281_o.jpg', 'IMG_3997.JPG', 'IMG_4001.JPG', 'IMG_4015.JPG', '16252072_10154945993234547_331957342315451315_o.jpg']
 author: 'Itai'
 id: 6824819391289044924
-location: ''
+location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'granite', 'highball', 'Itai', 'Joshua', 'trad', 'traditional', 'Tree']
 ---
 

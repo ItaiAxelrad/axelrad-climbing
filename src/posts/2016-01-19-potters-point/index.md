@@ -6,7 +6,7 @@ thumbnail: 'IMG_3436.jpg'
 uploads: ['IMG_3436.jpg', 'IMG_3439.jpg', 'IMG_3439.jpg', 'IMG_3429-2.jpg', 'IMG_3463.jpg']
 author: 'Eden'
 id: 5187042405130522440
-location: ''
+location: 'Santa Barbara, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'highball', "Potter's Point", 'sandstone', 'Santa Barbara']
 ---
 

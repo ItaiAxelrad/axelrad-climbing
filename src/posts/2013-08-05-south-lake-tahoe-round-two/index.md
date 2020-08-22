@@ -6,7 +6,7 @@ thumbnail: 'IMG_6139.JPG'
 uploads: ['IMG_6139.JPG', 'IMG_6141.JPG', 'IMG_6142.JPG', 'IMG_6159.jpg', 'IMG_6164.jpg', 'IMG_6169.jpg', 'IMG_6172.jpg', 'IMG_6176.jpg', 'IMG_6146.JPG']
 author: 'Eden'
 id: 1038161577249136554
-location: ''
+location: 'South Lake Tahoe, CA'
 tags: ['Axelrad', 'Ground Control', 'south lake', 'Tahoe']
 ---
 

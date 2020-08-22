@@ -6,7 +6,7 @@ thumbnail: 'IMG_4065.jpg'
 uploads: ['IMG_4065.jpg', '17211915_10155141822199096_2585577538384379766_o.jpg', '17192346_10155141823424096_8955559923503349275_o.jpg', '16819221_10155092356289096_5818588970824874555_o.jpg']
 author: 'Itai'
 id: 5574427812550977871
-location: ''
+location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'California', 'Climbing', 'Joshua', 'trad', 'Tree']
 ---
 

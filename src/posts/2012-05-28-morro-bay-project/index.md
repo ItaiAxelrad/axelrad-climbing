@@ -6,7 +6,7 @@ thumbnail: 'IMG_3286.JPG'
 uploads: ['IMG_3286.JPG']
 author: 'Itai'
 id: 3598890732947104359
-location: ''
+location: 'Morro Bay, CA'
 tags: ['Bay', 'Morro', 'Project']
 ---
 

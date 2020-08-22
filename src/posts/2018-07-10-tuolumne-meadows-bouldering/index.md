@@ -6,7 +6,7 @@ thumbnail: 'IMG_6349.jpg'
 uploads: ['IMG_6349.jpg', '20180706_185335.jpg', '20180705_155325.jpg']
 author: 'Itai'
 id: 999029866075926321
-location: ''
+location: 'Tuolumne, CA'
 tags: ['Axelrad', 'Bouldering', 'meadows', 'one love', 'tuolumne', 'v12']
 ---
 

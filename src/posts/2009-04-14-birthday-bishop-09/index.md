@@ -6,7 +6,7 @@ thumbnail: 'mandala08.jpg'
 uploads: ['mandala08.jpg']
 author: 'Eden'
 id: 2605092494631155074
-location: 'Bishop, CA 93514, USA'
+location: 'Bishop, CA'
 tags: ['bishop', 'Bouldering', 'buttermilks', 'California', 'granite', 'mandala', 'v12']
 ---
 

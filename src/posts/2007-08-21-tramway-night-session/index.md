@@ -6,7 +6,7 @@ thumbnail: 'IMG_3383.JPG'
 uploads: ['IMG_3383.JPG', 'IMG_3382.JPG', 'IMG_3355.JPG', 'IMG_3360.JPG', 'IMG_3362.JPG', 'IMG_3363.JPG', 'IMG_3364.JPG']
 author: 'Itai'
 id: 469862867412637510
-location: 'Tramway'
+location: 'Tramway, CA'
 tags: ['granite', 'highball', 'Tramway', 'photoshoot', 'night']
 ---
 

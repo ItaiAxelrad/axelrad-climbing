@@ -6,7 +6,7 @@ thumbnail: 'IMG_4757.JPG'
 uploads: ['IMG_4757.JPG', 'swiss-cheese-edited.jpg', 'IMG_4690.JPG', 'IMG_4715.JPG', 'IMG_4793.jpg', 'IMG_4790.jpg']
 author: 'Eden'
 id: 1794524092904160596
-location: ''
+location: 'Bishop, CA'
 tags: ['Axelrad', 'bishop', 'Climbing', 'Eden', 'Happy Boulders', 'Itai']
 ---
 

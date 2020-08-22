@@ -6,7 +6,7 @@ thumbnail: 'GOPR0631.JPG'
 uploads: ['GOPR0631.JPG', 'GOPR0636.JPG', 'GOPR0640.JPG', 'GOPR0649.JPG', 'GOPR0661.JPG', 'GOPR0662.JPG', '55%20PM.jpg']
 author: 'Eden'
 id: 8143510539234349804
-location: ''
+location: 'Topanga, CA'
 tags: ['Axelrad', 'Bouldering', 'Canyon', 'Climbing', 'Five', 'Purple', 'Stones', 'Ten', 'Topanga']
 ---
 

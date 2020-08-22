@@ -6,7 +6,7 @@ thumbnail: 'IMG_0632.JPG'
 uploads: ['IMG_0632.JPG', 'IMG_0515.JPG', 'IMG_0655.jpg', 'IMG_0656.jpg', 'IMG_0490.jpg']
 author: 'Itai'
 id: 153840134079096312
-location: ''
+location: 'Estes Park, CO'
 tags: ['Alpine', 'Axelrad', 'blood money', 'Bouldering', 'Chaos Canyon', 'Climbing', 'Colorado', 'ethics', 'leave no trace', 'pad', 'RMNP', 'stashing', 'top notch', 'v13']
 ---
 

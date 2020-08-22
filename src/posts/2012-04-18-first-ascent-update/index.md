@@ -6,7 +6,7 @@ thumbnail: 'Crimps-of-Wrath.jpg'
 uploads: ['Crimps-of-Wrath.jpg']
 author: 'Itai'
 id: 7280536218268461960
-location: ''
+location: 'Bishop, CA'
 tags: ['Ascent', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'First']
 ---
 

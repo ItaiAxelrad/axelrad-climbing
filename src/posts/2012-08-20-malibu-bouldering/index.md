@@ -6,7 +6,7 @@ thumbnail: 'IMG_4528.JPG'
 uploads: ['IMG_4528.JPG', 'IMG_4514.jpg', 'IMG_4544.jpg', 'IMG_4561.jpg', 'IMG_4572.jpg', 'IMG_4585.JPG', 'IMG_4611.jpg']
 author: 'Itai'
 id: 7602402492623889883
-location: ''
+location: 'Malibu, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Itai', 'Malibu']
 ---
 

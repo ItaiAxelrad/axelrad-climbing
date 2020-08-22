@@ -6,7 +6,7 @@ thumbnail: 'IMG_6432.JPG'
 uploads: ['IMG_6432.JPG', 'IMG_6449.jpg', 'IMG_6483.JPG', 'IMG_6515.jpg']
 author: 'Eden'
 id: 1753147586390830921
-location: ''
+location: 'San Luis Obispo, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'CCS', 'Climbing', 'Collegiate', 'Competition', 'Eden', 'Itai', 'Slo Op']
 ---
 

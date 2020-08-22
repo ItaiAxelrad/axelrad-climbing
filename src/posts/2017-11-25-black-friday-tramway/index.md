@@ -6,7 +6,7 @@ thumbnail: 'IMG_3553.JPG'
 uploads: ['IMG_3553.JPG', 'IMG_3528.JPG', 'IMG_3550.JPG', 'IMG_3572.jpg', 'IMG_3571.JPG']
 author: 'Eden'
 id: 7018775912034595718
-location: ''
+location: 'Palm Springs, CA'
 tags: ['barefoot sharma arete', 'black mamba', 'Bouldering', "chad's dyno", 'Climbing', 'dragons', 'Five', 'fiveten', 'granite', 'Ten', 'Tramway', 'v10', 'v12']
 ---
 

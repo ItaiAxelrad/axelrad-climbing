@@ -6,7 +6,7 @@ thumbnail: 'IMG_5179.JPG'
 uploads: ['IMG_5179.JPG', 'H5ozEpf.jpg', 'tVHN1.gif', 'IMG_5165.JPG', 'IMG_5166.JPG', 'IMG_5167.JPG', 'IMG_5168.JPG', 'IMG_1296.jpg', 'IMG_5163.JPG', 'IMG_5174.jpg', 'IMG_1317.jpg', 'IMG_1340.jpg', 'IMG_1347.jpg', 'IMG_1358.jpg', 'IMG_5196.JPG', 'IMG_1393.jpg']
 author: 'Eden'
 id: 1465988924592041205
-location: ''
+location: 'Bishop, CA'
 tags: ['Axelrad', 'Beall', 'bishop', 'blog', 'Bouldering', 'boulders', 'buttermilker', 'buttermilks', 'California', 'Climbing', 'Daniel Woods', 'Eden', 'Five Ten', 'granite', 'Itai', 'jedi']
 ---
 

@@ -6,7 +6,7 @@ thumbnail: 'IMG_3015.JPG'
 uploads: ['IMG_3015.JPG', 'IMG_3027.JPG', 'IMG_3043.JPG', 'IMG_3061.JPG', 'IMG_3097.JPG', 'IMG_3077.jpg', 'IMG_3078.JPG']
 author: 'Eden'
 id: 369583439622087749
-location: ''
+location: 'Mammoth, CA'
 tags: ['Axelrad', 'Bouldering', 'Eden', 'Five', 'Five Ten', 'gneiss', 'granite', 'mammoth', 'meadows', 'one love', 'space and time', 'Ten', 'tuolumne', 'way lake']
 ---
 

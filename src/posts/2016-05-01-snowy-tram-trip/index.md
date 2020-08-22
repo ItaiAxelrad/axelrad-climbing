@@ -6,7 +6,7 @@ thumbnail: 'IMG_3802.jpg'
 uploads: ['IMG_3802.jpg', 'IMG_3813.jpg']
 author: 'Itai'
 id: 8061682565878277328
-location: ''
+location: 'Palm Springs, CA'
 tags: ['Axelrad', 'black mamba', 'blog', 'Bouldering', 'California', 'Five', 'Five Ten', 'granite', 'highball', 'Itai', 'Tramway']
 ---
 

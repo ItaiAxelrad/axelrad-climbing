@@ -18,6 +18,14 @@ var chart = new Chart(ctx, {
       },
     ],
   },
+  options: {
+        title: {
+            display: true,
+            position: 'top',
+            fontFamily: 'monospace',
+            text: 'All Time Boulder Count'
+        }
+    }
 });
 
 // dynamically add data to chart

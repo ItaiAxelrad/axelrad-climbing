@@ -6,9 +6,10 @@ thumbnail: 'IMG_6373.jpg'
 uploads: ['IMG_6373.jpg', 'IMG_6084.jpg', 'IMG_6200.jpg', 'IMG_6216.jpg', 'IMG_6222.jpg', 'IMG_6392.jpg', 'IMG_6397.jpg', 'IMG_6397.jpg', 'IMG_6395.jpg', 'IMG_6406.jpg', 'IMG_6408.jpg']
 author: 'Itai'
 id: 8411768772573044275
-location: ''
+location: 'Sierra Nevada, CA'
 tags: ['Alpine', 'Axelrad', 'bishop', 'Bouldering', 'California', 'granite', 'Mountain', 'peak', 'summit', 'traditional', 'tuolumne', 'yosemite']
 ---
+
 When it's too hot to boulder, we boulder anyway, but sometimes we retreat into the high Sierra instead.
 
 Here are some uncharacteristic pictures of scenery, hiking, traditional climbing, and even some alpine adventures from the summer.

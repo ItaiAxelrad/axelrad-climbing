@@ -6,7 +6,7 @@ thumbnail: 'IMG_3409.jpg'
 uploads: ['IMG_3409.jpg', 'IMG_3378.jpg', 'IMG_3397.jpg', 'IMG_3405.jpg']
 author: 'Itai'
 id: 3276006307431663160
-location: ''
+location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'cold', 'Five Ten', 'granite', 'highball', 'Isaac', 'Joshua', 'Palatt', 'Tree']
 ---
 

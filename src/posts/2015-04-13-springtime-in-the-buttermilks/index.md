@@ -6,7 +6,7 @@ thumbnail: 'IMG_2067.jpg'
 uploads: ['IMG_2067.jpg', 'IMG_2088.jpg', 'IMG_2077-2.jpg', 'IMG_2094.jpg', 'IMG_2116.jpg', 'IMG_2117.jpg', 'IMG_2105.jpg', 'IMG_2169.jpg']
 author: 'Itai'
 id: 1283405937755795291
-location: ''
+location: 'Bishop, CA'
 tags: ['Axelrad', 'bishop', 'blog', 'Bouldering', 'buttermilker', 'buttermilks', 'California', 'Climbing', 'Eden', 'Five', 'Five Ten', 'granite', 'highball', 'hot', 'Itai', 'Photo']
 ---
 

@@ -6,7 +6,7 @@ thumbnail: '1.jpg'
 uploads: ['1.jpg', '4.jpg', '3.jpg', '2.jpg']
 author: 'Eden'
 id: 1120332862641669683
-location: ''
+location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'blog', 'blood diamond', 'Bouldering', 'Climbing', 'Eden', 'Five Ten', 'granite', 'Itai', 'Joshua', 'national', 'park', 'Tree']
 ---
 

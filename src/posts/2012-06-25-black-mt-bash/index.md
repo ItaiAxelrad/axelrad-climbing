@@ -6,7 +6,7 @@ thumbnail: 'IMG_3722.jpg'
 uploads: ['IMG_3722.jpg', 'IMG_3774.JPG']
 author: 'Itai'
 id: 9058537813027630432
-location: ''
+location: 'Idyllwild-Pine Cove, CA'
 tags: ['Axelrad', 'Black Mountain', 'Bouldering', 'California', 'Climbing', 'Eden', 'Itai']
 ---
 

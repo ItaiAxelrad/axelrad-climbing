@@ -6,7 +6,7 @@ thumbnail: 'IMG_2494.jpg'
 uploads: ['IMG_2494.jpg', 'IMG_2528.jpg', 'IMG_2545.jpg', 'IMG_2558.jpg', 'IMG_2576.jpg']
 author: 'Itai'
 id: 2851452891721829788
-location: ''
+location: 'Santa Barbara, CA'
 tags: ['Axelrad', 'blog', 'Bouldering', 'Brickyard', 'California', 'Climbing', 'Eden', 'Five Ten', 'highball', 'Itai', 'sandstone', 'Santa Barbara', 'slab']
 ---
 

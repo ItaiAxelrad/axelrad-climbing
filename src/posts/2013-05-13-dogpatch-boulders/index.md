@@ -6,7 +6,7 @@ thumbnail: 'aaaM.jpg'
 uploads: ['aaaM.jpg', 'asdddd.jpg', 'ssA.jpg', 'sdfds.jpg']
 author: 'Eden'
 id: 3556564995911773616
-location: ''
+location: 'San Francisco, CA'
 tags: ['Axelrad', 'boulders', 'Climbing', 'Dogpatch', 'touchstone', 'walltopia']
 ---
 

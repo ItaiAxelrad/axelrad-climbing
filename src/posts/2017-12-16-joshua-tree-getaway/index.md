@@ -6,9 +6,10 @@ thumbnail: 'IMG_5264.JPG'
 uploads: ['IMG_5264.JPG', 'IMG_5273.JPG', 'IMG_5404.JPG']
 author: 'Eden'
 id: 5800870091216929715
-location: ''
+location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'California', 'granite', 'Joshua', 'Tree']
 ---
+
 Quick, impulsive trips to Joshua Tree never get old. Here are some pictures from the latest one. Enjoy!
 
 ![Ollie on Muligan 2](uploads/IMG_5264.JPG)

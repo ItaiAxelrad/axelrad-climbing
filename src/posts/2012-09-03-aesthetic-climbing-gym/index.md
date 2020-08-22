@@ -6,7 +6,7 @@ thumbnail: 'IMG_5475_2.JPG'
 uploads: ['IMG_5475_2.JPG', 'IMG_5477.jpg', 'IMG_5493.JPG', 'IMG_5537.JPG', 'IMG_5517.JPG', 'IMG_5533.JPG', 'IMG_5512.jpg']
 author: 'Itai'
 id: 5201842742969073791
-location: ''
+location: 'Lake Forest, CA'
 tags: ['Aesthetic', 'Alex Johnson', 'Axelrad', 'Bouldering', 'Climbing', 'Competition', 'Daniel Woods', 'hot', 'Matt Wilder', 'Nina Williams', 'Sierra Blair Coyle']
 ---
 

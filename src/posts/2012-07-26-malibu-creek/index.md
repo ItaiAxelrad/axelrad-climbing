@@ -6,7 +6,7 @@ thumbnail: 'IMG_4138.JPG'
 uploads: ['IMG_4138.JPG', 'IMG_4095.jpg', 'IMG_4164.jpg', 'IMG_4156.jpg', 'IMG_4084.JPG']
 author: 'Itai'
 id: 3613573202698829466
-location: ''
+location: 'Malibu, CA'
 tags: ['Axelrad', 'California', 'Climbing', 'Eden', 'Itai', 'Malibu']
 ---
 

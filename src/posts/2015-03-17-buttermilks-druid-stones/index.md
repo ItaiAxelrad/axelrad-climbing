@@ -6,7 +6,7 @@ thumbnail: 'IMG_1612.jpg'
 uploads: ['IMG_1612.jpg', 'IMG_1665.jpg', 'IMG_1693.jpg', 'IMG_1741.jpg', 'IMG_1770.jpg', 'IMG_1785.jpg', 'IMG_1795.jpg', 'IMG_1811.jpg', 'arrow.JPG', 'IMG_1825.jpg', 'Edited1212.tif', 'IMG_5659a.JPG', 'IMG_5660a.JPG', 'IMG_1839.jpg', 'IMG_1862.jpg', 'IMG_1915.jpg']
 author: 'Eden'
 id: 947930032973856394
-location: ''
+location: 'Bishop, CA'
 tags: ['Axelrad', 'boulders', 'buttermilks', 'California', 'Climbing', 'Druid Stones', 'Eden', 'Five Ten', 'granite', 'green wall', 'Itai', 'Photo', 'Picture', 'solitaire', "xavier's roof"]
 ---
 

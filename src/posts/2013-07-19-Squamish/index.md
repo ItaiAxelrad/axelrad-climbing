@@ -6,7 +6,7 @@ thumbnail: 'IMG_7327.jpg'
 uploads: ['maps.jpg', 'IMG_7189.jpg', 'IMG_7197.jpg', 'IMG_7346.jpg', 'IMG_7294.jpg', 'IMG_7221.jpg', 'IMG_7411.jpg', 'IMG_7070.jpg', 'IMG_7370.jpg', 'IMG_7484.jpg', 'IMG_7444.jpg', 'IMG_7462.jpg', 'IMG_7546.jpg', 'IMG_7327.jpg']
 author: 'Eden'
 id: 288361898781234696
-location: ''
+location: 'Squamish, BC'
 tags: ['Bouldering', 'Climbing', 'Eden', 'enchanted', 'granite', 'highball', 'Itai', 'road trip', 'Squamish']
 ---
 

@@ -6,7 +6,7 @@ thumbnail: 'photo_3.jpg'
 uploads: ['photo_3.jpg', 'photo_5.jpg', 'bpin.jpg', 'zflute.jpg', '1958259_10202434359556727_82135171_n.jpg', 'photo_4.jpg', 'milk.jpg', 'photo_6.jpg', 'IMG_8643.jpg']
 author: 'Eden'
 id: 5386639621554268288
-location: ''
+location: 'Bishop, CA'
 tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilker', 'buttermilks', 'California', 'Chris Llewellyn', 'Eden', 'ethan pringle', 'Five Ten', 'footprints', 'Itai']
 ---
 

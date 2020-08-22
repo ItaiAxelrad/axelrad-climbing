@@ -9,7 +9,7 @@
 />
 </a>
   <div class="post-title">
-  <small class="block"><time datetime="{{ featuredPost.data.date | htmlDateString }}">{{ featuredPost.data.date | readableDate}}</time></small>
+  <time datetime="{{ featuredPost.data.date | htmlDateString }}" class="subtitle">{{ featuredPost.data.date | readableDate}}</time>
     <a href="{{ featuredPost.url }}"><h3>{{ featuredPost.data.title }}</h3></a>
     {{- featuredPost.templateContent | truncate(100, true, "...") | safe -}}
     

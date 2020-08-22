@@ -6,7 +6,7 @@ thumbnail: 'IMG_3882%202.jpg'
 uploads: ['IMG_3882%202.jpg', 'IMG_3892%202.jpg', 'IMG_3902.jpg', 'IMG_3908.jpg', '23%20PM.jpg', 'IMG_4597.JPG']
 author: 'Eden'
 id: 7194511671878203955
-location: ''
+location: 'Black Mountain, CA'
 tags: ['adamantium', 'Axelrad', 'bang on', 'Black Mountain', 'Bouldering', 'California', 'Climbing', 'der kapitan', 'Eden', 'Five Ten', 'glow worm', 'granite', 'Itai', 'v10', 'v12']
 ---
 Itai and I decided to spend part of our birthday weekend up at Black Mountain. We drove up early on Friday and quickly got started!

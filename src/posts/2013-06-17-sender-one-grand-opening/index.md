@@ -6,7 +6,7 @@ thumbnail: 'IMG_6645.jpg'
 uploads: ['IMG_6645.jpg', 'IMG_6568.jpg', 'IMG_6932.jpg', 'IMG_6875.jpg', 'IMG_6803.jpg', 'IMG_6700.jpg', 'IMG_6909.jpg', 'IMG_6935.jpg']
 author: 'Itai'
 id: 9004037673791672496
-location: ''
+location: 'Costa Mesa, CA'
 tags: ['Ashima Shiraishi', 'Bautista', 'Beall', 'Carlo Traversi', 'Chris Sharma', 'Climbing', 'Competition', 'Johnson', 'Kevin Jorgenson', 'Kinder', 'Martin', 'Owen', 'Paul Robinson', 'Sanders', 'Sender One', 'Sierra Blair Coyle', 'Tommy Caldwell', 'walltopia']
 ---
 

@@ -6,7 +6,7 @@ thumbnail: '20190413_165436.jpg'
 uploads: ['20190413_165436.jpg']
 author: 'Itai'
 id: 6386287449275371723
-location: ''
+location: 'Boulder, CO'
 tags: ['Axelrad', 'boulder', 'Bouldering', 'Colorado', 'flash', 'granite', 'v12', 'wild']
 ---
 

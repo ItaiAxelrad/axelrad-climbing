@@ -6,7 +6,7 @@ thumbnail: 'IMG_0056.JPG'
 uploads: ['IMG_0056.JPG', 'IMG_0053.jpg', 'IMG_1289.JPG']
 author: 'Itai'
 id: 4191562750280774874
-location: ''
+location: 'El Paso, TX'
 tags: ['Axelrad', 'barefoot', 'Bouldering', 'Climbing', 'el paso', 'highball', 'hueco', 'tanks', 'texas', 'v12']
 ---
 

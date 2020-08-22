@@ -6,7 +6,7 @@ thumbnail: 'IMG_7898.JPG'
 uploads: ['IMG_7898.JPG', 'IMG_3509.jpg', 'IMG_3540.jpg', 'IMG_7881.JPG', 'IMG_3486.jpg', 'IMG_7892.JPG', 'IMG_7855.JPG', 'IMG_3518.jpg', 'IMG_3529.jpg', 'IMG_3508.jpg']
 author: 'Itai'
 id: 8877279212193941505
-location: ''
+location: 'Joshua Tree, CA
 tags: ['Axelrad', 'California', 'Eden', 'granite', 'highball', 'Itai', 'Joshua', 'Tree', 'underground']
 ---
 

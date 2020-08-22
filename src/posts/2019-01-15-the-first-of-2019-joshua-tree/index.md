@@ -6,7 +6,7 @@ thumbnail: 'IMG_7529.JPG'
 uploads: ['IMG_7529.JPG', 'IMG_0076%202.jpg', 'IMG_0088%202.jpg', 'IMG_7549.JPG']
 author: 'Eden'
 id: 2001157132732296394
-location: ''
+location: 'Joshua Tree, CA'
 tags: ['a streetcar named desire', 'Axelrad', 'Bouldering', 'Climbing', 'granite', 'Joshua', 'joshua tree', 'the chube', 'Tree']
 ---
 

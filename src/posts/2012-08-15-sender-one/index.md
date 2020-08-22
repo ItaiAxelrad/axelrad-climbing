@@ -6,7 +6,7 @@ thumbnail: 'IMG_4490.JPG'
 uploads: ['IMG_4490.JPG', '394479_277110585723665_1092959206_n.jpg', '582744_277110492390341_1967985168_n.jpg', 'IMG_4494.JPG', 'IMG_4495.JPG', 'IMG_4496.JPG', 'XGqHRFq_BqvqlHZ1fDku6Q8mvERlGzJfBMm45mAHBaU.jpg']
 author: 'Itai'
 id: 6813312752069097423
-location: ''
+location: 'Costa Mesa, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'Chris', 'Climbing', 'Competition', 'Daila', 'John', 'Long', 'Ojeda', 'One', 'Sender', 'Sharma']
 ---
 

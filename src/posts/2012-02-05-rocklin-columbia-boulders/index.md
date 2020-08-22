@@ -6,7 +6,7 @@ thumbnail: '1.jpg'
 uploads: ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg', '7.jpg', '8.jpg']
 author: 'Eden'
 id: 1913249902880637721
-location: ''
+location: 'Rocklin, CA'
 tags: ['boulders', 'California', 'Columbia', 'Rocklin']
 ---
 

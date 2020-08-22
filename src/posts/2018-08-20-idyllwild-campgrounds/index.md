@@ -6,7 +6,7 @@ thumbnail: 'IMG_5408.jpg'
 uploads: ['IMG_5408.jpg', 'IMG_5415.jpg', 'IMG_5418.JPG', 'IMG_5419.JPG', 'IMG_5423.JPG']
 author: 'Eden'
 id: 5515014668930422973
-location: ''
+location: 'Idyllwild, CA'
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'granite', 'idyllwild']
 ---
 

@@ -6,7 +6,7 @@ thumbnail: 'IMG_1418.JPG'
 uploads: ['IMG_1418.JPG', 'IMG_1459.JPG', 'IMG_1464.JPG', 'IMG_1436.JPG', 'IMG_1437.JPG', 'IMG_1448.JPG', 'IMG_1448.JPG', 'IMG_1448.JPG', 'IMG_1451.JPG']
 author: 'Eden'
 id: 4918874172497751200
-location: ''
+location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'Five Ten', 'granite', 'Joshua', 'scatterbrain', 'Tree']
 ---
 

@@ -6,7 +6,7 @@ thumbnail: 'IMG_1420.jpg'
 uploads: ['IMG_1420.jpg', 'IMG_1430.jpg', 'output_zxN2Yr.gif', 'IMG_1447.jpg', 'IMG_1476.jpg', 'IMG_5312.JPG']
 author: 'Eden'
 id: 3346874932921829213
-location: ''
+location: 'Black Mountain, CA'
 tags: ['Ascent', 'Axelrad', 'Black Mountain', 'blog', 'Bouldering', 'boulders', 'California', 'Climbing', 'Eden', 'First', 'Five Ten', 'highball', 'Itai', 'Mountain', 'Rock']
 ---
 

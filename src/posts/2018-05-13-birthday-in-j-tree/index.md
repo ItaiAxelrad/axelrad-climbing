@@ -6,7 +6,7 @@ thumbnail: 'IMG_4042.JPG'
 uploads: ['IMG_4042.JPG', 'IMG_4051.JPG', 'IMG_4054.JPG', 'IMG_4060.JPG', 'IMG_4076.JPG', 'IMG_4078.JPG']
 author: 'Eden'
 id: 986954860785407227
-location: ''
+location: 'Joshua Tree, CA'
 tags: ['Bouldering', 'Joshua', 'Tree']
 ---
 

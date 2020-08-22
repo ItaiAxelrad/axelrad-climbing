@@ -233,12 +233,14 @@ a {
 }
 
 /* link styles */
+article a,
 a[href^="http://"],
 a[href^="https://"],
 a[rel='noreferrer'],
 a[rel='noopener'] {
   text-decoration: underline var(--theme);
 }
+article a:hover,
 a[href^="http://"]:hover,
 a[href^="https://"]:hover,
 a[rel='noreferrer']:hover,
@@ -325,6 +327,12 @@ figcaption {
   width: 100%;
   height: 250px;
   border-radius: 3px 0 0 3px;
+}
+
+.subtitle {
+  display: block;
+  /* text-transform: uppercase; */
+  color: var(--dark-gray);
 }
 
 .card {

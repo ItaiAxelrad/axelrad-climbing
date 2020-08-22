@@ -6,7 +6,7 @@ thumbnail: 'FullSizeRender%209.jpg'
 uploads: ['FullSizeRender%209.jpg', 'IMG_4787.JPG', 'IMG_4741.JPG', 'IMG_4756.JPG', 'IMG_4764.JPG', 'IMG_4774.JPG', 'IMG_4789.JPG']
 author: 'Itai'
 id: 4858288617202703986
-location: ''
+location: 'Squamish, BC, Canada'
 tags: ['Axelrad', 'blog', 'Bouldering', 'Five Ten', 'forest', 'granite', 'highball', 'murrin park', 'north wall', 'squaminator', 'Squamish', 'summoning']
 ---
 

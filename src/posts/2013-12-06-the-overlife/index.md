@@ -6,7 +6,7 @@ thumbnail: 'IMG_5425.JPG'
 uploads: ['IMG_5425.JPG']
 author: 'Eden'
 id: 889461984404642893
-location: ''
+location: 'Black Mountain, CA'
 tags: ['Black Mountain', 'Bouldering', 'California', 'Eden', 'Five Ten', 'Itai', 'Overlife']
 ---
 
