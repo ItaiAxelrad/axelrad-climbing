@@ -4,7 +4,7 @@ date: '2018-01-28T16:13:00-08:00'
 updated: '2018-02-09T16:15:02-08:00'
 thumbnail: 'IMG_5536.JPG'
 uploads: ['IMG_5536.JPG', 'IMG_5500.JPG', 'IMG_5509.JPG', 'IMG_5516.JPG', 'IMG_5540.JPG']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 7403796000274816716
 location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'granite', 'highball', 'Joshua', 'trad', 'Tree']

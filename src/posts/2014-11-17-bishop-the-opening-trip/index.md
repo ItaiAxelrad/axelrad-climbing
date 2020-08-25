@@ -4,7 +4,7 @@ date: '2014-11-17T19:06:00-08:00'
 updated: '2014-11-17T19:13:36-08:00'
 thumbnail: 'IMG_4757.JPG'
 uploads: ['IMG_4757.JPG', 'swiss-cheese-edited.jpg', 'IMG_4690.JPG', 'IMG_4715.JPG', 'IMG_4793.jpg', 'IMG_4790.jpg']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 1794524092904160596
 location: 'Bishop, CA'
 tags: ['Axelrad', 'bishop', 'Climbing', 'Eden', 'Happy Boulders', 'Itai']

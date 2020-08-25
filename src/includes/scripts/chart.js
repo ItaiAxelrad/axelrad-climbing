@@ -1,9 +1,14 @@
-// instantiate chart
-let boulderArray = []
-let grades = new Set();
-let sends = new Set();
-var ctx = document.getElementById('myChart').getContext('2d');
-var chart = new Chart(ctx, {
+const dataPath = '../data/logbook.json';
+
+// insatiate sets
+const grades = new Set();
+const gradeSends = new Set();
+const years = new Set();
+const yearSends = new Set();
+
+// instantiate grade chart
+const ctx1 = document.getElementById('gradeChart').getContext('2d');
+const gradeChart = new Chart(ctx1, {
   // The type of chart we want to create
   type: 'horizontalBar',
   // The data for our dataset
@@ -16,55 +21,131 @@ var chart = new Chart(ctx, {
         borderColor: 'hsl(45, 90%, 60%)',
         data: [],
       },
+      {
+        label: 'Routes',
+        backgroundColor: 'hsl(145, 90%, 60%)',
+        borderColor: 'hsl(225, 90%, 60%)',
+        data: [],
+      },
     ],
   },
   options: {
-        title: {
-            display: true,
-            position: 'top',
-            fontFamily: 'monospace',
-            text: 'All Time Boulder Count'
-        }
-    }
+    title: {
+      display: true,
+      position: 'top',
+      fontFamily: 'monospace',
+      text: 'Ascents per Grade',
+      fontSize: 16,
+      fontStyle: 'normal',
+    },
+    scales: {
+      xAxes: [
+        {
+          stacked: true,
+        },
+      ],
+      yAxes: [
+        {
+          stacked: true,
+        },
+      ],
+    },
+    responsive: true,
+    maintainAspectRatio: false,
+  },
+});
+
+// instantiate year chart
+const ctx2 = document.getElementById('yearChart').getContext('2d');
+const yearChart = new Chart(ctx2, {
+  // The type of chart we want to create
+  type: 'line',
+  // The data for our dataset
+  data: {
+    labels: [],
+    datasets: [
+      {
+        label: 'Boulders',
+        backgroundColor: 'hsla(45, 90%, 60%, .5)',
+        borderColor: 'hsl(45, 90%, 60%)',
+        pointBorderColor: 'hsla(225, 7%, 27%, .5)',
+        data: [],
+      },
+      {
+        label: 'Routes',
+        backgroundColor: 'hsla(145, 90%, 60%, .5)',
+        borderColor: 'hsl(225, 90%, 60%)',
+        pointBorderColor: 'hsla(225, 7%, 27%, .5)',
+        data: [],
+      },
+    ],
+  },
+  options: {
+    title: {
+      display: true,
+      position: 'top',
+      fontFamily: 'monospace',
+      text: 'Ascents per Year',
+      fontSize: 16,
+      fontStyle: 'normal',
+    },
+    responsive: true,
+    maintainAspectRatio: false,
+  },
 });
 
 // dynamically add data to chart
 const addData = (chart, label, data) => {
-  // add labels
+  // add labels (font grades)
   label.forEach((label) => {
     chart.data.labels.push(label);
   });
-  // add data
+  // add data (boulders)
   data.forEach((pt) => {
-    chart.data.datasets.forEach((dataset) => {
-      dataset.data.push(pt);
-    });
+    chart.data.datasets[0].data.push(pt);
   });
   // update the chart
   chart.update();
 };
 
-const getGrades = async () => {
-  const response = await fetch('../data/logbook.json');
+const getData = async () => {
+  // fetch the data
+  const response = await fetch(dataPath);
   const data = await response.json();
-  // get an array of grades
-  data.boulders.forEach(boulder => {
+  // get an array of years active
+  data.boulders.forEach((boulder) => {
+    years.add(new Date(boulder.date).getFullYear());
+  });
+  let yearArray = [...years].sort();
+  // get an array of grades climbed
+  data.boulders.forEach((boulder) => {
     grades.add(boulder.grade);
   });
-  gradeArray = [...grades]
+  let gradeArray = [...grades];
   // get send count per grade
   gradeArray.forEach((grade, i) => {
-    let count = 0
-    data.boulders.forEach(boulder => {
+    let count = 0;
+    data.boulders.forEach((boulder) => {
       if (boulder.grade == grade) {
-        ++count
+        ++count;
       }
     });
-    sends.add(count)
-  })
+    gradeSends.add(count);
+  });
+  // get send count per grade
+  yearArray.forEach((year, i) => {
+    let count = 0;
+    data.boulders.forEach((boulder) => {
+      if (new Date(boulder.date).getFullYear() == year) {
+        ++count;
+      }
+    });
+    yearSends.add(count);
+  });
 
   // dynamically add the data
-  addData(chart, gradeArray, sends);
+  addData(gradeChart, gradeArray, gradeSends);
+  addData(yearChart, yearArray, yearSends);
 };
 
-getGrades();
+getData();

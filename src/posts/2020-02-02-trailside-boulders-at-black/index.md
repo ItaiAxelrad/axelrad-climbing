@@ -4,7 +4,7 @@ date: '2020-02-02T16:45:00-08:00'
 updated: '2020-05-06T09:23:44-07:00'
 thumbnail: 'IMG_0682.jpg'
 uploads: ['IMG_0682.jpg', 'IMG_0662.jpg', 'IMG_0646.jpg', 'IMG_0629.jpg']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 6406787251735472349
 location: 'Idyllwild-Pine Cove, CA, USA'
 tags: ['Axelrad', 'Black Mountain', 'Bouldering', 'Climbing', 'twilight of the idols']

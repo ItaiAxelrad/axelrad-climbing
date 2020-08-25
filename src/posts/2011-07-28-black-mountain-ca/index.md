@@ -4,7 +4,7 @@ date: '2011-07-28T17:45:00-07:00'
 updated: '2020-04-30T12:50:20-07:00'
 thumbnail: '_HopScotch_1311896122.jpg'
 uploads: ['_HopScotch_1311896122.jpg', '_TourdeFrance_1311896122.JPG', '_CaptainAmericaFA_1311896122.JPG']
-author: 'Itai'
+author: 'Itai Axelrad'
 id: 2344579672445703480
 location: 'Idyllwild-Pine Cove, CA, USA'
 tags: ['Black Mountain', 'California', 'granite', 'highball', 'idyllwild']

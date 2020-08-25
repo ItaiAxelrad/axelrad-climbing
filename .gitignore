@@ -1,8 +1,5 @@
 _site/
 dist/
 node_modules/
-post_api.py
-blogger_api.py
-image-alt.py
-folder-rename.py
 package-lock.json
+*.py

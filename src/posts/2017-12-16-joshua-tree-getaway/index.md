@@ -4,7 +4,7 @@ date: '2017-12-16T15:51:00-08:00'
 updated: '2018-02-09T15:52:45-08:00'
 thumbnail: 'IMG_5264.JPG'
 uploads: ['IMG_5264.JPG', 'IMG_5273.JPG', 'IMG_5404.JPG']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 5800870091216929715
 location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'California', 'granite', 'Joshua', 'Tree']

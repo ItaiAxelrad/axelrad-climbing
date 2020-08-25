@@ -4,7 +4,7 @@ date: '2016-12-25T17:26:00-08:00'
 updated: '2016-12-30T17:30:28-08:00'
 thumbnail: '1.jpg'
 uploads: ['1.jpg', '4.jpg', '3.jpg', '2.jpg']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 1120332862641669683
 location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'blog', 'blood diamond', 'Bouldering', 'Climbing', 'Eden', 'Five Ten', 'granite', 'Itai', 'Joshua', 'national', 'park', 'Tree']

@@ -16,7 +16,7 @@ uploads:
     'IMG_3529.jpg',
     'IMG_3508.jpg',
   ]
-author: 'Itai'
+author: 'Itai Axelrad'
 id: 8877279212193941505
 location: 'Joshua Tree, CA'
 tags:

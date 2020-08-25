@@ -4,7 +4,7 @@ date: '2016-07-26T19:35:00-07:00'
 updated: '2016-07-26T19:35:47-07:00'
 thumbnail: 'IMG_0697.JPG'
 uploads: ['IMG_0697.JPG', 'IMG_0731.jpg', 'IMG_0728.jpg', 'IMG_0719.JPG']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 704464263908536766
 location: 'Tuolumne, CA'
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'Five Ten', 'granite', 'meadows', 'tuolumne', 'yosemite']

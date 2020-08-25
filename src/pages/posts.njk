@@ -13,7 +13,7 @@ permalink: /{{ title | lower }}/
         {% set postYear = post.date.getFullYear() %}
         {% if currentYear != postYear %}
         {% set currentYear = postYear %}
-        <h2 class="list-header">{{ postYear }}</h2>
+        <h2 id="{{ postYear }}" class="list-header">{{ postYear }}</h2>
         {% endif %}
       {% include 'components/listItem.njk' %}
     {% endfor %}

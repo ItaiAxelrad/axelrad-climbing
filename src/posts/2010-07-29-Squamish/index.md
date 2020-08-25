@@ -4,7 +4,7 @@ date: '2010-07-29T17:51:00-07:00'
 updated: '2020-05-20T13:14:42-07:00'
 thumbnail: '9997_BlackSlab_1280439869.jpg'
 uploads: ['9997_BlackSlab_1280439869.jpg', '9997_blog4_1280439871.jpg', '9997_blog2_1280439870.jpg']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 7390581977946326435
 location: 'Squamish, BC, Canada'
 tags: ['Bouldering', 'Climbing', 'granite', 'highball', 'Rock', 'Squamish']

@@ -4,7 +4,7 @@ date: '2011-12-26T18:14:00-08:00'
 updated: '2013-10-14T13:27:50-07:00'
 thumbnail: 'view.JPG'
 uploads: ['view.JPG', 'DSC_0277.jpg', 'IMG_2467.JPG', 'IMG_2469.JPG', 'IMG_2470.JPG', 'IMG_2471.JPG', 'IMG_2472.JPG', 'IMG_2473.JPG', 'IMG_2474.JPG', 'IMG_2475.JPG', 'IMG_2476.JPG', 'IMG_2477.JPG', 'DSC_0306-1.jpg', 'DSC_0327.jpg', 'IMG_2505.JPG']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 4328278161985239303
 location: 'Palm Springs, CA'
 tags: ['Black Mountain', 'Bouldering', 'California', 'jupiter']

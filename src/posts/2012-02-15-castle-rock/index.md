@@ -4,7 +4,7 @@ date: '2012-02-15T10:48:00-08:00'
 updated: '2020-04-30T12:52:07-07:00'
 thumbnail: 'IMG_0200.JPG'
 uploads: ['IMG_0200.JPG', 'IMG_1928.JPG', 'IMG_1921.jpg', 'IMG_1924.jpg', '403362_2706066339152_1481580039_32077030_653608925_n.jpg', 'IMG_0171.jpg', 'IMG_0172.jpg', 'IMG_0173.jpg']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 4971576544688933478
 location: 'Castle Rock Trail, CA'
 tags: ['California', 'Castle', 'Rock']

@@ -4,7 +4,7 @@ date: '2015-03-04T09:53:00-08:00'
 updated: '2015-03-10T23:24:49-07:00'
 thumbnail: 'IMG_1518.jpg'
 uploads: ['IMG_1542.jpg', 'IMG_1488.jpg', 'IMG_1484.jpg', 'IMG_1532.jpg', 'IMG_1526.jpg', 'IMG_1518.jpg', 'IMG_1559.jpg', 'IMG_1577.jpg', 'IMG_1580.jpg', 'IMG_1584.jpg']
-author: 'Itai'
+author: 'Itai Axelrad'
 id: 4839673836428281530
 location: 'Bishop, CA'
 tags: ['Axelrad', 'bishop', 'blog', 'Bouldering', 'boulders', 'buttermilks', 'California', 'Carlo Traversi', 'Climbing', 'Evilution', 'Five Ten', 'flash', 'granite', 'highball', 'Project']

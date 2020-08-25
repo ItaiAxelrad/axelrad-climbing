@@ -4,7 +4,7 @@ date: '2014-10-28T13:10:00-07:00'
 updated: '2014-10-28T13:11:58-07:00'
 thumbnail: 'IMG_4492.JPG'
 uploads: ['IMG_4492.JPG', 'IMG_4508.JPG', 'IMG_4519.JPG', 'IMG_4562.JPG', 'IMG_4602.jpg', 'IMG_4601.jpg', 'IMG_4590.JPG', 'IMG_4548.JPG', 'IMG_4545.JPG', 'IMG_4488.JPG']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 2011371540739633407
 location: 'Las Vegas, NV'
 tags: ['Axelrad', 'Bouldering', 'Eden', 'Five Ten', 'Itai', 'Las Vegas', 'Red Rocks', 'sandstone']

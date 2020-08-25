@@ -4,7 +4,7 @@ date: '2017-10-08T16:17:00-07:00'
 updated: '2017-11-19T16:34:55-08:00'
 thumbnail: 'IMG_5028.JPG'
 uploads: ['IMG_5028.JPG', 'IMG_5062.JPG', 'IMG_5226.jpg']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 6562811478587352416
 location: 'Palm Springs, CA'
 tags: ['Axelrad', 'California', 'granite', 'palm springs', 'Tramway', 'v12']

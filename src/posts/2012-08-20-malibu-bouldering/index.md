@@ -4,7 +4,7 @@ date: '2012-08-20T10:44:00-07:00'
 updated: '2013-01-22T21:50:17-08:00'
 thumbnail: 'IMG_4528.JPG'
 uploads: ['IMG_4528.JPG', 'IMG_4514.jpg', 'IMG_4544.jpg', 'IMG_4561.jpg', 'IMG_4572.jpg', 'IMG_4585.JPG', 'IMG_4611.jpg']
-author: 'Itai'
+author: 'Itai Axelrad'
 id: 7602402492623889883
 location: 'Malibu, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Itai', 'Malibu']

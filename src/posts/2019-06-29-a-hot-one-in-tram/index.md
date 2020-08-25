@@ -4,7 +4,7 @@ date: '2019-06-29T10:06:00-07:00'
 updated: '2019-07-01T10:09:53-07:00'
 thumbnail: 'IMG_0601.jpg'
 uploads: ['IMG_0601.jpg', 'IMG_0619.JPG', 'IMG_8679.jpg', 'IMG_8706.jpg', 'IMG_8710.jpg']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 7093561005345250255
 location: '1 Tram Way, Palm Springs, CA 92262, USA'
 tags: ['angus', 'Axelrad', 'Bouldering', 'Climbing', 'granite', 'master blaster', 'somewhere in time', 'Tramway']

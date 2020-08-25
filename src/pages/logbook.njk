@@ -6,18 +6,22 @@ eleventyExcludeFromCollections: true
 
 <main id="{{ title }}">
 
-<div class="container">
-  <canvas id="myChart"></canvas>
+<div class="chart-container">
+  <canvas id="gradeChart"></canvas>
+</div>
+
+<div class="chart-container">
+  <canvas id="yearChart"></canvas>
 </div>
 
 <table>
-  <caption>Itai's {{ title }}</caption>
+  <caption>{{ title }}</caption>
     <thead>
         <tr>
-          <th>Route</th>
-          <th>Crag</th>
-          <th>Date</th>
-          <th>Comment</th>
+          <th id="route">Route</th>
+          <th id="crag">Crag</th>
+          <th id="date">Date</th>
+          <th id="comment">Comment</th>
         </tr>
     </thead>
     <tbody>
@@ -28,11 +32,11 @@ eleventyExcludeFromCollections: true
         {% set currentGrade = boulderGrade %}
         <tr><th class="grade-header" colspan="4" data-grade="{{ boulderGrade }}">{{ boulderGrade }}</th></tr>
         {% endif %}
-        <tr>
-            <td>{{ boulder.route }}</td>
-            <td>{{ boulder.crag }}</td>
-            <td>{{ boulder.date }}</td>
-            <td>{{ boulder.comment }}</td>
+        <tr class="{{ boulder.style }}">
+            <td headers="route">{{ boulder.route }}</td>
+            <td headers="crag">{{ boulder.crag }}</td>
+            <td headers="date">{{ boulder.date }}</td>
+            <td headers="comment">{{ boulder.comment }}</td>
         </tr>
     {% endfor %}
     </tbody>

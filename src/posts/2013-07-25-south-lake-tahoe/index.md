@@ -4,7 +4,7 @@ date: '2013-07-25T14:12:00-07:00'
 updated: '2013-07-25T14:14:00-07:00'
 thumbnail: 'photo_3%20copy.jpg'
 uploads: ['photo_3%20copy.jpg', 'photo_4.jpg', 'photo_1.jpg', 'photo.jpg']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 5059644913304119206
 location: 'South Lake Tahoe, CA'
 tags: ['Axelrad', 'Chris', 'Eden', 'Ground Control', 'Itai', 'south lake', 'Tahoe']

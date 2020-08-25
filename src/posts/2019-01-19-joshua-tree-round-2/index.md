@@ -4,7 +4,7 @@ date: '2019-01-19T21:11:00-08:00'
 updated: '2019-01-21T21:20:58-08:00'
 thumbnail: 'IMG_7622.JPG'
 uploads: ['IMG_7622.JPG', 'IMG_7640%202.jpg', 'IMG_7661%202.jpg', 'IMG_3110%202.jpg', 'IMG_7668%202.jpg']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 6407419361212621146
 location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'Bouldering', 'Climbing', 'high noon', 'jbmfp', 'joshua tree', 'sunset']

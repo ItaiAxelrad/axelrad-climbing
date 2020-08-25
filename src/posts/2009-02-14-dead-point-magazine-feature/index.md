@@ -4,7 +4,7 @@ date: '2009-02-14T14:34:00-08:00'
 updated: '2020-05-26T10:10:43-07:00'
 thumbnail: 'dpm3prev.jpg'
 uploads: ['dpm3prev.jpg']
-author: 'Itai'
+author: 'Itai Axelrad'
 id: 3707594248913054965
 location: ''
 tags: ['deadpoint', 'magazine']

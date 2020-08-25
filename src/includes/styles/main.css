@@ -18,7 +18,7 @@
   --gray: hsl(var(--h), 7%, 93%);
   --dark-gray: hsl(calc(var(--h) - 180), 7%, 27%);
   --dark: hsl(calc(var(--h) - 180), 7%, 13%);
-  --opaque: hsla(0, 0%, 20%, 0.1);
+  --opaque: hsla(0, 0%, 70%, 0.1);
   /* UI parts */
   --shadow: 0px 2px 16px var(--opaque);
   --border: 1px solid var(--opaque);
@@ -66,7 +66,7 @@
   --gray: hsl(45, 7%, 93%);
   --dark-gray: hsl(225, 7%, 27%);
   --dark: hsl(225, 7%, 13%);
-  --opaque: hsla(0, 0%, 20%, 0.1);
+  --opaque: hsla(0, 0%, 70%, 0.1);
   --shadow: 0px 2px 16px var(--opaque);
   --border: 1px solid var(--opaque);
 }
@@ -99,6 +99,10 @@ nav {
   justify-content: flex-end;
 }
 
+nav a {
+  text-decoration: none;
+}
+
 nav .btn {
   height: 2rem;
   margin-inline-start: 0.25rem;
@@ -119,7 +123,6 @@ nav .btn {
 
 .pages a {
   display: inline-flex;
-  text-decoration: none;
   color: var(--dark);
   padding: 0.35rem 1.5rem;
   border-radius: var(--radius);
@@ -154,6 +157,7 @@ h3 {
   font-family: var(--ff-serif);
   font-weight: bold;
   letter-spacing: 0.25px;
+  text-decoration: none;
   margin-block-start: 0.25rem;
 }
 
@@ -188,10 +192,10 @@ article {
 article header::after {
   content: '';
   display: block;
-  height: 2px;
+  height: 0.25rem;
   width: 2rem;
   background: var(--theme);
-  margin: 0.5rem 0 1rem 0;
+  margin: 0 0 1rem 0;
 }
 
 address,
@@ -229,7 +233,7 @@ hr {
 
 a {
   color: currentColor;
-  text-decoration: none;
+  text-decoration: underline var(--theme);
 }
 
 /* link styles */
@@ -291,6 +295,7 @@ figcaption {
 .post {
   background: var(--light-gray);
   border-radius: var(--radius);
+  text-decoration: none;
   transition: 0.3s ease-out;
 }
 
@@ -366,7 +371,6 @@ figcaption {
 }
 
 li .p-name {
-  text-decoration: underline var(--theme);
   padding-inline-end: 0.25rem;
 }
 
@@ -382,11 +386,11 @@ li .p-name:hover {
   background: var(--light-gray);
   border-radius: var(--radius);
   font-size: small;
+  text-decoration: none;
   box-decoration-break: clone;
 }
 
 .tag:hover {
-  text-decoration: none;
   color: var(--dark);
   background: var(--light);
 }
@@ -497,6 +501,72 @@ textarea {
   color: var(--dark-gray);
 }
 
+/* chart & table styles */
+.chart-container {
+  position: relative;
+  height: 50vh;
+  max-width: var(--width);
+  margin: 2rem auto;
+}
+
+table {
+  position: relative;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-block-start: 2rem;
+}
+
+caption {
+  font-family: var(--ff-mono);
+  color: var(--dark-gray);
+}
+
+thead th {
+  position: sticky;
+  top: 0;
+  background: var(--gray);
+  padding: 1rem;
+}
+
+tbody th {
+  position: sticky;
+  top: 3rem;
+  background: var(--light-gray);
+  padding: 0.5rem;
+}
+
+tr:nth-child(even) {
+  background: var(--opaque);
+}
+
+tr {
+  border-inline-start: 1px solid transparent;
+}
+
+td {
+  font-size: small;
+  text-align: left;
+  padding: 0.25rem 0.5rem;
+  min-width: 95px;
+  color: var(--dark-gray);
+}
+
+tr:hover td {
+  cursor: pointer;
+  color: var(--dark);
+}
+
+.redpoint:hover {
+  border-inline-start: 1px solid hsl(0, 90%, 60%);
+}
+.SecondGo:hover {
+  border-inline-start: 1px solid var(--theme);
+}
+.flash:hover {
+  border-inline-start: 1px solid hsl(225, 90%, 60%);
+}
+
+/* mobile style  */
 @media screen and (max-width: 700px) {
   body {
     display: block;
@@ -544,51 +614,14 @@ textarea {
   .post-image {
     height: 200px;
   }
-}
-
-/* table style */
-
-table {
-  position: relative;
-  border-collapse: collapse;
-  border-spacing: 0;
-  margin-block-start: 2rem;
-}
-
-caption {
-  font-family: var(--ff-mono);
-  color: var(--dark-gray);
-}
-
-thead th {
-  position: sticky;
-  top: 0;
-  background: var(--gray);
-  padding: 1rem;
-}
-
-tbody th {
-  position: sticky;
-  top: 52px;
-  background: var(--light-gray);
-  padding: 0.5rem;
-}
-
-tr:nth-child(even) {
-  background: var(--opaque);
-}
-
-td {
-  font-size: small;
-  text-align: left;
-  padding: 0.25rem 0.5rem;
-  min-width: 95px;
-  /* border-block-start: var(--border); */
-  color: var(--dark-gray);
-}
-
-td:hover {
-  cursor: pointer;
-  border-color: var(--theme);
-  color: var(--dark);
+  li strong {
+    display: block;
+  }
+  td {
+    min-width: inherit;
+    font-size: 10px;
+  }
+  .chart-container {
+    min-width: 90vw;
+  }
 }

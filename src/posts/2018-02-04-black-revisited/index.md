@@ -4,7 +4,7 @@ date: '2018-02-04T15:59:00-08:00'
 updated: '2018-02-10T14:16:02-08:00'
 thumbnail: 'IMG_5394.JPG'
 uploads: ['IMG_5394.JPG', 'IMG_5549.JPG', 'IMG_5591.JPG', 'IMG_5593.JPG']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 1776313820326086654
 location: 'Black Mountain, CA'
 tags: ['Axelrad', 'Black Mountain', 'Bouldering', 'California', 'Climbing', 'granite', 'highball']

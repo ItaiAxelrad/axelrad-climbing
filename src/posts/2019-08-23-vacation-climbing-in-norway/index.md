@@ -4,7 +4,7 @@ date: '2019-08-23T16:53:00-07:00'
 updated: '2019-09-24T10:55:24-07:00'
 thumbnail: 'IMG_5906.jpg'
 uploads: ['IMG_5906.jpg', 'IMG_9580.jpg', 'IMG_6065.jpg', 'IMG_9565.jpg', 'A5904E17-7F2C-4CF1-A27E-62A953A30CFD.JPG', 'IMG_9280.jpg', 'IMG_9360.jpg', 'IMG_9385.jpg', 'IMG_9482.jpg', 'IMG_9578.jpg', 'IMG_9594.jpg']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 3523204279705276569
 location: 'Lofoten, Norway'
 tags: ['8a', 'america', 'Axelrad', 'Bouldering', 'Climbing', 'lofoten', 'monster', 'norway', 'v11']

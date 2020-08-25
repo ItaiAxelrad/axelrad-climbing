@@ -7,11 +7,12 @@
     "sector": "spray wall",
     "grade": "7c+",
     "date": "2019-06-02",
-    "comment": "2nd go",
+    "comment": "SecondGo",
     "quality": "",
-    "style": "2nd Go",
+    "style": "redpoint",
     "country": "united states",
-    "region": ""
+    "region": "",
+    "tag": "SecondGo"
   },
   {
     "type": "sport",
@@ -36,9 +37,10 @@
       "date": "2020-03-15",
       "comment": "No comment",
       "quality": "mega classic",
-      "style": "FA",
+      "style": "redpoint",
       "country": "united states",
-      "region": "South Plat (CO)"
+      "region": "South Plat (CO)",
+      "tag": "FA"
     },
     {
     "type": "boulder",
@@ -803,9 +805,10 @@
     "date": "2017-10-16",
     "comment": "Out in the Secrets area. Still waiting on grade confirmation though",
         "quality": "",
-    "style": "FA",
+    "style": "redpoint",
     "country": "united states",
-    "region": "Bishop (CA)"
+    "region": "Bishop (CA)",
+    "tag": "FA"
   },
   {
     "type": "boulder",
@@ -920,9 +923,10 @@
     "date": "2012-03-21",
     "comment": "In the cave area to the left of The Buttermilker. Update: upgraded after several repeats. Who knows",
         "quality": "",
-    "style": "FA",
+    "style": "redpoint",
     "country": "united states",
-    "region": "Bishop (CA)"
+    "region": "Bishop (CA)",
+    "tag": "FA"
   },
   {
     "type": "boulder",
@@ -1050,9 +1054,10 @@
     "date": "2020-05-02",
     "comment": "Numbed out at the top first go. Should of warmed up haha",
         "quality": "",
-    "style": "2nd Go",
+    "style": "redpoint",
     "country": "united states",
-    "region": "Boulder/CO"
+    "region": "Boulder/CO",
+    "tag": "SecondGo"
   },
   {
     "type": "boulder",
@@ -1179,10 +1184,11 @@
     "grade": "7C+",
     "date": "2019-06-29",
     "comment": "Should of flashed. After the break maybe low end v10 or very hard v9? Time will tell",
-        "quality": "2nd Go",
+    "quality": "",
     "style": "redpoint",
     "country": "united states",
-    "region": "RMNP (CO)"
+    "region": "RMNP (CO)",
+    "tag": "SecondGo"
   },
   {
     "type": "boulder",
@@ -1193,9 +1199,10 @@
     "date": "2019-06-01",
     "comment": "Don't dab",
         "quality": "",
-    "style": "2nd Go",
+    "style": "redpoint",
     "country": "united states",
-    "region": "RMNP (CO)"
+    "region": "RMNP (CO)",
+    "tag": "SecondGo"
   },
   {
     "type": "boulder",
@@ -1362,9 +1369,10 @@
     "date": "2018-03-31",
     "comment": "2go",
         "quality": "",
-    "style": "2nd Go",
+    "style": "redpoint",
     "country": "united states",
-    "region": "Joe's Valley (UT)"
+    "region": "Joe's Valley (UT)",
+    "tag": "SecondGo"
   },
   {
     "type": "boulder",
@@ -1388,9 +1396,10 @@
     "date": "2018-03-26",
     "comment": "2go",
         "quality": "",
-    "style": "2nd Go",
+    "style": "redpoint",
     "country": "united states",
-    "region": "Joe's Valley (UT)"
+    "region": "Joe's Valley (UT)",
+    "tag": "SecondGo"
   },
   {
     "type": "boulder",
@@ -2038,9 +2047,10 @@
     "date": "2010-08-24",
     "comment": "2go",
         "quality": "",
-    "style": "2nd Go",
+    "style": "redpoint",
     "country": "united states",
-    "region": "Hueco Tanks (TX)"
+    "region": "Hueco Tanks (TX)",
+    "tag": "SecondGo"
   },
   {
     "type": "boulder",
@@ -2298,9 +2308,10 @@
     "date": "2018-11-04",
     "comment": "Possible FA? Start left of Le Don on a gaston and after gaining a flat crimp jump to the lip.",
         "quality": "",
-    "style": "FA",
+    "style": "redpoint",
     "country": "united states",
-    "region": "Poudre Canyon (CO)"
+    "region": "Poudre Canyon (CO)",
+    "tag": "FA"
   },
   {
     "type": "boulder",
@@ -2467,9 +2478,10 @@
     "date": "2016-01-31",
     "comment": "One of my all time favorites",
         "quality": "mega classic",
-    "style": "2nd Go",
+    "style": "redpoint",
     "country": "united states",
-    "region": "Joshua Tree (CA)"
+    "region": "Joshua Tree (CA)",
+    "tag": "SecondGo"
   },
   {
     "type": "boulder",
@@ -2505,7 +2517,7 @@
     "grade": "7C",
     "date": "2014-03-28",
     "comment": "",
-        "quality": "",
+    "quality": "",
     "style": "flash",
     "country": "united states",
     "region": "Bishop (CA)"
@@ -2714,9 +2726,10 @@
     "date": "2010-08-24",
     "comment": "2go",
         "quality": "",
-    "style": "2nd Go",
+    "style": "redpoint",
     "country": "canada",
-    "region": "Squamish"
+    "region": "Squamish",
+    "tag": "SecondGo"
   },
   {
     "type": "boulder",
@@ -3156,9 +3169,10 @@
     "date": "2011-07-19",
     "comment": "Found new beta and got the FA! stoked.",
         "quality": "",
-    "style": "FA",
+    "style": "redpoint",
     "country": "united states",
-    "region": "Black Mountain (CA)"
+    "region": "Black Mountain (CA)",
+    "tag": "FA"
   },
   {
     "type": "boulder",

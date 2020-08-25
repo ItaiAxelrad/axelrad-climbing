@@ -4,7 +4,7 @@ date: '2012-02-05T17:45:00-08:00'
 updated: '2020-04-30T12:51:36-07:00'
 thumbnail: '1.jpg'
 uploads: ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg', '7.jpg', '8.jpg']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 1913249902880637721
 location: 'Rocklin, CA'
 tags: ['boulders', 'California', 'Columbia', 'Rocklin']

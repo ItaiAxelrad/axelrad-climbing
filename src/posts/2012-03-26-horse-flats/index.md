@@ -4,7 +4,7 @@ date: '2012-03-26T16:44:00-07:00'
 updated: '2020-04-30T12:55:17-07:00'
 thumbnail: 'IMG_3146.JPG'
 uploads: ['IMG_3146.JPG']
-author: 'Itai'
+author: 'Itai Axelrad'
 id: 4601554457754864068
 location: 'Horse Flats, California 93553, USA'
 tags: ['California', 'flash', 'flats', 'horse', 'v10']

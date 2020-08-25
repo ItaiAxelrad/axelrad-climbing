@@ -4,7 +4,7 @@ date: '2019-01-21T10:56:00-08:00'
 updated: '2019-08-08T13:30:50-07:00'
 thumbnail: 'IMG_2495.jpg'
 uploads: ['IMG_2495.jpg', 'IMG_6982.jpg', 'IMG_9346.jpg', 'IMG_4425.jpg']
-author: 'Itai'
+author: 'Itai Axelrad'
 id: 4832847861390354511
 location: 'El Paso, TX'
 tags: ['Axelrad', 'Bouldering', 'east', 'el paso', 'flash', 'hueco', 'Mountain', 'north', 'tanks', 'texas']

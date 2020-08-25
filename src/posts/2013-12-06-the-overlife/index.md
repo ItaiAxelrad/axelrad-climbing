@@ -4,7 +4,7 @@ date: '2013-12-06T12:04:00-08:00'
 updated: '2013-12-09T19:23:33-08:00'
 thumbnail: 'IMG_5425.JPG'
 uploads: ['IMG_5425.JPG']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 889461984404642893
 location: 'Black Mountain, CA'
 tags: ['Black Mountain', 'Bouldering', 'California', 'Eden', 'Five Ten', 'Itai', 'Overlife']

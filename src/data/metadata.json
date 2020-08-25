@@ -16,11 +16,13 @@
   "author": [
     {
       "name": "Itai Axelrad",
-      "email": "itaiaxelrad@gmail.com"
+      "email": "itaiaxelrad@gmail.com",
+      "avatar": "itai.jpg"
     },
     {
       "name": "Eden Axelrad",
-      "email": "edenaxelrad@gmail.com"
+      "email": "edenaxelrad@gmail.com",
+      "avatar": "eden.png"
     }
   ],
   "icons": [

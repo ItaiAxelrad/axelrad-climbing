@@ -4,7 +4,7 @@ date: '2011-12-23T15:00:00-08:00'
 updated: '2013-10-14T13:28:10-07:00'
 thumbnail: 'IMG_2596.JPG'
 uploads: ['IMG_2596.JPG']
-author: 'Eden'
+author: 'Eden Axelrad'
 id: 3673751976227584369
 location: 'Bishop, CA'
 tags: ['Axelrad', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'California']

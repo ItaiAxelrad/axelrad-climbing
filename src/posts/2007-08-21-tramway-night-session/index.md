@@ -4,7 +4,7 @@ date: '2007-08-21T10:20:00-07:00'
 updated: '2020-05-26T13:57:21-07:00'
 thumbnail: 'IMG_3383.JPG'
 uploads: ['IMG_3383.JPG', 'IMG_3382.JPG', 'IMG_3355.JPG', 'IMG_3360.JPG', 'IMG_3362.JPG', 'IMG_3363.JPG', 'IMG_3364.JPG']
-author: 'Itai'
+author: 'Itai Axelrad'
 id: 469862867412637510
 location: 'Tramway, CA'
 tags: ['granite', 'highball', 'Tramway', 'photoshoot', 'night']

@@ -4,7 +4,7 @@ date: '2019-10-15T10:38:00-07:00'
 updated: '2020-05-04T14:28:11-07:00'
 thumbnail: 'IMG-1016.jpg'
 uploads: ['IMG-1016.jpg', 'IMG_0165.jpg', 'IMG-0781.JPG']
-author: 'Itai'
+author: 'Itai Axelrad'
 id: 4302792631361805131
 location: 'Rocky Mountain National Park, Colorado, USA'
 tags: ['Alpine', 'Axelrad', 'Colorado', 'goals', 'jade', 'Project', 'RMNP', 'v14']

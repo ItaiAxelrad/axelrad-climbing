@@ -4,7 +4,7 @@ date: '2012-05-28T19:19:00-07:00'
 updated: '2013-08-01T00:37:59-07:00'
 thumbnail: 'IMG_3286.JPG'
 uploads: ['IMG_3286.JPG']
-author: 'Itai'
+author: 'Itai Axelrad'
 id: 3598890732947104359
 location: 'Morro Bay, CA'
 tags: ['Bay', 'Morro', 'Project']
