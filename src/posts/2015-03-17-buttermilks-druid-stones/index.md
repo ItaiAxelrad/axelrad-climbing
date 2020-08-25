@@ -2,7 +2,7 @@
 title: 'Buttermilks & Druid Stones'
 date: '2015-03-17T08:20:00-07:00'
 updated: '2015-03-17T09:03:23-07:00'
-thumbnail: 'IMG_1612.jpg'
+thumbnail: 'IMG_1770.jpg'
 uploads: ['IMG_1612.jpg', 'IMG_1665.jpg', 'IMG_1693.jpg', 'IMG_1741.jpg', 'IMG_1770.jpg', 'IMG_1785.jpg', 'IMG_1795.jpg', 'IMG_1811.jpg', 'arrow.JPG', 'IMG_1825.jpg', 'Edited1212.tif', 'IMG_5659a.JPG', 'IMG_5660a.JPG', 'IMG_1839.jpg', 'IMG_1862.jpg', 'IMG_1915.jpg']
 author: 'Eden Axelrad'
 id: 947930032973856394
@@ -31,6 +31,8 @@ Later that day we felt wiped and opted to kill a few hours by running up some ea
 ![Itai on the left arete of the Green Wall](uploads/IMG_1795.jpg)
 
 ![Itai and Cody taking in some sunshine](uploads/IMG_1811.jpg)
+
+---
 
 We woke up on Sunday morning feeling incredibly sore and sunburnt - yet, for some odd reason we decided to brave the Druid Stone hike. I have to say, we were pretty eager to check out this outlying area for the first time, despite what we'd heard about the approach. The Druid boulders are scattered over a mountain ridge that overlooks the valley and the town of Bishop. The approach takes about 45 minutes, and by the end you gain 1,200 feet of elevation. On the way up I was stopping every few minutes in order to ~~avoid keeling over~~ take photos of our progress. Below is a photo I took from about 3/4 of the way up the hike. The arrow should help you find our starting point (my car).
 

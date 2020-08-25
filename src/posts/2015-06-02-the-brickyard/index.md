@@ -4,7 +4,7 @@ date: '2015-06-02T19:49:00-07:00'
 updated: '2015-06-02T19:56:38-07:00'
 thumbnail: 'IMG_2446.jpg'
 uploads: ['IMG_2446.jpg', 'IMG_2449.jpg', 'IMG_2425.jpg', 'IMG_2435.jpg', 'IMG_2467.jpg']
-author: 'Eden Axelrad'
+author: 'Itai Axelrad'
 id: 7986292823208833947
 location: 'Santa Barbara, CA'
 tags: ['Axelrad', 'Bouldering', 'Brickyard', 'California', 'highball', 'Itai', 'sandstone', 'Santa Barbara']

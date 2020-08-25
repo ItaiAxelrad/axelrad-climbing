@@ -1,6 +1,6 @@
 const dataPath = '../data/logbook.json';
 
-// insatiate sets
+// instantiate sets
 const grades = new Set();
 const gradeSends = new Set();
 const years = new Set();
@@ -23,8 +23,8 @@ const gradeChart = new Chart(ctx1, {
       },
       {
         label: 'Routes',
-        backgroundColor: 'hsl(145, 90%, 60%)',
-        borderColor: 'hsl(225, 90%, 60%)',
+        backgroundColor: 'hsl(0, 90%, 60%)',
+        borderColor: 'hsl(0, 90%, 60%)',
         data: [],
       },
     ],
@@ -73,9 +73,9 @@ const yearChart = new Chart(ctx2, {
       },
       {
         label: 'Routes',
-        backgroundColor: 'hsla(145, 90%, 60%, .5)',
-        borderColor: 'hsl(225, 90%, 60%)',
-        pointBorderColor: 'hsla(225, 7%, 27%, .5)',
+        backgroundColor: 'hsla(0, 90%, 60%, .5)',
+        borderColor: 'hsl(0, 90%, 60%)',
+        pointBorderColor: 'hsla(0, 7%, 27%, .5)',
         data: [],
       },
     ],

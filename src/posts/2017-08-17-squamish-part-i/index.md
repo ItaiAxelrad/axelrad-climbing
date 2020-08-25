@@ -20,7 +20,7 @@ Itai, Ike and I joined Cody in a smoky Squamish on Sunday, August 6th. The haze,
 
 ![Cody on Swank Stretch](uploads/IMG_2798.jpg)
 
-By mid-week we had spent a few sessions at Gibb's cave, where Itai sent Black Hole (V11), and Cody sent Gibb's Cave (V8) - congrats!!!
+By mid-week we had spent a few sessions at Gibb's cave, where Itai sent Black Hole (V11), and Cody sent Gibb's Cave (V8) - congrats!
 
 ![Me on Black Hole](uploads/IMG_2861.jpg)
 
@@ -50,8 +50,6 @@ Our flight out of Vancouver was scheduled for 8:00pm, which was just enough time
 
 ![Itai on Resurrection (V9)](uploads/IMG_2962.jpg)
 
-As always, it was hard to leave the forest and I can't wait to go back!
-
-Itai and Cody are still up there, so stay tuned for Part II.
+As always, it was hard to leave the forest and I can't wait to go back! Itai and Cody are still up there, so stay tuned for Part II.
 
 ![](uploads/IMG_2932.jpg)

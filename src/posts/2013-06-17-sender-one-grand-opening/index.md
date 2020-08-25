@@ -10,8 +10,7 @@ location: 'Costa Mesa, CA'
 tags: ['Ashima Shiraishi', 'Bautista', 'Beall', 'Carlo Traversi', 'Chris Sharma', 'Climbing', 'Competition', 'Johnson', 'Kevin Jorgenson', 'Kinder', 'Martin', 'Owen', 'Paul Robinson', 'Sanders', 'Sender One', 'Sierra Blair Coyle', 'Tommy Caldwell', 'walltopia']
 ---
 
-Marina, Jake and I arrived in Santa Ana at 10 am this Saturday with a long but exciting day ahead of us. It was the grand opening of Chris Sharma’s new super-gym, Sender One. There was already a crowd outside, waiting to climb on the futuristic Walltopia features.
-And with the gym reaching its full capacity by noon, the staff was hard at work with non-stop belay tests and floor monitoring.
+Marina, Jake and I arrived in Santa Ana at 10 am this Saturday with a long but exciting day ahead of us. It was the grand opening of Chris Sharma’s new super-gym, Sender One. There was already a crowd outside, waiting to climb on the futuristic Walltopia features. And with the gym reaching its full capacity by noon, the staff was hard at work with non-stop belay tests and floor monitoring.
 
 Everyone took a break to watch Sharma lead two climbs through the sweeping arch and cone.
 

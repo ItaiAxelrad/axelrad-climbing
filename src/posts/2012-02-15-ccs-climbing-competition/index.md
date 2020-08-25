@@ -9,9 +9,7 @@ id: 578274219855781755
 location: 'San Luis Obispo, CA, USA'
 tags: ['Collegiate', 'Competition', 'CSS', 'Slo', 'Slo Op']
 ---
-Come to the CCS bouldering competition in San Luis Obispo!
-
-Here is a [promo video](http://vimeo.com/36815638) made by Alex Biale featuring himself, Joe Maier and I.
+Come to the CCS bouldering competition in San Luis Obispo! Here is a [promo video](http://vimeo.com/36815638) made by Alex Biale featuring himself, Joe Maier and I.
 
 ![Cut Loose](uploads/CCScomp.JPG)
 

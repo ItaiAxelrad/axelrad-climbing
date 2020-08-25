@@ -10,7 +10,7 @@ location: 'Joshua Tree, CA'
 tags: ['Axelrad', 'Bouldering', 'California', 'cold', 'Five Ten', 'granite', 'highball', 'Isaac', 'Joshua', 'Palatt', 'Tree']
 ---
 
-Bad weather has never deterred us, (though perhaps it should,) so Cody and I decided to roll the dice and venture out to Joshua Tree despite the stormy forecast. Thankfully, after a slight morning mist/sprinkle, the clouds around Intersection Rock began to clear. Isaac and Alexandra, who were destined to leave California behind for the 'Rado within days, arrived at the parking lot just minutes behind us. This was sadly their last chance to shred some gnar gnar and skin on the oh so sharp J Tree crystals before moving. Wait, what's a crystal?
+Bad weather has never deterred us, (though perhaps it should) so Cody and I decided to roll the dice and venture out to Joshua Tree despite the stormy forecast. Thankfully, after a slight morning mist/sprinkle, the clouds around Intersection Rock began to clear. Isaac and Alexandra, who were destined to leave California behind for the 'Rado within days, arrived at the parking lot just minutes behind us. This was sadly their last chance to shred some gnar gnar and skin on the oh so sharp J Tree crystals before moving. *Wait, what's a crystal?*
 
 ![The Bong in all its glory.](uploads/IMG_3409.jpg)
 

@@ -6,7 +6,7 @@ thumbnail: 'IMG_4169.jpg'
 uploads: ['IMG_4169.jpg', 'IMG_2345.jpg', 'IMG_0409.jpg', 'IMG_0448.jpg', 'IMG_0412.jpg']
 author: 'Eden Axelrad'
 id: 4435397574616793804
-location: 'Bishop, CA 93514, USA'
+location: 'Bishop, CA'
 tags: ['a maze of death', 'Axelrad', 'bishop', 'boulder', 'Bouldering', 'buttermilks', 'Climbing']
 ---
 

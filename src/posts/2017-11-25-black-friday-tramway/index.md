@@ -9,10 +9,9 @@ id: 7018775912034595718
 location: 'Palm Springs, CA'
 tags: ['barefoot sharma arete', 'black mamba', 'Bouldering', "chad's dyno", 'Climbing', 'dragons', 'Five', 'fiveten', 'granite', 'Ten', 'Tramway', 'v10', 'v12']
 ---
+Yesterday Norm and I headed up to Tramway to get outdoors and escape the record-breaking heat.
 
 ![](uploads/IMG_3553.JPG)
-
-Yesterday Norm and I headed up to Tramway to get outdoors and escape the record-breaking heat.
 
 We began our day by warming up and then heading to my project Black Mamba (V12). It started off well, but I tweaked my shoulder on one of the goes and decided to take a break and come back later. After that, we went looking for Barefoot Sharma Arete (V8), which took an embarrassingly long time considering we had the guide. But once we found our bearings we jumped on a few new and enjoyable climbs!
 

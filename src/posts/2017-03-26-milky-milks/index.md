@@ -19,6 +19,8 @@ Aside from being a little scared topping out Saigon and Roadside Highball in sli
 
 The first day ended with the highlight of sending the rarely done Scenic Crank Low (pictured above) in only three or so attempts. Cody got painfully close to sending Brian's Project but will have to return to it next time with better temps hopefully. Our finger tips were raw from a full day of climbing so we went in to town for a much deserved burger and beer and to watch some March Madness.
 
+---
+
 The next day Joe and Sara joined us for yet another full day of great climbing which included a flash of Pope's Hat and a few sunset laps on the giant Peabody's aretes.
 
 ![Joe topping out Verdad (V5)](uploads/File_000(2).jpg)

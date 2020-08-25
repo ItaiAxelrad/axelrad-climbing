@@ -34,7 +34,7 @@ The next day we drove to an outer area of Black Mountain appropriately dubbed "D
 
 ![Itai on Ghost Dog (V7)](uploads/IMG_3971%202.jpg)
 
-| ![Me on Ghost Dog (V7)](uploads/IMG_3993%202.jpg)
+![Me on Ghost Dog (V7)](uploads/IMG_3993%202.jpg)
 
 ![Me on the roof section of Beowulf (V11)](uploads/IMG_4024%202.jpg)
 

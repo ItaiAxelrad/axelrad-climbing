@@ -14,8 +14,7 @@ Climbing in 90 percent humidity, 90 degree weather is less than ideal. Isaac, Mi
 
 ![Eden holding on to the sweating 2 finger roof pocket on Chubs (V11)](uploads/IMG_4528.JPG)
 
-![](uploads/IMG_4514.jpg)*Itai trying his luck on the Malibu Project (V14).
-Photo by Isaac Palat*
+![Itai trying his luck on the Malibu Project (V14). Photo by Isaac Palat](uploads/IMG_4514.jpg)
 
 ![Miguel climbing up the Malibu classic, Ghetto Blaster (5.13b)](uploads/IMG_4544.jpg)
 
