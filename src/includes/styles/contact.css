@@ -1,0 +1,57 @@
+
+/* form styles */
+form {
+  display: block;
+  margin: 1rem auto;
+  padding: 1rem 0;
+  max-width: 450px;
+}
+
+input[type='submit'] {
+  color: currentColor;
+  background: var(--light-gray);
+}
+
+input[type='submit']:hover {
+  cursor: pointer;
+  background: var(--light);
+}
+
+input,
+textarea {
+  width: 100%;
+  margin: 0.5rem 0 1rem 0;
+  padding: 0.5rem;
+  background: var(--light-gray);
+  border: var(--border);
+  border-radius: var(--radius);
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+  background: var(--light);
+  border-color: var(--gray);
+}
+
+textarea {
+  resize: vertical;
+  font-family: var(--ff);
+}
+
+::placeholder {
+  color: var(--dark-gray);
+}
+
+/* comments and replies */
+.reply {
+  margin-inline-start: 2rem;
+}
+
+.reply::before {
+  content: '⤷';
+  position: absolute;
+  margin-block-start: -1.5rem;
+  margin-inline-start: -2.5rem;
+  color: var(--dark-gray);
+}

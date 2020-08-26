@@ -1,0 +1,34 @@
+.list-item {
+  list-style: none;
+  padding: 0.5rem;
+}
+
+.list-header {
+  border-block-end: var(--border);
+  margin-block-start: 1.5rem;
+}
+
+li .p-name {
+  padding-inline-end: 0.25rem;
+}
+
+li .p-name:hover {
+  color: var(--theme);
+}
+
+.tag {
+  display: inline-block;
+  margin: 0.15rem 0;
+  padding: 0.2rem 0.5rem;
+  color: var(--dark-gray);
+  background: var(--light-gray);
+  border-radius: var(--radius);
+  font-size: small;
+  text-decoration: none;
+  box-decoration-break: clone;
+}
+
+.tag:hover {
+  color: var(--dark);
+  background: var(--light);
+}

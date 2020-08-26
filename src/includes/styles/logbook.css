@@ -1,0 +1,64 @@
+/* chart & table styles */
+.chart-container {
+  position: relative;
+  height: 50vh;
+  max-width: var(--width);
+  margin: 2rem auto;
+}
+
+table {
+  position: relative;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-block-start: 2rem;
+}
+
+caption {
+  font-family: var(--ff-mono);
+  color: var(--dark-gray);
+}
+
+thead th {
+  position: sticky;
+  top: 0;
+  background: var(--gray);
+  padding: 1rem;
+}
+
+tbody th {
+  position: sticky;
+  top: 3rem;
+  background: var(--light-gray);
+  padding: 0.5rem;
+}
+
+tr:nth-child(even) {
+  background: var(--opaque);
+}
+
+tr {
+  border-inline-start: 1px solid transparent;
+}
+
+td {
+  font-size: small;
+  text-align: left;
+  padding: 0.25rem 0.5rem;
+  min-width: 95px;
+  color: var(--dark-gray);
+}
+
+tr:hover td {
+  cursor: pointer;
+  color: var(--dark);
+}
+
+.redpoint:hover {
+  border-inline-start: 1px solid hsl(0, 90%, 60%);
+}
+.SecondGo:hover {
+  border-inline-start: 1px solid var(--theme);
+}
+.flash:hover {
+  border-inline-start: 1px solid hsl(225, 90%, 60%);
+}

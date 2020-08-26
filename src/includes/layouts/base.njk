@@ -37,9 +37,15 @@
       type="application/json"
       crossorigin="use-credentials"
 />
+
     <!-- capture the CSS content as a Nunjucks variable -->
     {% set css %}
     {% include "../styles/main.css" %}
+    {% include "../styles/mobile.css" %}
+    {% include "../styles/contact.css" %}
+    {% include "../styles/logbook.css" %}
+    {% include "../styles/post.css" %}
+    {% include "../styles/taglist.css" %}
     {% endset %}
 
     <!-- feed it through our cssmin filter to minify -->
@@ -61,6 +67,7 @@
     <!-- capture the JS content as a Nunjucks variable -->
     {% set js %}
     {% include "../scripts/main.js" %}
+    {% include "../scripts/chart.js" %}
     {% endset %}
     <!-- feed it through our jsmin filter to minify -->
     <script defer async>
