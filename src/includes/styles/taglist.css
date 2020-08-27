@@ -1,14 +1,15 @@
 .list-item {
   list-style: none;
-  padding: 0.5rem;
+  padding: 1rem 0.5rem;
+  border-block-start: var(--border);
 }
 
 .list-header {
-  border-block-end: var(--border);
   margin-block-start: 1.5rem;
 }
 
 li .p-name {
+  display: block;
   padding-inline-end: 0.25rem;
 }
 

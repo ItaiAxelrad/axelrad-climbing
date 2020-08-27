@@ -30,6 +30,8 @@ We did some more exploring as the sun set, and even snuck in a night session bef
 
 ![](uploads/IMG_4679.JPG)
 
+---
+
 The next day we drove to an outer area of Black Mountain appropriately dubbed "Deep Black". We hopped on a few of the classics and even explored some more. Highlights of the day included Ghost Dog (V7) and Beowulf (V11) - which Itai impressively flashed! But by mid day we felt exhausted and our skin could take no more, so we packed up and headed home.
 
 ![Itai on Ghost Dog (V7)](uploads/IMG_3971%202.jpg)

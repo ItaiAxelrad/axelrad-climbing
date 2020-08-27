@@ -21,9 +21,10 @@ After the morning session near the Swing Dance and Blue Flame boulders we headed
 ![Cody cruising up a V4 with a nice view](uploads/IMG_2658.jpg)
 
 We finished up in the new area and decided to search for Emerald City. I had never been to this Tramway classic, and I was amazed at the quality of the line. Emerald City climbs up a 25-30 foot slab face, and offers a beautiful panoramic view as a topping out present. Highly recommended.
-We finished up our day with a goodbye lap on White Flight, another immaculate highball.
 
 ![Itai working his way up a V5 just to the right of Emerald City](uploads/IMG_2694.jpg)
+
+We finished up our day with a goodbye lap on White Flight, another immaculate highball.
 
 ![Cody on the last move of White Flight (V3)](uploads/IMG_2756.jpg)
 

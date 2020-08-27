@@ -16,7 +16,7 @@ Jovanna and I took a 3 week vacation to celebrate finishing graduate school and 
 
 ![Topping it out](uploads/IMG_9580.jpg)
 
-On our second to last day we explored one of the main bouldering areas in Lofoten where I sent a couple of great roof climbs called Night Rider (7C%20) and Sunshine (8A%20). Both climbs shared a finishing sequence but had different starts.
+On our second to last day we explored one of the main bouldering areas in Lofoten where I sent a couple of great roof climbs called Night Rider (7C&#43;) and Sunshine (8A&#43;). Both climbs shared a finishing sequence but had different starts.
 
 After that, I tried one of Lofoten's test pieces called Monster (8A). The rock quality, movement, and setting quickly made me realize why this was such a classic! Unfortunately it began to rain before I could send it, but I knew I'd have to stop by one last time on our way out. Thankfully I was able to grab a goodbye send before heading home!
 

@@ -33,12 +33,12 @@ tbody th {
 }
 
 tr:nth-child(even) {
-  background: var(--opaque);
+  background: var(--opaquer);
 }
 
-tr {
+/* tr {
   border-inline-start: 1px solid transparent;
-}
+} */
 
 td {
   font-size: small;
@@ -53,7 +53,7 @@ tr:hover td {
   color: var(--dark);
 }
 
-.redpoint:hover {
+/* .redpoint:hover {
   border-inline-start: 1px solid hsl(0, 90%, 60%);
 }
 .SecondGo:hover {
@@ -61,4 +61,4 @@ tr:hover td {
 }
 .flash:hover {
   border-inline-start: 1px solid hsl(225, 90%, 60%);
-}
+} */

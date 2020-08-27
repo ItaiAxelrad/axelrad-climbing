@@ -20,6 +20,7 @@
     justify-content: space-around;
   }
   .pages a {
+    flex-grow: 1;
     padding: 0.35rem 0.95rem;
   }
   article {
@@ -50,9 +51,6 @@
   }
   .post-image {
     height: 200px;
-  }
-  li strong {
-    display: block;
   }
   td {
     min-width: inherit;

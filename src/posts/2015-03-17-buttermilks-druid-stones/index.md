@@ -42,7 +42,7 @@ The hike was definitely heinous, but worth the quality of climbs out at the Drui
 
 ![Itai warming up on Fear of the Unknown (V3)](uploads/IMG_1825.jpg)
 
-![Cody topping out on Prostrate to the Higher Mind (V5)](uploads/Edited1212.tif)
+![Cody topping out on Prostrate to the Higher Mind (V5)](uploads/Edited1212.jpg)
 
 ![Itai on Suspenders (V5)](uploads/IMG_5659a.JPG)
 

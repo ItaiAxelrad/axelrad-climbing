@@ -1,3 +1,8 @@
+const autoprefixer = require('autoprefixer')
+const postcss = require('postcss')
+const precss = require('precss')
+const fs = require('fs')
+
 const { DateTime } = require('luxon');
 const CleanCSS = require('clean-css');
 const Terser = require('terser');
@@ -37,8 +42,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/config.yml');
   eleventyConfig.addPassthroughCopy('src/sw.js');
   eleventyConfig.addPassthroughCopy('src/manifest.json');
-  // eleventyConfig.addPassthroughCopy('src/includes/scripts/*');
+  eleventyConfig.addPassthroughCopy('src/includes/styles/*');
+  eleventyConfig.addPassthroughCopy('src/includes/scripts/chart.js');
   eleventyConfig.addPassthroughCopy('src/data/logbook.json');
+
+  // postCSS filter
+  eleventyConfig.addFilter('postcss', (css) => {
+      return postcss([precss, autoprefixer]).process(css).then(result => {result.css})
+  });
 
   //minify CSS filter for inline injection
   eleventyConfig.addFilter('cssmin', (code) => {

@@ -1,5 +1,6 @@
 ---
 layout: layouts/base.njk
+stylesheet: post
 ---
 
 <main class="h-entry">
@@ -10,7 +11,7 @@ layout: layouts/base.njk
     <div class="author-info">
     {% for auth in metadata.author %}
       {% if auth.name == author %}
-        <img src="/images/{{ auth.avatar }}" class="avatar">
+        <img src="/images/{{ auth.avatar }}" alt="{{ auth.avatar }}'s biopic'" class="avatar">
       {% endif %}
     {% endfor %}
     <div class="publish-info">

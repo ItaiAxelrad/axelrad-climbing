@@ -20,7 +20,7 @@ After showing the first-timers in our group the classic Tomy's Arete, we headed 
 
 ![Hiking out over the heavy snowpack.](uploads/IMG_0388.jpg)
 
-Video of the above-mentioned climbs (and several more) can be found [here](https://www.youtube.com/watch?v=lAHHoMg1xf8) or below.
+Video of the above-mentioned climbs (and several more) can be found [here](https://www.youtube.com/watch?v=lAHHoMg1xf8).
 
 See you out there!
 

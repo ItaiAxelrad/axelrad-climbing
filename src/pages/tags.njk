@@ -1,6 +1,7 @@
 ---
 eleventyComputed:
   title: Posts Tagged '{{ tag }}'
+stylesheet: taglist
 permalink: /tags/{{ tag | replace("'", "") | slug | url }}/
 pagination:
   data: collections

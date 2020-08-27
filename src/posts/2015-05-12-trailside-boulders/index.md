@@ -28,8 +28,6 @@ The sun began to sink and we all felt rather exhausted so we started the hike to
 
 ![The winding 243.](uploads/IMG_2237.jpg)
 
-All in all it was a great (and exclusively open handed) day at Black Mountain.
-
-See you out there!
+All in all it was a great (and exclusively open handed) day at Black Mountain. See you out there!
 
 \- Itai
