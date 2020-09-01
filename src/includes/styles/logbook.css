@@ -8,9 +8,9 @@
 
 table {
   position: relative;
-  border-collapse: collapse;
-  border-spacing: 0;
   margin-block-start: 2rem;
+  border-spacing: 0;
+  /* border-collapse: collapse; */
 }
 
 caption {
@@ -32,13 +32,13 @@ tbody th {
   padding: 0.5rem;
 }
 
+tr.grade-header {
+  border-inline-start: 2px solid var(--light-gray);
+}
+
 tr:nth-child(even) {
   background: var(--opaquer);
 }
-
-/* tr {
-  border-inline-start: 1px solid transparent;
-} */
 
 td {
   font-size: small;
@@ -53,12 +53,10 @@ tr:hover td {
   color: var(--dark);
 }
 
-/* .redpoint:hover {
-  border-inline-start: 1px solid hsl(0, 90%, 60%);
+/* send style styles */
+tr.redpoint td:first-of-type {
+  border-inline-start: 2px solid hsl(0, 90%, 60%);
 }
-.SecondGo:hover {
-  border-inline-start: 1px solid var(--theme);
+tr.flash td:first-of-type {
+  border-inline-start: 2px solid hsl(45, 90%, 60%);
 }
-.flash:hover {
-  border-inline-start: 1px solid hsl(225, 90%, 60%);
-} */

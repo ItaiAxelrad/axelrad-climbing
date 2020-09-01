@@ -116,7 +116,7 @@ module.exports = function (eleventyConfig) {
 
   // Get paginated posts
   eleventyConfig.addCollection('pagedPosts', (collectionApi) => {
-    return collectionApi.getFilteredByTag('post').reverse().slice(4);
+    return collectionApi.getFilteredByTag('post').reverse().slice(3);
   });
 
 

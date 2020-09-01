@@ -2,9 +2,11 @@ const dataPath = '../data/logbook.json';
 
 // instantiate sets
 const grades = new Set();
-const gradeSends = new Set();
+const gradeSends = new Array();
+const gradeSends_flash = new Array();
 const years = new Set();
-const yearSends = new Set();
+const yearSends = new Array();
+const yearSends_flash = new Array();
 
 // instantiate grade chart
 const ctx1 = document.getElementById('gradeChart').getContext('2d');
@@ -16,13 +18,13 @@ const gradeChart = new Chart(ctx1, {
     labels: [],
     datasets: [
       {
-        label: 'Boulders',
+        label: 'Flashes',
         backgroundColor: 'hsl(45, 90%, 60%)',
         borderColor: 'hsl(45, 90%, 60%)',
         data: [],
       },
       {
-        label: 'Routes',
+        label: 'Redpoints',
         backgroundColor: 'hsl(0, 90%, 60%)',
         borderColor: 'hsl(0, 90%, 60%)',
         data: [],
@@ -50,6 +52,14 @@ const gradeChart = new Chart(ctx1, {
         },
       ],
     },
+    tooltips: {
+      callbacks: {
+        footer: (tooltipItems, data) => {
+          let total = tooltipItems.reduce((a, e) => a + parseInt(e.xLabel), 0);
+          return 'Total: ' + total;
+        }
+      }
+    },
     responsive: true,
     maintainAspectRatio: false,
   },
@@ -65,15 +75,15 @@ const yearChart = new Chart(ctx2, {
     labels: [],
     datasets: [
       {
-        label: 'Boulders',
-        backgroundColor: 'hsla(45, 90%, 60%, .5)',
+        label: 'Flashes',
+        backgroundColor: 'hsl(45, 90%, 60%)',
         borderColor: 'hsl(45, 90%, 60%)',
         pointBorderColor: 'hsla(225, 7%, 27%, .5)',
         data: [],
       },
       {
-        label: 'Routes',
-        backgroundColor: 'hsla(0, 90%, 60%, .5)',
+        label: 'Redpoints',
+        backgroundColor: 'hsl(0, 90%, 60%)',
         borderColor: 'hsl(0, 90%, 60%)',
         pointBorderColor: 'hsla(0, 7%, 27%, .5)',
         data: [],
@@ -89,63 +99,98 @@ const yearChart = new Chart(ctx2, {
       fontSize: 16,
       fontStyle: 'normal',
     },
+    scales: {
+      xAxes: [
+        {
+          stacked: true,
+        },
+      ],
+      yAxes: [
+        {
+          stacked: true,
+        },
+      ],
+    },
     responsive: true,
     maintainAspectRatio: false,
   },
 });
 
 // dynamically add data to chart
-const addData = (chart, label, data) => {
+const addData = (chart, label, data1, data2) => {
   // add labels (font grades)
   label.forEach((label) => {
     chart.data.labels.push(label);
   });
-  // add data (boulders)
-  data.forEach((pt) => {
+  // add data (redpoints)
+  data1.forEach((pt) => {
     chart.data.datasets[0].data.push(pt);
+  });
+  // add data (flash)
+  data2.forEach((pt) => {
+    chart.data.datasets[1].data.push(pt);
   });
   // update the chart
   chart.update();
 };
 
 const getData = async () => {
+
   // fetch the data
   const response = await fetch(dataPath);
   const data = await response.json();
+
   // get an array of years active
   data.boulders.forEach((boulder) => {
     years.add(new Date(boulder.date).getFullYear());
   });
   let yearArray = [...years].sort();
+
   // get an array of grades climbed
   data.boulders.forEach((boulder) => {
     grades.add(boulder.grade);
   });
   let gradeArray = [...grades];
+
   // get send count per grade
   gradeArray.forEach((grade, i) => {
-    let count = 0;
+    let sendCount = 0;
+    let flashCount = 0;
     data.boulders.forEach((boulder) => {
       if (boulder.grade == grade) {
-        ++count;
+        if (boulder.style == 'flash') {
+          ++flashCount;
+        } else {
+          ++sendCount;
+        }
       }
     });
-    gradeSends.add(count);
+    gradeSends.push(sendCount);
+    gradeSends_flash.push(flashCount);
   });
+  
+  console.log(gradeSends_flash)
+
   // get send count per grade
   yearArray.forEach((year, i) => {
-    let count = 0;
+    let sendCount = 0;
+    let flashCount = 0;
     data.boulders.forEach((boulder) => {
       if (new Date(boulder.date).getFullYear() == year) {
-        ++count;
+        if (boulder.style == 'flash') {
+          ++flashCount;
+        } else {
+          ++sendCount;
+        }
       }
     });
-    yearSends.add(count);
+    yearSends.push(sendCount);
+    yearSends_flash.push(flashCount)
   });
 
   // dynamically add the data
-  addData(gradeChart, gradeArray, gradeSends);
-  addData(yearChart, yearArray, yearSends);
+  addData(gradeChart, gradeArray, gradeSends_flash, gradeSends);
+  addData(yearChart, yearArray, yearSends_flash, yearSends);
 };
 
 getData();

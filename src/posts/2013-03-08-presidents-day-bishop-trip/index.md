@@ -3,7 +3,7 @@ title: 'Presidents Day Bishop Trip'
 date: '2013-03-08T10:38:00-08:00'
 updated: '2013-03-08T10:40:50-08:00'
 thumbnail: 'IMG_6255.JPG'
-uploads: ['IMG_6255.JPG', 'IMG_6327.JPG', 'IMG_6255.JPG', 'IMG_6347_2.JPG', 'IMG_6395.JPG', 'BishopFeb038_flat.jpg', 'BishopFeb045_flat.jpg', 'BishopFeb027_flat.jpg', 'BishopFeb007_flat.jpg']
+uploads: ['IMG_6255.JPG', 'IMG_6327.JPG', 'IMG_6347_2.JPG', 'IMG_6395.JPG', 'BishopFeb038_flat.jpg', 'BishopFeb045_flat.jpg', 'BishopFeb027_flat.jpg', 'BishopFeb007_flat.jpg']
 author: 'Itai Axelrad'
 id: 7201376457507176611
 location: 'Bishop, CA'
@@ -15,8 +15,6 @@ It was a beautiful three-day weekend. The weather was perfect and people flocked
 ![The Sierras](uploads/IMG_6255.JPG)
 
 ![Cody, testing his balance on Robinson’s Rubber Tester (V0)](uploads/IMG_6327.JPG)
-
-![](uploads/IMG_6255.JPG)
 
 ![Jason snagging the pinch on Soul Slinger (V9)](uploads/IMG_6347_2.JPG)
 

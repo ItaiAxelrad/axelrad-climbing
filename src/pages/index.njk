@@ -10,7 +10,7 @@ permalink: index.html
   {%- include 'components/featuredPost.njk' -%}
 
   {%- set posts = collections.post | reverse -%}
-  {%- for post in posts.slice(1, 4) -%}
+  {%- for post in posts.slice(1, 3) -%}
 
     <a href="{{ post.url }}" class="post" aria-label="{{ post.data.title }}">
       <img
@@ -19,11 +19,11 @@ permalink: index.html
         class="post-image"
         loading="lazy"
       />
-      <div class="post-title">
-        <h4>{{ post.data.title }}</h4>
+      <div class="post-info">
+        <h4 class="post-title">{{ post.data.title }}</h4>
           <time datetime="{{ post.data.date | htmlDateString }}" class="subtitle">{{ post.data.date | readableDate}}</time>
       </div>
-      </a>
+    </a>
 
   {%- endfor -%}
 

@@ -8,11 +8,10 @@
     loading="lazy"
 />
 </a>
-  <div class="post-title">
+  <div class="post-info">
   <time datetime="{{ featuredPost.data.date | htmlDateString }}" class="subtitle">{{ featuredPost.data.date | readableDate}}</time>
-    <a href="{{ featuredPost.url }}"><h3>{{ featuredPost.data.title }}</h3></a>
-    {{- featuredPost.templateContent | truncate(100, true, "...") | safe -}}
-    
+    <a href="{{ featuredPost.url }}"><h3 class="featured-post-title">{{ featuredPost.data.title }}</h3></a>
+    {{- featuredPost.templateContent | truncate(150, true, "...") | safe -}}
     <p>
     <a href="{{ featuredPost.url }}" class="read-more btn">read more <span class="visually-hidden">about {{ featuredPost.data.title }}</span>
     <svg

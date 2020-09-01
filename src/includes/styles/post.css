@@ -7,7 +7,7 @@ article {
   max-width: 600px;
   margin: 1.5rem auto;
   line-height: 1.6;
-  letter-spacing: -0.01rem;
+  /* letter-spacing: -0.01rem; */
 }
 
 article header::after {
@@ -28,7 +28,7 @@ header .author-info {
 
 header .publish-info {
   max-height: 36px;
-  margin-block-start: -.35rem;
+  margin-block-start: -.5rem;
 }
 
 header .avatar {
@@ -40,7 +40,8 @@ header .avatar {
   object-fit: cover;
 }
 
-header .p-author{
+header .p-author {
+  color: currentColor;
   font-weight: bold;
   font-size: .9rem;
   vertical-align: top;

@@ -31,11 +31,15 @@ eleventyExcludeFromCollections: true
     {% set boulderGrade = boulder.grade %}
     {% if currentGrade != boulderGrade %}
         {% set currentGrade = boulderGrade %}
-        <tr><th class="grade-header" colspan="4" data-grade="{{ boulderGrade }}">{{ boulderGrade }}</th></tr>
+        <tr class="grade-header"><th colspan="4" data-grade="{{ boulderGrade }}">{{ boulderGrade }}</th></tr>
         {% endif %}
         <tr class="{{ boulder.style }}">
             <td headers="route">{{ boulder.route }}</td>
-            <td headers="crag">{{ boulder.crag }}</td>
+            <td headers="crag">{{ boulder.crag }}
+            {% if boulder.sector %}
+            / {{ boulder.sector }}
+            {% endif %}
+            </td>
             <td headers="date">{{ boulder.date }}</td>
             <td headers="comment">{{ boulder.comment }}</td>
         </tr>
