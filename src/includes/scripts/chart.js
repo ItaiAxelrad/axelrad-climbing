@@ -168,8 +168,6 @@ const getData = async () => {
     gradeSends.push(sendCount);
     gradeSends_flash.push(flashCount);
   });
-  
-  console.log(gradeSends_flash)
 
   // get send count per grade
   yearArray.forEach((year, i) => {

@@ -1,18 +1,11 @@
 /* mobile style  */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 748px) {
   body {
-    display: block;
     padding: 0.75rem;
   }
   nav {
+    width: auto;
     justify-content: flex-start;
-  }
-  .pageNav,
-  .postNav,
-  .topNav,
-  .home,
-  .post {
-    margin-block-end: 1rem;
   }
   .pages {
     display: flex;
@@ -20,8 +13,10 @@
     justify-content: space-around;
   }
   .pages a {
+    display: inline-block;
     flex-grow: 1;
     padding: 0.35rem 0.95rem;
+    text-align: center;
   }
   article {
     padding: 0.25rem;
@@ -35,28 +30,19 @@
     right: 50%;
     width: 100vw;
   }
-  .featured-post,
-  .posts {
-    display: block;
-  }
-  .post-title {
-    max-height: 250px;
-    margin-block-end: 2rem;
-    padding: 1rem;
-    background: var(--light-gray);
-    border-radius: 0 0 3px 3px;
-  }
-  .featured-post img {
-    border-radius: 3px 3px 0 0;
-  }
-  .post-image {
-    height: 200px;
-  }
   td {
     min-width: inherit;
     font-size: 10px;
   }
   .chart-container {
     min-width: 90vw;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .home {
+    display: block;
+    width: 100%;
+    margin-block-end: 1rem;
   }
 }

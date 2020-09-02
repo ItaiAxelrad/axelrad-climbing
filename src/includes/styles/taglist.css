@@ -33,3 +33,37 @@ li .p-name:hover {
   color: var(--dark);
   background: var(--light);
 }
+
+.archive-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 1.5rem
+}
+
+.nav-aside {
+  position: sticky;
+  top: 1.5rem;
+  margin: 0.5rem 0;
+  padding: 1rem;
+  background: var(--light-gray);
+  border-radius: var(--radius);
+}
+
+.nav-aside li {
+ list-style: none;
+ line-height: 1;
+}
+
+.nav-aside a {
+  padding: 0.2rem 0.5rem;
+  text-decoration: none;
+  border-radius: var(--radius);
+  color: var(--dark-gray);
+  transition: .3s ease-out;
+}
+
+.nav-aside a:hover,
+a.active {
+  color: var(--dark);
+  background: var(--light);
+}

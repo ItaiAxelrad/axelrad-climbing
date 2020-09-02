@@ -4,9 +4,11 @@ stylesheet: taglist
 permalink: /{{ title | lower }}/
 ---
 
-<main>
+<main class="archive">
 
   <h1>{{ title }}</h1>
+
+  <div class="archive-container">
 
   <ol class="post-list" reversed >
     {% set currentYear = "" %}
@@ -19,5 +21,23 @@ permalink: /{{ title | lower }}/
       {% include 'components/listItem.njk' %}
     {% endfor %}
     </ol>
+  <aside>
+    <div class="nav-aside">
+      <h2>Year</h2>
+      {% set currentYear = "" %}
+      <ol>
+          {% for post in collections.post | reverse %}
+              {% set postYear = post.date.getFullYear() %}
+              {% if currentYear != postYear %}
+                {% set currentYear = postYear %}
+                <li><a href="#{{ postYear }}" class="list-header-link">{{ postYear }}</a></li>
+              {% endif %}
+          {% endfor %}
+      </ol>
+    </div>
+  </aside>
+  
+  </div>
 
 </main>
+<script src="../includes/scripts/observer.js" defer ></script>
