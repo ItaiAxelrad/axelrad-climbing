@@ -269,7 +269,6 @@ img {
   margin: 1rem auto;
   padding: 1rem;
   background: var(--light-gray);
-  border: var(--border);
   border-radius: var(--radius);
 }
 
@@ -383,6 +382,17 @@ button:focus {
   border-radius: var(--radius) 0 0 var(--radius);
 }
 
+.featured-post-title {
+  font-size: 125%;
+}
+
 .featured-post .post-info {
-  padding: 1.5rem;
+  padding: 1.5rem 2rem 1rem 1rem;
+}
+
+.caption p {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }

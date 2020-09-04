@@ -1,12 +1,16 @@
-const dataPath = '../data/logbook.json';
+// set initial climbing data style (boulder/sport)
+const inputs = document.querySelectorAll('input');
 
-// instantiate sets
-const grades = new Set();
-const gradeSends = new Array();
-const gradeSends_flash = new Array();
-const years = new Set();
-const yearSends = new Array();
-const yearSends_flash = new Array();
+var style = ''
+inputs.forEach(input =>{ 
+  if (input.checked) {
+    style = input.value
+  }
+})
+
+const baseDir = '../data/';
+var dataPath = `${baseDir}${style}.json`;
+console.log(dataPath)
 
 // instantiate grade chart
 const ctx1 = document.getElementById('gradeChart').getContext('2d');
@@ -118,6 +122,10 @@ const yearChart = new Chart(ctx2, {
 
 // dynamically add data to chart
 const addData = (chart, label, data1, data2) => {
+  // clear the data
+  chart.data.labels = new Array();
+  chart.data.datasets[0].data = new Array();
+  chart.data.datasets[1].data = new Array();
   // add labels (font grades)
   label.forEach((label) => {
     chart.data.labels.push(label);
@@ -134,31 +142,40 @@ const addData = (chart, label, data1, data2) => {
   chart.update();
 };
 
-const getData = async () => {
+// fetch data from JSON file
+const getData = async (path) => {
 
   // fetch the data
-  const response = await fetch(dataPath);
+  const response = await fetch(path);
   const data = await response.json();
 
+  // instantiate arrays & sets
+  const grades = new Set();
+  const gradeSends = new Array();
+  const gradeSends_flash = new Array();
+  const years = new Set();
+  const yearSends = new Array();
+  const yearSends_flash = new Array();
+
   // get an array of years active
-  data.boulders.forEach((boulder) => {
-    years.add(new Date(boulder.date).getFullYear());
+  data.forEach((climb) => {
+    years.add(new Date(climb.date).getFullYear());
   });
   let yearArray = [...years].sort();
 
   // get an array of grades climbed
-  data.boulders.forEach((boulder) => {
-    grades.add(boulder.grade);
+  data.forEach((climb) => {
+    grades.add(climb.grade);
   });
   let gradeArray = [...grades];
 
   // get send count per grade
-  gradeArray.forEach((grade, i) => {
+  gradeArray.forEach( grade => {
     let sendCount = 0;
     let flashCount = 0;
-    data.boulders.forEach((boulder) => {
-      if (boulder.grade == grade) {
-        if (boulder.style == 'flash') {
+    data.forEach((climb) => {
+      if (climb.grade == grade) {
+        if (climb.style == 'flash') {
           ++flashCount;
         } else {
           ++sendCount;
@@ -170,12 +187,12 @@ const getData = async () => {
   });
 
   // get send count per grade
-  yearArray.forEach((year, i) => {
+  yearArray.forEach( year => {
     let sendCount = 0;
     let flashCount = 0;
-    data.boulders.forEach((boulder) => {
-      if (new Date(boulder.date).getFullYear() == year) {
-        if (boulder.style == 'flash') {
+    data.forEach((climb) => {
+      if (new Date(climb.date).getFullYear() == year) {
+        if (climb.style == 'flash') {
           ++flashCount;
         } else {
           ++sendCount;
@@ -190,5 +207,14 @@ const getData = async () => {
   addData(gradeChart, gradeArray, gradeSends_flash, gradeSends);
   addData(yearChart, yearArray, yearSends_flash, yearSends);
 };
+// call data getter
+getData(dataPath);
 
-getData();
+// radio button event listeners 
+inputs.forEach( input => {
+  input.addEventListener('click', event => {
+    style = event.target.value
+    dataPath = `${baseDir}${style}.json`;
+    getData(dataPath);
+  });
+})

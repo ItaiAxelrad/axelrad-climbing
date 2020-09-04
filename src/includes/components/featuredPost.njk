@@ -11,19 +11,20 @@
   <div class="post-info">
   <time datetime="{{ featuredPost.data.date | htmlDateString }}" class="subtitle">{{ featuredPost.data.date | readableDate}}</time>
     <a href="{{ featuredPost.url }}"><h3 class="featured-post-title">{{ featuredPost.data.title }}</h3></a>
-    {{- featuredPost.templateContent | truncate(150, true, "...") | safe -}}
-    <p>
-    <a href="{{ featuredPost.url }}" class="read-more btn">read more <span class="visually-hidden">about {{ featuredPost.data.title }}</span>
-    <svg
-          class="icon"
-          viewBox="0 0 24 24"
-          aria-hidden="true"
-          focusable="false"
-        >
-          <use xlink:href="/images/defs.svg#chevron_right"></use>
-    </svg>
+
+    <div class="caption">{{- featuredPost.templateContent | truncate(180, true, "...") | safe -}}</div>
+
+    <a href="{{ featuredPost.url }}" class="read-more btn">read more 
+      <span class="visually-hidden">about {{ featuredPost.data.title }}</span>
+      <svg
+            class="icon"
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use xlink:href="/images/defs.svg#chevron_right"></use>
+      </svg>
     </a>
-  </p>
-  
+
   </div>
 </div>

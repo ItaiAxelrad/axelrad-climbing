@@ -1,4 +1,21 @@
 /* chart & table styles */
+.styles {
+  text-align: center;
+}
+.radio-button {
+  background: var(--light-gray);
+  display: inline;
+  padding: .25rem .5rem;
+  border-radius: var(--radius);
+  margin: .15rem;
+}
+input[type="radio"]:hover,
+label:hover,
+.radio-button:hover {
+  background: var(--light);
+  cursor: pointer;
+}
+
 .chart-container {
   position: relative;
   height: 50vh;

@@ -7,6 +7,17 @@ eleventyExcludeFromCollections: true
 
 <main id="{{ title }}">
 
+<div class="styles">
+  <div class="radio-button">
+    <input type="radio" id="boulders"name="climbing-style" value="boulders" checked>
+    <label for="boulders">Boulders</label>
+  </div>
+  <div class="radio-button">
+    <input type="radio" id="sport" name="climbing-style" value="sport">
+    <label for="sport">Sport</label>
+  </div>
+</div>
+
 <div class="chart-container">
   <canvas id="gradeChart"></canvas>
 </div>

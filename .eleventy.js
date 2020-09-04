@@ -45,7 +45,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/includes/styles/*');
   eleventyConfig.addPassthroughCopy('src/includes/scripts/chart.js');
   eleventyConfig.addPassthroughCopy('src/includes/scripts/observer.js');
-  eleventyConfig.addPassthroughCopy('src/data/logbook.json');
+  eleventyConfig.addPassthroughCopy('src/data/boulders.json');
+  eleventyConfig.addPassthroughCopy('src/data/sport.json');
 
   // postCSS filter
   eleventyConfig.addFilter('postcss', (css) => {
