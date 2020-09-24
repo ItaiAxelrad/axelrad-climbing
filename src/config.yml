@@ -6,8 +6,8 @@ site_url: http://axelradclimbing.netlify.app/
 display_url: http://axelradclimbing.netlify.app/
 logo_url: http://axelradclimbing.netlify.app/images/icon.png
 publish_mode: editorial_workflow # enable drafts
-show_preview_links: true # show post / page live preview 
-media_folder: 'uploads' # Media files will be stored in the repo under images/uploads
+show_preview_links: true # show post / page live preview
+media_folder: 'src/images' # Media files will be stored in the repo
 collections:
   # Blog posts
   - name: 'posts' # Used in routes, e.g., /admin/collections/blog
@@ -23,7 +23,8 @@ collections:
     slug: 'index.md' # Filename template, e.g., YYYY-MM-DD-title.md
     preview_path: 'posts/{{year}}-{{month}}-{{day}}-{{title}}/index.html' # preview location
     preview_path_date_field: 'date'
-    summary: '{{fields.title}} - {{fields.author}} - {{fields.date}}'
+    summary: '{{fields.title}} - {{fields.date}}'
+    sort: 'date:desc'
     fields: # The fields for each document, usually in front matter
       - { label: 'Title', name: 'title', widget: 'string' }
       - {
@@ -31,8 +32,8 @@ collections:
           name: 'date',
           widget: 'datetime',
           default: Created,
-          dateFormat: 'DD.MM.YYYY',
-          format: 'MMM Dd YY'
+          date_format: "DD.MM.YYYY", # e.g. 24.12.2021
+          time_format: false,
         }
       - {
           label: 'Update Date',
@@ -46,16 +47,64 @@ collections:
       - { label: 'Feature Image', name: 'thumbnail', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list', default: ['post'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
   # Pages
   - name: 'pages' # Used in routes, e.g., /admin/collections/blog
     identifier_field: name
     description: 'A collection of all blog pages'
     label: 'Pages' # Used in the UI
     label_singular: 'Page' # Used in the UI
-    folder: 'src/pages' # The path to the folder where the documents are stored
-    create: false # Allow users to create new documents in this collection
-    slug: '/{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-    preview_path: '/{{slug}}' # preview location
-    fields: # The fields for each document, usually in front matter
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+    files:
+      - label: 'About Page'
+        name: 'about'
+        file: 'src/pages/about.njk'
+        fields:
+        - { label: 'Title', name: 'title', widget: 'string' }
+        - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  # Logbook
+  - name: 'logbook' # Used in routes, e.g., /admin/collections/blog
+    identifier_field: name
+    description: 'A collection of boulders'
+    label: 'Logbook' # Used in the UI
+    files:
+      - label: 'Boulders'
+        name: 'boulders'
+        file: 'src/data/boulders.json'
+        fields:
+          - label: Boulders
+            name: boulders
+            widget: list
+            allow_add: true
+            fields: # The fields for each document, usually in front matter
+              - {
+                  label: 'Type',
+                  name: 'type',
+                  widget: 'string',
+                  default: 'Boulder',
+                }
+              - { label: 'Route', name: 'route', widget: 'string' }
+              - { label: 'Crag', name: 'crag', widget: 'string' }
+              - { label: 'Sector', name: 'sector', widget: 'string' }
+              - {
+                  label: 'Grade',
+                  name: 'grade',
+                  widget: 'string',
+                  pattern:
+                    [
+                      '\d[a-zA-Z]?\+?',
+                      'Must have number at start , optionally followed by letter and plus',
+                    ],
+                }
+              - {
+                  label: 'Date',
+                  name: 'date',
+                  widget: 'datetime',
+                  default: Created,
+                }
+              - { label: 'Comment', name: 'comment', widget: 'string' }
+              - { label: 'Quality', name: 'quality', widget: 'string' }
+              - { label: 'Style', name: 'style', widget: 'string' }
+              - { label: 'Country', name: 'country', widget: 'string' }
+              - { label: 'Region', name: 'region', widget: 'string' }
+              - { label: 'Tag', name: 'tag', widget: 'string' }

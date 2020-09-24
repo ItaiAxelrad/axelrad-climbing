@@ -30,7 +30,7 @@ First, if you want to tick your climbs that's fine, just brush your ticks off wh
 
 This was an issue a dozen years ago, and the sport has experienced exponential growth recently with more to come when it hits the Olympics. In a more recent 2018 Access Fund article titled [5 THINGS TO KNOW BEFORE YOU CLIMB IN THE ALPINE](https://www.accessfund.org/open-gate-blog/5-things-to-know-before-you-climb-in-the-alpine) the first 'thing' reads:
 
-> Stashing pads and gear is illegal in most places and hurts wildlife. We get it. Those alpine boulder approaches can be arduous. If you’re projecting, hauling all that gear is a drag. But stashing gear is not worth the price we’ll all pay for access if a land manager finds it (and trust us, they are looking). It’s also not worth the hit to your wallet or the health of wildlife if hungry marmots eat it. Mountain goats, marmots, and other wild critters crave salt, and they will munch on your sweaty pad, giving them an unhealthy mix of synthetic fibers and human salt.
+> "Stashing pads and gear is illegal in most places and hurts wildlife. We get it. Those alpine boulder approaches can be arduous. If you’re projecting, hauling all that gear is a drag. But stashing gear is not worth the price we’ll all pay for access if a land manager finds it (and trust us, they are looking). It’s also not worth the hit to your wallet or the health of wildlife if hungry marmots eat it. Mountain goats, marmots, and other wild critters crave salt, and they will munch on your sweaty pad, giving them an unhealthy mix of synthetic fibers and human salt."
 
 There are many more articles and forums out there addressing this issue. Feel free to inform yourself and please be respectful!
 

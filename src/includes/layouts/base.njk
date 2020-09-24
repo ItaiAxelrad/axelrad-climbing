@@ -20,9 +20,9 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
     <meta name="apple-mobile-web-app-title" content="blog"/>
     <!-- Fonts -->
-    <!--<link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="">
- <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
- <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet"> -->
+    <link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Vollkorn:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
 
     <!-- link preview -->
     {%- include 'components/linkPreview.njk' -%}
@@ -69,7 +69,7 @@
     
     <!-- capture the JS content as a Nunjucks variable -->
     {% set js %}
-    {% include "../scripts/main.js" %}
+    {% include "/src/includes/scripts/main.js" %}
     {% endset %}
     <!-- feed it through our jsmin filter to minify -->
     <script defer async>

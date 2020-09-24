@@ -5,8 +5,8 @@ permalink: /{{ title | lower }}/
 ---
 <main>
 
-<h1>{{ title }}</h1>
 <section>
+  <h1>{{ title }}</h1>
   <p>Got a question or comment? Get in touch!</p>
 
   <form name="contact" method="POST" data-netlify="true" class="form-contact">
@@ -41,7 +41,7 @@ permalink: /{{ title | lower }}/
   <h2>Comments</h2>
   {%- for comment in comments.comments | reverse %}
     <div class="card">
-      <h3>{{ comment.subject }}</h3>
+      <h4>{{ comment.subject }}</h4>
       <small>{{ comment.author }} commented on  <time datetime="{{ comment.date }}">{{ comment.date }}</time></small>
       <blockquote>{{ comment.body }}</blockquote>
     </div>

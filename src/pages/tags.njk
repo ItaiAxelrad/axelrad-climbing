@@ -11,13 +11,43 @@ pagination:
   addAllPagesToCollections: true
 ---
 
+<main>
+
 <h1>{{ title }}</h1>
+  <p>Search <a href="/tags">all tags</a></p>
+  
+  <div class="archive-container">
 
-<ol reversed >
-  {% set taglist = collections[tag] %}
-  {% for post in taglist | reverse %}
-    {% include 'components/listItem.njk' %}
-  {% endfor %}
-</ol>
+  <ol class="post-list" reversed >
+    {% set currentYear = "" %}
+    {% set taglist = collections[tag] %}
+    {% for post in taglist | reverse %}
+        {% set postYear = post.date.getFullYear() %}
+        {% if currentYear != postYear %}
+        {% set currentYear = postYear %}
+        <h2 id="{{ postYear }}" class="list-header">{{ postYear }}</h2>
+        {% endif %}
+      {% include 'components/listItem.njk' %}
+    {% endfor %}
+    </ol>
+  <aside>
+    <div class="nav-aside">
+      <h2>Year</h2>
+      {% set currentYear = "" %}
+      <ol>
+              {% for post in taglist | reverse %}
+              {% set postYear = post.date.getFullYear() %}
+              {% if currentYear != postYear %}
+                {% set currentYear = postYear %}
+                <li><a href="#{{ postYear }}" class="list-header-link">{{ postYear }}</a></li>
+              {% endif %}
+          {% endfor %}
+      </ol>
+    </div>
+  </aside>
+  
+  </div>
 
-<p>See <a href="/tags">all tags</a></p>
+  </main>
+
+<script src="/includes/scripts/observer.js" defer ></script>
