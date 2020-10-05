@@ -69,7 +69,7 @@
     
     <!-- capture the JS content as a Nunjucks variable -->
     {% set js %}
-    {% include "/src/includes/scripts/main.js" %}
+      {% include "../scripts/main.js" %}
     {% endset %}
     <!-- feed it through our jsmin filter to minify -->
     <script defer async>

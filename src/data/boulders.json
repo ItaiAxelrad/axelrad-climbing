@@ -1,5 +1,4 @@
-{ "boulders":
-    [
+[
     {
       "type": "boulder",
       "route": "Wolf at the Door",
@@ -990,6 +989,19 @@
     "style": "redpoint",
     "country": "united states",
     "region": "Bishop (CA)"
+  },
+  {
+    "type": "boulder",
+    "route": "Earth Matters",
+    "crag": "Guanella Pass",
+    "sector": "Love Matters",
+    "grade": "7C+",
+    "date": "2020-06-27",
+    "comment": "",
+    "quality": "mega classic",
+    "style": "redpoint",
+    "country": "united states",
+    "region": ""
   },
   {
     "type": "boulder",
@@ -5747,4 +5759,3 @@
     "region": "Squamish"
   }
 ]
-}

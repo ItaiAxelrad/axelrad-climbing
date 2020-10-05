@@ -5,7 +5,7 @@ const fs = require('fs')
 
 const { DateTime } = require('luxon');
 const CleanCSS = require('clean-css');
-const Terser = require('terser');
+const { minify } = require('terser');
 const markdownIt = require('markdown-it');
 const lazy_loading = require('markdown-it-image-lazy-loading');
 const implicitFigures = require('markdown-it-implicit-figures');
@@ -59,13 +59,18 @@ module.exports = function (eleventyConfig) {
   });
 
   // minify JS filter for inline injection
-  eleventyConfig.addFilter('jsmin', (code) => {
-    let minified = Terser.minify(code);
-    if (minified.error) {
-      console.log('Terser error: ', minified.error);
-      return code;
+  eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
+    code,
+    callback
+  ) {
+    try {
+      const minified = await minify(code);
+      callback(null, minified.code);
+    } catch (err) {
+      console.error("Terser error: ", err);
+      // Fail gracefully.
+      callback(null, code);
     }
-    return minified.code;
   });
 
   // parse datetime to readable
