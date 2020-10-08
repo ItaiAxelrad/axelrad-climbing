@@ -235,7 +235,8 @@ hr {
 /* link styles */
 a {
   color: currentColor;
-  text-decoration: underline var(--theme);
+  text-decoration: underline; 
+  text-decoration-color: var(--theme);
 }
 
 article a,
@@ -243,7 +244,8 @@ a[href^="http://"],
 a[href^="https://"],
 a[rel='noreferrer'],
 a[rel='noopener'] {
-  text-decoration: underline var(--theme);
+  text-decoration: underline; 
+  text-decoration-color: var(--theme);
 }
 article a:hover,
 a[href^="http://"]:hover,
@@ -256,7 +258,7 @@ a[href^="http://"]::after,
 a[href^="https://"]::after,
 a[rel='noreferrer']::after,
 a[rel='noopener'] {
-  content: '↗';
+  content: '\2197\FE0E';
   color: var(--dark-gray);
 }
 
@@ -266,6 +268,7 @@ img {
   max-width: 100%;
   transition: 0.3s ease-out;
   filter: var(--filter);
+  background-color: var(--light);
 }
 
 .card {
@@ -370,7 +373,6 @@ button:focus {
   height: 200px;
   margin-block-end: 0rem;
   border-radius: var(--radius) var(--radius) 0 0;
-  background-color: var(--light);
 }
 
 .featured-post {

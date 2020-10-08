@@ -46,11 +46,8 @@
     {% endset %}
     <!-- feed it through our cssmin filter to minify -->
     <style>
-      {{ css | cssmin | safe }}
+      {{ css | postCSS | safe }}
     </style>
-    {# <style>
-      {{ css | postcss | safe }}
-    </style> #}
 
     {% if stylesheet %}
     <link href="/includes/styles/{{ stylesheet }}.css" rel="stylesheet">

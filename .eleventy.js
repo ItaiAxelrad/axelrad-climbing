@@ -1,10 +1,8 @@
-const autoprefixer = require('autoprefixer')
 const postcss = require('postcss')
-const precss = require('precss')
+const cssnano = require("cssnano");
+const autoprefixer = require('autoprefixer')
 const fs = require('fs')
-
 const { DateTime } = require('luxon');
-const CleanCSS = require('clean-css');
 const { minify } = require('terser');
 const markdownIt = require('markdown-it');
 const lazy_loading = require('markdown-it-image-lazy-loading');
@@ -49,13 +47,24 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/data/sport.json');
 
   // postCSS filter
-  eleventyConfig.addFilter('postcss', (css) => {
-      return postcss([precss, autoprefixer]).process(css).then(result => {result.css})
-  });
-
-  //minify CSS filter for inline injection
-  eleventyConfig.addFilter('cssmin', (code) => {
-    return new CleanCSS({}).minify(code).styles;
+  eleventyConfig.addNunjucksAsyncFilter("postCSS", async function (
+    code, 
+    callback
+  ) {
+    try {
+        return await postcss([
+          autoprefixer,
+          cssnano
+        ])
+        .process(code)
+        .then(function (result) {
+          callback(null, result.css);
+        });
+    } catch (err) {
+      console.error("postCSS error: ", err);
+      // Fail gracefully.
+      callback(null, code);
+    }
   });
 
   // minify JS filter for inline injection
@@ -157,7 +166,7 @@ module.exports = function (eleventyConfig) {
       input: 'src',
       output: 'dist',
       includes: 'includes',
-      // layouts: 'layouts',
+      // layouts: 'includes/layouts',
       data: 'data',
     },
     templateFormats: ['njk', 'md', '11ty.js'],

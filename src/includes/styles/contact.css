@@ -8,6 +8,7 @@ form {
 }
 
 input[type='submit'] {
+  appearance: none;
   color: currentColor;
   background: var(--light-gray);
 }
