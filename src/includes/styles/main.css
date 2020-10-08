@@ -1,8 +1,8 @@
 :root {
   /* Sans-Serif system font stack*/
-  --ff-sans: 'Open Sans', BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, sans-serif;
+  --ff-sans: BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, sans-serif;
   /* Serif */
-  --ff-serif: 'Vollkorn', Georgia, Droid Serif, Times New Roman, serif;
+  --ff-serif: Georgia, Droid Serif, Times New Roman, serif;
   /* Mono */
   --ff-mono: Menlo, Consolas, monospace;
   /* color scheme */
@@ -88,7 +88,7 @@ body {
   color: var(--dark);
   font-family: var(--ff-sans);
   line-height: 1.3;
-  font-size: 17px;
+  font-size: 18px;
   transition: 0.3s ease-out;
 }
 
@@ -159,8 +159,7 @@ nav .btn {
 
 /* type style  */
 h1,
-h2,
-h3 {
+h2 {
   font-family: var(--ff-serif);
   font-weight: bold;
   letter-spacing: 0.25px;
@@ -387,10 +386,6 @@ button:focus {
   width: 100%;
   height: 275px;
   border-radius: var(--radius) 0 0 var(--radius);
-}
-
-.featured-post-title {
-  font-size: 135%;
 }
 
 .featured-post .post-info {
