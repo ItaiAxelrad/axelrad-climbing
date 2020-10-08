@@ -11,7 +11,7 @@ stylesheet: post
     <div class="author-info">
     {% for auth in metadata.author %}
       {% if auth.name == author %}
-        <img src="/images/{{ auth.avatar }}" alt="{{ auth.avatar }}'s biopic'" class="avatar">
+        <img src="/images/{{ auth.avatar }}?nf_resize=fit&w=36" alt="{{ auth.avatar }}'s biopic'" class="avatar">
       {% endif %}
     {% endfor %}
     <div class="publish-info">

@@ -2,6 +2,10 @@
   publish = "dist"
   command = "DEBUG=* eleventy"
 
+# Default site wide settings
+[build.processing]
+  skip_processing = true
+
 [[plugins]]
   package = "netlify-plugin-image-optim"
 
