@@ -1,0 +1,12 @@
+    <a href="{{ post.url }}" class="post" aria-label="{{ post.data.title }}">
+      <img
+        src="{{ post.url }}uploads/{{ post.data.thumbnail }}?nf_resize=fit&h=400"
+        alt="{{ post.data.title }}"
+        class="post-image"
+        loading="lazy"
+      />
+      <div class="post-info">
+        <h4 class="post-title">{{ post.data.title }}</h4>
+          <time datetime="{{ post.data.date | htmlDateString }}" class="subtitle">{{ post.data.date | readableDate}}</time>
+      </div>
+    </a>
