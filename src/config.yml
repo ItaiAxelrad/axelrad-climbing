@@ -2,9 +2,9 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
   squash_merges: true
-site_url: http://axelradclimbing.netlify.app/
-display_url: http://axelradclimbing.netlify.app/
-logo_url: http://axelradclimbing.netlify.app/images/icon.png
+site_url: https://axelradclimbing.com
+display_url: https://axelradclimbing.com
+logo_url: https://axelradclimbing.com/images/icon.png
 publish_mode: editorial_workflow # enable drafts
 show_preview_links: true # show post / page live preview
 media_folder: 'src/images' # Media files will be stored in the repo

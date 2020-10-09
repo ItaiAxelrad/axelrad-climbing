@@ -23,7 +23,8 @@ eleventyExcludeFromCollections: true
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <!-- Include custom preview style and widgets -->
     <script>
-      CMS.registerPreviewStyle('../styles/main.css');
+      CMS.registerPreviewStyle('../includes/styles/main.css');
+      CMS.registerPreviewStyle('../includes/styles/post.css');
       CMS.registerWidget('youtube', youtubeControl, youtubePreview);
     </script>
   </body>

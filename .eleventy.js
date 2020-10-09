@@ -1,16 +1,18 @@
-const postcss = require('postcss')
-const cssnano = require("cssnano");
-const autoprefixer = require('autoprefixer')
-const fs = require('fs')
-const { DateTime } = require('luxon');
-const { minify } = require('terser');
+// Plugins
+const pluginRss = require('@11ty/eleventy-plugin-rss');
+const xmlFiltersPlugin = require('eleventy-xml-plugin');
+// Parsers
 const markdownIt = require('markdown-it');
 const lazy_loading = require('markdown-it-image-lazy-loading');
 const implicitFigures = require('markdown-it-implicit-figures');
-const pluginLocalRespimg = require('eleventy-plugin-local-respimg');
-const pluginRss = require('@11ty/eleventy-plugin-rss');
-const xmlFiltersPlugin = require('eleventy-xml-plugin');
+const { DateTime } = require('luxon');
+// minify tasks
+const postcss = require('postcss');
+const cssnano = require("cssnano");
+const autoprefixer = require('autoprefixer');
+const { minify } = require('terser');
 
+// eleventy configuration
 module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
@@ -21,9 +23,9 @@ module.exports = function (eleventyConfig) {
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,
-    breaks: true,
+    breaks: false,
     linkify: true,
-    typographer: false,
+    typographer: true,
   })
     .use(lazy_loading)
     .use(implicitFigures, {
@@ -40,11 +42,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/config.yml');
   eleventyConfig.addPassthroughCopy('src/sw.js');
   eleventyConfig.addPassthroughCopy('src/manifest.json');
-  eleventyConfig.addPassthroughCopy('src/includes/styles/*');
-  eleventyConfig.addPassthroughCopy('src/includes/scripts/chart.js');
-  eleventyConfig.addPassthroughCopy('src/includes/scripts/observer.js');
   eleventyConfig.addPassthroughCopy('src/data/boulders.json');
   eleventyConfig.addPassthroughCopy('src/data/sport.json');
+  eleventyConfig.addPassthroughCopy('src/includes/styles/*');
+  eleventyConfig.addPassthroughCopy('src/includes/scripts/*');
 
   // postCSS filter
   eleventyConfig.addNunjucksAsyncFilter("postCSS", async function (
@@ -134,31 +135,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('pagedPosts', (collectionApi) => {
     return collectionApi.getFilteredByTag('post').reverse().slice(3);
   });
-
-
-  // eleventyConfig.addPlugin(pluginLocalRespimg, {
-  //   folders: {
-  //     source: '', // Folder images are stored in
-  //     output: '', // Folder images should be output to
-  //   },
-  //   images: {
-  //     resize: {
-  //       min: 250, // Minimum width to resize an image to
-  //       max: 1500, // Maximum width to resize an image to
-  //       step: 150, // Width difference between each resized image
-  //     },
-  //     gifToVideo: false, // Convert GIFs to MP4 videos
-  //     sizes: '100vw', // Default image `sizes` attribute
-  //     lazy: true, // Include `loading="lazy"` attribute for images
-  //     additional: [
-  //       // Globs of additional images to optimize (won't be resized)
-  //       '',
-  //     ],
-  //     watch: {
-  //       src: '', // Glob of images that Eleventy should watch for changes to
-  //     },
-  //   },
-  // });
 
   // Base Config
   return {

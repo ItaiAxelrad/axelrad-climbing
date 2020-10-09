@@ -40,9 +40,9 @@
 
     <!-- capture the CSS content as a Nunjucks variable -->
     {% set css %}
-    {# {% include "../styles/normalize.css" %} #}
-    {% include "../styles/main.css" %}
-    {% include "../styles/mobile.css" %}
+      {# {% include "../styles/normalize.css" %} #}
+      {% include "../styles/main.css" %}
+      {% include "../styles/mobile.css" %}
     {% endset %}
     <!-- feed it through our cssmin filter to minify -->
     <style>

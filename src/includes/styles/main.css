@@ -313,6 +313,10 @@ button:focus {
   box-shadow: 0 0 0 1px var(--light-gray);
 }
 
+input {
+  appearance: none;
+}
+
 .read-more {
   border-color: var(--gray);
   width: fit-content;
