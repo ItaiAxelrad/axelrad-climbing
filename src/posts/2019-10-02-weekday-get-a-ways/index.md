@@ -1,7 +1,7 @@
 ---
 title: 'Weekday Get-a-Ways'
-date: '2019-10-02T10:33:00-07:00'
-updated: '2019-10-02T10:33:24-07:00'
+date: 2019-10-02T10:33:00-07:00
+updated: 2019-10-02T10:33:24-07:00
 thumbnail: 'IMG_0723.jpg'
 uploads: ['IMG_0723.jpg', 'IMG_0430.jpg', 'IMG_0523.jpg', 'IMG_0517.jpg']
 author: 'Itai Axelrad'

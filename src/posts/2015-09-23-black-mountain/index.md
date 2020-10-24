@@ -1,7 +1,7 @@
 ---
 title: 'Black Mountain'
-date: '2015-09-23T11:01:00-07:00'
-updated: '2015-09-23T13:52:24-07:00'
+date: 2015-09-23T11:01:00-07:00
+updated: 2015-09-23T13:52:24-07:00
 thumbnail: 'IMG_2785.jpg'
 uploads: ['IMG_2785.jpg', 'IMG_2777.jpg', 'IMG_2814.jpg', 'IMG_2820.jpg', 'IMG_2830.jpg', 'IMG_2861-2.jpg', 'IMG_2883-2.jpg', 'IMG_2863-2.jpg']
 author: 'Itai Axelrad'

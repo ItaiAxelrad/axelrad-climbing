@@ -1,7 +1,7 @@
 ---
 title: 'Black Mamba '
-date: '2017-10-08T16:17:00-07:00'
-updated: '2017-11-19T16:34:55-08:00'
+date: 2017-10-08T16:17:00-07:00
+updated: 2017-11-19T16:34:55-08:00
 thumbnail: 'IMG_5028.JPG'
 uploads: ['IMG_5028.JPG', 'IMG_5062.JPG', 'IMG_5226.jpg']
 author: 'Itai Axelrad'

@@ -1,7 +1,7 @@
 ---
 title: 'Rock Creek'
-date: '2018-08-11T08:21:00-07:00'
-updated: '2019-01-17T08:31:29-08:00'
+date: 2018-08-11T08:21:00-07:00
+updated: 2019-01-17T08:31:29-08:00
 thumbnail: 'IMG_0712-1%202.jpg'
 uploads: ['IMG_0712-1%202.jpg', 'IMG_0711.jpg', 'IMG_0708-1.jpg']
 author: 'Itai Axelrad'

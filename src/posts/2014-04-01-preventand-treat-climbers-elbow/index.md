@@ -1,7 +1,7 @@
 ---
 title: 'Prevent and Treat Climber’s Elbow'
-date: '2014-04-01T13:42:00-07:00'
-updated: '2020-05-14T13:53:54-07:00'
+date: 2014-04-01T13:42:00-07:00
+updated: 2020-05-14T13:53:54-07:00
 thumbnail: 'climbers_tennis_golf_elbow.jpg'
 uploads: ['climbers_tennis_golf_elbow.jpg', 'zh4YhL1ljkfR8lcRakPt_height640.jpg', 'ciMfDU3zYBaJiImhWI87_height640.jpg', 'jfWIPXl4Wbvh0K7ItnD5_height6401.jpg', '8yJqH2SM1kYu53p2m1wX_height6401.jpg']
 author: 'Itai Axelrad'

@@ -1,7 +1,7 @@
 ---
 title: 'The Creamery'
-date: '2015-12-20T19:01:00-08:00'
-updated: '2015-12-24T10:53:05-08:00'
+date: 2015-12-20T19:01:00-08:00
+updated: 2015-12-24T10:53:05-08:00
 thumbnail: 'IMG_2913.jpg'
 uploads: ['IMG_2913.jpg', 'IMG_2946.jpg', 'IMG_2931.jpg', 'IMG_2960.jpg']
 author: 'Eden Axelrad'

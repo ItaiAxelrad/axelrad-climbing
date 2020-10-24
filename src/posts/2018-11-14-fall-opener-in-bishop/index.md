@@ -1,7 +1,7 @@
 ---
 title: 'Fall Opener in Bishop!'
-date: '2018-11-14T18:20:00-08:00'
-updated: '2018-11-14T18:20:54-08:00'
+date: 2018-11-14T18:20:00-08:00
+updated: 2018-11-14T18:20:54-08:00
 thumbnail: 'IMG_6870.JPG'
 uploads: ['IMG_6870.JPG', 'IMG_6834.JPG', 'IMG_6835.JPG', 'IMG_6862.JPG', 'IMG_1953.jpg', 'IMG_1929.jpg', 'IMG_6939%202.jpg', 'IMG_6916%202.jpg']
 author: 'Eden Axelrad'

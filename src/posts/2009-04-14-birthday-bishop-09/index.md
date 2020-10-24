@@ -1,7 +1,7 @@
 ---
 title: "Birthday Bishop '09"
-date: '2009-04-14T14:21:00-07:00'
-updated: '2020-05-04T08:47:46-07:00'
+date: 2009-04-14T14:21:00-07:00
+updated: 2020-05-04T08:47:46-07:00
 thumbnail: 'mandala08.jpg'
 uploads: ['mandala08.jpg']
 author: 'Eden Axelrad'

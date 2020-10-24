@@ -1,7 +1,7 @@
 ---
 title: 'Red Rock Canyon'
-date: '2016-12-30T13:51:00-08:00'
-updated: '2016-12-30T13:52:47-08:00'
+date: 2016-12-30T13:51:00-08:00
+updated: 2016-12-30T13:52:47-08:00
 thumbnail: 'IMG_3889.jpg'
 uploads: ['IMG_3889.jpg', 'IMG_3897.jpg', 'IMG_3898.jpg', 'IMG_3893.jpg', 'IMG_3902.jpg', 'IMG_3912.jpg']
 author: 'Itai Axelrad'

@@ -1,7 +1,7 @@
 ---
 title: 'The Tree'
-date: '2017-02-25T19:18:00-08:00'
-updated: '2017-04-04T21:15:01-07:00'
+date: 2017-02-25T19:18:00-08:00
+updated: 2017-04-04T21:15:01-07:00
 thumbnail: 'IMG_1418.JPG'
 uploads: ['IMG_1418.JPG', 'IMG_1459.JPG', 'IMG_1464.JPG', 'IMG_1436.JPG', 'IMG_1437.JPG', 'IMG_1448.JPG', 'IMG_1448.JPG', 'IMG_1448.JPG', 'IMG_1451.JPG']
 author: 'Eden Axelrad'

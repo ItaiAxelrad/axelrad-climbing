@@ -1,7 +1,7 @@
 ---
 title: 'Purple Stones'
-date: '2014-07-28T13:30:00-07:00'
-updated: '2014-07-29T17:27:13-07:00'
+date: 2014-07-28T13:30:00-07:00
+updated: 2014-07-29T17:27:13-07:00
 thumbnail: 'GOPR0631.JPG'
 uploads: ['GOPR0631.JPG', 'GOPR0636.JPG', 'GOPR0640.JPG', 'GOPR0649.JPG', 'GOPR0661.JPG', 'GOPR0662.JPG', '55%20PM.jpg']
 author: 'Eden Axelrad'

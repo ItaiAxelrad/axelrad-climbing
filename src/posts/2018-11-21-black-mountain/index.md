@@ -1,7 +1,7 @@
 ---
 title: 'Black Mountain'
-date: '2018-11-21T12:41:00-08:00'
-updated: '2018-11-21T12:43:29-08:00'
+date: 2018-11-21T12:41:00-08:00
+updated: 2018-11-21T12:43:29-08:00
 thumbnail: 'IMG-6997.JPG'
 uploads: ['IMG-6997.JPG', 'Bishop_11_03_18_00038.jpg', 'Bishop_11_03_18_00035.jpg', 'Bishop_11_03_18_00060.jpg', 'Bishop_11_03_18_00063.jpg', 'Bishop_11_03_18_00068.jpg', 'IMG-6970.JPG', 'IMG-6987.JPG', 'Bishop_11_03_18_00330%202.jpg', 'IMG-6999.JPG']
 author: 'Eden Axelrad'

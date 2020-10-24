@@ -82,14 +82,14 @@ module.exports = function (eleventyConfig) {
 
   // parse datetime to readable
   eleventyConfig.addFilter('readableDate', (dateObj) => {
-    return DateTime.fromISO(dateObj, { zone: 'utc' }).toLocaleString(
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toLocaleString(
       DateTime.DATE_FULL
     );
   });
 
   // parse datetime to html
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromISO(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
   });
 
   // remove tags

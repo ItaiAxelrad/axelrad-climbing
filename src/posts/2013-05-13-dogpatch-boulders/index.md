@@ -1,7 +1,7 @@
 ---
 title: 'Dogpatch Boulders'
-date: '2013-05-13T10:43:00-07:00'
-updated: '2013-05-22T11:02:49-07:00'
+date: 2013-05-13T10:43:00-07:00
+updated: 2013-05-22T11:02:49-07:00
 thumbnail: 'aaaM.jpg'
 uploads: ['aaaM.jpg', 'asdddd.jpg', 'ssA.jpg', 'sdfds.jpg']
 author: 'Eden Axelrad'

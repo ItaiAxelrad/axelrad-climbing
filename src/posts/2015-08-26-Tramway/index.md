@@ -1,7 +1,7 @@
 ---
 title: 'Tramway'
-date: '2015-08-26T22:18:00-07:00'
-updated: '2015-08-26T22:19:27-07:00'
+date: 2015-08-26T22:18:00-07:00
+updated: 2015-08-26T22:19:27-07:00
 thumbnail: 'IMG_2622.jpg'
 uploads: ['IMG_2622.jpg', 'IMG_2658.jpg', 'IMG_2694.jpg', 'IMG_2756.jpg']
 author: 'Eden Axelrad'

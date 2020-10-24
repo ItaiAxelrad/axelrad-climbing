@@ -1,7 +1,7 @@
 ---
 title: 'Slo Op Comp!'
-date: '2013-03-05T11:32:00-08:00'
-updated: '2013-03-05T16:32:51-08:00'
+date: 2013-03-05T11:32:00-08:00
+updated: 2013-03-05T16:32:51-08:00
 thumbnail: 'IMG_6432.JPG'
 uploads: ['IMG_6432.JPG', 'IMG_6449.jpg', 'IMG_6483.JPG', 'IMG_6515.jpg']
 author: 'Itai Axelrad'

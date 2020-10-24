@@ -1,7 +1,7 @@
 ---
 title: 'RMNP 2018'
-date: '2018-09-24T09:41:00-07:00'
-updated: '2018-09-24T09:41:28-07:00'
+date: 2018-09-24T09:41:00-07:00
+updated: 2018-09-24T09:41:28-07:00
 thumbnail: 'IMG_6038.JPG'
 uploads: ['IMG_6038.JPG', 'IMG_6062.jpg', 'IMG_6071.jpg', 'IMG_6072.jpg', 'IMG_6072.jpg', 'IMG_6072.jpg', 'IMG_6182.JPG', 'IMG_6218%202.JPG', 'IMG_6239.JPG', 'IMG_6241.jpg', 'IMG_6247.jpg', 'IMG_6270.jpg', '50%20AM.jpg', 'IMG_6293.JPG', 'IMG_6296.JPG', 'IMG_6300.jpg', 'IMG_6310.jpg', 'IMG_6342.jpg', 'IMG_6342.jpg', 'IMG_6342.jpg', 'IMG_6209.jpg']
 author: 'Eden Axelrad'

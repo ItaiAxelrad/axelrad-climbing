@@ -1,7 +1,7 @@
 ---
 title: 'Weekends in YNP '
-date: '2019-10-16T11:36:00-07:00'
-updated: '2019-10-16T11:36:29-07:00'
+date: 2019-10-16T11:36:00-07:00
+updated: 2019-10-16T11:36:29-07:00
 thumbnail: 'IMG_9935.jpg'
 uploads: ['IMG_9935.jpg', 'IMG_6419.jpg', 'IMG_9914.JPG', 'IMG_6441.jpg', 'IMG_9983.jpg', 'IMG_6686.jpg', 'IMG_6718.jpg']
 author: 'Eden Axelrad'

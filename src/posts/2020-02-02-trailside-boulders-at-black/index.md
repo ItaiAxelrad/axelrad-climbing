@@ -1,7 +1,7 @@
 ---
 title: 'Trailside Boulders at Black'
-date: '2020-02-02T16:45:00-08:00'
-updated: '2020-05-06T09:23:44-07:00'
+date: 2020-02-02T16:45:00-08:00
+updated: 2020-05-06T09:23:44-07:00
 thumbnail: 'IMG_0682.jpg'
 uploads: ['IMG_0682.jpg', 'IMG_0662.jpg', 'IMG_0646.jpg', 'IMG_0629.jpg']
 author: 'Eden Axelrad'

@@ -1,7 +1,7 @@
 ---
 title: 'Joshua Tree'
-date: '2015-12-20T20:25:00-08:00'
-updated: '2015-12-20T20:25:00-08:00'
+date: 2015-12-20T20:25:00-08:00
+updated: 2015-12-20T20:25:00-08:00
 thumbnail: 'IMG_3020.jpg'
 uploads: ['IMG_3020.jpg', 'IMG_3023.jpg', 'IMG_3254.jpg', 'IMG_3260.jpg', 'IMG_3257.jpg', 'IMG_3277.jpg', 'IMG_3302.jpg']
 author: 'Itai Axelrad'

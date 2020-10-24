@@ -1,7 +1,7 @@
 ---
 title: 'First Bishop Trip of 2018'
-date: '2018-01-17T18:02:00-08:00'
-updated: '2018-01-17T18:02:40-08:00'
+date: 2018-01-17T18:02:00-08:00
+updated: 2018-01-17T18:02:40-08:00
 thumbnail: 'IMG_5440.JPG'
 uploads: ['IMG_5440.JPG', 'IMG_5405.JPG', '7650975184_IMG_3825.JPG', 'IMG_3851.JPG', 'IMG_3864.JPG', '7650975184_IMG_4073.JPG', 'IMG_5482.JPG', '7650975184_IMG_4106.JPG']
 author: 'Eden Axelrad'

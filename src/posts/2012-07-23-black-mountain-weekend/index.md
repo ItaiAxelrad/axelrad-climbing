@@ -1,7 +1,7 @@
 ---
 title: 'Black Mountain Weekend'
-date: '2012-07-23T12:34:00-07:00'
-updated: '2013-01-22T21:51:44-08:00'
+date: 2012-07-23T12:34:00-07:00
+updated: 2013-01-22T21:51:44-08:00
 thumbnail: 'IMG_4024.JPG'
 uploads: ['IMG_4024.JPG', 'IMG_4015.jpg', 'IMG_3981.JPG', 'IMG_4001.jpg', 'IMG_4028.JPG', 'IMG_4061.jpg', 'IMG_4068.JPG', 'IMG_4069.JPG', 'IMG_4070.JPG', 'IMG_4071.JPG', 'IMG_4072.JPG']
 author: 'Eden Axelrad'

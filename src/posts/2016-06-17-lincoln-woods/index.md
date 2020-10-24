@@ -1,7 +1,7 @@
 ---
 title: 'Lincoln Woods'
-date: '2016-06-17T13:40:00-07:00'
-updated: '2016-12-30T13:41:02-08:00'
+date: 2016-06-17T13:40:00-07:00
+updated: 2016-12-30T13:41:02-08:00
 thumbnail: 'IMG_3330.jpg'
 uploads: ['IMG_3330.jpg', 'ike.jpg']
 author: 'Itai Axelrad'

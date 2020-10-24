@@ -1,7 +1,7 @@
 ---
 title: 'Bishop'
-date: '2016-02-17T18:46:00-08:00'
-updated: '2016-02-17T19:01:22-08:00'
+date: 2016-02-17T18:46:00-08:00
+updated: 2016-02-17T19:01:22-08:00
 thumbnail: 'IMG_3581.jpg'
 uploads: ['IMG_3581.jpg', 'IMG_3607.jpg', 'IMG_3616.jpg']
 author: 'Itai Axelrad'

@@ -1,7 +1,7 @@
 ---
 title: 'Sender One Grand Opening'
-date: '2013-06-17T10:22:00-07:00'
-updated: '2013-06-17T10:40:12-07:00'
+date: 2013-06-17T10:22:00-07:00
+updated: 2013-06-17T10:40:12-07:00
 thumbnail: 'IMG_6645.jpg'
 uploads: ['IMG_6645.jpg', 'IMG_6568.jpg', 'IMG_6932.jpg', 'IMG_6875.jpg', 'IMG_6803.jpg', 'IMG_6700.jpg', 'IMG_6909.jpg', 'IMG_6935.jpg']
 author: 'Itai Axelrad'

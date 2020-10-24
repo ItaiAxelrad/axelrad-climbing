@@ -1,7 +1,7 @@
 ---
 title: 'Bishop: Round II'
-date: '2014-11-25T21:22:00-08:00'
-updated: '2014-11-25T21:23:20-08:00'
+date: 2014-11-25T21:22:00-08:00
+updated: 2014-11-25T21:23:20-08:00
 thumbnail: 'IMG_4832.JPG'
 uploads: ['IMG_4832.JPG', 'IMG_4816.JPG', 'IMG_4856.jpg', 'IMG_4820.JPG', 'IMG_4854.JPG', 'giphy.gif', 'IMG_4843.JPG']
 author: 'Eden Axelrad'

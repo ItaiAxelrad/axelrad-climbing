@@ -1,7 +1,7 @@
 ---
 title: 'Mountain Standard Photo Shoot'
-date: '2019-01-17T14:41:00-08:00'
-updated: '2020-05-18T12:51:23-07:00'
+date: 2019-01-17T14:41:00-08:00
+updated: 2020-05-18T12:51:23-07:00
 thumbnail: 'MSScreenShot.jpg'
 uploads: ['MSScreenShot.jpg']
 author: 'Itai Axelrad'

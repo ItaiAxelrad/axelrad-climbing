@@ -1,7 +1,7 @@
 ---
 title: 'Birthday at Black!'
-date: '2018-04-16T15:10:00-07:00'
-updated: '2020-07-19T16:25:19-07:00'
+date: 2018-04-16T15:10:00-07:00
+updated: 2020-07-19T16:25:19-07:00
 thumbnail: 'IMG_3882%202.jpg'
 uploads: ['IMG_3882%202.jpg', 'IMG_3892%202.jpg', 'IMG_3902.jpg', 'IMG_3908.jpg', '23%20PM.jpg', 'IMG_4597.JPG']
 author: 'Eden Axelrad'

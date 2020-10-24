@@ -1,7 +1,7 @@
 ---
 title: 'Joshua Tree'
-date: '2017-04-09T14:05:00-07:00'
-updated: '2017-04-09T14:05:02-07:00'
+date: 2017-04-09T14:05:00-07:00
+updated: 2017-04-09T14:05:02-07:00
 thumbnail: 'IMG_1792.JPG'
 uploads: ['IMG_1792.JPG', 'IMG_1800.JPG', 'IMG_1829.JPG', 'IMG_1822.JPG', 'IMG_1834.JPG', 'IMG_1825.JPG', 'IMG_1826.JPG', 'IMG_1828.JPG']
 author: 'Eden Axelrad'

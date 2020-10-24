@@ -1,7 +1,7 @@
 ---
 title: "Lizard's Mouth"
-date: '2013-01-21T09:39:00-08:00'
-updated: '2013-01-22T21:48:37-08:00'
+date: 2013-01-21T09:39:00-08:00
+updated: 2013-01-22T21:48:37-08:00
 thumbnail: 'IMG_5888.jpg'
 uploads: ['IMG_5888.jpg', 'IMG_5906.JPG', 'IMG_5928.JPG', 'IMG_5956.JPG']
 author: 'Itai Axelrad'

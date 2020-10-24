@@ -1,7 +1,7 @@
 ---
 title: 'Las Vegas'
-date: '2015-03-25T17:15:00-07:00'
-updated: '2015-03-25T17:23:44-07:00'
+date: 2015-03-25T17:15:00-07:00
+updated: 2015-03-25T17:23:44-07:00
 thumbnail: 'IMG_1943.jpg'
 uploads: ['IMG_1943.jpg', 'IMG_1973.jpg', 'IMG_1987.jpg', 'IMG_2006.jpg']
 author: 'Itai Axelrad'

@@ -1,7 +1,7 @@
 ---
 title: 'CCS Comp!'
-date: '2012-03-03T19:05:00-08:00'
-updated: '2020-04-30T12:53:31-07:00'
+date: 2012-03-03T19:05:00-08:00
+updated: 2020-04-30T12:53:31-07:00
 thumbnail: '1.jpg'
 uploads: ['1.jpg', '2.JPG']
 author: 'Itai Axelrad'

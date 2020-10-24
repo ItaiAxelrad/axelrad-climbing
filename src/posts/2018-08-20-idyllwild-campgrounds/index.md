@@ -1,7 +1,7 @@
 ---
 title: 'Idyllwild Campgrounds'
-date: '2018-08-20T19:17:00-07:00'
-updated: '2018-08-20T19:17:20-07:00'
+date: 2018-08-20T19:17:00-07:00
+updated: 2018-08-20T19:17:20-07:00
 thumbnail: 'IMG_5408.jpg'
 uploads: ['IMG_5408.jpg', 'IMG_5415.jpg', 'IMG_5418.JPG', 'IMG_5419.JPG', 'IMG_5423.JPG']
 author: 'Eden Axelrad'

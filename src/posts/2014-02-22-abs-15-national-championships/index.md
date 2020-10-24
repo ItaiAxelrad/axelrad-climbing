@@ -1,7 +1,7 @@
 ---
 title: 'ABS 15 National Championships'
-date: '2014-02-22T17:41:00-08:00'
-updated: '2014-02-22T17:42:09-08:00'
+date: 2014-02-22T17:41:00-08:00
+updated: 2014-02-22T17:42:09-08:00
 thumbnail: 'abs15.jpg'
 uploads: [abs15.jpg]
 author: 'Itai Axelrad'

@@ -1,7 +1,7 @@
 ---
 title: "Moe's Valley"
-date: '2017-03-26T21:01:00-07:00'
-updated: '2017-04-04T21:14:23-07:00'
+date: 2017-03-26T21:01:00-07:00
+updated: 2017-04-04T21:14:23-07:00
 thumbnail: 'FullSizeRender.jpg'
 uploads: ['FullSizeRender.jpg', 'IMG_1595.JPG', 'show%20of%20hands.jpg', 'IMG_1627.JPG', 'IMG_1633.JPG', 'IMG_1646.JPG', 'IMG_1652.JPG', 'IMG_1655.JPG', 'IMG_1659.JPG']
 author: 'Eden Axelrad'

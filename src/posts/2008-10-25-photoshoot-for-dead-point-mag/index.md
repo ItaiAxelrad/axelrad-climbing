@@ -1,7 +1,7 @@
 ---
 title: 'Photoshoot for DeadPoint Mag'
-date: '2008-10-25T10:15:00-07:00'
-updated: '2020-05-26T10:19:23-07:00'
+date: 2008-10-25T10:15:00-07:00
+updated: 2020-05-26T10:19:23-07:00
 thumbnail: '1.jpg'
 uploads: ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg', '7.jpg', '8.jpg', '9.jpg', '10.jpg', '11.jpg', '12.jpg', '13.jpg', '14.jpg', '15.jpg']
 author: 'Itai Axelrad'

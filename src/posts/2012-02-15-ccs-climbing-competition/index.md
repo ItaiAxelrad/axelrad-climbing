@@ -1,7 +1,7 @@
 ---
 title: 'CCS Climbing Competition'
-date: '2012-02-15T18:13:00-08:00'
-updated: '2020-05-14T14:17:40-07:00'
+date: 2012-02-15T18:13:00-08:00
+updated: 2020-05-14T14:17:40-07:00
 thumbnail: 'CCScomp.JPG'
 uploads: ['CCScomp.JPG']
 author: 'Itai Axelrad'

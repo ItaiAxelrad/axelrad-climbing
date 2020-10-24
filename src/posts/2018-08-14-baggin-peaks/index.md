@@ -1,7 +1,7 @@
 ---
 title: "Baggin' Peaks"
-date: '2018-08-14T07:39:00-07:00'
-updated: '2019-01-17T08:32:56-08:00'
+date: 2018-08-14T07:39:00-07:00
+updated: 2019-01-17T08:32:56-08:00
 thumbnail: 'IMG_6373.jpg'
 uploads: ['IMG_6373.jpg', 'IMG_6084.jpg', 'IMG_6200.jpg', 'IMG_6216.jpg', 'IMG_6222.jpg', 'IMG_6392.jpg', 'IMG_6397.jpg', 'IMG_6397.jpg', 'IMG_6395.jpg', 'IMG_6406.jpg', 'IMG_6408.jpg']
 author: 'Itai Axelrad'

@@ -1,7 +1,7 @@
 ---
 title: 'The Overlife'
-date: '2013-12-06T12:04:00-08:00'
-updated: '2013-12-09T19:23:33-08:00'
+date: 2013-12-06T12:04:00-08:00
+updated: 2013-12-09T19:23:33-08:00
 thumbnail: 'IMG_5425.JPG'
 uploads: ['IMG_5425.JPG']
 author: 'Eden Axelrad'

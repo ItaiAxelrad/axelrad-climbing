@@ -1,7 +1,7 @@
 ---
 title: 'The Underground'
-date: '2016-02-12T19:01:00-08:00'
-updated: '2016-02-12T19:01:08-08:00'
+date: 2016-02-12T19:01:00-08:00
+updated: 2016-02-12T19:01:08-08:00
 thumbnail: 'IMG_7898.JPG'
 uploads:
   [

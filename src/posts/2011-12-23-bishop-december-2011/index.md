@@ -1,7 +1,7 @@
 ---
 title: 'Bishop, December 2011'
-date: '2011-12-23T15:00:00-08:00'
-updated: '2013-10-14T13:28:10-07:00'
+date: 2011-12-23T15:00:00-08:00
+updated: 2013-10-14T13:28:10-07:00
 thumbnail: 'IMG_2596.JPG'
 uploads: ['IMG_2596.JPG']
 author: 'Eden Axelrad'

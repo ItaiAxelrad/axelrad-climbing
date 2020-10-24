@@ -1,7 +1,7 @@
 ---
 title: 'Malibu Creek'
-date: '2012-07-26T19:16:00-07:00'
-updated: '2020-05-28T08:49:44-07:00'
+date: 2012-07-26T19:16:00-07:00
+updated: 2020-05-28T08:49:44-07:00
 thumbnail: 'IMG_4138.JPG'
 uploads: ['IMG_4138.JPG', 'IMG_4095.jpg', 'IMG_4164.jpg', 'IMG_4156.jpg', 'IMG_4084.JPG']
 author: 'Itai Axelrad'

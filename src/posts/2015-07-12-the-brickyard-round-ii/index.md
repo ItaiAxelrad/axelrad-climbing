@@ -1,7 +1,7 @@
 ---
 title: 'The Brickyard - Round II'
-date: '2015-07-12T22:51:00-07:00'
-updated: '2015-07-12T22:52:25-07:00'
+date: 2015-07-12T22:51:00-07:00
+updated: 2015-07-12T22:52:25-07:00
 thumbnail: 'IMG_2494.jpg'
 uploads: ['IMG_2494.jpg', 'IMG_2528.jpg', 'IMG_2545.jpg', 'IMG_2558.jpg', 'IMG_2576.jpg']
 author: 'Itai Axelrad'

@@ -1,7 +1,7 @@
 ---
 title: 'The Send: Bouldering Competition '
-date: '2014-03-09T14:31:00-07:00'
-updated: '2014-03-09T14:38:01-07:00'
+date: 2014-03-09T14:31:00-07:00
+updated: 2014-03-09T14:38:01-07:00
 thumbnail: 'thesend.jpg'
 uploads: ['thesend.jpg']
 author: 'Itai Axelrad'

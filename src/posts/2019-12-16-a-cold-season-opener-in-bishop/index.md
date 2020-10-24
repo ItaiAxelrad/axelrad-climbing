@@ -1,7 +1,7 @@
 ---
 title: 'A Cold Season Opener in Bishop'
-date: '2019-12-16T14:28:00-08:00'
-updated: '2020-05-06T09:29:53-07:00'
+date: 2019-12-16T14:28:00-08:00
+updated: 2020-05-06T09:29:53-07:00
 thumbnail: 'IMG_4169.jpg'
 uploads: ['IMG_4169.jpg', 'IMG_2345.jpg', 'IMG_0409.jpg', 'IMG_0448.jpg', 'IMG_0412.jpg']
 author: 'Eden Axelrad'
