@@ -509,6 +509,20 @@
   },
   {
     "type": "boulder",
+    "route": "Aqua Frog",
+    "crag": "Boulder Canyon",
+    "sector": "Castle Rock",
+    "grade": "8A",
+    "date": "2020-10-01",
+    "comment": "cool one move wonder",
+    "quality": "",
+    "style": "redpoint",
+    "country": "united states",
+    "region": "",
+    "tag": "FA"
+  },
+  {
+    "type": "boulder",
     "route": "Formula 50",
     "crag": "Clear Creek Canyon",
     "sector": "Dark Waters",

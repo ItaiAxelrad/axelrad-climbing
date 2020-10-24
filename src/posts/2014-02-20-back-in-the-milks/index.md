@@ -14,11 +14,13 @@ tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilker', 'buttermilks', 'Califo
 
 This past weekend, Chris, Avi and I headed down south for a much needed Bishop adventure. We met up with Marina, Jake, Mike and few others. We arrived early enough on Friday to squeeze out a half day of climbing, during which we all realized that our soft and precious skin wasn't going to survive the weekend. Nonetheless, we managed to have a very memorable trip with some notable sends!
 
-![[Marina](http://instagram.com/marinasumie) warming up on quintessential Bishop patina](uploads/photo_5.jpg)
+![[@Marina](http://instagram.com/marinasumie) warming up on quintessential Bishop patina](uploads/photo_5.jpg)
 
-![[Jake](uploads/yukanjahnsen) working on Bowling Pin Sit (V6)](uploads/bpin.jpg)
+![[@Jake](http://instagram.com/yukanjahnsen) working on Bowling Pin Sit (V6)](uploads/bpin.jpg)
 
-![Young Mike throwing hard on Zen Flute (V10) and then celebrating the send](uploads/zflute.jpg)Saturday's session was cut short by afternoon winds (up to 50mph). We rushed back to our campsite and found our tents scattered some 30 feet away. The winds were persisting, so we quickly dismantled the tents and decided to share a motel room for the night.
+![Young Mike throwing hard on Zen Flute (V10) and then celebrating the send](uploads/zflute.jpg)
+
+Saturday's session was cut short by afternoon winds (up to 50mph). We rushed back to our campsite and found our tents scattered some 30 feet away. The winds were persisting, so we quickly dismantled the tents and decided to share a motel room for the night.
 
 On Sunday I worked one of my long standing projects, Direction (V13). Unfortunately, I couldn't send it because (circle all that apply):
 
@@ -30,7 +32,7 @@ But here's a photo of me on it anyway
 
 Even though Monday was only a half day, it was arguably the most eventful day of our trip. Marina crushed Smooth Shrimp (V6), Avi snagged the classic Fly Boy Arete (V5), Chris sent Buttermilker stand (V12), and I salvaged the trip with a first-go send of Cocktail Sauce (V10). On our way out we even got to see an inspirational send of Footprints (V9) - good job Ethan (and Wes?)!
 
-![Me on Cocktail Sauce (V10)](uploads/photo_4.jpg)
+![Me on Cocktail Sauce (V9)](uploads/photo_4.jpg)
 
 ![Chris on Buttermilker stand (V12)](uploads/milk.jpg)
 

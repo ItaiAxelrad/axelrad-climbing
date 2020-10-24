@@ -1,17 +1,15 @@
 :root {
-  /* Sans-Serif system font stack*/
-  --ff-sans: BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, sans-serif;
-  /* Serif */
-  --ff-serif: Georgia, Droid Serif, Times New Roman, serif;
-  /* Mono */
+  /* system font stack */
+  --ff-sans: system-ui, sans-serif;
+  --ff-serif: Georgia, Times, serif;
   --ff-mono: Menlo, Consolas, monospace;
   /* color scheme */
   --theme: hsl(45, 90%, 52%);
-  --light: hsl(225, 10%, 99%);
-  --light-gray: hsl(225, 10%, 97%);
-  --gray: hsl(225, 10%, 94%);
-  --dark-gray: hsl(45, 10%, 27%);
-  --dark: hsl(45, 10%, 18%);
+  --light: hsl(225, 15%, 99%);
+  --light-gray: hsl(225, 15%, 97%);
+  --gray: hsl(225, 15%, 94%);
+  --dark-gray: hsl(45, 15%, 27%);
+  --dark: hsl(45, 15%, 18%);
   --opaque: hsla(0, 0%, 50%, 0.5);
   --opaquer: hsla(0, 0%, 70%, 0.1);
   /* UI parts */
@@ -25,11 +23,11 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --theme: hsl(45, 90%, 52%);
-    --light: hsl(225, 10%, 22%);
-    --light-gray: hsl(225, 10%, 17%);
-    --gray: hsl(225, 10%, 13%);
-    --dark-gray: hsl(45, 10%, 73%);
-    --dark: hsl(45, 10%, 80%);
+    --light: hsl(225, 15%, 22%);
+    --light-gray: hsl(225, 15%, 17%);
+    --gray: hsl(225, 15%, 13%);
+    --dark-gray: hsl(45, 15%, 73%);
+    --dark: hsl(45, 15%, 80%);
     --opaque: hsla(0, 0%, 50%, 0.5);
     --opaquer: hsla(0, 0%, 10%, 0.5);
     --shadow: 0px 2px 16px var(--opaquer);
@@ -41,11 +39,11 @@
 /* dark light mode */
 .scheme-dark {
   --theme: hsl(45, 90%, 52%);
-  --light: hsl(225, 10%, 22%);
-  --light-gray: hsl(225, 10%, 17%);
-  --gray: hsl(225, 10%, 13%);
-  --dark-gray: hsl(45, 10%, 73%);
-  --dark: hsl(45, 10%, 80%);
+  --light: hsl(225, 15%, 22%);
+  --light-gray: hsl(225, 15%, 17%);
+  --gray: hsl(225, 15%, 13%);
+  --dark-gray: hsl(45, 15%, 73%);
+  --dark: hsl(45, 15%, 80%);
   --opaque: hsla(0, 0%, 50%, 0.5);
   --opaquer: hsla(0, 0%, 10%, 0.5);
   --shadow: 0px 2px 16px var(--opaquer);
@@ -55,11 +53,11 @@
 
 .scheme-light {
   --theme: hsl(45, 90%, 52%);
-  --light: hsl(225, 10%, 99%);
-  --light-gray: hsl(225, 10%, 97%);
-  --gray: hsl(225, 10%, 94%);
-  --dark-gray: hsl(45, 10%, 27%);
-  --dark: hsl(45, 10%, 18%);
+  --light: hsl(225, 15%, 99%);
+  --light-gray: hsl(225, 15%, 97%);
+  --gray: hsl(225, 15%, 94%);
+  --dark-gray: hsl(45, 15%, 27%);
+  --dark: hsl(45, 15%, 18%);
   --opaque: hsla(0, 0%, 50%, 0.5);
   --opaquer: hsla(0, 0%, 70%, 0.1);
   --shadow: 0px 2px 16px var(--opaquer);
@@ -160,7 +158,6 @@ nav .btn {
 /* type style  */
 h1,
 h2 {
-  font-family: var(--ff-serif);
   font-weight: bold;
   letter-spacing: 0.25px;
   text-decoration: none;
@@ -350,7 +347,7 @@ input {
 
 .post:hover {
   background: var(--light);
-  transform: translateY(-0.75px);
+  transform: translateY(-0.5px);
   box-shadow: var(--shadow);
 }
 

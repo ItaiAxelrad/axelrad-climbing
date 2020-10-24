@@ -1,6 +1,5 @@
 // Plugins
 const pluginRss = require('@11ty/eleventy-plugin-rss');
-const xmlFiltersPlugin = require('eleventy-xml-plugin');
 // Parsers
 const markdownIt = require('markdown-it');
 const lazy_loading = require('markdown-it-image-lazy-loading');
@@ -14,13 +13,14 @@ const { minify } = require('terser');
 
 // eleventy configuration
 module.exports = function (eleventyConfig) {
+
+  // Opt in to a full deep merge when combining the Data Cascade
   eleventyConfig.setDataDeepMerge(true);
 
   // add plugins
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(xmlFiltersPlugin);
 
-  /* Markdown Overrides */
+  /* Markdown */
   let markdownLibrary = markdownIt({
     html: true,
     breaks: false,
@@ -29,23 +29,20 @@ module.exports = function (eleventyConfig) {
   })
     .use(lazy_loading)
     .use(implicitFigures, {
-      dataType: false, // <figure data-type="image">, default: false
-      figcaption: true, // <figcaption>alternative text</figcaption>, default: false
-      tabindex: false, // <figure tabindex="1+n">..., default: false
-      link: false, // <a href="img.png"><img src="img.png"></a>, default: false
+      figcaption: true
     });
   eleventyConfig.setLibrary('md', markdownLibrary);
 
   // add passthrough files
-  eleventyConfig.addPassthroughCopy('src/images');
-  eleventyConfig.addPassthroughCopy('src/posts/*/uploads/*');
   eleventyConfig.addPassthroughCopy('src/config.yml');
   eleventyConfig.addPassthroughCopy('src/sw.js');
   eleventyConfig.addPassthroughCopy('src/manifest.json');
+  eleventyConfig.addPassthroughCopy('src/images');
   eleventyConfig.addPassthroughCopy('src/data/boulders.json');
   eleventyConfig.addPassthroughCopy('src/data/sport.json');
   eleventyConfig.addPassthroughCopy('src/includes/styles/*');
   eleventyConfig.addPassthroughCopy('src/includes/scripts/*');
+  eleventyConfig.addPassthroughCopy('src/posts/*/uploads/*');
 
   // postCSS filter
   eleventyConfig.addNunjucksAsyncFilter("postCSS", async function (
@@ -145,7 +142,7 @@ module.exports = function (eleventyConfig) {
       // layouts: 'includes/layouts',
       data: 'data',
     },
-    templateFormats: ['njk', 'md', '11ty.js'],
+    templateFormats: ['njk', 'md'],
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
   };

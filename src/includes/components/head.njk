@@ -1,0 +1,54 @@
+<head>
+  <title>{{ metadata.name }}</title>
+  <meta charset="UTF-8"/>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, viewport-fit=cover"
+/>
+  <meta name="description" content="{{ metadata.description }}">
+  <meta
+    name="keywords"
+    content="Itai, Eden, Axelrad, Climbing, Bouldering, California, Colorado, blog, post, twins"
+/>
+  <meta name="theme-color" content="#ffffff"/>
+  <meta name="color-scheme" content="dark light">
+  <!-- iOS PWA -->
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+  <meta name="apple-mobile-web-app-title" content="blog"/>
+  <!-- Fonts -->
+  {# <link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Vollkorn:wght@700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet"> #}
+
+  <!-- link preview -->
+  {%- include 'components/linkPreview.njk' -%}
+
+  <!-- favicons -->
+  <link href="/images/icon.png" rel="apple-touch-startup-image"/>
+  <link href="/images/icon.png" rel="apple-touch-icon"/>
+  <link href="/images/icon.png" rel="icon" type="image/png"/>
+  <link
+    href="/manifest.json"
+    rel="manifest"
+    type="application/json"
+    crossorigin="use-credentials"
+/>
+
+  <!-- capture the CSS content as a Nunjucks variable -->
+  {% set css %}
+    {# {% include "../styles/normalize.css" %} #}
+    {% include "../styles/main.css" %}
+    {% include "../styles/mobile.css" %}
+  {% endset %}
+  <!-- feed it through our cssmin filter to minify -->
+  <style>
+    {{ css | postCSS | safe }}
+  </style>
+
+  {% if stylesheet %}
+  <link href="/includes/styles/{{ stylesheet }}.css" rel="stylesheet">
+  {% endif %}
+
+</head>
