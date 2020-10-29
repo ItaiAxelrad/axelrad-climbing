@@ -41,6 +41,10 @@ collections:
           name: 'update',
           widget: 'datetime',
           default: Last Modified,
+          format: "YYYY-MM-DD",
+          date_format: "LL", # e.g. 24.12.2021
+          time_format: false,
+          required: false
         }
       # - { label: 'Draft', name: 'draft', widget: 'boolean', default: True }
       - { label: 'Author', name: 'author', widget: 'select', options: ["Itai Axelrad", "Eden Axelrad"]}

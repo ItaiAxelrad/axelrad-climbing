@@ -361,9 +361,10 @@ input {
 }
 
 .post-title {
+  margin: 0;
   font-size: 125%;
-  white-space: nowrap;
   text-overflow: ellipsis;
+  white-space: nowrap;
   overflow: hidden;
 }
 

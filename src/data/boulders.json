@@ -1006,6 +1006,33 @@
   },
   {
     "type": "boulder",
+    "route": "Hail to the Thief",
+    "crag": "South Platte",
+    "sector": "Sheep Nose",
+    "grade": "7C+",
+    "date": "2020-10-24",
+    "comment": "Day flash, a bit heady. Thanks IP for putting in the work",
+    "quality": "",
+    "style": "redpoint",
+    "country": "united states",
+    "region": "",
+    "tag": "FA"
+  },
+  {
+    "type": "boulder",
+    "route": "Zökkstinga",
+    "crag": "South Platte",
+    "sector": "Sheep Nose",
+    "grade": "7C+",
+    "date": "2020-10-24",
+    "comment": "A bit dabby but fun. Guess there is easier beta now",
+    "quality": "",
+    "style": "redpoint",
+    "country": "united states",
+    "region": ""
+  },
+  {
+    "type": "boulder",
     "route": "Earth Matters",
     "crag": "Guanella Pass",
     "sector": "Love Matters",
