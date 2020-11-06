@@ -6,7 +6,7 @@ thumbnail: 'IMG_1482.JPG'
 uploads: ['IMG_1482.JPG', 'IMG_1485.JPG', 'IMG_1503.JPG', 'IMG_1489.JPG', 'IMG_1495%202.jpg']
 author: 'Eden Axelrad'
 id: 2011231304286134236
-location: 'Bishop, CA 93514, USA'
+location: 'Bishop, CA'
 tags: ['Axelrad', 'bishop', 'Bouldering', 'Climbing', 'Five', 'Five Ten', 'granite', 'Happy Boulders', 'he got game']
 ---
 

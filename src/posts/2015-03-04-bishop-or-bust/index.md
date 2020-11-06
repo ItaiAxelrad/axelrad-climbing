@@ -12,11 +12,11 @@ tags: ['Axelrad', 'bishop', 'blog', 'Bouldering', 'boulders', 'buttermilks', 'Ca
 
 Ok. Let’s go.
 
-I took Cody up on the offer I had earlier refused, and by the morning we were in the Volvo yelling along to 80’s power ballads on the familiar Hwy 395. Although my finger was sore and the foreboding weather forecast had me feeling skeptical about the amount of climbing I’d get in, Alex and Jason were Bishop bound and I found it hard to miss out on a reunion.
+I took Cody up on the offer I had earlier refused, and by the morning we were in the Volvo station wagon yelling along to 80’s power ballads on the familiar highway 395. Although my finger was sore and the foreboding weather forecast had me feeling skeptical about the amount of climbing I’d get in, Alex and Jason were Bishop bound and I found it hard to miss out on a reunion.
 
 ![The crew taking a lunch break with a marvelous backdrop.](uploads/IMG_1542.jpg)
 
-As Cody and I pulled up to the Buttermilks main area the wind began to pick up and the temperature began to drop. The blue skies were disappearing. We ran laps on some slab before heading over to Fly Boy, where both Cody and Shawn made first go sends of the classic.
+As Cody and I pulled up to the Buttermilks main area the wind began to pick up and the temperature dropped. The blue skies were disappearing. We ran laps on some slab before heading over to Fly Boy, where both Cody and Shawn made first go sends of the classic.
 
 ![Cody, gaining the upper crimps.](uploads/IMG_1488.jpg)
 

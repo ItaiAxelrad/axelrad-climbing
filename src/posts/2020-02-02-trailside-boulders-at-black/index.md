@@ -6,7 +6,7 @@ thumbnail: 'IMG_0682.jpg'
 uploads: ['IMG_0682.jpg', 'IMG_0662.jpg', 'IMG_0646.jpg', 'IMG_0629.jpg']
 author: 'Eden Axelrad'
 id: 6406787251735472349
-location: 'Idyllwild-Pine Cove, CA, USA'
+location: 'Idyllwild, CA'
 tags: ['Axelrad', 'Black Mountain', 'Bouldering', 'Climbing', 'twilight of the idols']
 ---
 Last Saturday Mikey and I made the trek up to The Trailside Boulders at Black Mountain. It was a fun day exploring and climbing with other groups. We both managed to leave with a send of the ultra classic Twilight of the Idols (V10). I also sent a few other climbs in the area including Shoot the Moon (V10), Lightning (V8/9) and great slab called Diamond Zen Face (V0). Now we can both rest easy at night, knowing we won't have to make that hike again :)

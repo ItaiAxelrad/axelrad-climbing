@@ -286,6 +286,7 @@ img {
   display: inline-block;
   vertical-align: top;
   height: 1.5rem;
+  margin-inline-end: 0.15rem;
 }
 
 .btn {

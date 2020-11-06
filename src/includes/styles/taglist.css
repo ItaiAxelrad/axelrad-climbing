@@ -1,20 +1,29 @@
 .list-item {
-  list-style: none;
-  padding: 1rem 0.5rem;
-  border-block-start: var(--border);
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: start;
+  align-items: center;
+  gap: 0 1.5rem;
 }
 
 .list-header {
   margin-block-start: 1.5rem;
+  font-size: 130%;
+}
+
+time.dt-published {
+  font-family: var(--ff-mono);
 }
 
 li .p-name {
   display: block;
   padding-inline-end: 0.25rem;
+  text-decoration: none;
 }
 
 li .p-name:hover {
-  color: var(--theme);
+  text-decoration: underline;
+  text-decoration-color: var(--theme);
 }
 
 .tag {
@@ -32,6 +41,10 @@ li .p-name:hover {
 .tag:hover {
   color: var(--dark);
   background: var(--light);
+}
+
+.taglist {
+  grid-column: 2;
 }
 
 .archive-container {

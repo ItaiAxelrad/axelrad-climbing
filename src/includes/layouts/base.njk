@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
   {%- include 'components/head.njk' -%}
   <body>
 
@@ -10,13 +11,13 @@
     <footer>
       <small>&copy; {{ metadata.name }}</small>
     </footer>
-    
+
     <!-- capture the JS content as a Nunjucks variable -->
     {% set js %}
       {% include "../scripts/main.js" %}
     {% endset %}
     <!-- feed it through our jsmin filter to minify -->
-    <script defer async>
+    <script>
       {{ js | jsmin | safe }}
     </script>
 

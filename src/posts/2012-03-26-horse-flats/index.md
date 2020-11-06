@@ -6,7 +6,7 @@ thumbnail: 'IMG_3146.JPG'
 uploads: ['IMG_3146.JPG']
 author: 'Itai Axelrad'
 id: 4601554457754864068
-location: 'Horse Flats, California 93553, USA'
+location: 'Horse Flats, CA'
 tags: ['California', 'flash', 'flats', 'horse', 'v10']
 ---
 

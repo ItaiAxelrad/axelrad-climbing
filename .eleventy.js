@@ -92,6 +92,11 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
   });
 
+  // parse datetime to month (short) and day
+  eleventyConfig.addFilter('monthDay', (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('LLL dd');
+  });
+
   // remove tags
   eleventyConfig.addFilter('excludeTags', (tags) => {
     const toRemove = [
