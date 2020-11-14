@@ -22,8 +22,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Vollkorn:wght@700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet"> #}
 
-  <!-- link preview -->
+  <!-- Social: link preview and RSS/Atom -->
   {%- include 'components/linkPreview.njk' -%}
+  <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.name}}">
 
   <!-- favicons -->
   <link href="/images/icon.png" rel="apple-touch-startup-image"/>

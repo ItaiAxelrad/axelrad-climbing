@@ -1,16 +1,15 @@
 ---
-eleventyComputed:
-  title: Posts Tagged '{{ tag }}'
-stylesheet: taglist
-permalink: /tags/{{ tag | replace("'", "") | slug | url }}/
 pagination:
   data: collections
   size: 1
   alias: tag
   filter: [ 'all', 'post', 'posts', 'pages', 'blog', 'tagList', 'Eden', 'Itai', 'Axelrad', 'Climbing', 'Bouldering', 'Five', 'ten', 'Five Ten', 'fiveten' ]
   addAllPagesToCollections: true
+stylesheet: taglist
+eleventyComputed:
+  title: Posts Tagged '{{ tag }}'
+permalink: /tags/{{ tag | replace("'", "") | slug | url }}/
 ---
-
 <main>
 
 <h1>{{ title }}</h1>
@@ -35,13 +34,13 @@ pagination:
       <h2>Year</h2>
       {% set currentYear = "" %}
       <ol>
-              {% for post in taglist | reverse %}
-              {% set postYear = post.date.getFullYear() %}
-              {% if currentYear != postYear %}
-                {% set currentYear = postYear %}
-                <li><a href="#{{ postYear }}" class="list-header-link">{{ postYear }}</a></li>
-              {% endif %}
-          {% endfor %}
+        {% for post in taglist | reverse %}
+        {% set postYear = post.date.getFullYear() %}
+          {% if currentYear != postYear %}
+            {% set currentYear = postYear %}
+            <li><a href="#{{ postYear }}" class="list-header-link">{{ postYear }}</a></li>
+          {% endif %}
+        {% endfor %}
       </ol>
     </div>
   </aside>

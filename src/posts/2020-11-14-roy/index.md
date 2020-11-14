@@ -9,7 +9,7 @@ tags:
   - Roy
   - New Mexico
   - XYZ
-  - V13
+  - v13
   - 8B
   - sandstone
 ---
