@@ -26,7 +26,7 @@ Thankfully on Thursday temperatures dropped significantly. I was finally able to
 
 ![Itai working European Human Being (V12)](uploads/IMG_6182.JPG)
 
-![Me sending Nuthin' But Sunshine (V13)!](uploads/IMG_6218%202.JPG)
+![Me sending Nuthin' But Sunshine (V13)!](uploads/IMG_6218-2.JPG)
 
 ![Itai on Top Notch (V13)](uploads/IMG_6239.JPG)
 
@@ -34,7 +34,7 @@ Thankfully on Thursday temperatures dropped significantly. I was finally able to
 
 ![View of the lake from Upper Chaos](uploads/IMG_6247.jpg)
 
-On our last day (Friday) we met up with Isaac and Zach for a full day in the park.We started out in Lower Chaos where we warmed up and I jumped on Secret Splendor (V12). I managed to finish it up after falling off the top the day before. After that we headed to Upper Chaos. Our first stop was at Blood Money (V12) where Itai and Isaac both easily fired the stand (which goes at about V10) and got agonizingly close to linking it from the start.
+On our last day (Friday) we met up with Isaac and Zach for a full day in the park. We started out in Lower Chaos where we warmed up and I jumped on Secret Splendor (V12). I managed to finish it up after falling off the top the day before. After that we headed to Upper Chaos. Our first stop was at Blood Money (V12) where Itai and Isaac both easily fired the stand (which goes at about V10) and got agonizingly close to linking it from the start.
 
 In the afternoon we jumped on some more Upper Chaos classics like Skipper D and the El Jorge boulder. Overall it was a great day with good company and a nice way to end the trip!
 

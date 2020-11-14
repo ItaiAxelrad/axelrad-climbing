@@ -77,6 +77,7 @@ li .p-name:hover {
 
 .nav-aside a:hover,
 a.active {
+  font-weight: bold;
   color: var(--dark);
   background: var(--light);
 }

@@ -1,23 +1,18 @@
 ---
-permalink: /feed.xml
+permalink: "{{ metadata.feed.path }}"
+layout: null
 eleventyExcludeFromCollections: true
 ---
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>{{ metadata.name }}</title>
-	<subtitle>{{ metadata.description }}</subtitle>
 	{% set absoluteUrl %}{{ metadata.feed.path | url | absoluteUrl(metadata.start_url) }}{% endset %}
 	<link href="{{ absoluteUrl }}" rel="self"/>
-	<link href="{{ metadata.url }}"/>
+	<link href="{{ metadata.start_url }}"/>
 	<updated>{{ collections.post | rssLastUpdatedDate }}</updated>
 	<id>{{ metadata.feed.id }}</id>
-	<author>
-		<name>{{ metadata.author[0].name }}</name>
-		<email>{{ metadata.author[0].email }}</email>
-	</author>
-	{%- for post in collections.post %}
-	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+	{%- for post in collections.post | reverse %}
+	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.start_url) }}{% endset %}
 	<entry>
 		<title>{{ post.data.title }}</title>
 		<link href="{{ absolutePostUrl }}"/>

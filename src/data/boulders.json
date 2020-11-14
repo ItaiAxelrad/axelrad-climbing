@@ -14,6 +14,32 @@
       "tag": "FA"
     },
     {
+      "type": "boulder",
+      "route": "Three Kingdoms",
+      "crag": "South Platte",
+      "sector": "Sheep Nose",
+      "grade": "8B",
+      "date": "2020-11-08",
+      "comment": "3rd try",
+      "quality": "mega classic",
+      "style": "redpoint",
+      "country": "united states",
+      "region": ""
+    },
+    {
+      "type": "boulder",
+      "route": "Carnage",
+      "crag": "Guanella Pass",
+      "sector": "Ice Knife",
+      "grade": "8B",
+      "date": "2020-11-01",
+      "comment": "",
+      "quality": "",
+      "style": "redpoint",
+      "country": "united states",
+      "region": ""
+    },
+    {
     "type": "boulder",
     "route": "Xyz",
     "crag": "Roy",
@@ -129,6 +155,19 @@
     "style": "redpoint",
     "country": "united states",
     "region": "Bishop (CA)"
+  },
+  {
+    "type": "boulder",
+    "route": "Double Dutchez Direct",
+    "crag": "Guanella Pass",
+    "sector": "dark horse boulder",
+    "grade": "8A+",
+    "date": "2020-11-01",
+    "comment": "Same grade",
+    "quality": "",
+    "style": "redpoint",
+    "country": "united states",
+    "region": ""
   },
   {
     "type": "boulder",
@@ -506,6 +545,20 @@
     "style": "redpoint",
     "country": "canada",
     "region": "Squamish"
+  },
+  {
+    "type": "boulder",
+    "route": "Hail to the Thief",
+    "crag": "South Platte",
+    "sector": "Sheep Nose",
+    "grade": "8A",
+    "date": "2020-10-21",
+    "comment": "",
+    "quality": "",
+    "style": "redpoint",
+    "country": "united states",
+    "region": "",
+    "tag": "FA"
   },
   {
     "type": "boulder",

@@ -43,9 +43,11 @@
     {% include "../styles/mobile.css" %}
   {% endset %}
   <!-- feed it through our cssmin filter to minify -->
+  {% if layout != null %}
   <style>
     {{ css | postCSS | safe }}
   </style>
+  {% endif %}
 
   {% if stylesheet %}
   <link href="/includes/styles/{{ stylesheet }}.css" rel="stylesheet">

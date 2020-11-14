@@ -4,6 +4,7 @@ const pluginRss = require('@11ty/eleventy-plugin-rss');
 const markdownIt = require('markdown-it');
 const lazy_loading = require('markdown-it-image-lazy-loading');
 const implicitFigures = require('markdown-it-implicit-figures');
+const replaceLink = require('markdown-it-replace-link')
 const { DateTime } = require('luxon');
 // minify tasks
 const postcss = require('postcss');
@@ -26,11 +27,16 @@ module.exports = function (eleventyConfig) {
     breaks: false,
     linkify: true,
     typographer: true,
+    replaceLink: function (link, env) {
+        return link + "?nf_resize=fit&w=1200";
+    }
   })
     .use(lazy_loading)
     .use(implicitFigures, {
       figcaption: true
-    });
+    })
+    .use(replaceLink)
+  // set library
   eleventyConfig.setLibrary('md', markdownLibrary);
 
   // add passthrough files
