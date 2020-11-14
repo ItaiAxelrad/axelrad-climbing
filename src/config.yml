@@ -16,12 +16,11 @@ collections:
     label: 'Posts' # Used in the UI
     label_singular: 'Post' # Used in the UI
     folder: 'src/posts' # The path to the folder where the documents are stored
-    path: '{{year}}-{{month}}-{{day}}-{{fields.title}}/index.md'
-    media_folder: 'uploads'
-    public_folder: 'uploads'
+    path: '{{year}}-{{month}}-{{day}}-{{slug}}/index'
     create: true # Allow users to create new documents in this collection
-    slug: 'index.md' # Filename template, e.g., YYYY-MM-DD-title.md
     preview_path: 'posts/{{year}}-{{month}}-{{day}}-{{title}}/index.html' # preview location
+    media_folder: 'uploads'
+    public_folder: ''
     preview_path_date_field: 'date'
     summary: '{{fields.title}} - {{fields.date}}'
     sort: 'date:desc'
