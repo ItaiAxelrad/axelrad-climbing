@@ -2,7 +2,7 @@
 title: 'Podcast with Coach Taylor'
 date: 2018-04-17T14:02:00-07:00
 updated: 2020-05-14T14:02:26-07:00
-thumbnail: 'thepowercompanypodcastbannersmall.jpg'
+thumbnail: 'uploads/thepowercompanypodcastbannersmall.jpg'
 uploads: ['thepowercompanypodcastbannersmall.jpg']
 author: 'Itai Axelrad'
 id: 5795837337718704983

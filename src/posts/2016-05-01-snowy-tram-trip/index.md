@@ -2,7 +2,7 @@
 title: 'Snowy Tram Trip'
 date: 2016-05-01T15:42:00-07:00
 updated: 2016-06-17T16:21:43-07:00
-thumbnail: 'IMG_3802.jpg'
+thumbnail: 'uploads/IMG_3802.jpg'
 uploads: ['IMG_3802.jpg', 'IMG_3813.jpg']
 author: 'Itai Axelrad'
 id: 8061682565878277328

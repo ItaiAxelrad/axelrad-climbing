@@ -2,7 +2,7 @@
 title: 'September Sends'
 date: 2017-09-24T19:59:00-07:00
 updated: 2017-09-28T08:15:40-07:00
-thumbnail: 'IMG_4970.JPG'
+thumbnail: 'uploads/IMG_4970.JPG'
 uploads: ['IMG_4970.JPG', 'IMG_4982.JPG', 'IMG_4982.JPG', 'IMG_4982.JPG', 'FullSizeRender%2011.jpg', 'IMG_5001.JPG', 'IMG_4999.JPG', 'IMG_4999.JPG', 'IMG_4999.JPG']
 author: 'Itai Axelrad'
 id: 1700869977427004587

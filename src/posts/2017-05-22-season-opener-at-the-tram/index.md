@@ -2,7 +2,7 @@
 title: 'Season Opener at the Tram!'
 date: 2017-05-22T19:57:00-07:00
 updated: 2017-05-22T21:51:42-07:00
-thumbnail: 'IMG_2075.jpg'
+thumbnail: 'uploads/IMG_2075.jpg'
 uploads: ['IMG_2075.jpg', 'IMG_2064.jpg', 'IMG_2069.JPG', 'IMG_2063.JPG', 'IMG_2058.JPG', 'IMG_2059.JPG']
 author: 'Eden Axelrad'
 id: 6525106776057270943

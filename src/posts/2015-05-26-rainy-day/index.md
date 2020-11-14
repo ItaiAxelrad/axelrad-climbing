@@ -2,7 +2,7 @@
 title: 'Rainy Day '
 date: 2015-05-26T11:14:00-07:00
 updated: 2015-05-26T11:17:40-07:00
-thumbnail: 'IMG_2382.jpg'
+thumbnail: 'uploads/IMG_2382.jpg'
 uploads: ['IMG_2382.jpg', 'IMG_2384.jpg', 'IMG_2401.jpg', 'IMG_2366.jpg']
 author: 'Itai Axelrad'
 id: 8734970184577572928

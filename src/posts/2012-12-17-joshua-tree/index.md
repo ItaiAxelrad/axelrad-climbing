@@ -2,7 +2,7 @@
 title: 'Joshua Tree'
 date: 2012-12-17T00:01:00-08:00
 updated: 2012-12-17T00:02:20-08:00
-thumbnail: 'IMG_5806.JPG'
+thumbnail: 'uploads/IMG_5806.JPG'
 uploads: ['IMG_5806.JPG', 'IMG_5816.JPG', '487010_10151208748528382_229822770_n.jpg', 'IMG_5826.jpg']
 author: 'Itai Axelrad'
 id: 1944267772079572758

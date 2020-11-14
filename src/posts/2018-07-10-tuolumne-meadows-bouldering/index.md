@@ -2,7 +2,7 @@
 title: 'Tuolumne Meadows Bouldering'
 date: 2018-07-10T08:36:00-07:00
 updated: 2020-05-13T15:53:42-07:00
-thumbnail: 'IMG_6349.jpg'
+thumbnail: 'uploads/IMG_6349.jpg'
 uploads: ['IMG_6349.jpg', '20180706_185335.jpg', '20180705_155325.jpg']
 author: 'Itai Axelrad'
 id: 999029866075926321

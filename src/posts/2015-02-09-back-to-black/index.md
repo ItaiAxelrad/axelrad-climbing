@@ -2,7 +2,7 @@
 title: 'Back To Black'
 date: 2015-02-09T21:02:00-08:00
 updated: 2015-02-09T21:19:11-08:00
-thumbnail: 'IMG_1420.jpg'
+thumbnail: 'uploads/IMG_1420.jpg'
 uploads: ['IMG_1420.jpg', 'IMG_1430.jpg', 'output_zxN2Yr.gif', 'IMG_1447.jpg', 'IMG_1476.jpg', 'IMG_5312.JPG']
 author: 'Eden Axelrad'
 id: 3346874932921829213

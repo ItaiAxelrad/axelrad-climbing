@@ -2,7 +2,7 @@
 title: 'Eastern Sierras '
 date: 2017-09-05T21:49:00-07:00
 updated: 2017-09-05T22:04:14-07:00
-thumbnail: 'IMG_3015.JPG'
+thumbnail: 'uploads/IMG_3015.JPG'
 uploads: ['IMG_3015.JPG', 'IMG_3027.JPG', 'IMG_3043.JPG', 'IMG_3061.JPG', 'IMG_3097.JPG', 'IMG_3077.jpg', 'IMG_3078.JPG']
 author: 'Eden Axelrad'
 id: 369583439622087749

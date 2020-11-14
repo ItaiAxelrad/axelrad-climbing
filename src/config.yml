@@ -20,7 +20,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     preview_path: 'posts/{{year}}-{{month}}-{{day}}-{{title}}/index.html' # preview location
     media_folder: 'uploads'
-    public_folder: ''
+    public_folder: 'uploads'
     preview_path_date_field: 'date'
     summary: '{{fields.title}} - {{fields.date}}'
     sort: 'date:desc'

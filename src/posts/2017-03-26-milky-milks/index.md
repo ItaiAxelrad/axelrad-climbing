@@ -2,7 +2,7 @@
 title: 'Milky Milks'
 date: 2017-03-26T15:11:00-07:00
 updated: 2017-04-01T15:17:52-07:00
-thumbnail: 'File_001.jpg'
+thumbnail: 'uploads/File_001.jpg'
 uploads: ['File_001.jpg', 'File_001.jpg', 'File_001.jpg', 'File_000.jpg']
 author: 'Itai Axelrad'
 id: 556122969207573177

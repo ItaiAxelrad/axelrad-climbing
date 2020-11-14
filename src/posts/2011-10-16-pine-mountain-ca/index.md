@@ -2,7 +2,7 @@
 title: 'Pine Mountain, CA'
 date: 2011-10-16T17:56:00-07:00
 updated: 2020-04-30T12:51:03-07:00
-thumbnail: 'IMG_2128.JPG'
+thumbnail: 'uploads/IMG_2128.JPG'
 uploads: ['IMG_2128.JPG', 'IMG_2180.jpg', 'IMG_2188.jpg', 'IMG_2207.jpg', '_phpfnwqxdPM_1318806321.jpg']
 author: 'Itai Axelrad'
 id: 1095609288186886031

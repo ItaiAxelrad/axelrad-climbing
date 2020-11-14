@@ -2,7 +2,7 @@
 title: 'Black Mt. Bash'
 date: 2012-06-25T13:14:00-07:00
 updated: 2013-01-22T21:52:05-08:00
-thumbnail: 'IMG_3722.jpg'
+thumbnail: 'uploads/IMG_3722.jpg'
 uploads: ['IMG_3722.jpg', 'IMG_3774.JPG']
 author: 'Itai Axelrad'
 id: 9058537813027630432

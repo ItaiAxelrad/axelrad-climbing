@@ -4,7 +4,7 @@ date: 2020-03-22
 update: 2020-11-14
 author: Itai Axelrad
 location: Roy, NM
-thumbnail: img_1223.jpg
+thumbnail: uploads/img_1223.jpg
 tags:
   - Roy
   - New Mexico

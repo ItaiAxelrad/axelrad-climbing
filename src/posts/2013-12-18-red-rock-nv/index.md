@@ -2,7 +2,7 @@
 title: 'Red Rock, NV'
 date: 2013-12-18T13:13:00-08:00
 updated: 2013-12-18T13:52:42-08:00
-thumbnail: 'IMG_9522.jpg'
+thumbnail: 'uploads/IMG_9522.jpg'
 uploads: ['IMG_9522.jpg', 'IMG_9485.jpg', 'IMG_9501.jpg', 'IMG_9506.jpg', 'IMG_9511.jpg', 'IMG_9539.jpg', 'IMG_9541.jpg', 'IMG_9571.jpg']
 author: 'Itai Axelrad'
 id: 1994483482726823387

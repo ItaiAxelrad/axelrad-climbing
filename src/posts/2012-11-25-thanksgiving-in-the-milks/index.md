@@ -2,7 +2,7 @@
 title: 'Thanksgiving In The Milks'
 date: 2012-11-25T12:11:00-08:00
 updated: 2012-11-25T12:40:13-08:00
-thumbnail: 'IMG_5673.JPG'
+thumbnail: 'uploads/IMG_5673.JPG'
 uploads: ['IMG_5673.JPG', 'IMG_5712.JPG', 'IMG_5737.JPG', 'IMG_5741.jpg', 'IMG_5748.jpg', 'IMG_5674.JPG']
 author: 'Itai Axelrad'
 id: 5238055004877709036

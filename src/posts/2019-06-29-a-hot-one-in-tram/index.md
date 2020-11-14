@@ -2,7 +2,7 @@
 title: 'A Hot One in Tram'
 date: 2019-06-29T10:06:00-07:00
 updated: 2019-07-01T10:09:53-07:00
-thumbnail: 'IMG_0601.jpg'
+thumbnail: 'uploads/IMG_0601.jpg'
 uploads: ['IMG_0601.jpg', 'IMG_0619.JPG', 'IMG_8679.jpg', 'IMG_8706.jpg', 'IMG_8710.jpg']
 author: 'Eden Axelrad'
 id: 7093561005345250255

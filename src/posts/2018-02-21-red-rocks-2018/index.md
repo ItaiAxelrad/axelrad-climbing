@@ -2,7 +2,7 @@
 title: 'Red Rocks 2018!'
 date: 2018-02-21T16:38:00-08:00
 updated: 2018-02-28T16:42:37-08:00
-thumbnail: 'IMG_4088.JPG'
+thumbnail: 'uploads/IMG_4088.JPG'
 uploads: ['IMG_4088.JPG', 'IMG_4090.JPG', 'IMG_4125.JPG', 'IMG_4121.JPG', 'IMG_4134.JPG', 'Meadowlark%20Lemon.JPG', 'IMG_4160.JPG', 'IMG_4171.jpg', 'IMG_4127.JPG']
 author: 'Eden Axelrad'
 id: 1773389114748798125

@@ -2,7 +2,7 @@
 title: 'Homeward Bound'
 date: 2013-07-20T15:06:00-07:00
 updated: 2013-08-08T15:07:39-07:00
-thumbnail: 'IMG_7725.jpg'
+thumbnail: 'uploads/IMG_7725.jpg'
 uploads: ['IMG_7725.jpg', 'IMG_7748.jpg', 'IMG_7758.jpg', 'IMG_7742.jpg', 'IMG_7790.jpg', 'IMG_7824.jpg']
 author: 'Itai Axelrad'
 id: 469727283989317490

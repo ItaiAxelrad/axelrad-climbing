@@ -2,7 +2,7 @@
 title: 'Fort Ross'
 date: 2012-05-06T12:08:00-07:00
 updated: 2013-08-01T00:41:10-07:00
-thumbnail: 'IMG_0282.JPG'
+thumbnail: 'uploads/IMG_0282.JPG'
 uploads: ['IMG_0282.JPG', 'IMG_0241.JPG', 'IMG_0246.JPG', 'IMG_0252.jpg', 'IMG_0256.jpg', 'IMG_0272.JPG', 'IMG_0273.JPG', 'IMG_0274.JPG', 'IMG_0275.JPG', 'IMG_0276.JPG', 'IMG_0277.JPG', 'IMG_0287.JPG']
 author: 'Eden Axelrad'
 id: 6593575809652397635

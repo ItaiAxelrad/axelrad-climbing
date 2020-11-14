@@ -2,7 +2,7 @@
 title: 'More RMNP'
 date: 2019-07-29T10:27:00-07:00
 updated: 2019-07-29T13:30:29-07:00
-thumbnail: 'IMG_0632.JPG'
+thumbnail: 'uploads/IMG_0632.JPG'
 uploads: ['IMG_0632.JPG', 'IMG_0515.JPG', 'IMG_0655.jpg', 'IMG_0656.jpg', 'IMG_0490.jpg']
 author: 'Itai Axelrad'
 id: 153840134079096312

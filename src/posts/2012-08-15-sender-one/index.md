@@ -2,7 +2,7 @@
 title: 'Sender One'
 date: 2012-08-15T15:19:00-07:00
 updated: 2020-05-28T08:42:19-07:00
-thumbnail: 'IMG_4490.JPG'
+thumbnail: 'uploads/IMG_4490.JPG'
 uploads: ['IMG_4490.JPG', '394479_277110585723665_1092959206_n.jpg', '582744_277110492390341_1967985168_n.jpg', 'IMG_4494.JPG', 'IMG_4495.JPG', 'IMG_4496.JPG', 'XGqHRFq_BqvqlHZ1fDku6Q8mvERlGzJfBMm45mAHBaU.jpg']
 author: 'Itai Axelrad'
 id: 6813312752069097423

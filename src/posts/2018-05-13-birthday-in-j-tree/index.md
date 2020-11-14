@@ -2,7 +2,7 @@
 title: 'Birthday in J Tree! '
 date: 2018-05-13T22:30:00-07:00
 updated: 2018-05-13T22:30:38-07:00
-thumbnail: 'IMG_4042.JPG'
+thumbnail: 'uploads/IMG_4042.JPG'
 uploads: ['IMG_4042.JPG', 'IMG_4051.JPG', 'IMG_4054.JPG', 'IMG_4060.JPG', 'IMG_4076.JPG', 'IMG_4078.JPG']
 author: 'Eden Axelrad'
 id: 986954860785407227

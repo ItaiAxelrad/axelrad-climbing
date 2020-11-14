@@ -2,7 +2,7 @@
 title: 'Mount Whitney'
 date: 2016-08-02T19:35:00-07:00
 updated: 2016-08-02T19:35:00-07:00
-thumbnail: 'IMG_3517.JPG'
+thumbnail: 'uploads/IMG_3517.JPG'
 uploads: ['IMG_3517.JPG', 'IMG_3526.jpg', 'IMG_3545.jpg', 'IMG_3546.JPG', 'IMG_3552.JPG']
 author: 'Itai Axelrad'
 id: 123

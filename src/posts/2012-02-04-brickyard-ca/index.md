@@ -2,7 +2,7 @@
 title: 'Brickyard, CA'
 date: 2012-02-04T15:00:00-08:00
 updated: 2012-02-08T18:57:05-08:00
-thumbnail: 'IMG_2685.JPG'
+thumbnail: 'uploads/IMG_2685.JPG'
 uploads: ['IMG_2685.JPG', 'IMG_2724.jpg']
 author: 'Itai Axelrad'
 id: 5157839849754319896

@@ -2,7 +2,7 @@
 title: 'RMNP Season Opener'
 date: 2019-07-03T11:29:00-07:00
 updated: 2019-07-03T11:33:30-07:00
-thumbnail: 'GoBot.jpg'
+thumbnail: 'uploads/GoBot.jpg'
 uploads: ['GoBot.jpg', 'RMNP%20V11.jpg', 'IMG_0388.jpg']
 author: 'Itai Axelrad'
 id: 4460816252139277326
