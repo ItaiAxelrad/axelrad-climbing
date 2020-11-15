@@ -21,4 +21,4 @@ The first day we made our way down into the canyon to the bear toss boulder (the
 
 ![Staring down the next crimp on XYZ](uploads/img_2335.jpg)
 
-I made quick work of the crumbly and seldomly done or attempted [XYZ, V13](https://www.youtube.com/watch?v=9g0uIdfNimw). The next day we enjoyed some mileage climbing in the jumbles. All in all, not the highest quality rock but a fun trip nonetheless.
+I made quick work of the crumbly and seldomly done or attempted [XYZ, V13](https://www.youtube.com/watch?v=9g0uIdfNimw). The next day we enjoyed some mileage climbing in the jumbles. All in all, not the highest quality rock but a fun trip nonetheless. It sure is beautiful in New Mexico!
