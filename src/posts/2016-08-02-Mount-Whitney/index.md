@@ -26,7 +26,7 @@ While I had felt swell on the preceding approach, at the foot of the Buttress I 
 
 At the top, we signed the summit registry and took in the view before making the very long hike down.
 
-![Descending from summit to the notch](uploads/IMG_3552.JPG)
+![Descending from summit to the notch](uploads/IMG_3552_test.JPG)
 
 While we did not complete the original goal of climbing the East Buttress, the adventure was worthwhile. One day - perhaps with the proper training and experience - we will return for our redemption.
 

@@ -11,7 +11,7 @@ tags:
   - Shop
   - WY
 ---
-The accidental discovery of the Rock Shop was spurred by our general dislike of crowded sport climbing cliffs and a sense of adventure. On 4th of July we were left tour guide-less at Wild Iris due to a last minute and unforeseen health complications of a cat - and while we enjoyed the momentary novelty of slick yet somehow sharp limestone pockets mercilessly digging into our tendons - we searched for an alternative. A quick trip into the Lander gear store landed us with a small guidebook to the area's surrounding bouldering.
+The accidental discovery of the Rock Shop was spurred by our general dislike of crowded sport climbing cliffs and a sense of adventure. On 4th of July we were left tour guide-less at Wild Iris due to an unforeseen health complication of a cat - and while we enjoyed the momentary novelty of slick yet somehow sharp limestone pockets mercilessly digging into our tendons - we searched for an alternative. A quick trip into the Lander gear store landed us with a small guidebook to the area's surrounding bouldering.
 
 ![The Pastures of Wyoming](uploads/img_1626.jpg)
 

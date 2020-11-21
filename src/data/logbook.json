@@ -67,8 +67,7 @@
       "region": ""
     }
   ],
-  "boulders":[
-    [
+  "boulders": [
       {
         "type": "boulder",
         "route": "Wolf at the Door",
@@ -5923,5 +5922,4 @@
       "region": "Squamish"
     }
   ]
-]
 }
