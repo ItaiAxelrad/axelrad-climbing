@@ -21,11 +21,11 @@
     "autoprefixer": "^10.1.0",
     "cssnano": "^4.1.10",
     "luxon": "^1.25.0",
-    "markdown-it": "^12.0.3",
+    "markdown-it": "^12.0.4",
     "markdown-it-image-lazy-loading": "^1.0.2",
     "markdown-it-implicit-figures": "^0.10.0",
     "markdown-it-replace-link": "^1.1.0",
-    "netlify-cms": "^2.10.76",
+    "netlify-cms": "^2.10.78",
     "postcss": "^8.2.1",
     "terser": "^5.5.1"
   }

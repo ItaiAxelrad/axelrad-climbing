@@ -16,11 +16,23 @@ const getData = async (path) => {
 // search input
 const search_input = document.getElementById('search');
 const results = document.getElementById('results');
-const links = document.querySelectorAll('a')
+const loadAll = document.getElementById('loadAll');
+const links = document.querySelectorAll('a');
 let search_term = '';
 let currentYear = '';
 var posts = [];
+var postsSliced = [];
 
+// make list header
+const makeListHeader = (post, i) => {
+  let postYear = post.date.year;
+  if (currentYear != postYear || i == 0) {
+    currentYear = postYear;
+    let listHeader = document.createElement('li');
+    listHeader.innerHTML = `<h2 id="${postYear}" class="list-header">${postYear}</h2>`;
+    results.appendChild(listHeader);
+  }
+};
 // make a list item
 const makeListItem = (post) => {
   let li = document.createElement('li');
@@ -56,19 +68,16 @@ const makeListItem = (post) => {
 search_input.addEventListener('input', (e) => {
   // saving the input value
   search_term = e.target.value;
-  // re-displaying specs based on the new search_term
+  // re-displaying posts based on the new search_term
   if (search_term.length > 1) {
+    removeChildren(results);
     showResults(posts);
+    loadAll.disabled = true;
   } else {
     removeChildren(results);
-    posts.forEach((post, i) => {
-      let postYear = post.date.year;
-      if (currentYear != postYear || i == 0) {
-        currentYear = postYear;
-        let listHeader = document.createElement('li');
-        listHeader.innerHTML = `<h2 id="${postYear}" class="list-header">${postYear}</h2>`;
-        results.appendChild(listHeader);
-      }
+    // re-display latest (by date) posts (sliced)
+    postsSliced.forEach((post, i) => {
+      makeListHeader(post, i);
       let li = makeListItem(post);
       results.appendChild(li);
     });
@@ -77,8 +86,6 @@ search_input.addEventListener('input', (e) => {
 // show search results
 const showResults = async (posts) => {
   try {
-    // clear the results
-    removeChildren(results);
     // filter array
     posts
       .filter((post) => {
@@ -87,19 +94,10 @@ const showResults = async (posts) => {
           post.tags.includes(search_term)
         ) {
           return post.title;
-        };
-        // return post.title
-        //   ? post.title.toLowerCase().includes(search_term.toLowerCase())
-        //   : null;
+        }
       })
       .forEach((post, i) => {
-        let postYear = post.date.year;
-        if (currentYear != postYear || i == 0) {
-          currentYear = postYear;
-          let listHeader = document.createElement('li');
-          listHeader.innerHTML = `<h2 id="${postYear}" class="list-header">${postYear}</h2>`;
-          results.appendChild(listHeader);
-        }
+        makeListHeader(post, i);
         let li = makeListItem(post);
         results.appendChild(li);
       });
@@ -107,25 +105,33 @@ const showResults = async (posts) => {
     console.log(error);
   }
 };
-
+// event delegation - tags to search instead
+document.addEventListener(
+  'click',
+  (event) => {
+    if (event.target.classList.contains('tag')) {
+      event.preventDefault();
+      search_input.value = event.target.textContent;
+      search_input.dispatchEvent(new Event('input'));
+    }
+  },
+  false
+);
+// load all button event
+loadAll.addEventListener('click', () => {
+  removeChildren(results);
+  showResults(posts);
+  loadAll.disabled = true;
+});
+// instantiate data fetch
 const init = async () => {
   try {
     data = await getData('/data/posts.json');
     posts = data.reverse();
+    postsSliced = posts.slice(0, 15);
   } catch (error) {
     console.log(error);
   }
 };
 
 init();
-
-// tags to search instead
-links.forEach((link) => {
-  if (link.classList.contains('tag')) {
-    link.addEventListener('click', (event) => {
-      event.preventDefault();
-      search_input.value = event.target.textContent;
-      search_input.dispatchEvent(new Event('input'));
-    });
-  }
-});

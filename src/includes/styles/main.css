@@ -274,6 +274,17 @@ img {
   background-color: var(--light);
 }
 
+[disabled] {
+    opacity: 0.25;
+    cursor: not-allowed;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
 .card {
   margin: 1rem auto;
   padding: 1rem;
@@ -320,6 +331,10 @@ button:focus {
 
 input {
   appearance: none;
+}
+
+label {
+  margin-inline-end: 1rem;
 }
 
 .read-more {

@@ -24,7 +24,8 @@ permalink: /{{ title | lower }}/
   {# use group by, see OpenSpec #}
   <ol id="results" class="post-list" reversed >
     {% set currentYear = "" %}
-    {% for post in collections.post | reverse %}
+    {%- set posts = collections.post | reverse -%}
+    {%- for post in posts.slice(0, 15) -%}
         {% set postYear = post.date.getFullYear() %}
         {% if currentYear != postYear %}
           {% set currentYear = postYear %}
@@ -33,7 +34,10 @@ permalink: /{{ title | lower }}/
       {% include 'components/listItem.njk' %}
     {% endfor %}
     </ol>
-
+    
+    <div class="center">
+      <button id="loadAll" class="btn">Load More</button>
+    </div>
   {# <div class="archive-container">
   <aside>
     <div class="nav-aside">

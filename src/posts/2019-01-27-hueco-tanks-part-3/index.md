@@ -7,7 +7,7 @@ uploads: ['IMG_3388%202.jpg', 'IMG_3350.jpg', 'IMG_0103%202.jpg', 'IMG_0105.jpg'
 author: 'Itai Axelrad'
 id: 5345359962296384214
 location: 'El Paso, TX'
-tags: ['Axelrad', 'Bouldering', 'crimps', 'hueco', 'tanka', 'texas', 'v10']
+tags: ['Axelrad', 'Bouldering', 'crimps', 'hueco', 'tanks', 'texas', 'v10']
 ---
 
 The last day or two of the trip involved more lounging than climbing. Skin, energy, and sends were running thin on our final tour to East Mountain. Thankfully, the crew had just enough left in the tank to get a send train on the sharp and crimpy Wu-Tang.
