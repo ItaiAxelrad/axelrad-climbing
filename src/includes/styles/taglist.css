@@ -109,6 +109,7 @@ a.active {
 
 input.search {
   padding: 0.25rem 0.5rem;
+  color: var(--dark);
   background: var(--light);
   border: var(--border);
   border-radius: var(--radius);
