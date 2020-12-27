@@ -1,14 +1,31 @@
-.list-item {
+li {
+  list-style: none;
+}
+
+li.list-item {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto auto auto;
   justify-content: start;
-  align-items: center;
+  align-items: start;
   gap: 0 1.5rem;
+}
+
+li.list-item strong {
+  line-height: 1.2;
 }
 
 .list-header {
   margin-block-start: 1.5rem;
   font-size: 130%;
+}
+
+img.thumbnail {
+  grid-row: 1 / span 2;
+  grid-column: 2;
+  object-fit: cover;
+  border-radius: var(--radius);
+  height: 4rem;
+  width: 4rem;
 }
 
 time.dt-published {
@@ -28,7 +45,7 @@ li .p-name:hover {
 
 .tag {
   display: inline-block;
-  margin: 0.15rem 0;
+  margin: 0.15rem;
   padding: 0.2rem 0.5rem;
   color: var(--dark-gray);
   background: var(--light-gray);
@@ -44,13 +61,15 @@ li .p-name:hover {
 }
 
 .taglist {
-  grid-column: 2;
+  grid-column: 3;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .archive-container {
   display: grid;
   grid-template-columns: auto auto;
-  gap: 1.5rem
+  gap: 1.5rem;
 }
 
 .nav-aside {
@@ -63,8 +82,8 @@ li .p-name:hover {
 }
 
 .nav-aside li {
- list-style: none;
- line-height: 1;
+  list-style: none;
+  line-height: 1;
 }
 
 .nav-aside a {
@@ -72,7 +91,7 @@ li .p-name:hover {
   text-decoration: none;
   border-radius: var(--radius);
   color: var(--dark-gray);
-  transition: .3s ease-out;
+  transition: 0.3s ease-out;
 }
 
 .nav-aside a:hover,
@@ -80,4 +99,51 @@ a.active {
   font-weight: bold;
   color: var(--dark);
   background: var(--light);
+}
+
+.search-container {
+  display: flex;
+  gap: 1rem;
+  margin-block-end: 1rem;
+}
+
+input.search {
+  padding: 0.25rem 0.5rem;
+  border: var(--border);
+  border-radius: var(--radius);
+}
+
+input:focus {
+  box-shadow: 0px 0px 0px 1px var(--theme);
+  outline: none;
+}
+
+@media screen and (max-width: 600px) {
+  input.search {
+    flex-grow: 1;
+  }
+
+  li.list-item {
+    grid-template-columns: auto auto;
+    gap: 0.25rem 1rem;
+  }
+
+  li.list-item strong {
+    grid-row: 1;
+    grid-column: 2;
+  }
+
+  time.dt-published {
+    justify-self: center;
+  }
+
+  img.thumbnail {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  .taglist {
+    grid-column: 2;
+    align-self: start;
+  }
 }

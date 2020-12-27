@@ -60,7 +60,7 @@ module.exports = function (eleventyConfig) {
           autoprefixer,
           cssnano
         ])
-        .process(code)
+        .process(code, {from: 'undefined'})
         .then(function (result) {
           callback(null, result.css);
         });

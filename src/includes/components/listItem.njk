@@ -1,8 +1,15 @@
 <li class="list-item h-card">
 
       <time datetime="{{ post.data.date | htmlDateString }}" class="dt-published">{{ post.data.date | monthDay}}</time> 
+      <img
+            src="{{ post.url }}/{{ post.data.thumbnail }}?nf_resize=fit&w=128"
+            width="64" height="64"
+            alt="{{ post.data.title }}"
+            class="thumbnail"
+            loading="lazy"
+      />
 
-      <strong><a href="{{ post.url | url}}" class="p-name">{{ post.data.title }}</a></strong>
+      <strong><a href="{{ post.url | url }}" class="p-name">{{ post.data.title }}</a></strong>
  
       <div class="taglist">
       {%- set tagList = post.data.tags | excludeTags -%}

@@ -18,15 +18,15 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-plugin-rss": "^1.0.9",
-    "autoprefixer": "^10.0.2",
+    "autoprefixer": "^10.1.0",
     "cssnano": "^4.1.10",
     "luxon": "^1.25.0",
-    "markdown-it": "^12.0.2",
+    "markdown-it": "^12.0.3",
     "markdown-it-image-lazy-loading": "^1.0.2",
     "markdown-it-implicit-figures": "^0.10.0",
     "markdown-it-replace-link": "^1.1.0",
-    "netlify-cms": "^2.10.68",
-    "postcss": "^8.1.7",
-    "terser": "^5.3.8"
+    "netlify-cms": "^2.10.76",
+    "postcss": "^8.2.1",
+    "terser": "^5.5.1"
   }
 }

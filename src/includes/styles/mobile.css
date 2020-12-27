@@ -49,7 +49,7 @@
   .home {
     display: block;
     width: 100%;
-    margin: .5rem .5rem 1rem .5rem;
+    margin: 0.5rem 0.5rem 1rem 0.5rem;
   }
   .nav-aside {
     display: none;
@@ -63,12 +63,12 @@
     gap: 0;
   }
   .featured-post img {
-    border-radius: var(--radius) var(--radius) 0 0 ;
+    border-radius: var(--radius) var(--radius) 0 0;
   }
   .caption p {
     -webkit-line-clamp: 3;
   }
-  th#comment:last-of-type, 
+  th#comment:last-of-type,
   td:last-of-type {
     display: none;
   }

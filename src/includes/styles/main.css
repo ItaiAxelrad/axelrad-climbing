@@ -92,6 +92,10 @@ body > * {
   grid-column: 2;
 }
 
+main {
+    min-height: 75vh;
+}
+
 /* navigation */
 nav {
   display: flex;

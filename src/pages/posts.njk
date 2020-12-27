@@ -7,21 +7,34 @@ permalink: /{{ title | lower }}/
 <main class="archive">
 
   <h1>{{ title }}</h1>
-  <p>Search <a href="/tags">all tags</a></p>
+  <noscript>
+    <p>JavaScript must be enabled to use the search function</p>
+  </noscript>
+  <div class="search-container">
+    <label for="search">Search</label>
+    <input
+      type="text"
+      id="search"
+      class="search"
+      placeholder="find a post"
+    />
+  </div>
+  {# <p>Search <a href="/tags">all tags</a></p> #}
 
-  <div class="archive-container">
-
-  <ol class="post-list" reversed >
+  {# use group by, see OpenSpec #}
+  <ol id="results" class="post-list" reversed >
     {% set currentYear = "" %}
     {% for post in collections.post | reverse %}
         {% set postYear = post.date.getFullYear() %}
         {% if currentYear != postYear %}
-        {% set currentYear = postYear %}
-        <h2 id="{{ postYear }}" class="list-header">{{ postYear }}</h2>
+          {% set currentYear = postYear %}
+          <h2 id="{{ postYear }}" class="list-header">{{ postYear }}</h2>
         {% endif %}
       {% include 'components/listItem.njk' %}
     {% endfor %}
     </ol>
+
+  {# <div class="archive-container">
   <aside>
     <div class="nav-aside">
       <h2>Year</h2>
@@ -37,8 +50,7 @@ permalink: /{{ title | lower }}/
       </ol>
     </div>
   </aside>
-  
-  </div>
+  </div> #}
 
 </main>
-<script src="../includes/scripts/observer.js" defer ></script>
+<script src="../includes/scripts/search.js" defer ></script>

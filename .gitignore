@@ -3,6 +3,7 @@ dist/
 node_modules/
 package-lock.json
 *.py
+*.txt
 src/.DS_Store
 .DS_Store
 # Local Netlify folder
