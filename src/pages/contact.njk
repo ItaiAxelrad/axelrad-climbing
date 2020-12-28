@@ -9,7 +9,13 @@ permalink: /{{ title | lower }}/
   <h1>{{ title }}</h1>
   <p>Got a question or comment? Get in touch!</p>
 
-  <form name="contact" method="POST" data-netlify="true" class="form-contact">
+  <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="form-contact">
+    <div hidden aria-hidden="true">
+      <label>
+        Don’t fill this out if you're human: 
+        <input name="bot-field" />
+      </label>
+    </div>
     <label for="email">Email</label>
     <input
     id="email"

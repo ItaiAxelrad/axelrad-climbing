@@ -45,7 +45,6 @@ li .p-name:hover {
 
 .tag {
   display: inline-block;
-  margin: 0.15rem;
   padding: 0.2rem 0.5rem;
   color: var(--dark-gray);
   background: var(--light-gray);
@@ -53,10 +52,6 @@ li .p-name:hover {
   font-size: small;
   text-decoration: none;
   box-decoration-break: clone;
-}
-
-.tag:first-of-type {
-  margin-inline-start: 0;
 }
 
 .tag:hover {
@@ -68,6 +63,7 @@ li .p-name:hover {
   grid-column: 3;
   display: flex;
   flex-wrap: wrap;
+  gap: 0.25rem;
 }
 
 .archive-container {
