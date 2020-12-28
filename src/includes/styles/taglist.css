@@ -55,6 +55,10 @@ li .p-name:hover {
   box-decoration-break: clone;
 }
 
+.tag:first-of-type {
+  margin-inline-start: 0;
+}
+
 .tag:hover {
   color: var(--dark);
   background: var(--light);

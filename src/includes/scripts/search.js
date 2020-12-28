@@ -90,9 +90,10 @@ const showResults = async (posts) => {
     // filter array
     posts
       .filter((post) => {
+        let tagsLower = post.tags.map((tag) => tag.toLowerCase());
         if (
           post.title.toLowerCase().includes(search_term.toLowerCase()) ||
-          post.tags.includes(search_term)
+          tagsLower.includes(search_term.toLowerCase())
         ) {
           return post.title;
         }

@@ -342,7 +342,7 @@ label {
   align-items: center;
   justify-content: center;
   background: var(--opaquer);
-  border-color: var(--gray);
+  border-color: var(--theme);
   width: 100%;
 }
 
