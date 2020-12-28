@@ -74,13 +74,14 @@ search_input.addEventListener('input', (e) => {
     showResults(posts);
     loadAll.disabled = true;
   } else {
-    removeChildren(results);
     // re-display latest (by date) posts (sliced)
+    removeChildren(results);
     postsSliced.forEach((post, i) => {
       makeListHeader(post, i);
       let li = makeListItem(post);
       results.appendChild(li);
     });
+    loadAll.disabled = false;
   }
 });
 // show search results
