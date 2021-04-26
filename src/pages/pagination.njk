@@ -1,6 +1,6 @@
 ---
 title: Pages
-layout: layouts/base.njk
+layout: base.njk
 permalink: page/{{ pagination.pageNumber + 1}}/
 eleventyExcludeFromCollections: true
 pagination:
@@ -12,9 +12,9 @@ pagination:
 <main class="posts">
 
   {% for post in posts %}
-    {%- include 'components/postCard.njk' -%}
+    {%- include 'postCard.njk' -%}
   {% endfor %}
 
 </main>
 
-{%- include 'components/pageNav.njk' -%}
+{%- include 'pageNav.njk' -%}

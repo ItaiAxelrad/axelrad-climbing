@@ -1,17 +1,17 @@
 ---
 title: Home
-layout: layouts/base.njk
+layout: base.njk
 eleventyExcludeFromCollections: true
 permalink: index.html
 ---
 
 <main class="posts">
 
-  {%- include 'components/featuredPost.njk' -%}
+  {%- include 'featuredPost.njk' -%}
 
   {%- set posts = collections.post | reverse -%}
   {%- for post in posts.slice(1, 3) -%}
-    {%- include 'components/postCard.njk' -%}
+    {%- include 'postCard.njk' -%}
   {%- endfor -%}
 
 </main>
@@ -20,13 +20,5 @@ permalink: index.html
   <div class="previous-page"></div>
   <div class="next-page">
     <a href="/page/1">Older Posts &rarr;</a>
-    {# <svg
-          class="icon"
-          viewBox="0 0 24 24"
-          aria-hidden="true"
-          focusable="false"
-        >
-          <use xlink:href="/images/defs.svg#chevron_right"></use>
-  </svg> #}
   </div>
 </nav>

@@ -4,17 +4,16 @@ const pluginRss = require('@11ty/eleventy-plugin-rss');
 const markdownIt = require('markdown-it');
 const lazy_loading = require('markdown-it-image-lazy-loading');
 const implicitFigures = require('markdown-it-implicit-figures');
-const replaceLink = require('markdown-it-replace-link')
+const replaceLink = require('markdown-it-replace-link');
 const { DateTime } = require('luxon');
 // minify tasks
 const postcss = require('postcss');
-const cssnano = require("cssnano");
+const cssnano = require('cssnano');
 const autoprefixer = require('autoprefixer');
 const { minify } = require('terser');
 
 // eleventy configuration
 module.exports = function (eleventyConfig) {
-
   // Opt in to a full deep merge when combining the Data Cascade
   eleventyConfig.setDataDeepMerge(true);
 
@@ -28,51 +27,47 @@ module.exports = function (eleventyConfig) {
     linkify: true,
     typographer: true,
     replaceLink: function (link, env) {
-        return link + "?nf_resize=fit&w=1200";
-    }
+      return link + '?nf_resize=fit&w=1200';
+    },
   })
     .use(lazy_loading)
     .use(implicitFigures, {
-      figcaption: true
+      figcaption: true,
     })
-    .use(replaceLink)
+    .use(replaceLink);
   // set library
   eleventyConfig.setLibrary('md', markdownLibrary);
 
   // add passthrough files
+  eleventyConfig.addPassthroughCopy('src/favicon.svg');
   eleventyConfig.addPassthroughCopy('src/config.yml');
   eleventyConfig.addPassthroughCopy('src/sw.js');
   eleventyConfig.addPassthroughCopy('src/manifest.json');
   eleventyConfig.addPassthroughCopy('src/images');
-  eleventyConfig.addPassthroughCopy('src/data/boulders.json');
-  eleventyConfig.addPassthroughCopy('src/data/sport.json');
-  eleventyConfig.addPassthroughCopy('src/includes/styles/*');
-  eleventyConfig.addPassthroughCopy('src/includes/scripts/*');
+  eleventyConfig.addPassthroughCopy('src/data');
+  eleventyConfig.addPassthroughCopy('src/assets');
   eleventyConfig.addPassthroughCopy('src/posts/*/uploads/*');
 
   // postCSS filter
-  eleventyConfig.addNunjucksAsyncFilter("postCSS", async function (
-    code, 
+  eleventyConfig.addNunjucksAsyncFilter('postCSS', async function (
+    code,
     callback
   ) {
     try {
-        return await postcss([
-          autoprefixer,
-          cssnano
-        ])
-        .process(code, {from: 'undefined'})
+      return await postcss([autoprefixer, cssnano])
+        .process(code, { from: 'undefined' })
         .then(function (result) {
           callback(null, result.css);
         });
     } catch (err) {
-      console.error("postCSS error: ", err);
+      console.error('postCSS error: ', err);
       // Fail gracefully.
       callback(null, code);
     }
   });
 
   // minify JS filter for inline injection
-  eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
+  eleventyConfig.addNunjucksAsyncFilter('jsmin', async function (
     code,
     callback
   ) {
@@ -80,7 +75,7 @@ module.exports = function (eleventyConfig) {
       const minified = await minify(code);
       callback(null, minified.code);
     } catch (err) {
-      console.error("Terser error: ", err);
+      console.error('Terser error: ', err);
       // Fail gracefully.
       callback(null, code);
     }
@@ -127,17 +122,17 @@ module.exports = function (eleventyConfig) {
 
   // Get tags from all posts
   eleventyConfig.addCollection('tagList', (collection) => {
-      let tagSet = new Set();
-      collection.getAll().forEach( (item) => {
-        if( "tags" in item.data ) {
-          let tags = item.data.tags;
-          for (const tag of tags) {
-            tagSet.add(tag);
-          }
+    let tagSet = new Set();
+    collection.getAll().forEach((item) => {
+      if ('tags' in item.data) {
+        let tags = item.data.tags;
+        for (const tag of tags) {
+          tagSet.add(tag);
         }
-      });
-      return [...tagSet];
+      }
     });
+    return [...tagSet];
+  });
 
   // Get paginated posts
   eleventyConfig.addCollection('pagedPosts', (collectionApi) => {
@@ -149,8 +144,8 @@ module.exports = function (eleventyConfig) {
     dir: {
       input: 'src',
       output: 'dist',
-      includes: 'includes',
-      // layouts: 'includes/layouts',
+      includes: 'components',
+      layouts: 'layouts',
       data: 'data',
     },
     templateFormats: ['njk', 'md'],

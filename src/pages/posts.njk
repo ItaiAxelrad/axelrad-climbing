@@ -19,19 +19,6 @@ permalink: /{{ title | lower }}/
       placeholder="find a post"
     />
   </div>
-  {# use group by, see OpenSpec #}
-   {# <ol id="results" class="post-list" reversed >
-    {%- set posts = collections.post | reverse -%}
-    {% for year, post in posts | groupby("date.getFullYear()") %}
-    <li id="{{year}}">
-      <h2 class="list-header">{{ year }}</h2>
-    </li>  
-      {% for post in posts.slice(0,15) %}
-          {% include 'components/listItem.njk' %}
-      {% endfor %}
-      </details>
-    {% endfor %}
-  </ol> #}
 
   <ol id="results" class="post-list" reversed >
     {% set currentYear = "" %}
@@ -42,30 +29,13 @@ permalink: /{{ title | lower }}/
           {% set currentYear = postYear %}
           <li><h2 id="{{ postYear }}" class="list-header">{{ postYear }}</h2></li>
         {% endif %}
-      {% include 'components/listItem.njk' %}
+      {% include 'listItem.njk' %}
     {% endfor %}
     </ol>
     
     <div class="center">
       <button id="loadAll" class="btn">Load More</button>
     </div>
-  {# <div class="archive-container">
-  <aside>
-    <div class="nav-aside">
-      <h2>Year</h2>
-      {% set currentYear = "" %}
-      <ol>
-          {% for post in collections.post | reverse %}
-              {% set postYear = post.date.getFullYear() %}
-              {% if currentYear != postYear %}
-                {% set currentYear = postYear %}
-                <li><a href="#{{ postYear }}" class="list-header-link">{{ postYear }}</a></li>
-              {% endif %}
-          {% endfor %}
-      </ol>
-    </div>
-  </aside>
-  </div> #}
 
 </main>
-<script src="../includes/scripts/search.js" defer ></script>
+<script src="/assets/scripts/search.js" defer ></script>

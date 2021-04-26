@@ -12,7 +12,7 @@ eleventyExcludeFromCollections: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dashboard</title>
     <!-- Note the "type" and "rel" attribute values, which are required. -->
-    <link href="/images/logo.svg" rel="icon" type="image/svg+xml"/>
+    <link href="favicon.svg" rel="icon" type="image/svg+xml"/>
     <link href="../config.yml" type="text/yaml" rel="cms-config-url" />
   </head>
   <body>
@@ -23,8 +23,8 @@ eleventyExcludeFromCollections: true
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <!-- Include custom preview style and widgets -->
     <script>
-      CMS.registerPreviewStyle('../includes/styles/main.css');
-      CMS.registerPreviewStyle('../includes/styles/post.css');
+      CMS.registerPreviewStyle('../assets/styles/main.css');
+      CMS.registerPreviewStyle('../assets/styles/post.css');
     </script>
   </body>
 </html>

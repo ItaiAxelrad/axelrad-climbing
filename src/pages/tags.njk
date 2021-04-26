@@ -26,7 +26,7 @@ permalink: /tags/{{ tag | replace("'", "") | slug | url }}/
         {% set currentYear = postYear %}
         <h2 id="{{ postYear }}" class="list-header">{{ postYear }}</h2>
         {% endif %}
-      {% include 'components/listItem.njk' %}
+      {% include '/listItem.njk' %}
     {% endfor %}
     </ol>
   <aside>
@@ -49,4 +49,4 @@ permalink: /tags/{{ tag | replace("'", "") | slug | url }}/
 
   </main>
 
-<script src="/includes/scripts/observer.js" defer ></script>
+<script src="/assets/scripts/observer.js" defer ></script>

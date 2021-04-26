@@ -23,13 +23,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet"> #}
 
   <!-- Social: link preview and RSS/Atom -->
-  {%- include 'components/linkPreview.njk' -%}
+  {%- include 'linkPreview.njk' -%}
   <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.name}}">
 
   <!-- favicons -->
   <link href="/images/icon.png" rel="apple-touch-startup-image"/>
   <link href="/images/icon.png" rel="apple-touch-icon"/>
-  <link href="/images/logo.svg" rel="icon" type="image/svg+xml"/>
+  <link href="favicon.svg" rel="icon" type="image/svg+xml"/>
   <link
     href="/manifest.json"
     rel="manifest"
@@ -40,8 +40,8 @@
   <!-- capture the CSS content as a Nunjucks variable -->
   {% set css %}
     {# {% include "../styles/normalize.css" %} #}
-    {% include "../styles/main.css" %}
-    {% include "../styles/mobile.css" %}
+    {% include "../assets/styles/main.css" %}
+    {% include "../assets/styles/mobile.css" %}
   {% endset %}
   <!-- feed it through our cssmin filter to minify -->
   {% if layout != null %}
@@ -51,7 +51,7 @@
   {% endif %}
 
   {% if stylesheet %}
-  <link href="/includes/styles/{{ stylesheet }}.css" rel="stylesheet">
+  <link href="/assets/styles/{{ stylesheet }}.css" rel="stylesheet" type="text/css">
   {% endif %}
 
 </head>
