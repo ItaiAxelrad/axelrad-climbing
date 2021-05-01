@@ -16,7 +16,7 @@
       <a href="{{ entry.url | url }}" {% if page.url == entry.url %} aria-current="page" {% endif %}>{{ entry.data.title }}</a>
     {%- endfor -%}
   </div>
-  <button id="schemeBtn" name="color-scheme toggle" title="Toggle Dark / Light Mode" aria-label="color scheme toggle button" class="btn">
+  {# <button id="schemeBtn" name="color-scheme toggle" title="Toggle Dark / Light Mode" aria-label="color scheme toggle button" class="btn">
     <svg
             class="icon"
             viewBox="0 0 24 24"
@@ -36,5 +36,5 @@
         >
           <use xlink:href="/images/defs.svg#rss"></use>
   </svg>
-  </a>
+  </a> #}
 </nav>

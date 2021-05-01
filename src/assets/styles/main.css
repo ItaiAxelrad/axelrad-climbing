@@ -104,14 +104,9 @@ nav {
   justify-content: flex-end;
 }
 
+footer a,
 nav a {
   text-decoration: none;
-}
-
-nav .btn {
-  height: 2rem;
-  margin-inline-start: 0.25rem;
-  border: none;
 }
 
 .home {
@@ -123,8 +118,12 @@ nav .btn {
   text-transform: lowercase;
 }
 
+.theme {
+  color: var(--theme);
+}
+
 .pages {
-  background: var(--light-gray);
+  /* background: var(--light-gray); */
   border-radius: var(--radius);
   max-height: 32px;
   align-items: center;
@@ -135,19 +134,17 @@ nav .btn {
   color: var(--dark);
   padding: 4.5px 1.5rem;
   border-radius: var(--radius);
-  transition: 0.3s ease-out;
+  transition: 0.1s ease-out;
 }
 
 .pages a:not(:last-child) {
   margin-inline-end: 0.1rem;
 }
 
-.topNav [aria-current='page'],
-.topNav button:hover,
-.pages a:hover {
-  color: var(--dark);
-  background: var(--light);
-  box-shadow: var(--shadow);
+footer a:hover,
+nav a:hover,
+nav [aria-current='page'] {
+  color: var(--theme);
 }
 
 .pageNav {
