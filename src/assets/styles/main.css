@@ -122,18 +122,10 @@ nav a {
   color: var(--theme);
 }
 
-.pages {
-  /* background: var(--light-gray); */
-  border-radius: var(--radius);
-  max-height: 32px;
-  align-items: center;
-}
-
 .pages a {
   display: inline-flex;
   color: var(--dark);
-  padding: 4.5px 1.5rem;
-  border-radius: var(--radius);
+  padding: 4.5px 1rem;
   transition: 0.1s ease-out;
 }
 
@@ -157,6 +149,14 @@ nav [aria-current='page'] {
 
 .next-page {
   justify-self: right;
+}
+
+.menu {
+  color: currentColor;
+  background: none;
+  border: none;
+  display: none;
+  appearance: none;
 }
 
 /* type style  */
@@ -321,9 +321,7 @@ img {
 }
 
 button:focus {
-  outline: none;
-  background: var(--light);
-  box-shadow: 0 0 0 1px var(--light-gray);
+  color: var(--theme);
 }
 
 input {
@@ -365,6 +363,7 @@ main.posts > * {
   grid-template-columns: repeat(auto-fit, minmax(276.5px, 1fr));
   grid-template-rows: repeat(2, 275px);
   gap: 1.5rem;
+  justify-content: center;
 }
 
 .post {

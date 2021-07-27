@@ -11,11 +11,24 @@
       <a href="/"><strong>axelrad</strong> climbing</a>
   </div>
 
-  <div class="pages">
+  <div id="navlinks" class="pages closed" role="navigation" aria-expanded="false">
     {%- for entry in collections.pages -%}
       <a href="{{ entry.url | url }}" {% if page.url == entry.url %} aria-current="page" {% endif %}>{{ entry.data.title }}</a>
     {%- endfor -%}
   </div>
+  <!--hamburger menu button -->
+  <button type="button" id="menuBtn" class="button menu reset" aria-label="menu">
+    <svg
+      viewBox="0 0 448 512"
+      id="menuSvg"
+      class="icon menu"
+      role="img"
+      aria-hidden="false"
+      focusable="true"
+    >
+      <use xlink:href="/images/defs.svg#bars"></use>
+    </svg>
+  </button>
   {# <button id="schemeBtn" name="color-scheme toggle" title="Toggle Dark / Light Mode" aria-label="color scheme toggle button" class="btn">
     <svg
             class="icon"

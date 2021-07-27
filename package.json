@@ -7,7 +7,7 @@
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
     "debug": "DEBUG=Eleventy* eleventy",
-    "update": "npm i -g npm-check-updates && ncu -u && npm install"
+    "update": "npm i -g npm-check-updates && ncu -u && npm install && npm audit fix"
   },
   "author": {
     "name": "Itai Axelrad",
@@ -18,15 +18,15 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
-    "autoprefixer": "^10.2.5",
-    "cssnano": "^5.0.1",
-    "luxon": "^1.26.0",
-    "markdown-it": "^12.0.6",
+    "autoprefixer": "^10.3.1",
+    "cssnano": "^5.0.7",
+    "luxon": "^2.0.1",
+    "markdown-it": "^12.1.0",
     "markdown-it-image-lazy-loading": "^1.1.0",
     "markdown-it-implicit-figures": "^0.10.0",
     "markdown-it-replace-link": "^1.1.0",
-    "netlify-cms": "^2.10.117",
-    "postcss": "^8.2.13",
-    "terser": "^5.7.0"
+    "netlify-cms": "^2.10.150",
+    "postcss": "^8.3.6",
+    "terser": "^5.7.1"
   }
 }

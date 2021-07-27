@@ -1,10 +1,20 @@
+@media screen and (min-width: 1500px) {
+  body.grid-layout {
+    grid-template-columns: 1fr min(75ch, 100%) 1fr;
+  }
+  .posts {
+    grid-template-rows: repeat(2, 350px);
+  }
+}
+
 /* mobile style  */
 @media screen and (max-width: 748px) {
   body {
     padding: 0.75rem;
   }
   nav {
-    width: auto;
+    width: 100%;
+    padding: 0.5rem;
     justify-content: flex-start;
   }
   .pages {
@@ -46,11 +56,6 @@
 }
 
 @media screen and (max-width: 600px) {
-  .home {
-    display: block;
-    width: 100%;
-    margin: 0.5rem 0.5rem 1rem 0.5rem;
-  }
   .nav-aside {
     display: none;
   }
@@ -71,5 +76,33 @@
   th#comment:last-of-type,
   td:last-of-type {
     display: none;
+  }
+  .menu {
+    display: inline-block;
+  }
+  .pages {
+    display: flex;
+    position: absolute;
+    top: 4rem;
+    left: 0;
+    width: 100%;
+    background: var(--gray);
+    flex-wrap: wrap;
+    z-index: 100;
+  }
+  .pages a {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: large;
+  }
+  .closed {
+    visibility: hidden;
+    display: none;
+  }
+  .open {
+    visibility: visible;
+    display: block;
   }
 }
