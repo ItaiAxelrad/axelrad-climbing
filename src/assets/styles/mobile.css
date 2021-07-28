@@ -5,6 +5,12 @@
   .posts {
     grid-template-rows: repeat(2, 350px);
   }
+  .post-image {
+    height: 275px;
+  }
+  .featured-post img {
+    height: 350px;
+  }
 }
 
 /* mobile style  */
