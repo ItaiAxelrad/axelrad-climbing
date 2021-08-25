@@ -1,8 +1,9 @@
 @media screen and (min-width: 1500px) {
   body.grid-layout {
-    grid-template-columns: 1fr min(75ch, 100%) 1fr;
+    grid-template-columns: 1fr min(95ch, 100%) 1fr;
   }
   .posts {
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
     grid-template-rows: repeat(2, 350px);
   }
   .post-image {
