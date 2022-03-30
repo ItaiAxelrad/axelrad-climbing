@@ -1,5 +1,5 @@
 {
-  "name": "axeclimb",
+  "name": "axelrad-climbing",
   "version": "1.0.0",
   "description": "A climbing blog.",
   "scripts": {
@@ -16,17 +16,17 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-plugin-rss": "^1.1.1",
-    "autoprefixer": "^10.3.1",
-    "cssnano": "^5.0.7",
-    "luxon": "^2.0.1",
-    "markdown-it": "^12.1.0",
-    "markdown-it-image-lazy-loading": "^1.1.0",
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "autoprefixer": "^10.4.4",
+    "cssnano": "^5.1.5",
+    "luxon": "^2.3.1",
+    "markdown-it": "^12.3.2",
+    "markdown-it-image-lazy-loading": "^1.2.0",
     "markdown-it-implicit-figures": "^0.10.0",
     "markdown-it-replace-link": "^1.1.0",
-    "netlify-cms": "^2.10.150",
-    "postcss": "^8.3.6",
-    "terser": "^5.7.1"
+    "netlify-cms": "^2.10.190",
+    "postcss": "^8.4.12",
+    "terser": "^5.12.1"
   }
 }

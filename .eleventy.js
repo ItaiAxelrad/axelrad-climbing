@@ -14,9 +14,6 @@ const { minify } = require('terser');
 
 // eleventy configuration
 module.exports = function (eleventyConfig) {
-  // Opt in to a full deep merge when combining the Data Cascade
-  eleventyConfig.setDataDeepMerge(true);
-
   // add plugins
   eleventyConfig.addPlugin(pluginRss);
 
