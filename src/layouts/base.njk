@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   {%- include 'head.njk' -%}
-  <body class="grid-layout">
+  <body class="flex-column">
     {%- include 'topNav.njk' -%}
+    <main>
       {{ content | safe }}
+    </main>
     {%- include 'footer.njk' -%}
     <!-- capture the JS content as a Nunjucks variable -->
     {% set js %}

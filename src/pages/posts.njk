@@ -3,9 +3,7 @@ title: Posts
 stylesheet: taglist
 permalink: /{{ title | lower }}/
 ---
-
-<main class="archive">
-
+<div class="archive">
   <h1>{{ title }}</h1>
   <noscript>
     <p>JavaScript must be enabled to use the search function</p>
@@ -19,7 +17,6 @@ permalink: /{{ title | lower }}/
       placeholder="find a post"
     />
   </div>
-
   <ol id="results" class="post-list" reversed >
     {% set currentYear = "" %}
     {%- set posts = collections.post | reverse -%}
@@ -32,10 +29,8 @@ permalink: /{{ title | lower }}/
       {% include 'listItem.njk' %}
     {% endfor %}
     </ol>
-    
     <div class="center">
       <button id="loadAll" class="btn">Load More</button>
     </div>
-
-</main>
+</div>
 <script src="/assets/scripts/search.js" defer ></script>

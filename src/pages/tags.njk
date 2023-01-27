@@ -10,13 +10,9 @@ eleventyComputed:
   title: Posts Tagged '{{ tag }}'
 permalink: /tags/{{ tag | replace("'", "") | slug | url }}/
 ---
-<main>
-
 <h1>{{ title }}</h1>
-  <p>Search <a href="/tags">all tags</a></p>
-  
-  <div class="archive-container">
-
+<p>Search <a href="/tags">all tags</a></p>
+<div class="archive-container">
   <ol class="post-list" reversed >
     {% set currentYear = "" %}
     {% set taglist = collections[tag] %}
@@ -44,9 +40,5 @@ permalink: /tags/{{ tag | replace("'", "") | slug | url }}/
       </ol>
     </div>
   </aside>
-  
-  </div>
-
-  </main>
-
+</div>
 <script src="/assets/scripts/observer.js" defer ></script>

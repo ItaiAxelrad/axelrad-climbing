@@ -18,8 +18,6 @@ We woke up Saturday and headed west, up into the mountains to climb and escape t
 
 ![The view from a Charleston cave](uploads/IMG_3505.JPG)
 
-The blue and white limestone caves are notorious for their pockets and lack of foot holds. I discovered this myself, on the first climb of the day, Heatin' Up The Hood (5.11c). Charlie and Isaac ran up the climb. I reached the top after taking several times. I lowered, and to Isaac's disbelief I was so flash pumped that I could not belay. Emily climbed up to the last clip and fell.
-
 The blue and white limestone caves are notorious for their pockets and lack of foot holds. I discovered this myself, on the first climb of the day, Heatin' Up the Hood (5.11c). Charlie and Isaac ran up the warm-up. I reached the top after taking taking several times. I lowered, and to Isaac's disbelief, I was so flash pumped that I could not belay. Emily climbed up to the last clip before taking a fall.
 
 ![Emily Heatin' Up the Hood...and taking a fall](uploads/IMG_3420.jpg)

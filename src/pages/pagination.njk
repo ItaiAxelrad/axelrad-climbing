@@ -8,13 +8,9 @@ pagination:
   size: 4
   alias: posts
 ---
-
-<main class="posts">
-
+<div class="posts">
   {% for post in posts %}
     {%- include 'postCard.njk' -%}
   {% endfor %}
-
-</main>
-
+</div>
 {%- include 'pageNav.njk' -%}

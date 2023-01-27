@@ -4,7 +4,7 @@ form {
   display: block;
   margin: 1rem auto;
   padding: 1rem 0;
-  max-width: 450px;
+  max-width: 40ch;
 }
 
 input[type='submit'] {

@@ -4,18 +4,13 @@ layout: base.njk
 eleventyExcludeFromCollections: true
 permalink: index.html
 ---
-
-<main class="posts">
-
+<div class="posts">
   {%- include 'featuredPost.njk' -%}
-
   {%- set posts = collections.post | reverse -%}
   {%- for post in posts.slice(1, 3) -%}
     {%- include 'postCard.njk' -%}
   {%- endfor -%}
-
-</main>
-
+</div>
 <nav class="pageNav">
   <div class="previous-page"></div>
   <div class="next-page">

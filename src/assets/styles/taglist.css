@@ -103,7 +103,7 @@ a.active {
 
 .search-container {
   display: flex;
-  gap: 0.5rem;
+  gap: 1.5rem;
   margin-block-end: 1rem;
   align-items: center;
 }
@@ -129,7 +129,7 @@ input:focus {
 
   li.list-item {
     grid-template-columns: auto auto;
-    gap: 0.25rem 1rem;
+    gap: 0.5rem 1rem;
   }
 
   li.list-item strong {

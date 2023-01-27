@@ -3,12 +3,9 @@ title: Contact
 stylesheet: contact
 permalink: /{{ title | lower }}/
 ---
-<main>
-
 <section>
   <h1>{{ title }}</h1>
   <p>Got a question or comment? Get in touch!</p>
-
   <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="form-contact">
     <div hidden aria-hidden="true">
       <label>
@@ -42,7 +39,6 @@ permalink: /{{ title | lower }}/
     <input type="submit"/>
   </form>
 </section>
-
 <section>
   <h2>Comments</h2>
   {%- for comment in comments.comments | reverse %}
@@ -59,5 +55,3 @@ permalink: /{{ title | lower }}/
     {%- endif %}
   {%- endfor %}
 </section>
-
-</main>
