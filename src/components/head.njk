@@ -17,15 +17,9 @@
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
   <meta name="apple-mobile-web-app-title" content="blog"/>
-  <!-- Fonts -->
-  {# <link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="">
-  <link href="https://fonts.googleapis.com/css2?family=Vollkorn:wght@700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet"> #}
-
   <!-- Social: link preview and RSS/Atom -->
   {%- include 'linkPreview.njk' -%}
   <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.name}}">
-
   <!-- favicons -->
   <link href="/images/icon.png" rel="apple-touch-startup-image"/>
   <link href="/images/icon.png" rel="apple-touch-icon"/>
@@ -36,7 +30,6 @@
     type="application/json"
     crossorigin="use-credentials"
 />
-
   <!-- capture the CSS content as a Nunjucks variable -->
   {% set css %}
     {# {% include "../styles/normalize.css" %} #}
@@ -49,9 +42,7 @@
     {{ css | postCSS | safe }}
   </style>
   {% endif %}
-
   {% if stylesheet %}
   <link href="/assets/styles/{{ stylesheet }}.css" rel="stylesheet" type="text/css">
   {% endif %}
-
 </head>

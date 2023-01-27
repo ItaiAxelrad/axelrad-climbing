@@ -1,15 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
   {%- include 'head.njk' -%}
   <body class="grid-layout">
-
     {%- include 'topNav.njk' -%}
-
       {{ content | safe }}
-
     {%- include 'footer.njk' -%}
-
     <!-- capture the JS content as a Nunjucks variable -->
     {% set js %}
       {% include "../assets/scripts/main.js" %}
@@ -18,6 +13,5 @@
     <script>
       {{ js | jsmin | safe }}
     </script>
-
   </body>
 </html>

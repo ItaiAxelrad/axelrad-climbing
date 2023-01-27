@@ -2,16 +2,16 @@
   <div class="next">
     {%- set nextPost = collections.post | getNextCollectionItem(page) -%}
     {%- if nextPost -%}
-    <small>Next Post:</small><br>
-    <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
+      <small>Next Post:</small><br>
+      <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
     {%- else -%} 
     {%- endif -%}
   </div>
   <div class="previous">
     {%- set previousPost = collections.post | getPreviousCollectionItem(page) -%}
     {%- if previousPost -%}
-    <small>Previous Post:</small><br>
-    <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
+      <small>Previous Post:</small><br>
+      <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
     {%- else -%}
     {%- endif -%}
   </div>

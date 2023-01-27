@@ -4,12 +4,12 @@
   --ff-serif: Georgia, Times, serif;
   --ff-mono: Menlo, Consolas, monospace;
   /* color scheme */
-  --theme: hsl(45, 90%, 52%);
-  --light: hsl(225, 15%, 99%);
-  --light-gray: hsl(225, 15%, 97%);
-  --gray: hsl(225, 15%, 94%);
-  --dark-gray: hsl(45, 15%, 27%);
-  --dark: hsl(45, 15%, 18%);
+  --theme: hsl(40, 80%, 50%);
+  --light: hsl(220, 20%, 99%);
+  --light-gray: hsl(220, 20%, 97%);
+  --gray: hsl(220, 20%, 94%);
+  --dark-gray: hsl(220, 20%, 27%);
+  --dark: hsl(220, 20%, 18%);
   --opaque: hsla(0, 0%, 50%, 0.5);
   --opaquer: hsla(0, 0%, 70%, 0.1);
   /* UI parts */
@@ -21,12 +21,12 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --theme: hsl(45, 90%, 52%);
-    --light: hsl(225, 15%, 22%);
-    --light-gray: hsl(225, 15%, 17%);
-    --gray: hsl(225, 15%, 13%);
-    --dark-gray: hsl(45, 15%, 73%);
-    --dark: hsl(45, 15%, 80%);
+    --theme: hsl(40, 80%, 50%);
+    --light: hsl(220, 20%, 22%);
+    --light-gray: hsl(220, 20%, 17%);
+    --gray: hsl(220, 20%, 13%);
+    --dark-gray: hsl(200, 20%, 70%);
+    --dark: hsl(200, 20%, 80%);
     --opaque: hsla(0, 0%, 50%, 0.5);
     --opaquer: hsla(0, 0%, 10%, 0.5);
     --shadow: 0px 2px 16px var(--opaquer);
@@ -37,12 +37,12 @@
 
 /* dark light mode */
 .scheme-dark {
-  --theme: hsl(45, 90%, 52%);
-  --light: hsl(225, 15%, 22%);
-  --light-gray: hsl(225, 15%, 17%);
-  --gray: hsl(225, 15%, 13%);
-  --dark-gray: hsl(45, 15%, 73%);
-  --dark: hsl(45, 15%, 80%);
+  --theme: hsl(40, 90%, 52%);
+  --light: hsl(220, 20%, 22%);
+  --light-gray: hsl(220, 20%, 17%);
+  --gray: hsl(220, 20%, 13%);
+  --dark-gray: hsl(200, 20%, 70%);
+  --dark: hsl(200, 20%, 80%);
   --opaque: hsla(0, 0%, 50%, 0.5);
   --opaquer: hsla(0, 0%, 10%, 0.5);
   --shadow: 0px 2px 16px var(--opaquer);
@@ -51,12 +51,12 @@
 }
 
 .scheme-light {
-  --theme: hsl(45, 90%, 52%);
-  --light: hsl(225, 15%, 99%);
-  --light-gray: hsl(225, 15%, 97%);
-  --gray: hsl(225, 15%, 94%);
-  --dark-gray: hsl(45, 15%, 27%);
-  --dark: hsl(45, 15%, 18%);
+  --theme: hsl(40, 90%, 52%);
+  --light: hsl(220, 20%, 99%);
+  --light-gray: hsl(220, 20%, 97%);
+  --gray: hsl(220, 20%, 94%);
+  --dark-gray: hsl(220, 20%, 27%);
+  --dark: hsl(220, 20%, 18%);
   --opaque: hsla(0, 0%, 50%, 0.5);
   --opaquer: hsla(0, 0%, 70%, 0.1);
   --shadow: 0px 2px 16px var(--opaquer);
@@ -136,7 +136,7 @@ nav a {
 footer a:hover,
 nav a:hover,
 nav [aria-current='page'] {
-  color: var(--theme);
+  text-decoration: underline var(--theme);
 }
 
 .pageNav {
@@ -302,6 +302,7 @@ img {
   vertical-align: top;
   height: 1.5rem;
   margin-inline-end: 0.15rem;
+  color: var(--theme);
 }
 
 .btn {
