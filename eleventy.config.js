@@ -1,6 +1,5 @@
 // Plugins
 const pluginRss = require('@11ty/eleventy-plugin-rss');
-const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
 // Parsers
 const markdownIt = require('markdown-it');
 const lazy_loading = require('markdown-it-image-lazy-loading');
@@ -17,7 +16,6 @@ const { minify } = require('terser');
 module.exports = function (eleventyConfig) {
   // add plugins
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(bundlerPlugin);
 
   /* Markdown */
   let markdownLibrary = markdownIt({
@@ -38,16 +36,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary('md', markdownLibrary);
 
   // add passthrough files
-  eleventyConfig.addPassthroughCopy([
-    'src/favicon.svg',
-    'src/config.yml',
-    'src/sw.js',
-    'src/manifest.json',
-    'src/images',
-    'src/data',
-    'src/assets',
-    'src/posts/*/uploads/*',
-  ]);
+  eleventyConfig.addPassthroughCopy({'src/public.svg': '/'});
+  eleventyConfig.addPassthroughCopy('src/images');
+  eleventyConfig.addPassthroughCopy('src/data');
+  eleventyConfig.addPassthroughCopy('src/assets');
+  eleventyConfig.addPassthroughCopy('src/posts/*/uploads/*');
 
   // postCSS filter
   eleventyConfig.addNunjucksAsyncFilter(
