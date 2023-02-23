@@ -1,5 +1,6 @@
 // Plugins
 const pluginRss = require('@11ty/eleventy-plugin-rss');
+const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
 // Parsers
 const markdownIt = require('markdown-it');
 const lazy_loading = require('markdown-it-image-lazy-loading');
@@ -16,6 +17,7 @@ const { minify } = require('terser');
 module.exports = function (eleventyConfig) {
   // add plugins
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(bundlerPlugin);
 
   /* Markdown */
   let markdownLibrary = markdownIt({
@@ -36,47 +38,49 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary('md', markdownLibrary);
 
   // add passthrough files
-  eleventyConfig.addPassthroughCopy('src/favicon.svg');
-  eleventyConfig.addPassthroughCopy('src/config.yml');
-  eleventyConfig.addPassthroughCopy('src/sw.js');
-  eleventyConfig.addPassthroughCopy('src/manifest.json');
-  eleventyConfig.addPassthroughCopy('src/images');
-  eleventyConfig.addPassthroughCopy('src/data');
-  eleventyConfig.addPassthroughCopy('src/assets');
-  eleventyConfig.addPassthroughCopy('src/posts/*/uploads/*');
+  eleventyConfig.addPassthroughCopy([
+    'src/favicon.svg',
+    'src/config.yml',
+    'src/sw.js',
+    'src/manifest.json',
+    'src/images',
+    'src/data',
+    'src/assets',
+    'src/posts/*/uploads/*',
+  ]);
 
   // postCSS filter
-  eleventyConfig.addNunjucksAsyncFilter('postCSS', async function (
-    code,
-    callback
-  ) {
-    try {
-      return await postcss([autoprefixer, cssnano])
-        .process(code, { from: 'undefined' })
-        .then(function (result) {
-          callback(null, result.css);
-        });
-    } catch (err) {
-      console.error('postCSS error: ', err);
-      // Fail gracefully.
-      callback(null, code);
+  eleventyConfig.addNunjucksAsyncFilter(
+    'postCSS',
+    async function (code, callback) {
+      try {
+        return await postcss([autoprefixer, cssnano])
+          .process(code, { from: 'undefined' })
+          .then(function (result) {
+            callback(null, result.css);
+          });
+      } catch (err) {
+        console.error('postCSS error: ', err);
+        // Fail gracefully.
+        callback(null, code);
+      }
     }
-  });
+  );
 
   // minify JS filter for inline injection
-  eleventyConfig.addNunjucksAsyncFilter('jsmin', async function (
-    code,
-    callback
-  ) {
-    try {
-      const minified = await minify(code);
-      callback(null, minified.code);
-    } catch (err) {
-      console.error('Terser error: ', err);
-      // Fail gracefully.
-      callback(null, code);
+  eleventyConfig.addNunjucksAsyncFilter(
+    'jsmin',
+    async function (code, callback) {
+      try {
+        const minified = await minify(code);
+        callback(null, minified.code);
+      } catch (err) {
+        console.error('Terser error: ', err);
+        // Fail gracefully.
+        callback(null, code);
+      }
     }
-  });
+  );
 
   // parse datetime to readable
   eleventyConfig.addFilter('readableDate', (dateObj) => {
@@ -138,6 +142,9 @@ module.exports = function (eleventyConfig) {
 
   // Base Config
   return {
+    templateFormats: ['njk', 'md', 'html'],
+    htmlTemplateEngine: 'njk',
+    markdownTemplateEngine: 'njk',
     dir: {
       input: 'src',
       output: 'dist',
@@ -145,8 +152,5 @@ module.exports = function (eleventyConfig) {
       layouts: 'layouts',
       data: 'data',
     },
-    templateFormats: ['njk', 'md'],
-    htmlTemplateEngine: 'njk',
-    markdownTemplateEngine: 'njk',
   };
 };

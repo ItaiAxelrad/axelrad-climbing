@@ -82,11 +82,12 @@ body {
   min-height: 100vh;
 }
 
+main {  flex-grow: 1; }
+
 nav,
 main {
   width: 100%;
   max-width: 64ch;
-  flex-grow: 1;
 }
 
 /* navigation */
@@ -355,19 +356,19 @@ input {
   background: var(--light-gray);
   border-radius: var(--radius);
   text-decoration: none;
-  transition: 0.3s ease-out;
+  transition: all .3s cubic-bezier(0,0,.5,1);
+  box-shadow: var(--shadow);
+  will-change: transform;
+  backface-visibility: hidden;
 }
 
 .post:hover {
-  will-change: transform;
-  backface-visibility: hidden;
   background: var(--light);
-  transform: translateY(-0.5px);
-  box-shadow: var(--shadow);
+  transform: scale3d(1.005,1.005,1.005);
 }
 
 .post:hover img {
-  filter: brightness(1.02);
+  filter: brightness(1.01);
 }
 
 .post-info {
