@@ -36,7 +36,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary('md', markdownLibrary);
 
   // add passthrough files
-  eleventyConfig.addPassthroughCopy({'src/public.svg': '/'});
+  eleventyConfig.addPassthroughCopy('src/config.yml');
+  eleventyConfig.addPassthroughCopy('src/favicon.svg');
+  eleventyConfig.addPassthroughCopy('src/manifest.json');
+  eleventyConfig.addPassthroughCopy('src/sw.js');
   eleventyConfig.addPassthroughCopy('src/images');
   eleventyConfig.addPassthroughCopy('src/data');
   eleventyConfig.addPassthroughCopy('src/assets');
