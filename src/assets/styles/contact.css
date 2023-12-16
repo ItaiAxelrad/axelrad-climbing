@@ -1,4 +1,3 @@
-
 /* form styles */
 form {
   display: block;
@@ -43,14 +42,13 @@ textarea {
 }
 
 /* comments and replies */
-.reply {
+.replies {
   margin-inline-start: 2rem;
 }
 
-.reply::before {
+.replies::before {
   content: '⤷';
   position: absolute;
-  margin-block-start: -1.5rem;
-  margin-inline-start: -2.5rem;
+  margin-inline-start: -1.5rem;
   color: var(--dark-gray);
 }

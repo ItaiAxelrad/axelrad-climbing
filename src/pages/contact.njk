@@ -47,11 +47,15 @@ permalink: /{{ title | lower }}/
       <small>{{ comment.author }} commented on  <time datetime="{{ comment.date }}">{{ comment.date }}</time></small>
       <blockquote>{{ comment.body }}</blockquote>
     </div>
-    {%- if comment.replies. author %}
-      <div class="card reply">
-        <small>{{ comment.replies.author }} replied on <time datetime="{{ comment.replies.date }}">{{ comment.replies.date }}</time></small>
-        <blockquote>{{ comment.replies.body }}</blockquote>
+    {%- if comment.replies %}
+    <div class='replies'>
+    {%- for comment in comment.replies %}
+      <div class="card">
+        <small>{{ comment.author }} replied on <time datetime="{{ comment.date }}">{{ comment.date }}</time></small>
+        <blockquote>{{ comment.body }}</blockquote>
       </div>
+    {%- endfor %}
+    </div>
     {%- endif %}
   {%- endfor %}
 </section>
