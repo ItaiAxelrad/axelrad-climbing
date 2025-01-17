@@ -1,19 +1,16 @@
-// Plugins
-const pluginRss = require('@11ty/eleventy-plugin-rss');
-// Parsers
-const markdownIt = require('markdown-it');
-const lazy_loading = require('markdown-it-image-lazy-loading');
-const implicitFigures = require('markdown-it-implicit-figures');
-const replaceLink = require('markdown-it-replace-link');
-const { DateTime } = require('luxon');
-// minify tasks
-const postcss = require('postcss');
-const cssnano = require('cssnano');
-const autoprefixer = require('autoprefixer');
-const { minify } = require('terser');
+import pluginRss from '@11ty/eleventy-plugin-rss';
+import markdownIt from 'markdown-it';
+import lazy_loading from 'markdown-it-image-lazy-loading';
+import implicitFigures from 'markdown-it-implicit-figures';
+import replaceLink from 'markdown-it-replace-link';
+import { DateTime } from 'luxon';
+import postcss from 'postcss';
+import cssnano from 'cssnano';
+import autoprefixer from 'autoprefixer';
+import { minify } from 'terser';
 
-// eleventy configuration
-module.exports = function (eleventyConfig) {
+/** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
+export default async function (eleventyConfig) {
   // add plugins
   eleventyConfig.addPlugin(pluginRss);
 
@@ -135,18 +132,16 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('pagedPosts', (collectionApi) => {
     return collectionApi.getFilteredByTag('post').reverse().slice(3);
   });
+}
 
-  // Base Config
-  return {
-    templateFormats: ['njk', 'md', 'html'],
-    htmlTemplateEngine: 'njk',
-    markdownTemplateEngine: 'njk',
-    dir: {
-      input: 'src',
-      output: 'dist',
-      includes: 'components',
-      layouts: 'layouts',
-      data: 'data',
-    },
-  };
+export const config = {
+  templateFormats: ['njk', 'md', 'html'],
+  htmlTemplateEngine: 'njk',
+  markdownTemplateEngine: 'njk',
+  dir: {
+    input: 'src',
+    includes: 'components',
+    layouts: 'layouts',
+    data: 'data',
+  },
 };
