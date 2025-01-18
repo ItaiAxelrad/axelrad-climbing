@@ -1,6 +1,6 @@
 [build]
-  publish = "dist"
-  command = "DEBUG=* eleventy"
+	publish = "_site"
+	command = "npm run build"
 
 # Default site wide settings
 [build.processing]

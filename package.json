@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A climbing blog for Eden and Itai Axelrad.",
   "scripts": {
-    "build": "eleventy",
+    "build": "npx @11ty/eleventy",
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
     "debug": "DEBUG=Eleventy* eleventy",
