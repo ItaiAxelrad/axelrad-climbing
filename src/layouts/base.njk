@@ -9,6 +9,7 @@
     {%- include 'footer.njk' -%}
     <!-- capture the JS content as a Nunjucks variable -->
     {% set js %}
+      {% include "../assets/scripts/service-worker.js" %}
       {% include "../assets/scripts/main.js" %}
     {% endset %}
     <!-- feed it through our jsmin filter to minify -->
