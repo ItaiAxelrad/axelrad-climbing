@@ -3,12 +3,14 @@ form {
   display: block;
   margin: 1rem auto;
   padding: 1rem 0;
-  max-width: 40ch;
+  /* max-width: 40ch; */
 }
 
 input[type='submit'] {
   color: currentColor;
   background: var(--light-gray);
+  font-weight: bold;
+  font-size: 1rem;
 }
 
 input[type='submit']:hover {
