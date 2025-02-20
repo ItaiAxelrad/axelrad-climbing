@@ -33,6 +33,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.setLibrary('md', markdownLibrary);
 
   // add passthrough files
+  eleventyConfig.addPassthroughCopy('src/admin');
   eleventyConfig.addPassthroughCopy('src/config.yml');
   eleventyConfig.addPassthroughCopy('src/favicon.svg');
   eleventyConfig.addPassthroughCopy('src/manifest.json');
