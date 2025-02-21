@@ -3,11 +3,21 @@ title: 'Presidents Day Bishop Trip'
 date: 2013-03-08T10:38:00-08:00
 updated: 2013-03-08T10:40:50-08:00
 thumbnail: 'uploads/IMG_6255.JPG'
-uploads: ['IMG_6255.JPG', 'IMG_6327.JPG', 'IMG_6347_2.JPG', 'IMG_6395.JPG', 'BishopFeb038_flat.jpg', 'BishopFeb045_flat.jpg', 'BishopFeb027_flat.jpg', 'BishopFeb007_flat.jpg']
+uploads:
+  [
+    'IMG_6255.JPG',
+    'IMG_6327.JPG',
+    'IMG_6347_2.JPG',
+    'IMG_6395.JPG',
+    'BishopFeb038_flat.jpg',
+    'BishopFeb045_flat.jpg',
+    'BishopFeb027_flat.jpg',
+    'BishopFeb007_flat.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 7201376457507176611
 location: 'Bishop, CA'
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'Climbing', 'Itai', 'The Swarm']
+tags: ['bishop', 'buttermilks', 'California', 'The Swarm']
 ---
 
 It was a beautiful three-day weekend. The weather was perfect and people flocked to Bishop from all over the country. Despite the large crowds, Jason, Nick, Cody and I still managed to have a great time climbing, heckling and stargazing. Here are some photos of the trip:

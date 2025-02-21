@@ -3,11 +3,32 @@ title: 'Vegas'
 date: 2015-12-28T21:11:00-08:00
 updated: 2016-01-12T18:04:46-08:00
 thumbnail: 'uploads/IMG_7578.JPG'
-uploads: ['IMG_7578.JPG', 'IMG_3333.jpg', 'IMG_3323.jpg', 'IMG_3345.jpg', 'IMG_3348.jpg', 'IMG_3354.jpg']
+uploads:
+  [
+    'IMG_7578.JPG',
+    'IMG_3333.jpg',
+    'IMG_3323.jpg',
+    'IMG_3345.jpg',
+    'IMG_3348.jpg',
+    'IMG_3354.jpg',
+  ]
 author: 'Eden Axelrad'
 id: 3543772926963033921
 location: 'Las Vegas, CA'
-tags: ['Axelrad', 'blog', 'Bouldering', 'boulders', 'Canyon', 'Climbing', 'cold', 'Five Ten', 'Red', 'Red Rocks', 'road trip', 'sandstone', 'velvet']
+tags:
+  [
+    'blog',
+
+    'boulders',
+    'Canyon',
+
+    'cold',
+    'Red',
+    'Red Rocks',
+    'road trip',
+    'sandstone',
+    'velvet',
+  ]
 ---
 
 Itai and I headed out to Red Rocks over the holiday break for a nice weekend in the desert. On our first day out we pulled into the Kraft/Gateway parking lot and immediately ran into Vitaly, our climbing friend. The three of us spent the day jumping on various hard problems along the canyon. However, no one whipped out a camera so the lack of progress went undocumented.

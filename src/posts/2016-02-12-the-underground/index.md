@@ -19,18 +19,7 @@ uploads:
 author: 'Itai Axelrad'
 id: 8877279212193941505
 location: 'Joshua Tree, CA'
-tags:
-  [
-    'Axelrad',
-    'California',
-    'Eden',
-    'granite',
-    'highball',
-    'Itai',
-    'Joshua',
-    'Tree',
-    'underground',
-  ]
+tags: ['California', 'granite', 'highball', 'Joshua', 'Tree', 'underground']
 ---
 
 We awoke after a short sleep in what must have been the last camping spot in the whole park and headed down the dirt road to Queen Mountain pullout. Cody, Eden and I had discussed hiking out to the underground for several months, and today was finally the day. The infamous approach deters most, but we felt up for the challenge and the opportunity to escape the crowds.

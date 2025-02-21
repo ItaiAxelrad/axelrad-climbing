@@ -1,13 +1,39 @@
 ---
-title: 'First Bishop Trip of 2018'
+title: "First Bishop Trip of 2018"
 date: 2018-01-17T18:02:00-08:00
 updated: 2018-01-17T18:02:40-08:00
-thumbnail: 'uploads/IMG_5440.JPG'
-uploads: ['IMG_5440.JPG', 'IMG_5405.JPG', '7650975184_IMG_3825.JPG', 'IMG_3851.JPG', 'IMG_3864.JPG', '7650975184_IMG_4073.JPG', 'IMG_5482.JPG', '7650975184_IMG_4106.JPG']
-author: 'Eden Axelrad'
+thumbnail: "uploads/IMG_5440.JPG"
+uploads:
+  [
+    "IMG_5440.JPG",
+    "IMG_5405.JPG",
+    "7650975184_IMG_3825.JPG",
+    "IMG_3851.JPG",
+    "IMG_3864.JPG",
+    "7650975184_IMG_4073.JPG",
+    "IMG_5482.JPG",
+    "7650975184_IMG_4106.JPG",
+  ]
+author: "Eden Axelrad"
 id: 194042019837142886
-location: 'Bishop, CA'
-tags: ['a maze of death', 'adventure', 'Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'Climbing', 'Druid Stones', 'Eden', 'Five Ten', 'gasperini', 'Itai', 'outdoors', 'v12']
+location: "Bishop, CA"
+tags:
+  [
+    "a maze of death",
+    "adventure",
+
+    "bishop",
+
+    "buttermilks",
+    "California",
+
+    "Druid Stones",
+
+    "gasperini",
+
+    "outdoors",
+    "V12",
+  ]
 ---
 
 Marina, Itai, and I took advantage of a three day weekend and drove out to Bishop early Saturday morning. We set up camp and got to climbing!

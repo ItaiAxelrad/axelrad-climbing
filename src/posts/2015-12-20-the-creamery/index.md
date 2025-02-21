@@ -7,7 +7,7 @@ uploads: ['IMG_2913.jpg', 'IMG_2946.jpg', 'IMG_2931.jpg', 'IMG_2960.jpg']
 author: 'Eden Axelrad'
 id: 876444965921602113
 location: 'Santa Barbara, CA'
-tags: ['Axelrad', 'Bouldering', 'Brickyard', 'California', 'Five Ten', 'highball', 'sandstone', 'Santa Barbara']
+tags: ['Brickyard', 'California', 'highball', 'sandstone', 'Santa Barbara']
 ---
 
 This fall, Eden and I made a quick trip out to Santa Barbara. We explored the area known as The Creamery that sits just bellow the Brickyard and Lizard's Mouth. Our primary goal for the trip was the area test-piece, First Come First Served. This gem of a problem was put up by SB local strong man, Thomas Townsend. Here are some photos from the quick trip:

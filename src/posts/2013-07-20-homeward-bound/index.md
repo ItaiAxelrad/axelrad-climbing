@@ -3,11 +3,19 @@ title: 'Homeward Bound'
 date: 2013-07-20T15:06:00-07:00
 updated: 2013-08-08T15:07:39-07:00
 thumbnail: 'uploads/IMG_7725.jpg'
-uploads: ['IMG_7725.jpg', 'IMG_7748.jpg', 'IMG_7758.jpg', 'IMG_7742.jpg', 'IMG_7790.jpg', 'IMG_7824.jpg']
+uploads:
+  [
+    'IMG_7725.jpg',
+    'IMG_7748.jpg',
+    'IMG_7758.jpg',
+    'IMG_7742.jpg',
+    'IMG_7790.jpg',
+    'IMG_7824.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 469727283989317490
 location: 'Leavenworth, WA'
-tags: ['Axelrad', 'Bouldering', 'boulders', 'Itai', 'Leavenworth', 'road trip', 'Rock', 'Smith']
+tags: ['boulders', 'Leavenworth', 'road trip', 'Rock', 'Smith']
 ---
 
 On the way home from Squamish we drove through central Washington towards Leavenworth, the state’s Bavarian village (or 1.3 square miles of practical joke). We were welcomed by the unpleasant sight of round tourists and the unpleasant sound of old Bavarian music playing from a raised speaker at the center of town. After a quick obligatory bratwurst and beer we headed towards the dusty parking lot that was to be our home.

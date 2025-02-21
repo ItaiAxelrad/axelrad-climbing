@@ -3,11 +3,32 @@ title: 'Squamish (Part II)'
 date: 2017-08-25T16:14:00-07:00
 updated: 2017-08-25T16:21:46-07:00
 thumbnail: 'uploads/FullSizeRender%209.jpg'
-uploads: ['FullSizeRender%209.jpg', 'IMG_4787.JPG', 'IMG_4741.JPG', 'IMG_4756.JPG', 'IMG_4764.JPG', 'IMG_4774.JPG', 'IMG_4789.JPG']
+uploads:
+  [
+    'FullSizeRender%209.jpg',
+    'IMG_4787.JPG',
+    'IMG_4741.JPG',
+    'IMG_4756.JPG',
+    'IMG_4764.JPG',
+    'IMG_4774.JPG',
+    'IMG_4789.JPG',
+  ]
 author: 'Itai Axelrad'
 id: 4858288617202703986
 location: 'Squamish, BC, Canada'
-tags: ['Axelrad', 'blog', 'Bouldering', 'Five Ten', 'forest', 'granite', 'highball', 'murrin park', 'north wall', 'squaminator', 'Squamish', 'summoning']
+tags:
+  [
+    'blog',
+
+    'forest',
+    'granite',
+    'highball',
+    'murrin park',
+    'north wall',
+    'squaminator',
+    'Squamish',
+    'summoning',
+  ]
 ---
 
 Cody and I were left alone in the campsite and relegated to a party of two. We kept up the motivation and made it a goal not to take any rest days and climb as many problems as we could. This involved checking out new areas that we had never been to on previous trips, but first, we spent some time in the familiar grand wall area and filled all the unchecked boxes in our guidebook.

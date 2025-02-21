@@ -3,11 +3,20 @@ title: 'Malibu Bouldering'
 date: 2012-08-20T10:44:00-07:00
 updated: 2013-01-22T21:50:17-08:00
 thumbnail: 'uploads/IMG_4528.JPG'
-uploads: ['IMG_4528.JPG', 'IMG_4514.jpg', 'IMG_4544.jpg', 'IMG_4561.jpg', 'IMG_4572.jpg', 'IMG_4585.JPG', 'IMG_4611.jpg']
+uploads:
+  [
+    'IMG_4528.JPG',
+    'IMG_4514.jpg',
+    'IMG_4544.jpg',
+    'IMG_4561.jpg',
+    'IMG_4572.jpg',
+    'IMG_4585.JPG',
+    'IMG_4611.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 7602402492623889883
 location: 'Malibu, CA'
-tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Itai', 'Malibu']
+tags: ['California', 'Malibu']
 ---
 
 Climbing in 90 percent humidity, 90 degree weather is less than ideal. Isaac, Miguel, Mariana, Eden and I discovered this yesterday while trying some of Malibu Creeks's finest climbs. We still enjoyed the day despite the heat. Here are some photos:

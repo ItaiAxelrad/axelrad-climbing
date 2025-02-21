@@ -7,7 +7,7 @@ uploads: ['IMG_3330.jpg', 'ike.jpg']
 author: 'Itai Axelrad'
 id: 5441408441798322037
 location: 'Lincoln Woods State Park, RI'
-tags: ['Axelrad', 'Bouldering', 'Climbing', 'Five', 'Five Ten', 'granite', 'Itai', 'Lincoln', 'Woods']
+tags: ['granite', 'Lincoln', 'Woods']
 ---
 
 What's a vacation without climbing?

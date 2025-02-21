@@ -3,11 +3,19 @@ title: 'Red Rock Canyon'
 date: 2016-12-30T13:51:00-08:00
 updated: 2016-12-30T13:52:47-08:00
 thumbnail: 'uploads/IMG_3889.jpg'
-uploads: ['IMG_3889.jpg', 'IMG_3897.jpg', 'IMG_3898.jpg', 'IMG_3893.jpg', 'IMG_3902.jpg', 'IMG_3912.jpg']
+uploads:
+  [
+    'IMG_3889.jpg',
+    'IMG_3897.jpg',
+    'IMG_3898.jpg',
+    'IMG_3893.jpg',
+    'IMG_3902.jpg',
+    'IMG_3912.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 1812482651326744158
 location: 'Las Vegas, NV'
-tags: ['Axelrad', 'Bouldering', 'Five Ten', 'flash', 'highball', 'Itai', 'Las Vegas', 'Nevada', 'Red Rocks']
+tags: ['flash', 'highball', 'Las Vegas', 'Nevada', 'Red Rocks']
 ---
 
 Cody and I returned to Red Rock Canyon for some sandstone bouldering for our new winter time tradition. This seems to be a tradition not just for us, but for about 10,000 other climbers so we started off the trip high above the Kraft area boulders to escape the crowds on Bitch Slap 5. This route is a fantastic power endurance test piece and certainly deserves its three-star rating in the guide book. After working through the beta in my head I pulled off a flash, not a bad start to the trip.

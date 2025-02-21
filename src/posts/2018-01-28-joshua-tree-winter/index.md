@@ -3,11 +3,18 @@ title: 'Joshua Tree Winter'
 date: 2018-01-28T16:13:00-08:00
 updated: 2018-02-09T16:15:02-08:00
 thumbnail: 'uploads/IMG_5536.JPG'
-uploads: ['IMG_5536.JPG', 'IMG_5500.JPG', 'IMG_5509.JPG', 'IMG_5516.JPG', 'IMG_5540.JPG']
+uploads:
+  [
+    'IMG_5536.JPG',
+    'IMG_5500.JPG',
+    'IMG_5509.JPG',
+    'IMG_5516.JPG',
+    'IMG_5540.JPG',
+  ]
 author: 'Itai Axelrad'
 id: 7403796000274816716
 location: 'Joshua Tree, CA'
-tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'granite', 'highball', 'Joshua', 'trad', 'Tree']
+tags: ['California', 'granite', 'highball', 'Joshua', 'trad', 'Tree']
 ---
 
 Cody and I drove out to Joshua Tree late Friday night to meet up with Joe and Sara. We had a wonderful weekend catching up with friends and mixing it up between bouldering and trad climbing.

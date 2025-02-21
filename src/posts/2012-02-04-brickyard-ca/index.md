@@ -7,7 +7,7 @@ uploads: ['IMG_2685.JPG', 'IMG_2724.jpg']
 author: 'Itai Axelrad'
 id: 5157839849754319896
 location: 'Santa Barbra, CA'
-tags: ['Axelrad', 'Bouldering', 'Brickyard', 'Climbing', 'Itai']
+tags: ['Brickyard']
 ---
 
 It had been too long since I last climbed on rock. A climbing trip had to be planned this weekend. A few friends were headed to Yosemite but unfortunately I was unable to join them. However, I was able to make a day trip to the Santa Barbra mountains instead.

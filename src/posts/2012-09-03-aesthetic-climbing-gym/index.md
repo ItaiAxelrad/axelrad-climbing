@@ -3,11 +3,31 @@ title: 'Aesthetic Climbing Gym'
 date: 2012-09-03T21:02:00-07:00
 updated: 2013-08-14T12:12:47-07:00
 thumbnail: 'uploads/IMG_5475_2.JPG'
-uploads: ['IMG_5475_2.JPG', 'IMG_5477.jpg', 'IMG_5493.JPG', 'IMG_5537.JPG', 'IMG_5517.JPG', 'IMG_5533.JPG', 'IMG_5512.jpg']
+uploads:
+  [
+    'IMG_5475_2.JPG',
+    'IMG_5477.jpg',
+    'IMG_5493.JPG',
+    'IMG_5537.JPG',
+    'IMG_5517.JPG',
+    'IMG_5533.JPG',
+    'IMG_5512.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 5201842742969073791
 location: 'Lake Forest, CA'
-tags: ['Aesthetic', 'Alex Johnson', 'Axelrad', 'Bouldering', 'Climbing', 'Competition', 'Daniel Woods', 'hot', 'Matt Wilder', 'Nina Williams', 'Sierra Blair Coyle']
+tags:
+  [
+    'Aesthetic',
+    'Alex Johnson',
+
+    'Competition',
+    'Daniel Woods',
+    'hot',
+    'Matt Wilder',
+    'Nina Williams',
+    'Sierra Blair Coyle',
+  ]
 ---
 
 This Sunday, my brother and I attended the highly anticipated ACG opening competition. The $3,000 first place cash prize drew elite climbers from all over. Jon Cardwell, who flashed all five qualifier routes and two of the three finals routes, took first for men. Alex Johnson, being the only one to finish women's final problem 3, took first for women. Here are the rest of the results and some photos from finals.

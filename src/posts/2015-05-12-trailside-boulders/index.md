@@ -3,11 +3,18 @@ title: 'Trailside Boulders'
 date: 2015-05-12T12:17:00-07:00
 updated: 2015-05-12T15:16:17-07:00
 thumbnail: 'uploads/IMG_2235.jpg'
-uploads: ['IMG_2235.jpg', 'IMG_2202.jpg', 'IMG_2211.jpg', 'IMG_2230.jpg', 'IMG_2237.jpg']
+uploads:
+  [
+    'IMG_2235.jpg',
+    'IMG_2202.jpg',
+    'IMG_2211.jpg',
+    'IMG_2230.jpg',
+    'IMG_2237.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 7790454096504482486
 location: 'Black Mountain, CA'
-tags: ['Axelrad', 'Black Mountain', 'blog', 'Bouldering', 'California', 'Climbing', 'Five Ten', 'granite', 'Itai', 'Rock', 'trailside']
+tags: ['Black Mountain', 'blog', 'California', 'granite', 'Rock', 'trailside']
 ---
 
 Isaac and Alexandra had plans to show some friends from Flagstaff - Andrew and Jordan - around Black Mountain, and were kind enough to invite me along. However, upon our arrival we discovered that the road was closed due to maintenance and that our initial plan was spoiled.

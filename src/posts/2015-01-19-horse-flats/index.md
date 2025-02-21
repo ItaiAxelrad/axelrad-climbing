@@ -3,11 +3,19 @@ title: 'Horse Flats'
 date: 2015-01-19T08:09:00-08:00
 updated: 2015-01-19T15:25:03-08:00
 thumbnail: 'uploads/IMG_5056.JPG'
-uploads: ['IMG_5056.JPG', 'IMG_1198.jpg', 'IMG_1208.jpg', 'IMG_1272-2.jpg', 'IMG_5109.jpg']
+uploads:
+  [
+    'IMG_5056.JPG',
+    'IMG_1198.jpg',
+    'IMG_1208.jpg',
+    'IMG_1272-2.jpg',
+    'IMG_5109.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 6438197052569548435
 location: 'Horse Flats, CA'
-tags: ['Axelrad', 'Bouldering', 'boulders', 'California', 'Eden', 'Five Ten', 'flash', 'flats', 'granite', 'highball', 'horse', 'Itai']
+tags:
+  ['boulders', 'California', 'flash', 'flats', 'granite', 'highball', 'horse']
 ---
 
 ![](uploads/IMG_5056.JPG)

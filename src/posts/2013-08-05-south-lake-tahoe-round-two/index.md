@@ -3,11 +3,22 @@ title: 'South Lake Tahoe: Round Two'
 date: 2013-08-05T14:10:00-07:00
 updated: 2013-08-05T14:13:49-07:00
 thumbnail: 'uploads/IMG_6139.JPG'
-uploads: ['IMG_6139.JPG', 'IMG_6141.JPG', 'IMG_6142.JPG', 'IMG_6159.jpg', 'IMG_6164.jpg', 'IMG_6169.jpg', 'IMG_6172.jpg', 'IMG_6176.jpg', 'IMG_6146.JPG']
+uploads:
+  [
+    'IMG_6139.JPG',
+    'IMG_6141.JPG',
+    'IMG_6142.JPG',
+    'IMG_6159.jpg',
+    'IMG_6164.jpg',
+    'IMG_6169.jpg',
+    'IMG_6172.jpg',
+    'IMG_6176.jpg',
+    'IMG_6146.JPG',
+  ]
 author: 'Eden Axelrad'
 id: 1038161577249136554
 location: 'South Lake Tahoe, CA'
-tags: ['Axelrad', 'Ground Control', 'south lake', 'Tahoe']
+tags: ['Ground Control', 'south lake', 'Tahoe']
 ---
 
 Last Tuesday Chris and I headed back up to Ground Control (V11) to give it a second session.

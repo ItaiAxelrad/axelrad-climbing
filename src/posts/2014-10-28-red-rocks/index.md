@@ -3,11 +3,23 @@ title: 'Red Rocks'
 date: 2014-10-28T13:10:00-07:00
 updated: 2014-10-28T13:11:58-07:00
 thumbnail: 'uploads/IMG_4492.JPG'
-uploads: ['IMG_4492.JPG', 'IMG_4508.JPG', 'IMG_4519.JPG', 'IMG_4562.JPG', 'IMG_4602.jpg', 'IMG_4601.jpg', 'IMG_4590.JPG', 'IMG_4548.JPG', 'IMG_4545.JPG', 'IMG_4488.JPG']
+uploads:
+  [
+    'IMG_4492.JPG',
+    'IMG_4508.JPG',
+    'IMG_4519.JPG',
+    'IMG_4562.JPG',
+    'IMG_4602.jpg',
+    'IMG_4601.jpg',
+    'IMG_4590.JPG',
+    'IMG_4548.JPG',
+    'IMG_4545.JPG',
+    'IMG_4488.JPG',
+  ]
 author: 'Eden Axelrad'
 id: 2011371540739633407
 location: 'Las Vegas, NV'
-tags: ['Axelrad', 'Bouldering', 'Eden', 'Five Ten', 'Itai', 'Las Vegas', 'Red Rocks', 'sandstone']
+tags: ['Las Vegas', 'Red Rocks', 'sandstone']
 ---
 
 Is it fall yet? In the past I have been able to rely on my usual cues and signs, for example, if Starbucks is serving its seasonal pumpkin spice latte, temps are usually favorable. However, we're already in late October and fall temps appear to be hanging back like a reluctant child on the first day of school. Don't worry fall temps, we won't bite!

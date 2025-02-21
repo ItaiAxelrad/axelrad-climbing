@@ -7,7 +7,7 @@ uploads: ['IMG_6122.JPG', 'IMG_6127.jpg', 'IMG_6230.JPG', 'IMG_6217_2.JPG']
 author: 'Itai Axelrad'
 id: 1037976905835774840
 location: 'Santa Maria, CA'
-tags: ['Axelrad', 'California', 'Climbing', 'Itai', 'Owl', 'Tor']
+tags: ['California', 'Owl', 'Tor']
 ---
 
 Owl Tor is hidden in the hills east of Santa Maria. It has about a dozen routes on conglomerate rock and manufactured pockets, all of which are steep and burly. Jason had just bought a new rope and Cody and I were eager to help him break it in. We started off on a short but powerful route called Auto Magic (5.12a).

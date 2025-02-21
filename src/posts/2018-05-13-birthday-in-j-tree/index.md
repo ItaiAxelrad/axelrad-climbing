@@ -3,11 +3,19 @@ title: 'Birthday in J Tree! '
 date: 2018-05-13T22:30:00-07:00
 updated: 2018-05-13T22:30:38-07:00
 thumbnail: 'uploads/IMG_4042.JPG'
-uploads: ['IMG_4042.JPG', 'IMG_4051.JPG', 'IMG_4054.JPG', 'IMG_4060.JPG', 'IMG_4076.JPG', 'IMG_4078.JPG']
+uploads:
+  [
+    'IMG_4042.JPG',
+    'IMG_4051.JPG',
+    'IMG_4054.JPG',
+    'IMG_4060.JPG',
+    'IMG_4076.JPG',
+    'IMG_4078.JPG',
+  ]
 author: 'Eden Axelrad'
 id: 986954860785407227
 location: 'Joshua Tree, CA'
-tags: ['Bouldering', 'Joshua', 'Tree']
+tags: ['Joshua', 'Tree']
 ---
 
 Jovanna and I drove out to Joshua Tree for a nice weekend getaway and to celebrate her birthday. We spent Saturday climbing, and while it was hot, we had a great time exploring and climbing in the park. Here are a few photos from the day!

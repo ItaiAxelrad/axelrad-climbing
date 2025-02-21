@@ -1,13 +1,30 @@
 ---
-title: 'Bishop with Fall Weather!'
+id: 7076275619474038055
+title: "Bishop with Fall Weather!"
 date: 2017-11-13T11:55:00-08:00
 updated: 2017-11-25T12:24:50-08:00
-thumbnail: 'uploads/IMG_3452.jpg'
-uploads: ['IMG_3452.jpg', '04%20PM.jpg', 'IMG_3484.JPG', 'IMG_3459.JPG', 'IMG_3474.JPG']
-author: 'Eden Axelrad'
-id: 7076275619474038055
-location: 'Bishop, CA'
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'Climbing', 'Eden', 'Five', 'fiveten', 'granite', 'high plains drifter', 'Itai', 'la belette', 'Ten', 'The Swarm', 'v13/14']
+thumbnail: "uploads/IMG_3452.jpg"
+uploads:
+  [
+    "IMG_3452.jpg",
+    "04%20PM.jpg",
+    "IMG_3484.JPG",
+    "IMG_3459.JPG",
+    "IMG_3474.JPG",
+  ]
+author: "Eden Axelrad"
+location: "Bishop, CA"
+tags:
+  [
+    "bishop",
+    "buttermilks",
+    "granite",
+    "high plains drifter",
+    "la belette",
+    "The Swarm",
+    "V13",
+    "V14",
+  ]
 ---
 
 Itai, Marina and I took advantage of the long weekend and headed out to Bishop on Friday morning. The weather was crisp and cold and it finally began to feel like real fall weather - psych was high! Following the morning ritual of grabbing coffee in town, we drove straight to my project (where we met up with Pete).

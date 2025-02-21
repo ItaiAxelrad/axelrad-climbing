@@ -3,11 +3,25 @@ title: 'Spring Break in Cabo'
 date: 2014-03-28T16:14:00-07:00
 updated: 2014-03-28T20:51:02-07:00
 thumbnail: 'uploads/IMG_3133.JPG'
-uploads: ['IMG_3133.JPG', 'IMG_3123.JPG', 'IMG_9891.jpg', 'IMG_9901.jpg', 'IMG_3137.JPG', 'IMG_9923.jpg', 'IMG_9935.jpg', 'IMG_9934.jpg', 'IMG_3149.JPG', 'IMG_3181.JPG', 'IMG_3216.JPG', 'IMG_3157.JPG']
+uploads:
+  [
+    'IMG_3133.JPG',
+    'IMG_3123.JPG',
+    'IMG_9891.jpg',
+    'IMG_9901.jpg',
+    'IMG_3137.JPG',
+    'IMG_9923.jpg',
+    'IMG_9935.jpg',
+    'IMG_9934.jpg',
+    'IMG_3149.JPG',
+    'IMG_3181.JPG',
+    'IMG_3216.JPG',
+    'IMG_3157.JPG',
+  ]
 author: 'Eden Axelrad'
 id: 8275267282387781069
 location: 'Bishop, CA'
-tags: ['Axelrad', 'bishop', 'boulders', 'buttermilks', 'California', 'Five Ten', 'granite']
+tags: ['bishop', 'boulders', 'buttermilks', 'California', 'granite']
 ---
 
 ![](uploads/IMG_3133.JPG)

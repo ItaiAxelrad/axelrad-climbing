@@ -7,7 +7,7 @@ uploads: ['IMG_0655.jpg', 'IMG_0711.jpg', 'IMG_0685.jpg', 'IMG_2971.jpg']
 author: 'Itai Axelrad'
 id: 464562836651532923
 location: 'San Luis Obispo, CA'
-tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Luis', 'Obispo', 'San', 'Slo']
+tags: ['California', 'Luis', 'Obispo', 'San', 'Slo']
 ---
 
 After four amazing years, it is time to say goodbye to San Luis Obispo. Luckily, before I left I got the chance to show my brother around Bishop Peak and re-climb some of my favorites.

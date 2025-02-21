@@ -1,13 +1,33 @@
 ---
-title: 'Back to Bish'
+id: 398236715668049680
+title: "Back to Bish"
 date: 2018-01-29T16:47:00-08:00
 updated: 2018-02-10T17:07:49-08:00
-thumbnail: 'uploads/IMG_3934.JPG'
-uploads: ['IMG_3934.JPG', 'IMG_3926.JPG', 'IMG_3932.JPG', 'IMG_3944.JPG', 'IMG_3946.JPG', 'IMG_3970.JPG', 'IMG_3971.jpg', 'IMG_3956.JPG']
-author: 'Eden Axelrad'
-id: 398236715668049680
-location: 'Bishop, CA'
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'Climbing', 'Five', 'fiveten', 'granite', 'high plains drifter', 'sierra nevada', 'social distortion', 'Ten', 'v13']
+thumbnail: "uploads/IMG_3934.JPG"
+uploads:
+  [
+    "IMG_3934.JPG",
+    "IMG_3926.JPG",
+    "IMG_3932.JPG",
+    "IMG_3944.JPG",
+    "IMG_3946.JPG",
+    "IMG_3970.JPG",
+    "IMG_3971.jpg",
+    "IMG_3956.JPG",
+  ]
+author: "Eden Axelrad"
+location: "Bishop, CA"
+tags:
+  [
+    "bishop",
+    "buttermilks",
+    "California",
+    "granite",
+    "high plains drifter",
+    "sierra nevada",
+    "social distortion",
+    "V13",
+  ]
 ---
 
 ![](uploads/IMG_3934.JPG)

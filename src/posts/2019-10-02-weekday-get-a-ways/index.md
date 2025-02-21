@@ -1,13 +1,26 @@
 ---
-title: 'Weekday Get-a-Ways'
+id: 3706807781461784118
+title: "Weekday Get-a-Ways"
 date: 2019-10-02T10:33:00-07:00
 updated: 2019-10-02T10:33:24-07:00
-thumbnail: 'uploads/IMG_0723.jpg'
-uploads: ['IMG_0723.jpg', 'IMG_0430.jpg', 'IMG_0523.jpg', 'IMG_0517.jpg']
-author: 'Itai Axelrad'
-id: 3706807781461784118
-location: 'Golden, CO'
-tags: ['Alpine', 'Axelrad', 'Bouldering', 'Climbing', 'Colorado', 'granite', 'Guanella', 'Lake', 'Lincoln', 'Pass', 'Summer', 'talus', 'v12', 'v13']
+thumbnail: "uploads/IMG_0723.jpg"
+uploads: ["IMG_0723.jpg", "IMG_0430.jpg", "IMG_0523.jpg", "IMG_0517.jpg"]
+author: "Itai Axelrad"
+location: "Golden, CO"
+tags:
+  [
+    "Alpine",
+    "Colorado",
+    "granite",
+    "Guanella",
+    "Lake",
+    "Lincoln",
+    "Pass",
+    "Summer",
+    "talus",
+    "V12",
+    "V13",
+  ]
 ---
 
 As a 9 to 5er or weekend warrior, your climbing to do list can pile up quickly. You often only get one day outside every week. If your skin sucks or if the weather sucks or if you suck there goes your chance at the project.

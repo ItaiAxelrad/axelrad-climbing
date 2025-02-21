@@ -7,7 +7,7 @@ uploads: ['IMG_3802.jpg', 'IMG_3813.jpg']
 author: 'Itai Axelrad'
 id: 8061682565878277328
 location: 'Palm Springs, CA'
-tags: ['Axelrad', 'black mamba', 'blog', 'Bouldering', 'California', 'Five', 'Five Ten', 'granite', 'highball', 'Itai', 'Tramway']
+tags: ['black mamba', 'blog', 'California', 'granite', 'highball', 'Tramway']
 ---
 
 I met Alex, Hank and Adam out at the warm up area just off the trail. We planned on a lazy day trip and got a late start. It was still cold in the noon time sun as we made our way to the Dance Floor area to test our fingers on some of the classics. Some snow could still be spotted on the ground from the previous storm.

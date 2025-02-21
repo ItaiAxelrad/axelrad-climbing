@@ -3,11 +3,28 @@ title: 'Jupiter Boulders'
 date: 2011-12-26T18:14:00-08:00
 updated: 2013-10-14T13:27:50-07:00
 thumbnail: 'uploads/view.JPG'
-uploads: ['view.JPG', 'DSC_0277.jpg', 'IMG_2467.JPG', 'IMG_2469.JPG', 'IMG_2470.JPG', 'IMG_2471.JPG', 'IMG_2472.JPG', 'IMG_2473.JPG', 'IMG_2474.JPG', 'IMG_2475.JPG', 'IMG_2476.JPG', 'IMG_2477.JPG', 'DSC_0306-1.jpg', 'DSC_0327.jpg', 'IMG_2505.JPG']
+uploads:
+  [
+    'view.JPG',
+    'DSC_0277.jpg',
+    'IMG_2467.JPG',
+    'IMG_2469.JPG',
+    'IMG_2470.JPG',
+    'IMG_2471.JPG',
+    'IMG_2472.JPG',
+    'IMG_2473.JPG',
+    'IMG_2474.JPG',
+    'IMG_2475.JPG',
+    'IMG_2476.JPG',
+    'IMG_2477.JPG',
+    'DSC_0306-1.jpg',
+    'DSC_0327.jpg',
+    'IMG_2505.JPG',
+  ]
 author: 'Eden Axelrad'
 id: 4328278161985239303
 location: 'Palm Springs, CA'
-tags: ['Black Mountain', 'Bouldering', 'California', 'jupiter']
+tags: ['Black Mountain', 'California', 'jupiter']
 ---
 
 Finals were done and it was time to get outdoors. We teamed up with Isaac and Anthony and planned on heading up to Black Mountain on Sunday. But when we reached Banning we could see that the mountain was still covered in snow, and some dark rain clouds were moving in. We cut our losses and opted for the Jupiter Boulders, which are lower in elevation.

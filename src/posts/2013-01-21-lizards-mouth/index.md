@@ -7,7 +7,7 @@ uploads: ['IMG_5888.jpg', 'IMG_5906.JPG', 'IMG_5928.JPG', 'IMG_5956.JPG']
 author: 'Itai Axelrad'
 id: 7392476836606023872
 location: 'Santa Barbara, CA'
-tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Itai', "Lizard's", 'Mouth', 'Santa Barbara']
+tags: ['California', "Lizard's", 'Mouth', 'Santa Barbara']
 ---
 
 What a beautiful weekend! Jason, Marina, Cody and I enjoyed the warm Santa Barbara hills and ocean view while scrambling around Lizard's Mouth this Sunday. None of us had been to the area before, but we managed to find a handful of boulders to keep us busy for the day. I sent a good amount of new climbs and got spit off the top-out of even more. We all rediscovered that Santa Barbara is notorious for its sloping and desperate top-outs.

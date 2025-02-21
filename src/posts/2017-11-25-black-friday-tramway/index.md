@@ -1,14 +1,34 @@
 ---
-title: 'Black Friday @ Tramway'
+title: "Black Friday @ Tramway"
 date: 2017-11-25T11:50:00-08:00
 updated: 2017-11-25T12:22:07-08:00
-thumbnail: 'uploads/IMG_3553.JPG'
-uploads: ['IMG_3553.JPG', 'IMG_3528.JPG', 'IMG_3550.JPG', 'IMG_3572.jpg', 'IMG_3571.JPG']
-author: 'Eden Axelrad'
+thumbnail: "uploads/IMG_3553.JPG"
+uploads:
+  [
+    "IMG_3553.JPG",
+    "IMG_3528.JPG",
+    "IMG_3550.JPG",
+    "IMG_3572.jpg",
+    "IMG_3571.JPG",
+  ]
+author: "Eden Axelrad"
 id: 7018775912034595718
-location: 'Palm Springs, CA'
-tags: ['barefoot sharma arete', 'black mamba', 'Bouldering', "chad's dyno", 'Climbing', 'dragons', 'Five', 'fiveten', 'granite', 'Ten', 'Tramway', 'v10', 'v12']
+location: "Palm Springs, CA"
+tags:
+  [
+    "barefoot sharma arete",
+    "black mamba",
+
+    "chad's dyno",
+
+    "dragons",
+    "granite",
+    "Tramway",
+    "V10",
+    "V12",
+  ]
 ---
+
 Yesterday Norm and I headed up to Tramway to get outdoors and escape the record-breaking heat.
 
 ![](uploads/IMG_3553.JPG)

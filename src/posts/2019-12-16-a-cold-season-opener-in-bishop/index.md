@@ -3,11 +3,18 @@ title: 'A Cold Season Opener in Bishop'
 date: 2019-12-16T14:28:00-08:00
 updated: 2020-05-06T09:29:53-07:00
 thumbnail: 'uploads/IMG_4169.jpg'
-uploads: ['IMG_4169.jpg', 'IMG_2345.jpg', 'IMG_0409.jpg', 'IMG_0448.jpg', 'IMG_0412.jpg']
+uploads:
+  [
+    'IMG_4169.jpg',
+    'IMG_2345.jpg',
+    'IMG_0409.jpg',
+    'IMG_0448.jpg',
+    'IMG_0412.jpg',
+  ]
 author: 'Eden Axelrad'
 id: 4435397574616793804
 location: 'Bishop, CA'
-tags: ['a maze of death', 'Axelrad', 'bishop', 'boulder', 'Bouldering', 'buttermilks', 'Climbing']
+tags: ['a maze of death', 'bishop', 'boulder', 'buttermilks']
 ---
 
 I met up with Alex and Ben on Sunday morning at the Bardini Boulders. Ben was visiting from out of state and had his eyes set on projecting A Maze of Death (V12) during his first time out in Bishop. With highs forecasted in the mid 30s, the weather was looking perfect for trying hard - ~~once~~ if you were able to get warm. Ben quickly unlocked all the moves but will have to come back for the full send. I'm sure it'll go quick next time!

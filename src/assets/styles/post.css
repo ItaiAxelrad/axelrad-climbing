@@ -1,77 +1,87 @@
 header h1 {
-  margin: 0.75rem 0;
-  line-height: 1.15;
+	margin: 0 0 1rem 0;
+	line-height: 1.15;
 }
 
 article {
-  max-width: 53ch;
-  margin: 1.5rem auto;
-  line-height: 1.6;
+	max-width: 53ch;
+	margin: 1.5rem auto;
+	line-height: 1.6;
 }
 
 article header::after {
-  content: '';
-  display: block;
-  height: 0.25rem;
-  width: 2.5rem;
-  background: var(--theme);
-  margin: 0 0 1rem 0;
+	content: "";
+	display: block;
+	height: 0.25rem;
+	width: 2.5rem;
+	background: var(--theme);
+	margin: 0 0 1rem 0;
 }
 
 header .author-info {
-  display: flex;
-  align-items: stretch;
-  gap: 0.5rem;
+	display: flex;
+	align-items: stretch;
+	gap: 0.5rem;
+	margin-block-end: 0.5rem;
 }
 
 header .publish-info {
-  display: flex;
-  line-height: 1.2;
-  flex-direction: column;
-  justify-content: space-around;
+	display: flex;
+	line-height: 1.2;
+	flex-direction: column;
+	justify-content: space-around;
 }
 
 header .avatar {
-  display: inline-block;
-  margin: 0;
-  height: 2.5rem;
-  width: 2.5rem;
-  border-radius: 50%;
-  object-fit: cover;
+	display: inline-block;
+	margin: 0;
+	height: 2.5rem;
+	width: 2.5rem;
+	border-radius: 50%;
+	object-fit: cover;
 }
 
 header .p-author {
-  color: currentColor;
-  font-weight: bold;
-  font-size: 1rem;
-  vertical-align: top;
+	color: currentColor;
+	font-weight: bold;
+	font-size: 1rem;
+	vertical-align: top;
+}
+
+header .p-location {
+	margin: 1rem 0 0 0;
 }
 
 header .dt-published {
-  display: block;
-  text-transform: uppercase;
-  color: var(--dark-gray);
-  line-height: 1;
+	display: block;
+	text-transform: uppercase;
+	color: var(--dark-gray);
+	line-height: 1;
 }
 
 figure {
-  margin-block-end: 0.75rem;
+	margin-block-end: 0.75rem;
 }
 
 figure img {
-  max-height: 90vh;
+	max-height: 90vh;
 }
 
 figcaption {
-  padding: 0.5rem;
-  text-align: center;
-  font-style: normal;
-  font-size: smaller;
-  color: var(--dark-gray);
+	padding: 0.5rem;
+	text-align: center;
+	font-style: normal;
+	font-size: smaller;
+	color: var(--dark-gray);
 }
 
 .postNav {
-  justify-content: space-between;
-  padding-block-start: 1rem;
-  border-block-start: var(--border);
+	justify-content: space-between;
+	padding-block-start: 1rem;
+	border-block-start: var(--border);
+}
+
+.pin {
+	font-size: 0.75rem;
+	vertical-align: text-top;
 }

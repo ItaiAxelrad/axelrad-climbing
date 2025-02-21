@@ -3,11 +3,22 @@ title: 'Rocky Mountain National Park'
 date: 2017-09-16T12:46:00-07:00
 updated: 2017-09-20T22:13:01-07:00
 thumbnail: 'uploads/FullSizeRender%2014.jpg'
-uploads: ['FullSizeRender%2014.jpg', 'FullSizeRender%2010.jpg', 'IMG_4814.JPG', 'FullSizeRender%2013.jpg', 'IMG_4876.JPG', 'FullSizeRender%2010%20copy.jpg', 'IMG_4913.JPG', 'IMG_4913.JPG', 'IMG_4932.JPG']
+uploads:
+  [
+    'FullSizeRender%2014.jpg',
+    'FullSizeRender%2010.jpg',
+    'IMG_4814.JPG',
+    'FullSizeRender%2013.jpg',
+    'IMG_4876.JPG',
+    'FullSizeRender%2010%20copy.jpg',
+    'IMG_4913.JPG',
+    'IMG_4913.JPG',
+    'IMG_4932.JPG',
+  ]
 author: 'Itai Axelrad'
 id: 7003752050501105175
 location: 'Estes Park, CO'
-tags: ['Alpine', 'Axelrad', 'Bouldering', 'Chaos Canyon', 'Climbing', 'Colorado', 'RMNP']
+tags: ['Alpine', 'Chaos Canyon', 'Colorado', 'RMNP']
 ---
 
 Our trip to Colorado was moments away from being canceled due to suspect weather but our restlessness got the best of us. What's the worst that could happen? Even if we got rained out every day, sitting in a cabin in Estes Park sounded far more pleasant than sitting in traffic in Los Angeles.

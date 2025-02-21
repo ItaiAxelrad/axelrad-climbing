@@ -3,11 +3,27 @@ title: 'Squamish'
 date: 2013-07-19T11:19:00-07:00
 updated: 2015-02-22T22:56:48-08:00
 thumbnail: 'uploads/IMG_7327.jpg'
-uploads: ['maps.jpg', 'IMG_7189.jpg', 'IMG_7197.jpg', 'IMG_7346.jpg', 'IMG_7294.jpg', 'IMG_7221.jpg', 'IMG_7411.jpg', 'IMG_7070.jpg', 'IMG_7370.jpg', 'IMG_7484.jpg', 'IMG_7444.jpg', 'IMG_7462.jpg', 'IMG_7546.jpg', 'IMG_7327.jpg']
+uploads:
+  [
+    'maps.jpg',
+    'IMG_7189.jpg',
+    'IMG_7197.jpg',
+    'IMG_7346.jpg',
+    'IMG_7294.jpg',
+    'IMG_7221.jpg',
+    'IMG_7411.jpg',
+    'IMG_7070.jpg',
+    'IMG_7370.jpg',
+    'IMG_7484.jpg',
+    'IMG_7444.jpg',
+    'IMG_7462.jpg',
+    'IMG_7546.jpg',
+    'IMG_7327.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 288361898781234696
 location: 'Squamish, BC'
-tags: ['Bouldering', 'Climbing', 'Eden', 'enchanted', 'granite', 'highball', 'Itai', 'road trip', 'Squamish']
+tags: ['enchanted', 'granite', 'highball', 'road trip', 'Squamish']
 ---
 
 What started out as a daydream in some lecture hall this spring quarter finally materialized. Cody, Jason, Eden and I set out early one morning to drive nearly the entire length of Interstate 5 towards Squamish, British Columbia.

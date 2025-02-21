@@ -5,14 +5,9 @@ update: 2020-11-14
 author: Itai Axelrad
 location: Roy, NM
 thumbnail: uploads/img_1223.jpg
-tags:
-  - Roy
-  - New Mexico
-  - XYZ
-  - v13
-  - 8B
-  - sandstone
+tags: ['Roy', 'New Mexico', 'XYZ', 'V13', '8B', 'sandstone']
 ---
+
 While sandstone blocks are not my top choice, we had heard of Roy for quite some time and wanted to check it. We made a quick and socially distant trip in the van and enjoyed the bumpy dirt roads, barbed wire fences and sandy climbing.
 
 The first day we made our way down into the canyon to the bear toss boulder (the problem on the guidebook cover).

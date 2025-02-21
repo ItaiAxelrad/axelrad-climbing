@@ -3,11 +3,19 @@ title: 'Thanksgiving In The Milks'
 date: 2012-11-25T12:11:00-08:00
 updated: 2012-11-25T12:40:13-08:00
 thumbnail: 'uploads/IMG_5673.JPG'
-uploads: ['IMG_5673.JPG', 'IMG_5712.JPG', 'IMG_5737.JPG', 'IMG_5741.jpg', 'IMG_5748.jpg', 'IMG_5674.JPG']
+uploads:
+  [
+    'IMG_5673.JPG',
+    'IMG_5712.JPG',
+    'IMG_5737.JPG',
+    'IMG_5741.jpg',
+    'IMG_5748.jpg',
+    'IMG_5674.JPG',
+  ]
 author: 'Itai Axelrad'
 id: 5238055004877709036
 location: 'Bishop, CA'
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'Climbing', 'Itai']
+tags: ['bishop', 'buttermilks']
 ---
 
 Despite the thin skin on my fingers and a looming cold, I could hardly resist returning to Bishop. On Tuesday afternoon, Cody, Joe and I set out on the now very familiar drive to the Buttermilks. We found a beautiful camping spot close to a river and pitched a tent before falling asleep. We awoke to a beautiful sunrise and spent the first of our days in the Buttermilks' main area.

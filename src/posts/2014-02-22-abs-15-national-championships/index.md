@@ -7,7 +7,7 @@ uploads: [abs15.jpg]
 author: 'Itai Axelrad'
 id: 2334975553528166647
 location: ''
-tags: ['ABS 15', 'Axelrad', 'Bouldering', 'Climbing', 'finals', 'live', 'nationals', 'open']
+tags: ['ABS 15', 'finals', 'live', 'nationals', 'open']
 ---
 
 ![(click the image for a preview of Nationals)](uploads/abs15.jpg)

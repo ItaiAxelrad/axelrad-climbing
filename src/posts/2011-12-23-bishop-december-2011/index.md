@@ -7,7 +7,7 @@ uploads: ['IMG_2596.JPG']
 author: 'Eden Axelrad'
 id: 3673751976227584369
 location: 'Bishop, CA'
-tags: ['Axelrad', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'California']
+tags: ['bishop', 'boulders', 'buttermilks', 'California']
 ---
 
 We were off for winter break and a family trip to Mammoth was planned. My brother and I insisted on stopping in Bishop on the way up for a few hours. We arrived in Bishop, and after a quick lunch at Schat's Bakery, we decided to drive up to the ice caves at the top of the Sads.

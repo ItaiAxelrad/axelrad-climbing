@@ -7,7 +7,7 @@ uploads: ['IMG_5425.JPG']
 author: 'Eden Axelrad'
 id: 889461984404642893
 location: 'Black Mountain, CA'
-tags: ['Black Mountain', 'Bouldering', 'California', 'Eden', 'Five Ten', 'Itai', 'Overlife']
+tags: ['Black Mountain', 'California', 'Overlife']
 ---
 
 Last summer, Rich Salamone and his crew filmed a short video featuring my brother and I climbing at Black Mountain, CA. Check out the video, [The Overlife](http://vimeo.com/81134263). Great job guys!

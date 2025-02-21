@@ -7,7 +7,7 @@ uploads: ['IMG_0697.JPG', 'IMG_0731.jpg', 'IMG_0728.jpg', 'IMG_0719.JPG']
 author: 'Eden Axelrad'
 id: 704464263908536766
 location: 'Tuolumne, CA'
-tags: ['Axelrad', 'Bouldering', 'Climbing', 'Five Ten', 'granite', 'meadows', 'tuolumne', 'yosemite']
+tags: ['granite', 'meadows', 'tuolumne', 'yosemite']
 ---
 
 ![](uploads/IMG_0697.JPG)

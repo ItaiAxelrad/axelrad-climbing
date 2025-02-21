@@ -7,7 +7,19 @@ uploads: ['thesend.jpg']
 author: 'Itai Axelrad'
 id: 4752905453386032339
 location: 'San Luis Obispo, CA'
-tags: ['Andy Lamb', 'Axelrad', 'Bouldering', 'California', 'CCS', 'Climbing', 'Collegiate', 'Competition', 'finals', 'Slo Op', 'the send']
+tags:
+  [
+    'Andy Lamb',
+
+    'California',
+    'CCS',
+
+    'Collegiate',
+    'Competition',
+    'finals',
+    'Slo Op',
+    'the send',
+  ]
 ---
 
 I made my way to Slo Op on Friday afternoon to help forerun the problems. It was t-minus 15 hours until the annual Slo Op CCS Competition began. The routes were looking great, and the finalists were in for a surprising dyno!

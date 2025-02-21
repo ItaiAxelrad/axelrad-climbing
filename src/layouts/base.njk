@@ -2,8 +2,9 @@
 <html lang="en">
   {%- include 'head.njk' -%}
   <body class="flex-column">
+    <a href="#skip" class="visually-hidden">Skip to main content</a>
     {%- include 'topNav.njk' -%}
-    <main>
+    <main id="skip">
       {{ content | safe }}
     </main>
     {%- include 'footer.njk' -%}

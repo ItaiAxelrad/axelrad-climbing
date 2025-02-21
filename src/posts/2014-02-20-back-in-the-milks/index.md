@@ -3,11 +3,33 @@ title: 'Back in the Milks'
 date: 2014-02-20T10:58:00-08:00
 updated: 2014-02-22T16:10:56-08:00
 thumbnail: 'uploads/photo_3.jpg'
-uploads: ['photo_3.jpg', 'photo_5.jpg', 'bpin.jpg', 'zflute.jpg', '1958259_10202434359556727_82135171_n.jpg', 'photo_4.jpg', 'milk.jpg', 'photo_6.jpg', 'IMG_8643.jpg']
+uploads:
+  [
+    'photo_3.jpg',
+    'photo_5.jpg',
+    'bpin.jpg',
+    'zflute.jpg',
+    '1958259_10202434359556727_82135171_n.jpg',
+    'photo_4.jpg',
+    'milk.jpg',
+    'photo_6.jpg',
+    'IMG_8643.jpg',
+  ]
 author: 'Eden Axelrad'
 id: 5386639621554268288
 location: 'Bishop, CA'
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilker', 'buttermilks', 'California', 'Chris Llewellyn', 'Eden', 'ethan pringle', 'Five Ten', 'footprints', 'Itai']
+tags:
+  [
+    'bishop',
+
+    'buttermilker',
+    'buttermilks',
+    'California',
+    'Chris Llewellyn',
+
+    'ethan pringle',
+    'footprints',
+  ]
 ---
 
 ![](uploads/photo_3.jpg)

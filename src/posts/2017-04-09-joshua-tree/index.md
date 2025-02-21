@@ -1,13 +1,24 @@
 ---
-title: 'Joshua Tree'
+id: 3995835144682595238
+title: "Joshua Tree"
+author: "Eden Axelrad"
+location: "Joshua Tree, CA"
 date: 2017-04-09T14:05:00-07:00
 updated: 2017-04-09T14:05:02-07:00
-thumbnail: 'uploads/IMG_1792.JPG'
-uploads: ['IMG_1792.JPG', 'IMG_1800.JPG', 'IMG_1829.JPG', 'IMG_1822.JPG', 'IMG_1834.JPG', 'IMG_1825.JPG', 'IMG_1826.JPG', 'IMG_1828.JPG']
-author: 'Eden Axelrad'
-id: 3995835144682595238
-location: 'Joshua Tree, CA'
-tags: ['Axelrad', 'Bouldering', 'Climbing', 'Five', 'Five Ten', 'fred nicole', 'granite', 'Joshua', 'nicole problem', 'Ten', 'Tree', 'v10', 'yogi']
+thumbnail: "uploads/IMG_1792.JPG"
+uploads:
+  [
+    "IMG_1792.JPG",
+    "IMG_1800.JPG",
+    "IMG_1829.JPG",
+    "IMG_1822.JPG",
+    "IMG_1834.JPG",
+    "IMG_1825.JPG",
+    "IMG_1826.JPG",
+    "IMG_1828.JPG",
+  ]
+tags:
+  ["fred nicole", "granite", "Joshua", "nicole problem", "Tree", "V10", "yogi"]
 ---
 
 Itai and I ran out to Joshua Tree yesterday for a day trip in the desert. When we arrived, the weather was beautiful and the wildflowers were blooming.

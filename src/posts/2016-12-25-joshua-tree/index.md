@@ -7,7 +7,7 @@ uploads: ['1.jpg', '4.jpg', '3.jpg', '2.jpg']
 author: 'Eden Axelrad'
 id: 1120332862641669683
 location: 'Joshua Tree, CA'
-tags: ['Axelrad', 'blog', 'blood diamond', 'Bouldering', 'Climbing', 'Eden', 'Five Ten', 'granite', 'Itai', 'Joshua', 'national', 'park', 'Tree']
+tags: ['blog', 'blood diamond', 'granite', 'Joshua', 'national', 'park', 'Tree']
 ---
 
 Itai and I headed out to Joshua Tree for a quick day trip on Sunday. Our main objective was to find and try out a project located somewhere beyond the Phantom Carter Boulders near the entrance of the park. We ended up spending the vast majority of the day hiking around and feeling completely lost. The boulders were nowhere in sight, and the guidebook was no help.

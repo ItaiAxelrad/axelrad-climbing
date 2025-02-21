@@ -3,12 +3,22 @@ title: 'Pine Mountain'
 date: 2014-10-06T12:03:00-07:00
 updated: 2014-10-06T12:09:03-07:00
 thumbnail: 'uploads/IMG_4456.JPG'
-uploads: ['IMG_4456.JPG', 'IMG_4387.JPG', 'IMG_4404.JPG', 'IMG_4424.jpg', 'IMG_4429.jpg', 'IMG_4459.JPG', 'IMG_4460.JPG']
+uploads:
+  [
+    'IMG_4456.JPG',
+    'IMG_4387.JPG',
+    'IMG_4404.JPG',
+    'IMG_4424.jpg',
+    'IMG_4429.jpg',
+    'IMG_4459.JPG',
+    'IMG_4460.JPG',
+  ]
 author: 'Eden Axelrad'
 id: 3817849856789710117
 location: 'Pine Mountain, CA'
-tags: ['911', 'Axelrad', 'blog', 'Bouldering', 'Climbing', 'Eden', 'Five Ten', 'Itai', 'Mountain', 'Pine', 'sandstone', 'whiplash']
+tags: ['911', 'blog', 'Mountain', 'Pine', 'sandstone', 'whiplash']
 ---
+
 Yesterday Marina, Jake and I headed up to Pine Mountain for a much needed escape from the city. Pine Mountain is situated above Ojai, in Reyes Peak - with an elevation of roughly 7,000 feet. It was my first time going to this crag, and I was excited to explore yet another climbing area.
 
 ![The drive up](uploads/IMG_4456.JPG)

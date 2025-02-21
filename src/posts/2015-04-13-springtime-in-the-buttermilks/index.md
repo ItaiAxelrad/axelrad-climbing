@@ -3,11 +3,32 @@ title: 'Springtime In The Buttermilks'
 date: 2015-04-13T23:04:00-07:00
 updated: 2015-04-13T23:32:22-07:00
 thumbnail: 'uploads/IMG_2067.jpg'
-uploads: ['IMG_2067.jpg', 'IMG_2088.jpg', 'IMG_2077-2.jpg', 'IMG_2094.jpg', 'IMG_2116.jpg', 'IMG_2117.jpg', 'IMG_2105.jpg', 'IMG_2169.jpg']
+uploads:
+  [
+    'IMG_2067.jpg',
+    'IMG_2088.jpg',
+    'IMG_2077-2.jpg',
+    'IMG_2094.jpg',
+    'IMG_2116.jpg',
+    'IMG_2117.jpg',
+    'IMG_2105.jpg',
+    'IMG_2169.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 1283405937755795291
 location: 'Bishop, CA'
-tags: ['Axelrad', 'bishop', 'blog', 'Bouldering', 'buttermilker', 'buttermilks', 'California', 'Climbing', 'Eden', 'Five', 'Five Ten', 'granite', 'highball', 'hot', 'Itai', 'Photo']
+tags:
+  [
+    'bishop',
+
+    'buttermilker',
+    'buttermilks',
+    'California',
+
+    'granite',
+    'highball',
+    'hot',
+  ]
 ---
 
 The crew rallied from Los Angeles to Bishop for what might be the last trip before fall. Eden, Jovanna and I met up with Marina, Jake and Emily in town for a coffee Saturday morning before heading up the bumpy Buttermilk Road.

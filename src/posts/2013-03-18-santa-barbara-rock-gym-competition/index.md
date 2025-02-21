@@ -7,7 +7,7 @@ uploads: ['IMG_2548.JPG', 'IMG_6544.JPG']
 author: 'Itai Axelrad'
 id: 4533169255126501684
 location: 'Santa Barbara, CA'
-tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'Competition', 'Five Ten', 'Itai', 'Santa Barbara']
+tags: ['California', 'Competition', 'Santa Barbara']
 ---
 
 The new Santa Barbara Rock Gym hosted a competition this past Saturday, so Emily and I took a break from studying and drove down. They had great climbs and awesome prizes.

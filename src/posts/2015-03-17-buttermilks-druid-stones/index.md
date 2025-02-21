@@ -3,11 +3,44 @@ title: 'Buttermilks & Druid Stones'
 date: 2015-03-17T08:20:00-07:00
 updated: 2015-03-17T09:03:23-07:00
 thumbnail: 'uploads/IMG_1770.jpg'
-uploads: ['IMG_1612.jpg', 'IMG_1665.jpg', 'IMG_1693.jpg', 'IMG_1741.jpg', 'IMG_1770.jpg', 'IMG_1785.jpg', 'IMG_1795.jpg', 'IMG_1811.jpg', 'arrow.JPG', 'IMG_1825.jpg', 'Edited1212.tif', 'IMG_5659a.JPG', 'IMG_5660a.JPG', 'IMG_1839.jpg', 'IMG_1862.jpg', 'IMG_1915.jpg']
+uploads:
+  [
+    'IMG_1612.jpg',
+    'IMG_1665.jpg',
+    'IMG_1693.jpg',
+    'IMG_1741.jpg',
+    'IMG_1770.jpg',
+    'IMG_1785.jpg',
+    'IMG_1795.jpg',
+    'IMG_1811.jpg',
+    'arrow.JPG',
+    'IMG_1825.jpg',
+    'Edited1212.tif',
+    'IMG_5659a.JPG',
+    'IMG_5660a.JPG',
+    'IMG_1839.jpg',
+    'IMG_1862.jpg',
+    'IMG_1915.jpg',
+  ]
 author: 'Eden Axelrad'
 id: 947930032973856394
 location: 'Bishop, CA'
-tags: ['Axelrad', 'boulders', 'buttermilks', 'California', 'Climbing', 'Druid Stones', 'Eden', 'Five Ten', 'granite', 'green wall', 'Itai', 'Photo', 'Picture', 'solitaire', "xavier's roof"]
+tags:
+  [
+    'boulders',
+    'buttermilks',
+    'California',
+
+    'Druid Stones',
+
+    'granite',
+    'green wall',
+
+    'Photo',
+    'Picture',
+    'solitaire',
+    "xavier's roof",
+  ]
 ---
 
 Cody, Itai and I drove out to Bishop on Friday afternoon for a weekend adventure. We got into the Buttermilks around 7:30 and decided to have a night session before turning in.

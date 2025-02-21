@@ -7,7 +7,7 @@ uploads: ['photo_3%20copy.jpg', 'photo_4.jpg', 'photo_1.jpg', 'photo.jpg']
 author: 'Eden Axelrad'
 id: 5059644913304119206
 location: 'South Lake Tahoe, CA'
-tags: ['Axelrad', 'Chris', 'Eden', 'Ground Control', 'Itai', 'south lake', 'Tahoe']
+tags: ['Chris', 'Ground Control', 'south lake', 'Tahoe']
 ---
 
 ![](uploads/photo_3%20copy.jpg)

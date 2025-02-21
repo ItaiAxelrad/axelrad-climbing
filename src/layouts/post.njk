@@ -14,11 +14,12 @@ stylesheet: post
           class="avatar">
       {% endif %}
     {% endfor %}
-    <div class="publish-info">
-    <address class="p-author">{{ author }}</address>
-    <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+      <div class="publish-info">
+        <address class="p-author">{{ author }}</address>
+        <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+      </div>
     </div>
-    </div>
+    {# <p class='p-location'><span role='img' class="pin">📍</span> {{ location }}</p> #}
     <h1 class="p-name">{{ title }}</h1>
   </header>
     <div class="e-content">

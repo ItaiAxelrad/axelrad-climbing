@@ -3,11 +3,18 @@ title: 'Cold and Windy J Tree '
 date: 2017-01-28T12:00:00-08:00
 updated: 2017-02-11T12:03:13-08:00
 thumbnail: 'uploads/16463769_10154951230009547_8303650977913390281_o.jpg'
-uploads: ['16463769_10154951230009547_8303650977913390281_o.jpg', 'IMG_3997.JPG', 'IMG_4001.JPG', 'IMG_4015.JPG', '16252072_10154945993234547_331957342315451315_o.jpg']
+uploads:
+  [
+    '16463769_10154951230009547_8303650977913390281_o.jpg',
+    'IMG_3997.JPG',
+    'IMG_4001.JPG',
+    'IMG_4015.JPG',
+    '16252072_10154945993234547_331957342315451315_o.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 6824819391289044924
 location: 'Joshua Tree, CA'
-tags: ['Axelrad', 'Bouldering', 'Climbing', 'granite', 'highball', 'Itai', 'Joshua', 'trad', 'traditional', 'Tree']
+tags: ['granite', 'highball', 'Joshua', 'trad', 'traditional', 'Tree']
 ---
 
 As the title of this post suggests, it was a cold and windy weekend out in the desert. Cody and I arrived at Intersection Rock and were happy to that find Toe Jam and other classic trad lines were empty. We soon discovered why. As if the 30 degree weather was not enough to convince us to climb in our puffies, a not so gentle 40-50 mile wind storm threatened to blow us off the climb.

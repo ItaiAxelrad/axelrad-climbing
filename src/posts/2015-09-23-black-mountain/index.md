@@ -3,11 +3,21 @@ title: 'Black Mountain'
 date: 2015-09-23T11:01:00-07:00
 updated: 2015-09-23T13:52:24-07:00
 thumbnail: 'uploads/IMG_2785.jpg'
-uploads: ['IMG_2785.jpg', 'IMG_2777.jpg', 'IMG_2814.jpg', 'IMG_2820.jpg', 'IMG_2830.jpg', 'IMG_2861-2.jpg', 'IMG_2883-2.jpg', 'IMG_2863-2.jpg']
+uploads:
+  [
+    'IMG_2785.jpg',
+    'IMG_2777.jpg',
+    'IMG_2814.jpg',
+    'IMG_2820.jpg',
+    'IMG_2830.jpg',
+    'IMG_2861-2.jpg',
+    'IMG_2883-2.jpg',
+    'IMG_2863-2.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 6819394891124172890
 location: 'Black Mountain, CA'
-tags: ['Axelrad', 'Black Mountain', 'blog', 'Bouldering', 'California', 'Five Ten', 'flash', 'granite', 'highball', 'Itai']
+tags: ['Black Mountain', 'blog', 'California', 'flash', 'granite', 'highball']
 ---
 
 Cody and I set out Friday night to meet up with Joe, Sara and Jason at Black Mountain. We battled heavy traffic the whole way but eventually made it, ready for a night of sleep. Unfortunately, due to recent rain, the dirt road up to the basin campgrounds was too much for our low clearance vehicles. After a short nap we tried our luck at a different campsite and called it a night.

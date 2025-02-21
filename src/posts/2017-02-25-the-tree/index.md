@@ -3,11 +3,22 @@ title: 'The Tree'
 date: 2017-02-25T19:18:00-08:00
 updated: 2017-04-04T21:15:01-07:00
 thumbnail: 'uploads/IMG_1418.JPG'
-uploads: ['IMG_1418.JPG', 'IMG_1459.JPG', 'IMG_1464.JPG', 'IMG_1436.JPG', 'IMG_1437.JPG', 'IMG_1448.JPG', 'IMG_1448.JPG', 'IMG_1448.JPG', 'IMG_1451.JPG']
+uploads:
+  [
+    'IMG_1418.JPG',
+    'IMG_1459.JPG',
+    'IMG_1464.JPG',
+    'IMG_1436.JPG',
+    'IMG_1437.JPG',
+    'IMG_1448.JPG',
+    'IMG_1448.JPG',
+    'IMG_1448.JPG',
+    'IMG_1451.JPG',
+  ]
 author: 'Eden Axelrad'
 id: 4918874172497751200
 location: 'Joshua Tree, CA'
-tags: ['Axelrad', 'Bouldering', 'Climbing', 'Five Ten', 'granite', 'Joshua', 'scatterbrain', 'Tree']
+tags: ['granite', 'Joshua', 'scatterbrain', 'Tree']
 ---
 
 We had to take advantage of some dry weather this last weekend, so Itai, Cody and I drove out to Joshua Tree on Friday night for a quick day trip.

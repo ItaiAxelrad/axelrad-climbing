@@ -2,16 +2,21 @@
       <time datetime="{{ post.data.date | htmlDateString }}" class="dt-published">{{ post.data.date | monthDay}}</time> 
       <img
             src="{{ post.url }}/{{ post.data.thumbnail }}?nf_resize=fit&w=128"
-            width="64" height="64"
+            width="96" height="96"
             alt="{{ post.data.title }}"
             class="thumbnail"
             loading="lazy"
       />
-      <strong><a href="{{ post.url | url }}" class="p-name">{{ post.data.title }}</a></strong>
-      <div class="taglist">
-      {%- set tagList = post.data.tags | excludeTags -%}
-      {%- for tag in tagList %}
-            <a href="/tags/{{ tag | replace("'", "") | slug | url }}" class="tag p-category" rel="tag">{{ tag }}</a>
-      {%- endfor %}
+      <div>
+            <strong>
+                  <a href="{{ post.url | url }}" class="p-name">{{ post.data.title }}</a>
+            </strong>
+           <small class="p-author">{{ post.data.author }}</small> &bull; <small class="p-location">{{ post.data.location }}</small>
+            <div class="taglist">
+            {%- set tagList = post.data.tags | excludeTags -%}
+            {%- for tag in tagList %}
+                  <a href="/tags/{{ tag | replace("'", "") | slug | url }}" class="tag p-category" rel="tag">{{ tag }}</a>
+            {%- endfor %}
+            </div>
       </div>
 </li>

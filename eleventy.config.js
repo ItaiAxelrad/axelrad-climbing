@@ -95,23 +95,7 @@ export default async function (eleventyConfig) {
 
   // remove tags
   eleventyConfig.addFilter('excludeTags', (tags) => {
-    const toRemove = [
-      'all',
-      'post',
-      'posts',
-      'pages',
-      'blog',
-      'tagList',
-      'Eden',
-      'Itai',
-      'Axelrad',
-      'Climbing',
-      'Bouldering',
-      'Five Ten',
-      'fiveten',
-      'Five',
-      'Ten',
-    ];
+    const toRemove = ['all', 'post', 'posts', 'pages', 'blog', 'tagList'];
     return tags.filter((tag) => !toRemove.includes(tag));
   });
 

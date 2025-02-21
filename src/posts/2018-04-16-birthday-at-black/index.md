@@ -1,14 +1,34 @@
 ---
-title: 'Birthday at Black!'
+title: "Birthday at Black!"
 date: 2018-04-16T15:10:00-07:00
 updated: 2020-07-19T16:25:19-07:00
-thumbnail: 'uploads/IMG_3882%202.jpg'
-uploads: ['IMG_3882%202.jpg', 'IMG_3892%202.jpg', 'IMG_3902.jpg', 'IMG_3908.jpg', '23%20PM.jpg', 'IMG_4597.JPG']
-author: 'Eden Axelrad'
+thumbnail: "uploads/IMG_3882%202.jpg"
+uploads:
+  [
+    "IMG_3882%202.jpg",
+    "IMG_3892%202.jpg",
+    "IMG_3902.jpg",
+    "IMG_3908.jpg",
+    "23%20PM.jpg",
+    "IMG_4597.JPG",
+  ]
+author: "Eden Axelrad"
 id: 7194511671878203955
-location: 'Black Mountain, CA'
-tags: ['adamantium', 'Axelrad', 'bang on', 'Black Mountain', 'Bouldering', 'California', 'Climbing', 'der kapitan', 'Eden', 'Five Ten', 'glow worm', 'granite', 'Itai', 'v10', 'v12']
+location: "Black Mountain, CA"
+tags:
+  [
+    "adamantium",
+    "bang on",
+    "Black Mountain",
+    "California",
+    "der kapitan",
+    "glow worm",
+    "granite",
+    "V10",
+    "V12",
+  ]
 ---
+
 Itai and I decided to spend part of our birthday weekend up at Black Mountain. We drove up early on Friday and quickly got started!
 
 Our first stop of the day was Bang On (V12) - one of the area's iconic hard lines. The climb features a large and low percentage opening move, which is then followed by a few big moves on crimps to a jug finish. It doesn't get much better than this, and Itai and I were excited to get it done. After that, we headed up the hill to try out Adamantium (V10), which we both managed to dispatch on our first go.

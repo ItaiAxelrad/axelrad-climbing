@@ -1,153 +1,160 @@
 li {
-  list-style: none;
+	list-style: none;
 }
 
 li.list-item {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  justify-content: start;
-  align-items: start;
-  gap: 0 1.5rem;
+	display: grid;
+	grid-template-columns: auto auto auto;
+	justify-content: start;
+	align-items: start;
+	gap: 0 1.5rem;
 }
 
 li.list-item strong {
-  line-height: 1;
+	line-height: 1;
 }
 
 .list-header {
-  margin-block-start: 1.5rem;
-  font-size: 130%;
+	margin-block-start: 1.5rem;
+	font-size: 130%;
 }
 
 img.thumbnail {
-  grid-row: 1 / span 2;
-  grid-column: 2;
-  object-fit: cover;
-  border-radius: var(--radius);
-  height: 4rem;
-  width: 4rem;
+	grid-row: 1 / span 2;
+	grid-column: 2;
+	object-fit: cover;
+	border-radius: var(--radius);
+	height: 5rem;
+	width: 5rem;
 }
 
 time.dt-published {
-  font-family: var(--ff-mono);
+	font-family: var(--ff-mono);
 }
 
 li .p-name {
-  display: block;
-  padding-inline-end: 0.25rem;
-  text-decoration: none;
+	display: block;
+	padding-inline-end: 0.25rem;
+	text-decoration: none;
 }
 
 li .p-name:hover {
-  text-decoration: underline;
-  text-decoration-color: var(--theme);
+	text-decoration: underline;
+	text-decoration-color: var(--theme);
+}
+
+.p-location,
+.p-author {
+	font-size: small;
+	color: var(--dark-gray);
 }
 
 .tag {
-  display: inline-block;
-  padding: 0.2rem 0.5rem;
-  color: var(--dark-gray);
-  background: var(--light-gray);
-  border-radius: var(--radius);
-  font-size: small;
-  text-decoration: none;
-  box-decoration-break: clone;
+	display: inline-block;
+	padding: 0.2rem 0.5rem;
+	color: var(--dark-gray);
+	background: var(--light-gray);
+	border-radius: var(--radius);
+	font-size: small;
+	text-decoration: none;
+	box-decoration-break: clone;
 }
 
 .tag:hover {
-  color: var(--dark);
-  background: var(--light);
+	color: var(--dark);
+	background: var(--light);
 }
 
 .taglist {
-  grid-column: 3;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.25rem;
+	margin-top: 0.5rem;
+	grid-column: 3;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.25rem;
 }
 
 .archive-container {
-  display: grid;
-  grid-template-columns: auto auto;
-  gap: 1.5rem;
+	display: grid;
+	grid-template-columns: auto auto;
+	gap: 1.5rem;
 }
 
 .nav-aside {
-  position: sticky;
-  top: 1.5rem;
-  margin: 0.5rem 0;
-  padding: 1rem;
-  background: var(--light-gray);
-  border-radius: var(--radius);
+	position: sticky;
+	top: 1.5rem;
+	margin: 0.5rem 0;
+	padding: 1rem;
+	background: var(--light-gray);
+	border-radius: var(--radius);
 }
 
 .nav-aside li {
-  list-style: none;
-  line-height: 1;
+	list-style: none;
+	line-height: 1;
 }
 
 .nav-aside a {
-  padding: 0.2rem 0.5rem;
-  text-decoration: none;
-  border-radius: var(--radius);
-  color: var(--dark-gray);
-  transition: 0.3s ease-out;
+	padding: 0.2rem 0.5rem;
+	text-decoration: none;
+	border-radius: var(--radius);
+	color: var(--dark-gray);
+	transition: 0.3s ease-out;
 }
 
 .nav-aside a:hover,
 a.active {
-  font-weight: bold;
-  color: var(--dark);
-  background: var(--light);
+	font-weight: bold;
+	color: var(--dark);
+	background: var(--light);
 }
 
 .search-container {
-  display: flex;
-  gap: 1.5rem;
-  margin-block-end: 1rem;
-  align-items: center;
+	display: flex;
+	gap: 1.5rem;
+	margin-block-end: 1rem;
+	align-items: center;
 }
 
 input.search {
-  padding: 0.5rem 0.75rem;
-  color: var(--dark);
-  background: var(--light);
-  border: var(--border);
-  border-radius: var(--radius);
-  min-width: 35ch;
+	padding: 0.5rem 0.75rem;
+	color: var(--dark);
+	background: var(--light);
+	border: var(--border);
+	border-radius: var(--radius);
+	min-width: 35ch;
 }
 
 input:focus {
-  box-shadow: 0px 0px 0px 1px var(--theme);
-  outline: none;
+	box-shadow: 0px 0px 0px 1px var(--theme);
+	outline: none;
 }
 
 @media screen and (max-width: 600px) {
-  input.search {
-    flex-grow: 1;
-  }
+	input.search {
+		flex-grow: 1;
+	}
 
-  li.list-item {
-    grid-template-columns: auto auto;
-    gap: 0.5rem 1rem;
-  }
+	li.list-item {
+		grid-template-columns: auto auto;
+		gap: 0.5rem 1rem;
+	}
 
-  li.list-item strong {
-    grid-row: 1;
-    grid-column: 2;
-  }
+	li.list-item strong {
+		grid-row: 1;
+		grid-column: 2;
+	}
 
-  time.dt-published {
-    justify-self: center;
-  }
+	time.dt-published {
+		justify-self: center;
+	}
 
-  img.thumbnail {
-    grid-column: 1;
-    grid-row: 2;
-  }
+	img.thumbnail {
+		grid-column: 1;
+		grid-row: 2;
+	}
 
-  .taglist {
-    grid-column: 2;
-    align-self: start;
-  }
+	.taglist {
+		grid-column: 2;
+		align-self: start;
+	}
 }

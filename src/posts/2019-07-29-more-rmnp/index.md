@@ -1,13 +1,33 @@
 ---
-title: 'More RMNP'
+id: 153840134079096312
+title: "More RMNP"
 date: 2019-07-29T10:27:00-07:00
 updated: 2019-07-29T13:30:29-07:00
-thumbnail: 'uploads/IMG_0632.JPG'
-uploads: ['IMG_0632.JPG', 'IMG_0515.JPG', 'IMG_0655.jpg', 'IMG_0656.jpg', 'IMG_0490.jpg']
-author: 'Itai Axelrad'
-id: 153840134079096312
-location: 'Estes Park, CO'
-tags: ['Alpine', 'Axelrad', 'blood money', 'Bouldering', 'Chaos Canyon', 'Climbing', 'Colorado', 'ethics', 'leave no trace', 'pad', 'RMNP', 'stashing', 'top notch', 'v13']
+thumbnail: "uploads/IMG_0632.JPG"
+uploads:
+  [
+    "IMG_0632.JPG",
+    "IMG_0515.JPG",
+    "IMG_0655.jpg",
+    "IMG_0656.jpg",
+    "IMG_0490.jpg",
+  ]
+author: "Itai Axelrad"
+location: "Estes Park, CO"
+tags:
+  [
+    "Alpine",
+    "blood money",
+    "Chaos Canyon",
+    "Colorado",
+    "ethics",
+    "leave no trace",
+    "pad",
+    "RMNP",
+    "stashing",
+    "top notch",
+    "V13",
+  ]
 ---
 
 If you can ignore the hoards of tourists, Rocky Mountain National Park is a lovely place. I did not think so at first but it has grown on me in the past few weeks. Good times in the alpine with a fine crew of people will do that!

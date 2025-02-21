@@ -3,11 +3,22 @@ title: 'September Sends'
 date: 2017-09-24T19:59:00-07:00
 updated: 2017-09-28T08:15:40-07:00
 thumbnail: 'uploads/IMG_4970.JPG'
-uploads: ['IMG_4970.JPG', 'IMG_4982.JPG', 'IMG_4982.JPG', 'IMG_4982.JPG', 'FullSizeRender%2011.jpg', 'IMG_5001.JPG', 'IMG_4999.JPG', 'IMG_4999.JPG', 'IMG_4999.JPG']
+uploads:
+  [
+    'IMG_4970.JPG',
+    'IMG_4982.JPG',
+    'IMG_4982.JPG',
+    'IMG_4982.JPG',
+    'FullSizeRender%2011.jpg',
+    'IMG_5001.JPG',
+    'IMG_4999.JPG',
+    'IMG_4999.JPG',
+    'IMG_4999.JPG',
+  ]
 author: 'Itai Axelrad'
 id: 1700869977427004587
 location: 'Bishop, CA'
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'The Swarm']
+tags: ['bishop', 'buttermilks', 'California', 'The Swarm']
 ---
 
 A cold streak appeared on the forecast and beckoned us towards the Sierras. It was the last weekend of our seemingly endless summer and a Bishop trip would surely serve as a grand finale. Cody and I met Eden and Jovanna early Friday morning and made the familiar drive north on the 395. It was officially the first day of fall and felt like it when we exited the car for breakfast. Good climbing temperatures in September have been a bit of a rarity over the years but this was a welcome change. We warmed up in the Buttermilk main area and came away with some new climbs.

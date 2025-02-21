@@ -3,11 +3,20 @@ title: 'Tramway'
 date: 2015-05-18T18:39:00-07:00
 updated: 2015-05-18T18:39:09-07:00
 thumbnail: 'uploads/IMG_2256.jpg'
-uploads: ['IMG_2256.jpg', 'IMG_2247.jpg', 'IMG_2257.jpg', 'IMG_2267.jpg', 'IMG_2296.jpg', 'IMG_2347.jpg', 'IMG_2361.jpg']
+uploads:
+  [
+    'IMG_2256.jpg',
+    'IMG_2247.jpg',
+    'IMG_2257.jpg',
+    'IMG_2267.jpg',
+    'IMG_2296.jpg',
+    'IMG_2347.jpg',
+    'IMG_2361.jpg',
+  ]
 author: 'Itai Axelrad'
 id: 5836944207169943167
 location: 'Palm Springs, CA'
-tags: ['Axelrad', 'Bouldering', 'California', 'Climbing', 'emerald city', 'Five Ten', 'granite', 'highball', 'Itai', 'Rock', 'Tramway']
+tags: ['California', 'emerald city', 'granite', 'highball', 'Rock', 'Tramway']
 ---
 
 The San Jacinto Mountain range received several inches of snow from a brief and passing storm but the weather forecast now promised blue skies and good climbing temps. Emily, Jake, Cody and I took this opportunity to escape the city and travel up the Palm Springs Aerial Tramway to 8,500 feet and try some quality granite bouldering. We got an early start and were looking forward to the full day ahead.

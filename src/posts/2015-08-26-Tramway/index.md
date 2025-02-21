@@ -7,7 +7,7 @@ uploads: ['IMG_2622.jpg', 'IMG_2658.jpg', 'IMG_2694.jpg', 'IMG_2756.jpg']
 author: 'Eden Axelrad'
 id: 5724635934859448860
 location: 'Palm Springs, CA'
-tags: ['Axelrad', 'black mamba', 'blog', 'Bouldering', 'Climbing', 'Eden', 'emerald city', 'Five Ten', 'granite', 'Itai', 'Tramway']
+tags: ['black mamba', 'blog', 'emerald city', 'granite', 'Tramway']
 ---
 
 On Saturday Cody, Itai and I drove out to The Tramway and met up with Isaac, Alexandra and Alex. We were hoping that the recent "drop" in weather would lend for a nice day of climbing outdoors. It had been roughly a month since I got to climb outdoors, and much longer since I had touched granite - so I was very excited for the trip.

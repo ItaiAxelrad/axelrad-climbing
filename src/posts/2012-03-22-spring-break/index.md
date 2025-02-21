@@ -3,11 +3,20 @@ title: 'Spring Break'
 date: 2012-03-22T21:01:00-07:00
 updated: 2013-10-14T13:26:51-07:00
 thumbnail: 'uploads/IMG_2990.JPG'
-uploads: ['IMG_2990.JPG', 'IMG_3065.JPG', 'IMG_3038.jpg', 'IMG_3014.jpg', 'IMG_3019.jpg', 'IMG_3073.JPG', 'IMG_3086.JPG']
+uploads:
+  [
+    'IMG_2990.JPG',
+    'IMG_3065.JPG',
+    'IMG_3038.jpg',
+    'IMG_3014.jpg',
+    'IMG_3019.jpg',
+    'IMG_3073.JPG',
+    'IMG_3086.JPG',
+  ]
 author: 'Itai Axelrad'
 id: 1343303023510910120
 location: 'Bishop, CA'
-tags: ['Axelrad', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'California']
+tags: ['bishop', 'boulders', 'buttermilks', 'California']
 ---
 
 ![Bishop!](uploads/IMG_2990.JPG)

@@ -7,7 +7,20 @@ uploads: ['IMG_1943.jpg', 'IMG_1973.jpg', 'IMG_1987.jpg', 'IMG_2006.jpg']
 author: 'Itai Axelrad'
 id: 8272175470487520513
 location: 'Las Vegas, NV'
-tags: ['Axelrad', 'blog', 'Bouldering', 'Climbing', 'Eden', 'Five Ten', 'highball', 'Itai', 'Kraft', 'Las Vegas', 'Nevada', 'Red', 'Red Rocks', 'Rock', 'sandstone']
+tags:
+  [
+    'blog',
+
+    'highball',
+
+    'Kraft',
+    'Las Vegas',
+    'Nevada',
+    'Red',
+    'Red Rocks',
+    'Rock',
+    'sandstone',
+  ]
 ---
 
 My brother and I arrived in Red Rock Canyon mid-day, excited and ready to climb, but as we hiked the short approach into Pine Creek Canyon, our enthusiasm was dampened by the heat. We had our eyes set on a short and powerful problem called Siren's Call, but unfortunately couldn't manage a send before the 7 o'clock Red Rock Canyon National Conservation Area closing time.

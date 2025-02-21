@@ -7,7 +7,7 @@ uploads: ['IMG_3581.jpg', 'IMG_3607.jpg', 'IMG_3616.jpg']
 author: 'Itai Axelrad'
 id: 350370840634974960
 location: 'Bishop, CA'
-tags: ['Axelrad', 'bishop', 'Bouldering', 'buttermilks', 'California', 'Five Ten', 'granite', 'highball']
+tags: ['bishop', 'buttermilks', 'California', 'granite', 'highball']
 ---
 
 Though day trips have been a plenty, a full weekend trip had been a long time coming. I have missed those compounding aches, pains and sunburns that only multiple days on can offer. Not to mention stargazing, which I regard as the cure to the common lack of perspective.

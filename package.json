@@ -2,12 +2,17 @@
   "name": "axelrad-climbing",
   "version": "1.0.0",
   "description": "A climbing blog for Eden and Itai Axelrad.",
+  "type": "module",
   "scripts": {
     "build": "npx @11ty/eleventy",
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
+    "start": "npx @11ty/eleventy --serve --quiet",
     "debug": "DEBUG=Eleventy* eleventy",
     "update": "npm i npm-check-updates && ncu -u && npm install && npm audit fix"
+  },
+  "engines": {
+    "node": ">=18"
   },
   "author": {
     "name": "Itai Axelrad",

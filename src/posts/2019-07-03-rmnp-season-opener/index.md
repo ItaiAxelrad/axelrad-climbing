@@ -1,13 +1,23 @@
 ---
-title: 'RMNP Season Opener'
+title: "RMNP Season Opener"
 date: 2019-07-03T11:29:00-07:00
 updated: 2019-07-03T11:33:30-07:00
-thumbnail: 'uploads/GoBot.jpg'
-uploads: ['GoBot.jpg', 'RMNP%20V11.jpg', 'IMG_0388.jpg']
-author: 'Itai Axelrad'
+thumbnail: "uploads/GoBot.jpg"
+uploads: ["GoBot.jpg", "RMNP%20V11.jpg", "IMG_0388.jpg"]
+author: "Itai Axelrad"
 id: 4460816252139277326
-location: 'Estes Park, CO'
-tags: ['Axelrad', 'Bouldering', 'Chaos Canyon', 'Colorado', 'gobot', 'lower', 'Mountain', 'park', 'RMNP', 'v11']
+location: "Estes Park, CO"
+tags:
+  [
+    "Chaos Canyon",
+    "Colorado",
+    "gobot",
+    "lower",
+    "Mountain",
+    "park",
+    "RMNP",
+    "V11",
+  ]
 ---
 
 After the requisite early start and uphill approach, we found ourselves in lower chaos. The crew had planned on meeting at the warm-up boulder but to our surprise it was buried in snow with just the top out holds visible. Our options for the day were cut down by the freakishly snowy winter and spring here in Colorado.

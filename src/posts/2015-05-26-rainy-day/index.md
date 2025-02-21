@@ -7,8 +7,9 @@ uploads: ['IMG_2382.jpg', 'IMG_2384.jpg', 'IMG_2401.jpg', 'IMG_2366.jpg']
 author: 'Itai Axelrad'
 id: 8734970184577572928
 location: 'Black Mountain, CA'
-tags: ['Black Mountain', 'blog', 'Bouldering', 'California', 'Five Ten', 'highball', 'Itai']
+tags: ['Black Mountain', 'blog', 'California', 'highball']
 ---
+
 Isaac and I headed up to Black Mt. Saturday morning, optimistic and ready to climb. Unfortunately, we were greeted by 100% humidity and about 10 feet of visibility which dampened our mood. I still managed to climb a great line that Isaac put up called The Last Survivors of the Pleistocene Epoch.
 
 ![Trying not to slip off of the wet holds on The Last Survivors...(V7).](uploads/IMG_2382.jpg)

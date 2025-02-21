@@ -3,11 +3,18 @@ title: 'A Hot One in Tram'
 date: 2019-06-29T10:06:00-07:00
 updated: 2019-07-01T10:09:53-07:00
 thumbnail: 'uploads/IMG_0601.jpg'
-uploads: ['IMG_0601.jpg', 'IMG_0619.JPG', 'IMG_8679.jpg', 'IMG_8706.jpg', 'IMG_8710.jpg']
+uploads:
+  [
+    'IMG_0601.jpg',
+    'IMG_0619.JPG',
+    'IMG_8679.jpg',
+    'IMG_8706.jpg',
+    'IMG_8710.jpg',
+  ]
 author: 'Eden Axelrad'
 id: 7093561005345250255
 location: 'Palm Springs, CA'
-tags: ['angus', 'Axelrad', 'Bouldering', 'Climbing', 'granite', 'master blaster', 'somewhere in time', 'Tramway']
+tags: ['angus', 'granite', 'master blaster', 'somewhere in time', 'Tramway']
 ---
 
 This Saturday I met up with Cody at Tramway for a fun day outdoors. We spent most of our time off the main sectors, chasing shade and trying to find a bit of energy. Thankfully the afternoon brought some much needed cloud coverage and wind. Here's a few pics from the day!

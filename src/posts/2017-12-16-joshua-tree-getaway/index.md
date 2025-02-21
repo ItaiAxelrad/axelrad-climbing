@@ -7,7 +7,7 @@ uploads: ['IMG_5264.JPG', 'IMG_5273.JPG', 'IMG_5404.JPG']
 author: 'Itai Axelrad'
 id: 5800870091216929715
 location: 'Joshua Tree, CA'
-tags: ['Axelrad', 'California', 'granite', 'Joshua', 'Tree']
+tags: ['California', 'granite', 'Joshua', 'Tree']
 ---
 
 Quick, impulsive trips to Joshua Tree never get old. Here are some pictures from the latest one. Enjoy!

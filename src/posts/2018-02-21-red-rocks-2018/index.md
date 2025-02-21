@@ -3,11 +3,30 @@ title: 'Red Rocks 2018!'
 date: 2018-02-21T16:38:00-08:00
 updated: 2018-02-28T16:42:37-08:00
 thumbnail: 'uploads/IMG_4088.JPG'
-uploads: ['IMG_4088.JPG', 'IMG_4090.JPG', 'IMG_4125.JPG', 'IMG_4121.JPG', 'IMG_4134.JPG', 'Meadowlark%20Lemon.JPG', 'IMG_4160.JPG', 'IMG_4171.jpg', 'IMG_4127.JPG']
+uploads:
+  [
+    'IMG_4088.JPG',
+    'IMG_4090.JPG',
+    'IMG_4125.JPG',
+    'IMG_4121.JPG',
+    'IMG_4134.JPG',
+    'Meadowlark%20Lemon.JPG',
+    'IMG_4160.JPG',
+    'IMG_4171.jpg',
+    'IMG_4127.JPG',
+  ]
 author: 'Eden Axelrad'
 id: 1773389114748798125
 location: 'Las Vegas, NV'
-tags: ['Axelrad', 'Bouldering', 'Climbing', 'Eden', 'fiveten', 'Itai', 'meadowlark lemon', 'metolius', 'Nevada', 'power slave', 'Red Rocks', 'sandstone']
+tags:
+  [
+    'meadowlark lemon',
+    'metolius',
+    'Nevada',
+    'power slave',
+    'Red Rocks',
+    'sandstone',
+  ]
 ---
 
 We rallied a big crew (Me, Itai, Jovanna, Cody and Wynne) out to Red Rocks for a long weekend of climbing. We spent the first day running around the Kraft Boulders and Gateway Canyon. It was sunny, and warmer than we expected - but we made the best of it!

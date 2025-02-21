@@ -7,7 +7,7 @@ uploads: ['IMG_3722.jpg', 'IMG_3774.JPG']
 author: 'Itai Axelrad'
 id: 9058537813027630432
 location: 'Idyllwild-Pine Cove, CA'
-tags: ['Axelrad', 'Black Mountain', 'Bouldering', 'California', 'Climbing', 'Eden', 'Itai']
+tags: ['Black Mountain', 'California']
 ---
 
 Isaac and I drove up to Black Mountain on Friday morning. Isaac was meeting Natalie (who he is coaching) and Douglas Hunter (father of the four-by-four) to film an athlete profile.

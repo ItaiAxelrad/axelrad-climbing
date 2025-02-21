@@ -3,11 +3,42 @@ title: 'Squamish (Part I) '
 date: 2017-08-17T15:11:00-07:00
 updated: 2020-05-04T14:31:39-07:00
 thumbnail: 'uploads/IMG_2832.jpg'
-uploads: ['IMG_2832.jpg', 'IMG_2828.jpg', 'IMG_2810.jpg', 'IMG_2798.jpg', 'IMG_2861.jpg', 'IMG_2878.jpg', 'IMG_2899.jpg', 'IMG_2884.jpg', 'IMG_3503.JPG', 'IMG_2977.JPG', 'IMG_2935.jpg', 'IMG_2930.jpg', 'IMG_2970.JPG', 'IMG_2962.jpg', 'IMG_2932.jpg']
+uploads:
+  [
+    'IMG_2832.jpg',
+    'IMG_2828.jpg',
+    'IMG_2810.jpg',
+    'IMG_2798.jpg',
+    'IMG_2861.jpg',
+    'IMG_2878.jpg',
+    'IMG_2899.jpg',
+    'IMG_2884.jpg',
+    'IMG_3503.JPG',
+    'IMG_2977.JPG',
+    'IMG_2935.jpg',
+    'IMG_2930.jpg',
+    'IMG_2970.JPG',
+    'IMG_2962.jpg',
+    'IMG_2932.jpg',
+  ]
 author: 'Eden Axelrad'
 id: 8316550721514205392
 location: 'Squamish, BC, Canada'
-tags: ['Axelrad', 'black hole', 'Bouldering', 'canada', 'chief', 'Climbing', 'Eden', 'Five', 'Five Ten', 'forest', 'grand wall', 'granite', 'Itai', 'north wall', 'perfect cave', 'resurrection', 'Squamish', 'Ten']
+tags:
+  [
+    'black hole',
+
+    'canada',
+    'chief',
+
+    'forest',
+    'grand wall',
+    'granite',
+    'north wall',
+    'perfect cave',
+    'resurrection',
+    'Squamish',
+  ]
 ---
 
 ![](uploads/IMG_2832.jpg)

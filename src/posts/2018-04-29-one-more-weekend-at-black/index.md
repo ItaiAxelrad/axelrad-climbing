@@ -3,11 +3,23 @@ title: 'One More Weekend at Black '
 date: 2018-04-29T20:30:00-07:00
 updated: 2018-05-02T18:26:20-07:00
 thumbnail: 'uploads/IMG_4029%202.jpg'
-uploads: ['IMG_4029%202.jpg', 'IMG_3911%202.jpg', 'IMG_3934%202.jpg', 'IMG_3955%202.jpg', 'IMG_4671.JPG', 'IMG_4679.JPG', 'IMG_3971%202.jpg', 'IMG_3993%202.jpg', 'IMG_4024%202.jpg', 'IMG_4008%202.jpg']
+uploads:
+  [
+    'IMG_4029%202.jpg',
+    'IMG_3911%202.jpg',
+    'IMG_3934%202.jpg',
+    'IMG_3955%202.jpg',
+    'IMG_4671.JPG',
+    'IMG_4679.JPG',
+    'IMG_3971%202.jpg',
+    'IMG_3993%202.jpg',
+    'IMG_4024%202.jpg',
+    'IMG_4008%202.jpg',
+  ]
 author: 'Eden Axelrad'
 id: 849605771138296132
 location: 'Black Mountain, CA'
-tags: ['Axelrad', 'beowulf', 'Black Mountain', 'Bouldering', 'Climbing', 'granite']
+tags: ['beowulf', 'Black Mountain', 'granite']
 ---
 
 Drew, Kody, Itai and I met up Saturday morning to start off a weekend at Black. Our first day was filled with exploration - hiking, scoping, cleaning, and some climbing.

@@ -7,7 +7,7 @@ uploads: ['Crimps-of-Wrath.jpg']
 author: 'Itai Axelrad'
 id: 7280536218268461960
 location: 'Bishop, CA'
-tags: ['Ascent', 'bishop', 'Bouldering', 'boulders', 'buttermilks', 'First']
+tags: ['Ascent', 'bishop', 'boulders', 'buttermilks', 'First']
 ---
 
 I have been emailing Wills Young about my recent Bishop first ascent, Crimps of Wrath. Wills, who is the author of the fantastic Bishop Bouldering guide, was pleased to hear about it. He decided to post about it in his blog [bishopbouldering.blogspot.com](http://bishopbouldering.blogspot.com/2012/04/possible-new-v10-on-cave-boulder.html).

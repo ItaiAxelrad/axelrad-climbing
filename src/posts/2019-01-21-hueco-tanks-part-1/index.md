@@ -7,7 +7,8 @@ uploads: ['IMG_2495.jpg', 'IMG_6982.jpg', 'IMG_9346.jpg', 'IMG_4425.jpg']
 author: 'Itai Axelrad'
 id: 4832847861390354511
 location: 'El Paso, TX'
-tags: ['Axelrad', 'Bouldering', 'east', 'el paso', 'flash', 'hueco', 'Mountain', 'north', 'tanks', 'texas']
+tags:
+  ['east', 'el paso', 'flash', 'hueco', 'Mountain', 'north', 'tanks', 'texas']
 ---
 
 After a few rest days and a testing drive from Denver, I exited the car and pulled on to the classic Diaphanous Sea. It had been a decade earlier that I had last been to the desert bouldering mecca. That climb and many others had been on mind ever since. Aside from Diaphanous, I managed to tick a handful more off my list on the first day, including Power of Silence, a flash of Tequila Sunrise, and a flash of Loaded with Power (without any knee-bars of course).
