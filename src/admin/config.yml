@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: main # Branch to update (optional; defaults to master)
   squash_merges: true
 site_url: https://axelradclimbing.com
 display_url: https://axelradclimbing.com

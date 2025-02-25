@@ -5,14 +5,9 @@ update: 2021-04-26
 author: Itai Axelrad
 location: Sheep Nose, CO
 thumbnail: uploads/IMG_1021.jpg
-tags:
-  - FA
-  - south
-  - platte
-  - sheep
-  - V13
-  - CO
+tags: ["FA", "south", "platte", "sheep", "V13", "CO"]
 ---
+
 I had grown to love this little crag. The granite and sunshine of the south face reminded me of California. The fire devastated hillside is home to an impressive jumble of large boulders, though typical to the South Platte, many are blank or crumbly. Isaac had spoken highly of this place since before we moved to Colorado and finally convinced us to make the two hour drive.
 
 ![Sheep Nose at sunset](uploads/IMG_1021.jpg)

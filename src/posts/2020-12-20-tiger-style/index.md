@@ -5,13 +5,9 @@ update: 2020-12-27
 author: Itai Axelrad
 location: Eleven Mile State Park, CO
 thumbnail: uploads/IMG_4206.jpg
-tags:
-  - Eleven
-  - Mile
-  - Reservoir
-  - V13
-  - CO
+tags: ["Eleven", "Mile", "Reservoir", "V13", "CO"]
 ---
+
 Winter time in the front range can feel a bit limited, especially when attempting to socially distance. Our go-to alternative of the South Platt usually delivers. This weekend was no exception.
 
 I had been itching to check out the proud Austin Geiman first ascent at the Eleven Mile State Park Reservoir since I first saw photos of it over a year ago. The large boulder sits at the edge of the reservoir and hosts two problems with large gymnastic moves between granite down-pulls. Hank and Ilias met us at the parking after a terrifying drive through ground blizzards beyond Kenosha Pass. I was unsure of our ability to climb in the freezing conditions, with wind chill likely pushing temperatures into the high 20's at times. After the long and arduous trek down we decided to at least give a try.
