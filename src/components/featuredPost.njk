@@ -12,7 +12,8 @@
   <div class="post-info">
   <time datetime="{{ featuredPost.data.date | htmlDateString }}" class="subtitle">{{ featuredPost.data.date | readableDate}}</time>
     <a href="{{ featuredPost.url }}"><h3 class="featured-post-title">{{ featuredPost.data.title }}</h3></a>
-    <div class="caption">{{- featuredPost.templateContent | truncate(180, true, "...") | safe -}}</div>
+    <div class="caption">{{- featuredPost.templateContent | striptags(true) | escape | truncate(180, true, "...") | safe -}}</div>
     <a href="{{ featuredPost.url }}" class="read-more btn">read more &rarr;<span class="visually-hidden">about {{ featuredPost.data.title }}</span></a>
   </div>
+  
 </div>

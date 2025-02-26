@@ -1,25 +1,25 @@
 ---
-title: 'Another Yose Trip'
+id: 8561630215291612274
+title: "Another Yose Trip"
+author: "Eden Axelrad"
+location: "Yosemite National Park, California, USA"
 date: 2019-10-27T18:46:00-07:00
 updated: 2019-10-29T19:22:07-07:00
-thumbnail: 'uploads/IMG_0077.jpg'
+thumbnail: "uploads/IMG_0077.jpg"
 uploads:
   [
-    'IMG_0077.jpg',
-    'IMG_0067.jpg',
-    'IMG_0111.jpg',
-    'IMG_0100.jpg',
-    'IMG_0072.jpg',
-    'IMG_0089.jpg',
-    'IMG_0104.JPG',
-    'IMG_0106.JPG',
-    'IMG_0107.JPG',
-    'IMG_0098.jpg',
+    "IMG_0077.jpg",
+    "IMG_0067.jpg",
+    "IMG_0111.jpg",
+    "IMG_0100.jpg",
+    "IMG_0072.jpg",
+    "IMG_0089.jpg",
+    "IMG_0104.JPG",
+    "IMG_0106.JPG",
+    "IMG_0107.JPG",
+    "IMG_0098.jpg",
   ]
-author: 'Eden Axelrad'
-id: 8561630215291612274
-location: 'Yosemite National Park, California, USA'
-tags: ['boulder', 'granite', 'the seam', 'Valley', 'yosemite']
+tags: ["boulder", "granite", "the seam", "Valley", "yosemite"]
 ---
 
 ![](uploads/IMG_0077.jpg)
