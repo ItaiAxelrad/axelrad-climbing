@@ -1,24 +1,24 @@
 ---
-title: 'The Send: Bouldering Competition '
+title: "The Send: Bouldering Competition"
 date: 2014-03-09T14:31:00-07:00
 updated: 2014-03-09T14:38:01-07:00
-thumbnail: 'uploads/thesend.jpg'
-uploads: ['thesend.jpg']
-author: 'Itai Axelrad'
+thumbnail: "uploads/thesend.jpg"
+uploads: ["thesend.jpg"]
+author: "Itai Axelrad"
 id: 4752905453386032339
-location: 'San Luis Obispo, CA'
+location: "San Luis Obispo, CA"
 tags:
   [
-    'Andy Lamb',
+    "Andy Lamb",
 
-    'California',
-    'CCS',
+    "California",
+    "CCS",
 
-    'Collegiate',
-    'Competition',
-    'finals',
-    'Slo Op',
-    'the send',
+    "Collegiate",
+    "Competition",
+    "finals",
+    "Slo Op",
+    "the send",
   ]
 ---
 

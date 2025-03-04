@@ -1,5 +1,5 @@
 ---
-title: 'Birthday in J Tree! '
+title: 'Birthday in J Tree!'
 date: 2018-05-13T22:30:00-07:00
 updated: 2018-05-13T22:30:38-07:00
 thumbnail: 'uploads/IMG_4042.JPG'

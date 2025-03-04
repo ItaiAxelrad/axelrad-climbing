@@ -1,5 +1,5 @@
 ---
-title: 'Cold and Windy J Tree '
+title: 'Cold and Windy J Tree'
 date: 2017-01-28T12:00:00-08:00
 updated: 2017-02-11T12:03:13-08:00
 thumbnail: 'uploads/16463769_10154951230009547_8303650977913390281_o.jpg'

@@ -1,5 +1,5 @@
 ---
-title: 'Eastern Sierras '
+title: 'Eastern Sierras'
 date: 2017-09-05T21:49:00-07:00
 updated: 2017-09-05T22:04:14-07:00
 thumbnail: 'uploads/IMG_3015.JPG'

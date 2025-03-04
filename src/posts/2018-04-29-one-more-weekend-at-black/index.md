@@ -1,5 +1,5 @@
 ---
-title: 'One More Weekend at Black '
+title: 'One More Weekend at Black'
 date: 2018-04-29T20:30:00-07:00
 updated: 2018-05-02T18:26:20-07:00
 thumbnail: 'uploads/IMG_4029%202.jpg'

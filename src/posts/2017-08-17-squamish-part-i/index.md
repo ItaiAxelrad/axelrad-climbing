@@ -1,5 +1,5 @@
 ---
-title: 'Squamish (Part I) '
+title: 'Squamish (Part I)'
 date: 2017-08-17T15:11:00-07:00
 updated: 2020-05-04T14:31:39-07:00
 thumbnail: 'uploads/IMG_2832.jpg'

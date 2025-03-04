@@ -1,5 +1,5 @@
 ---
-title: 'Yosemite! '
+title: 'Yosemite!'
 date: 2016-07-26T19:35:00-07:00
 updated: 2016-07-26T19:35:47-07:00
 thumbnail: 'uploads/IMG_0697.JPG'

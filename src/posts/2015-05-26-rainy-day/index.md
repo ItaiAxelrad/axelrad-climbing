@@ -1,5 +1,5 @@
 ---
-title: 'Rainy Day '
+title: 'Rainy Day'
 date: 2015-05-26T11:14:00-07:00
 updated: 2015-05-26T11:17:40-07:00
 thumbnail: 'uploads/IMG_2382.jpg'
