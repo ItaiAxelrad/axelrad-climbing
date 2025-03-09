@@ -2,15 +2,6 @@
 	"name": "axelrad-climbing",
 	"version": "1.0.0",
 	"description": "A climbing blog for Eden and Itai Axelrad.",
-	"type": "module",
-	"scripts": {
-		"build": "npx @11ty/eleventy",
-		"watch": "eleventy --watch",
-		"serve": "eleventy --serve",
-		"start": "npx @11ty/eleventy --serve --quiet",
-		"debug": "DEBUG=Eleventy* eleventy",
-		"update": "npm i npm-check-updates && ncu -u && npm install && npm audit fix"
-	},
 	"engines": {
 		"node": ">=20"
 	},
@@ -19,21 +10,35 @@
 		"email": "itaiaxelrad@gmail.com",
 		"url": "https://itaiaxelrad.com/"
 	},
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
 	"dependencies": {
-		"decap-cms-app": "^3.6.2"
+		"@ljoss/rehype-figure-caption": "^1.0.0",
+		"@mantine/core": "^7.17.1",
+		"@mantine/hooks": "^7.17.1",
+		"@mantine/spotlight": "^7.17.1",
+		"@tabler/icons-react": "^3.31.0",
+		"gray-matter": "^4.0.3",
+		"next": "^15.2.1",
+		"react": "^19.0.0",
+		"react-dom": "^19.0.0",
+		"react-markdown": "^10.0.0",
+		"remark-gfm": "^4.0.1"
 	},
 	"devDependencies": {
-		"@11ty/eleventy": "^3.0.0",
-		"@11ty/eleventy-plugin-rss": "^2.0.3",
-		"autoprefixer": "^10.4.20",
-		"cssnano": "^7.0.6",
-		"luxon": "^3.5.0",
-		"markdown-it": "^14.1.0",
-		"markdown-it-image-lazy-loading": "^2.0.1",
-		"markdown-it-implicit-figures": "^0.12.0",
-		"markdown-it-replace-link": "^1.2.2",
-		"npm-check-updates": "^17.1.14",
-		"postcss": "^8.5.3",
-		"terser": "^5.39.0"
+		"@eslint/eslintrc": "^3",
+		"@types/node": "^20",
+		"@types/react": "^19",
+		"@types/react-dom": "^19",
+		"eslint": "^9",
+		"eslint-config-next": "15.2.0-canary.76",
+		"postcss": "^8.5.1",
+		"postcss-preset-mantine": "1.17.0",
+		"postcss-simple-vars": "^7.0.1",
+		"typescript": "^5"
 	}
 }

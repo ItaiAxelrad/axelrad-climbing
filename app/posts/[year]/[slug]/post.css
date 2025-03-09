@@ -1,0 +1,17 @@
+p > img,
+figure > img:where(img) {
+  display: block;
+  margin-bottom: 0 !important;
+  margin: 0 auto;
+}
+
+figure {
+  margin: 0 auto;
+}
+
+figcaption:last-child {
+  color: var(--mantine-color-dimmed);
+  text-align: center;
+  font-size: small;
+  margin-bottom: 1rem !important;
+}
