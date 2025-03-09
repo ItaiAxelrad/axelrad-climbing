@@ -4,16 +4,19 @@ layout: base.njk
 eleventyExcludeFromCollections: true
 permalink: index.html
 ---
-<div class="posts">
-  {%- include 'featuredPost.njk' -%}
-  {%- set posts = collections.post | reverse -%}
-  {%- for post in posts.slice(1, 3) -%}
-    {%- include 'postCard.njk' -%}
-  {%- endfor -%}
-</div>
-<nav class="pageNav">
-  <div class="previous-page"></div>
-  <div class="next-page">
-    <a href="/page/1">Older Posts &rarr;</a>
-  </div>
-</nav>
+{%- include 'featuredPost.njk' -%}
+  <ol id="results" class="post-list" reversed >
+    {% set currentYear = "" %}
+    {%- set posts = collections.post | reverse -%}
+    {%- for post in posts.slice(0, 15) -%}
+        {% set postYear = post.date.getFullYear() %}
+        {% if currentYear != postYear %}
+          {% set currentYear = postYear %}
+          <li><h2 id="{{ postYear }}" class="list-header">{{ postYear }}</h2></li>
+        {% endif %}
+      {% include 'listItem.njk' %}
+    {% endfor %}
+    </ol>
+    <div class="center">
+      <button id="loadAll" class="btn">Load More</button>
+    </div>
