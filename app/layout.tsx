@@ -1,13 +1,16 @@
-import '@mantine/core/styles.css';
-import '@mantine/spotlight/styles.css';
-import type { Metadata } from 'next';
+import BaseLayout from '@/components/BaseLayout';
+import { theme } from '@/lib/theme';
 import {
   ColorSchemeScript,
   mantineHtmlProps,
   MantineProvider,
 } from '@mantine/core';
-import { theme } from '@/lib/theme';
-import BaseLayout from '@/components/BaseLayout';
+import '@mantine/core/styles.css';
+import '@mantine/notifications/styles.css';
+import '@mantine/spotlight/styles.css';
+import type { Metadata } from 'next';
+import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://axelradclimbing.com'),
@@ -42,11 +45,18 @@ export default function RootLayout({
     <html lang='en' {...mantineHtmlProps}>
       <head>
         <ColorSchemeScript />
+        <link rel='shortcut icon' href='/favicon.svg' />
+        <meta
+          name='viewport'
+          content='minimum-scale=1, initial-scale=1, width=device-width'
+        />
       </head>
       <body>
         <MantineProvider theme={theme}>
           <BaseLayout>{children}</BaseLayout>
         </MantineProvider>
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );

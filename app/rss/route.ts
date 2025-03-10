@@ -12,7 +12,7 @@ export async function GET() {
           <link>${metadata.metadataBase}/posts/${post.dir}/${post.slug}</link>
           <description>${post?.content.substring(0, 100) || ''}</description>
           <pubDate>${new Date(post.publishedAt).toUTCString()}</pubDate>
-        </item>`
+        </item>`,
     )
     .join('\n');
 

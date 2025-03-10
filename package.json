@@ -1,44 +1,52 @@
 {
-	"name": "axelrad-climbing",
-	"version": "1.0.0",
-	"description": "A climbing blog for Eden and Itai Axelrad.",
-	"engines": {
-		"node": ">=20"
-	},
-	"author": {
-		"name": "Itai Axelrad",
-		"email": "itaiaxelrad@gmail.com",
-		"url": "https://itaiaxelrad.com/"
-	},
-	"scripts": {
-		"dev": "next dev",
-		"build": "next build",
-		"start": "next start",
-		"lint": "next lint"
-	},
-	"dependencies": {
-		"@ljoss/rehype-figure-caption": "^1.0.0",
-		"@mantine/core": "^7.17.1",
-		"@mantine/hooks": "^7.17.1",
-		"@mantine/spotlight": "^7.17.1",
-		"@tabler/icons-react": "^3.31.0",
-		"gray-matter": "^4.0.3",
-		"next": "^15.2.1",
-		"react": "^19.0.0",
-		"react-dom": "^19.0.0",
-		"react-markdown": "^10.0.0",
-		"remark-gfm": "^4.0.1"
-	},
-	"devDependencies": {
-		"@eslint/eslintrc": "^3",
-		"@types/node": "^20",
-		"@types/react": "^19",
-		"@types/react-dom": "^19",
-		"eslint": "^9",
-		"eslint-config-next": "15.2.0-canary.76",
-		"postcss": "^8.5.1",
-		"postcss-preset-mantine": "1.17.0",
-		"postcss-simple-vars": "^7.0.1",
-		"typescript": "^5"
-	}
+  "name": "axelrad-climbing",
+  "version": "1.0.0",
+  "description": "A climbing blog for Eden and Itai Axelrad.",
+  "engines": {
+    "node": ">=20"
+  },
+  "author": {
+    "name": "Itai Axelrad",
+    "email": "itaiaxelrad@gmail.com",
+    "url": "https://itaiaxelrad.com/"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prettier": "prettier --write ."
+  },
+  "dependencies": {
+    "@ljoss/rehype-figure-caption": "^1.0.0",
+    "@mantine/core": "^7.17.1",
+    "@mantine/form": "^7.17.1",
+    "@mantine/hooks": "^7.17.1",
+    "@mantine/notifications": "^7.17.1",
+    "@mantine/spotlight": "^7.17.1",
+    "@tabler/icons-react": "^3.31.0",
+    "@types/nodemailer": "^6.4.17",
+    "@vercel/analytics": "^1.5.0",
+    "@vercel/speed-insights": "^1.2.0",
+    "gray-matter": "^4.0.3",
+    "next": "^15.2.1",
+    "nodemailer": "^6.10.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-markdown": "^10.0.0",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.0-canary.76",
+    "postcss": "^8.5.1",
+    "postcss-preset-mantine": "1.17.0",
+    "postcss-simple-vars": "^7.0.1",
+    "prettier": "^3.5.1",
+    "typescript": "^5"
+  }
 }

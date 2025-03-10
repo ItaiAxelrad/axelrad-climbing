@@ -18,7 +18,7 @@ export default function Search() {
         id: String(page.order),
         label: page.title,
         description: `${new Date(page.publishedAt).toLocaleDateString(
-          'en-US'
+          'en-US',
         )} - ${page.author}`,
         onClick: () => router.push(`/posts/${page.dir}/${page.slug}`),
         keywords: page.tags,
