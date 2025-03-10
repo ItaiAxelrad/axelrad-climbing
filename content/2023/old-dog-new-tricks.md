@@ -20,6 +20,6 @@ It's pretty wild to look back at all the changes this sport has undergone. A lon
 
 While I really do feel too old to actually throw my hat in the ring, I can still enjoy a good dyno (or an after party).
 
-![An after party in SLC](/uploads/IMG_7520.PNG)
+![An after party in SLC](/uploads/IMG_7520.jpg)
 
 Next up, Joe's Valley and Indian Creek for some old school rock climbing!

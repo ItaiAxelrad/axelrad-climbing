@@ -8,9 +8,9 @@ import {
 import '@mantine/core/styles.css';
 import '@mantine/notifications/styles.css';
 import '@mantine/spotlight/styles.css';
-import type { Metadata } from 'next';
 import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://axelradclimbing.com'),
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: 'Axelrad Climbing',
     description: 'The climbing blog of twins Eden, and Itai Axelrad',
     siteName: 'Axelrad Climbing',
-    images: [{ url: 'https://axelradclimbing.com/logo.png' }],
+    images: [{ url: 'https://axelradclimbing.com/images/BioPic1.jpg' }],
   },
 };
 
