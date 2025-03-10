@@ -31,7 +31,7 @@ export default function Search() {
       setActions(actions);
     }
     fetchActions();
-  }, []);
+  });
 
   return (
     <>
