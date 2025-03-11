@@ -25,7 +25,7 @@ export default function ContactForm() {
     <form
       name='contact'
       method='POST'
-      action={sendEmail}
+      // action={sendEmail}
       // onSubmit={form.onSubmit((values) => console.log(values))}
     >
       <VisuallyHidden>
