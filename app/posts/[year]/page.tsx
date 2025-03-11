@@ -1,8 +1,18 @@
 import PostLink from '@/components/PostLink';
+import { groupBy } from '@/lib/groupBy';
 import { getPagesLocal } from '@/lib/localMd';
 import { Container, Title } from '@mantine/core';
 
 type Params = Promise<{ year: string }>;
+
+export async function generateStaticParams() {
+  const posts = await getPagesLocal('');
+  const groupedPosts = groupBy(posts, 'dir');
+
+  return Object.keys(groupedPosts).map((year) => ({
+    year,
+  }));
+}
 
 export default async function Posts({ params }: { params: Params }) {
   const { year } = await params;

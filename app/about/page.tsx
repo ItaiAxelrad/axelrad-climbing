@@ -8,6 +8,8 @@ import {
 } from '@mantine/core';
 import { Metadata } from 'next';
 
+export const dynamic = 'force-static';
+
 export const metadata: Metadata = {
   title: 'Axelrad Climbing | About',
 };

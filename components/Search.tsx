@@ -31,7 +31,8 @@ export default function Search() {
       setActions(actions);
     }
     fetchActions();
-  });
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <>

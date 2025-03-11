@@ -1,19 +1,9 @@
 import { metadata } from '@/app/layout';
+import Markdown from '@/components/Markdown';
 import { getPagesLocal } from '@/lib/localMd';
-import rehypeFigureCaption from '@ljoss/rehype-figure-caption';
-import {
-  Avatar,
-  Badge,
-  Group,
-  Stack,
-  Text,
-  Title,
-  TypographyStylesProvider,
-} from '@mantine/core';
+import { Avatar, Badge, Group, Stack, Text, Title } from '@mantine/core';
 import { IconLocation } from '@tabler/icons-react';
 import { notFound } from 'next/navigation';
-import Markdown from 'react-markdown';
-import remarkGfm from 'remark-gfm';
 import './post.css';
 
 type Params = Promise<{ year: string; slug: string }>;
@@ -22,6 +12,7 @@ export async function generateStaticParams() {
   const posts = await getPagesLocal('');
 
   return posts.map((post) => ({
+    year: post.dir,
     slug: post.slug,
   }));
 }
@@ -90,16 +81,7 @@ export default async function Blog({ params }: { params: Params }) {
         )}
       </Group>
       <Title my='xs'>{post.title}</Title>
-      <TypographyStylesProvider>
-        <article>
-          <Markdown
-            remarkPlugins={[remarkGfm]}
-            rehypePlugins={[rehypeFigureCaption]}
-          >
-            {post.content}
-          </Markdown>
-        </article>
-      </TypographyStylesProvider>
+      <Markdown content={post.content} />
     </>
   );
 }

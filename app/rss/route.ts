@@ -1,6 +1,8 @@
 import { getPagesLocal } from '@/lib/localMd';
 import { metadata } from '../layout';
 
+export const dynamic = "force-static"
+
 export async function GET() {
   const pages = await getPagesLocal('');
 

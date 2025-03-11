@@ -2,10 +2,14 @@
 
 import { Button, Textarea, TextInput, VisuallyHidden } from '@mantine/core';
 import { hasLength, isEmail, useForm } from '@mantine/form';
-import { sendEmail } from './sendEmail';
+import { notifications } from '@mantine/notifications';
+interface FormValues {
+  email: string;
+  message: string;
+}
 
 export default function ContactForm() {
-  const form = useForm({
+  const form = useForm<FormValues>({
     mode: 'uncontrolled',
     initialValues: {
       email: '',
@@ -21,12 +25,19 @@ export default function ContactForm() {
     },
   });
 
+  const handleSubmit = (values: FormValues): void => {
+    console.log(values);
+    notifications.show({
+      title: 'Hi',
+      message: 'Thank you for your message!',
+    });
+  };
+
   return (
     <form
       name='contact'
       method='POST'
-      // action={sendEmail}
-      // onSubmit={form.onSubmit((values) => console.log(values))}
+      onSubmit={form.onSubmit((values) => handleSubmit(values))}
     >
       <VisuallyHidden>
         <TextInput
@@ -53,17 +64,7 @@ export default function ContactForm() {
         key={form.key('message')}
         {...form.getInputProps('message')}
       />
-      <Button
-        type='submit'
-        my='xs'
-        loading={form.submitting}
-        // onClick={() =>
-        // 	notifications.show({
-        // 		title: "Hi",
-        // 		message: "Thank you for your message!",
-        // 	})
-        // }
-      >
+      <Button type='submit' my='xs' loading={form.submitting}>
         Submit
       </Button>
     </form>
