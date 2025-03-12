@@ -29,5 +29,4 @@ package-lock.json
 *.tsbuildinfo
 next-env.d.ts
 
-# Netlify
-.netlify
+_uploads

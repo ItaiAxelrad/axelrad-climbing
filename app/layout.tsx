@@ -6,6 +6,7 @@ import {
   MantineProvider,
 } from '@mantine/core';
 import '@mantine/core/styles.css';
+import { Notifications } from '@mantine/notifications';
 import '@mantine/notifications/styles.css';
 import '@mantine/spotlight/styles.css';
 import { Analytics } from '@vercel/analytics/react';
@@ -53,6 +54,7 @@ export default function RootLayout({
       </head>
       <body>
         <MantineProvider theme={theme}>
+          <Notifications />
           <BaseLayout>{children}</BaseLayout>
         </MantineProvider>
         <Analytics />

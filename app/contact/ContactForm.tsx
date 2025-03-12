@@ -3,6 +3,7 @@
 import { Button, Textarea, TextInput, VisuallyHidden } from '@mantine/core';
 import { hasLength, isEmail, useForm } from '@mantine/form';
 import { notifications } from '@mantine/notifications';
+import { IconCheck } from '@tabler/icons-react';
 interface FormValues {
   email: string;
   message: string;
@@ -30,7 +31,11 @@ export default function ContactForm() {
     notifications.show({
       title: 'Hi',
       message: 'Thank you for your message!',
+      position: 'top-center',
+      color: 'teal',
+      icon: <IconCheck size={18} />,
     });
+    form.reset();
   };
 
   return (
