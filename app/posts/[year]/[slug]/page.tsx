@@ -39,18 +39,19 @@ export async function generateMetadata({ params }: { params: Params }) {
     openGraph: {
       title: post.title,
       type: 'article',
+      description: post.content.substring(0, 160).replace(/\!\[.*\)/, ''),
       publishedTime: new Date(post.publishedAt).toUTCString(),
       url: `${metadata.metadataBase}/posts/${post.dir}/${post.slug}`,
       images: [
         {
-          url: `/uploads/${post.thumbnail}`,
+          url: post.thumbnail,
         },
       ],
     },
     twitter: {
       card: 'summary_large_image',
       title: post.title,
-      images: [`/uploads/${post.thumbnail}`],
+      images: [post.thumbnail],
     },
   };
 }

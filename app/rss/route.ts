@@ -10,7 +10,7 @@ export async function GET() {
         `<item>
           <title>${post.title}</title>
           <link>${metadata.metadataBase}/posts/${post.dir}/${post.slug}</link>
-          <description>${post?.content.substring(0, 100) || ''}</description>
+          <description>${post?.content.substring(0, 160).replace(/\!\[.*\)/, '') || ''}</description>
           <pubDate>${new Date(post.publishedAt).toUTCString()}</pubDate>
         </item>`,
     )

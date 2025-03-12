@@ -12,4 +12,4 @@ Another year older, another birthday at Black Mountain. Eden and I left LA early
 
 ![Allegory of the Cave](/uploads/IMG_7501.jpg)
 
-![Cabin views](/uploads/IMG_6345.jpeg)
+![Cabin views](/uploads/IMG_6345.jpg)

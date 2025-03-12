@@ -1,8 +1,8 @@
 'use server';
 
-import fs from "fs";
+import fs from 'fs';
 import matter from 'gray-matter';
-import { basename, dirname, extname, join, parse } from "path";
+import { basename, dirname, extname, join, parse } from 'path';
 
 type Frontmatter = {
   title: string;
