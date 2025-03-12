@@ -19,9 +19,11 @@ export default function Search() {
         label: post.title,
         description: `${new Date(post.publishedAt).toLocaleDateString(
           'en-US',
-        )} - ${post.author}`,
+        )} - ${post.author} - ${post.location}`,
         onClick: () => router.push(`/posts/${post.dir}/${post.slug}`),
-        keywords: post.tags,
+        keywords: [post.location, ...(post.tags ?? [])].filter(
+          (tag): tag is string => tag !== undefined,
+        ),
         leftSection: (
           <Avatar src={post.thumbnail} alt={post.title} radius='md'>
             <IconPhoto />

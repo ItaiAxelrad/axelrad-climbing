@@ -28,7 +28,12 @@ export default async function Posts({
 
   return (
     <Container size='sm' my='xl'>
-      <Title>All Posts</Title>
+      <Title>
+        All Posts{' '}
+        <Text c='dimmed' fz='inherit' span>
+          ({filteredPosts.length})
+        </Text>
+      </Title>
       <Form action='/posts'>
         <Group gap='xs' my='sm'>
           <TextInput
@@ -37,11 +42,6 @@ export default async function Posts({
             defaultValue={query}
           />
           <Button type='submit'>Submit</Button>
-          {query && (
-            <Text fz='sm' c='dimmed'>
-              {filteredPosts.length} results
-            </Text>
-          )}
         </Group>
       </Form>
       {!filteredPosts.length && (
@@ -49,28 +49,35 @@ export default async function Posts({
           No posts found
         </Text>
       )}
-      {Object.entries(groupedPosts).map(([year, posts]) => (
-        <NavLink
-          key={year}
-          id={year}
-          label={
-            <Text fw='bold' fz='lg'>
-              {year}
-            </Text>
-          }
-          defaultOpened
-        >
-          {posts
-            .sort(
-              (a, b) =>
-                new Date(a.publishedAt).getTime() -
-                new Date(b.publishedAt).getTime(),
-            )
-            .map((post) => (
-              <PostLink key={post.order} post={post} />
-            ))}
-        </NavLink>
-      ))}
+      {Object.entries(groupedPosts)
+        .sort(([a], [b]) => b.localeCompare(a))
+        .map(([year, posts]) => (
+          <NavLink
+            key={year}
+            id={year}
+            label={
+              <Group align='center' gap='xs'>
+                <Text fw='bold' fz='lg' span>
+                  {year}
+                </Text>
+                <Text c='dimmed' fz='inherit' span>
+                  ({posts.length})
+                </Text>
+              </Group>
+            }
+            defaultOpened={query ? true : false}
+          >
+            {posts
+              .sort(
+                (a, b) =>
+                  new Date(a.publishedAt).getTime() -
+                  new Date(b.publishedAt).getTime(),
+              )
+              .map((post) => (
+                <PostLink key={post.order} post={post} />
+              ))}
+          </NavLink>
+        ))}
     </Container>
   );
 }

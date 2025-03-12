@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A climbing blog for Eden and Itai Axelrad.",
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "author": {
     "name": "Itai Axelrad",
