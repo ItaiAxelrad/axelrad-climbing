@@ -1,5 +1,5 @@
 import PostLink from '@/components/PostLink';
-import { getPagesLocal } from '@/lib/localMd';
+import getPosts from '@/lib/api';
 import {
   Badge,
   Box,
@@ -17,8 +17,8 @@ import { IconLocation } from '@tabler/icons-react';
 import Link from 'next/link';
 
 export default async function Home() {
-  const pages = await getPagesLocal('');
-  const featuredPost = pages[0];
+  const posts = await getPosts('');
+  const featuredPost = posts[0];
 
   return (
     <Container size='sm' my='xl'>
@@ -67,7 +67,7 @@ export default async function Home() {
         <Title order={2} mb='md'>
           More Posts
         </Title>
-        {pages.slice(1, 6).map((post) => (
+        {posts.slice(1, 6).map((post) => (
           <PostLink key={post.order} post={post} />
         ))}
         <Center>

@@ -1,7 +1,15 @@
 import { metadata } from '@/app/layout';
-import Markdown from '@/components/Markdown';
-import { getPagesLocal } from '@/lib/localMd';
-import { Avatar, Badge, Group, Stack, Text, Title } from '@mantine/core';
+import getPosts from '@/lib/api';
+import markdownToHtml from '@/lib/markdownToHtml';
+import {
+  Avatar,
+  Badge,
+  Group,
+  Stack,
+  Text,
+  Title,
+  TypographyStylesProvider,
+} from '@mantine/core';
 import { IconLocation } from '@tabler/icons-react';
 import { notFound } from 'next/navigation';
 import './post.css';
@@ -9,7 +17,7 @@ import './post.css';
 type Params = Promise<{ year: string; slug: string }>;
 
 export async function generateStaticParams() {
-  const posts = await getPagesLocal('');
+  const posts = await getPosts('');
 
   return posts.map((post) => ({
     year: post.dir,
@@ -19,7 +27,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Params }) {
   const { year, slug } = await params;
-  const posts = await getPagesLocal(year);
+  const posts = await getPosts(year);
   const post = await posts.find((post) => post.slug === slug);
 
   if (!post) {
@@ -49,7 +57,7 @@ export async function generateMetadata({ params }: { params: Params }) {
 
 export default async function Blog({ params }: { params: Params }) {
   const { year, slug } = await params;
-  const posts = await getPagesLocal(year);
+  const posts = await getPosts(year);
   const post = await posts.find((post) => post.slug === slug);
 
   if (!post) {
@@ -81,7 +89,11 @@ export default async function Blog({ params }: { params: Params }) {
         )}
       </Group>
       <Title my='xs'>{post.title}</Title>
-      <Markdown content={post.content} />
+      <TypographyStylesProvider>
+        <article
+          dangerouslySetInnerHTML={{ __html: markdownToHtml(post.content) }}
+        />
+      </TypographyStylesProvider>
     </>
   );
 }

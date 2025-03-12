@@ -1,4 +1,4 @@
-import type { Post } from '@/lib/localMd';
+import type { Post } from '@/lib/api';
 import { Avatar, NavLink } from '@mantine/core';
 import { IconPhoto } from '@tabler/icons-react';
 import Link from 'next/link';

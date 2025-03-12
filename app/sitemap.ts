@@ -1,10 +1,8 @@
-import { getPagesLocal } from '@/lib/localMd';
+import getPosts from '@/lib/api';
 import { metadata } from './layout';
 
-export const dynamic = "force-static"
-
 export default async function sitemap() {
-  const pages = await getPagesLocal('');
+  const posts = await getPosts('');
 
   const about = {
     url: `${metadata.metadataBase}/about`,
@@ -20,17 +18,17 @@ export default async function sitemap() {
     priority: 1,
   };
 
-  const posts = {
+  const routes = {
     url: `${metadata.metadataBase}/posts`,
     lastModified: new Date(),
     changeFrequency: 'yearly',
     priority: 1,
   };
 
-  const routes = pages.map((post) => ({
+  const slugs = posts.map((post) => ({
     url: `${metadata.metadataBase}/posts/${post.dir}/${post.slug}`,
     lastModified: post.publishedAt,
   }));
 
-  return [about, contact, posts, ...routes];
+  return [about, contact, routes, ...slugs];
 }

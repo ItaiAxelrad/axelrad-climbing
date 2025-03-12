@@ -1,12 +1,10 @@
-import { getPagesLocal } from '@/lib/localMd';
+import getPosts from '@/lib/api';
 import { metadata } from '../layout';
 
-export const dynamic = "force-static"
-
 export async function GET() {
-  const pages = await getPagesLocal('');
+  const posts = await getPosts('');
 
-  const itemsXml = pages
+  const itemsXml = posts
     .map(
       (post) =>
         `<item>

@@ -1,6 +1,6 @@
 import PostLink from '@/components/PostLink';
+import getPosts from '@/lib/api';
 import { groupBy } from '@/lib/groupBy';
-import { getPagesLocal } from '@/lib/localMd';
 import {
   Button,
   Container,
@@ -20,11 +20,11 @@ export default async function Posts({
   searchParams: SearchParams;
 }) {
   const { query } = await searchParams;
-  const pages = await getPagesLocal('');
-  const filteredPages = pages.filter((page) =>
-    query ? page.title.toLowerCase().includes(query.toLowerCase()) : true,
+  const posts = await getPosts('');
+  const filteredPosts = posts.filter((post) =>
+    query ? post.title.toLowerCase().includes(query.toLowerCase()) : true,
   );
-  const groupedPosts = groupBy(filteredPages, 'dir');
+  const groupedPosts = groupBy(filteredPosts, 'dir');
 
   return (
     <Container size='sm' my='xl'>
@@ -39,12 +39,12 @@ export default async function Posts({
           <Button type='submit'>Submit</Button>
           {query && (
             <Text fz='sm' c='dimmed'>
-              {filteredPages.length} results
+              {filteredPosts.length} results
             </Text>
           )}
         </Group>
       </Form>
-      {!filteredPages.length && (
+      {!filteredPosts.length && (
         <Text ta='center' my='xl'>
           No posts found
         </Text>

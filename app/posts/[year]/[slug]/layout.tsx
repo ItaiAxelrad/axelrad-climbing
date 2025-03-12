@@ -1,4 +1,4 @@
-import { getPagesLocal } from '@/lib/localMd';
+import getPosts from '@/lib/api';
 import { Button, Container, Divider, Group } from '@mantine/core';
 import { IconChevronLeft, IconChevronRight } from '@tabler/icons-react';
 import Link from 'next/link';
@@ -14,7 +14,7 @@ export default async function Layout({
   params: Params;
 }) {
   const { year, slug } = await params;
-  const posts = await getPagesLocal('');
+  const posts = await getPosts('');
   const post = await posts.find((p) => p.slug === slug && p.dir === year);
 
   if (!post) {

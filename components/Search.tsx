@@ -1,8 +1,8 @@
 'use client';
 
-import { getPagesLocal } from '@/lib/localMd';
+import getPosts from '@/lib/api';
 import { Avatar, Button, Kbd } from '@mantine/core';
-import { Spotlight, SpotlightActionData, spotlight } from '@mantine/spotlight';
+import { Spotlight, spotlight, SpotlightActionData } from '@mantine/spotlight';
 import { IconPhoto, IconSearch } from '@tabler/icons-react';
 import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
@@ -13,17 +13,17 @@ export default function Search() {
 
   useEffect(() => {
     async function fetchActions() {
-      const pages = await getPagesLocal('');
-      const actions = pages.map((page) => ({
-        id: String(page.order),
-        label: page.title,
-        description: `${new Date(page.publishedAt).toLocaleDateString(
+      const posts = await getPosts('');
+      const actions = posts.map((post) => ({
+        id: String(post.order),
+        label: post.title,
+        description: `${new Date(post.publishedAt).toLocaleDateString(
           'en-US',
-        )} - ${page.author}`,
-        onClick: () => router.push(`/posts/${page.dir}/${page.slug}`),
-        keywords: page.tags,
+        )} - ${post.author}`,
+        onClick: () => router.push(`/posts/${post.dir}/${post.slug}`),
+        keywords: post.tags,
         leftSection: (
-          <Avatar src={page.thumbnail} alt={page.title} radius='md'>
+          <Avatar src={post.thumbnail} alt={post.title} radius='md'>
             <IconPhoto />
           </Avatar>
         ),
@@ -31,7 +31,7 @@ export default function Search() {
       setActions(actions);
     }
     fetchActions();
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
