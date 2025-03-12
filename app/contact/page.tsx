@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 
 export default function ContactPage() {
   return (
-    <Container size='sm' my='xl'>
+    <Container size='sm' my={{ base: 'xs', sm: 'xl' }}>
       <section>
         <Title>Contact</Title>
         <Text my='sm'>Got a question or comment? Get in touch!</Text>

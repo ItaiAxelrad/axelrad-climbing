@@ -1,7 +1,7 @@
 'use client';
 
 import getPosts from '@/lib/api';
-import { Avatar, Button, Kbd } from '@mantine/core';
+import { ActionIcon, Avatar, Button, Kbd } from '@mantine/core';
 import { Spotlight, spotlight, SpotlightActionData } from '@mantine/spotlight';
 import { IconPhoto, IconSearch } from '@tabler/icons-react';
 import { useRouter } from 'next/navigation';
@@ -41,7 +41,7 @@ export default function Search() {
       <Button
         variant='default'
         color='gray'
-        visibleFrom='xs'
+        visibleFrom='sm'
         onClick={spotlight.open}
         leftSection={
           <IconSearch size={16} color='var(--mantine-color-dimmed)' />
@@ -64,6 +64,15 @@ export default function Search() {
       >
         Search
       </Button>
+      <ActionIcon
+        onClick={spotlight.open}
+        variant='default'
+        color='light'
+        size='lg'
+        hiddenFrom='sm'
+      >
+        <IconSearch stroke={1.5} size={22} />
+      </ActionIcon>
       <Spotlight
         actions={actions ?? []}
         nothingFound='Nothing found...'

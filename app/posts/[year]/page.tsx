@@ -19,7 +19,7 @@ export default async function Posts({ params }: { params: Params }) {
   const posts = await getPosts(year);
 
   return (
-    <Container size='sm' my='xl'>
+    <Container size='sm' my={{ base: 'xs', sm: 'xl' }}>
       <Title mb='md'>Posts from {year}</Title>
       {posts.map((post) => (
         <PostLink key={post.order} post={post} />

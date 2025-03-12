@@ -2,10 +2,18 @@
 
 import SchemeButton from '@/components/SchemeButton';
 import Search from '@/components/Search';
-import { ActionIcon, Anchor, AppShell, Burger, Group } from '@mantine/core';
+import {
+  ActionIcon,
+  Anchor,
+  AppShell,
+  Burger,
+  Group,
+  NavLink,
+} from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
 import {
   IconBrandYoutubeFilled,
+  IconExternalLink,
   IconMountain,
   IconRss,
 } from '@tabler/icons-react';
@@ -19,13 +27,13 @@ export default function BaseLayout({
   const [opened, { toggle }] = useDisclosure();
   return (
     <AppShell
+      padding='xs'
       header={{ height: 55 }}
       navbar={{
         width: 300,
         breakpoint: 'sm',
         collapsed: { desktop: true, mobile: !opened },
       }}
-      padding='md'
     >
       <AppShell.Header p='xs' withBorder>
         <Group
@@ -88,19 +96,32 @@ export default function BaseLayout({
           </Group>
         </Group>
       </AppShell.Header>
-      <AppShell.Navbar p='md'>
-        <Anchor c='text' href='/' fw='bold' fz='lg'>
-          Axelrad Climbing
-        </Anchor>
-        <Anchor c='text' href='/about'>
-          About
-        </Anchor>
-        <Anchor c='text' href='/contact'>
-          Contact
-        </Anchor>
-        <Anchor c='text' href='/posts'>
-          Posts
-        </Anchor>
+      <AppShell.Navbar p={0} onClick={toggle}>
+        <NavLink component={Link} href='/' label='Home' />
+        <NavLink component={Link} href='/about' label='About' />
+        <NavLink component={Link} href='/contact' label='Contact' />
+        <NavLink component={Link} href='/posts' label='Posts' />
+        <NavLink
+          component={Link}
+          href='/rss'
+          label='RSS'
+          target='_blank'
+          leftSection={<IconRss stroke={1.5} size={22} />}
+          rightSection={<IconExternalLink stroke={1.5} size={22} />}
+        />
+        <NavLink
+          href='https://www.youtube.com/@axelradclimbing'
+          label='YouTube'
+          target='_blank'
+          leftSection={
+            <IconBrandYoutubeFilled
+              stroke={1.5}
+              size={22}
+              color='var(--mantine-color-red-6)'
+            />
+          }
+          rightSection={<IconExternalLink stroke={1.5} size={22} />}
+        />
       </AppShell.Navbar>
       <AppShell.Main>{children}</AppShell.Main>
     </AppShell>

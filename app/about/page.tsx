@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 
 export default function AboutPage() {
   return (
-    <Container size='sm' my='xl' component='article'>
+    <Container size='sm' my={{ base: 'xs', sm: 'xl' }} component='article'>
       <TypographyStylesProvider>
         <Title>About</Title>
         <Image src='/images/BioPic1.jpg?nf_resize=fit&w=1200' alt='BioPic1' />

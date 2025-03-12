@@ -27,7 +27,7 @@ export default async function Posts({
   const groupedPosts = groupBy(filteredPosts, 'dir');
 
   return (
-    <Container size='sm' my='xl'>
+    <Container size='sm' my={{ base: 'xs', sm: 'xl' }}>
       <Title>
         All Posts{' '}
         <Text c='dimmed' fz='inherit' span>

@@ -25,7 +25,7 @@ export default async function Layout({
   const nextPost = posts.find((p) => p.order === post.order + 1);
 
   return (
-    <Container size='sm' my='xl'>
+    <Container size='sm' my={{ base: 'xs', sm: 'xl' }}>
       {children}
       <Divider mt='xl' mb='xs' />
       <Group justify='space-between'>
