@@ -60,7 +60,7 @@ export default async function Posts({
                 <Text fw='bold' fz='lg' span>
                   {year}
                 </Text>
-                <Text c='dimmed' fz='inherit' span>
+                <Text c='dimmed' fz='lg' span>
                   ({posts.length})
                 </Text>
               </Group>

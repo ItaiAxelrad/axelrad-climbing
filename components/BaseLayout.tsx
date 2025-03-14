@@ -9,6 +9,7 @@ import {
   Burger,
   Group,
   NavLink,
+  Text,
 } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
 import {
@@ -124,6 +125,16 @@ export default function BaseLayout({
         />
       </AppShell.Navbar>
       <AppShell.Main>{children}</AppShell.Main>
+      <AppShell.Footer
+        p='xs'
+        withBorder={false}
+        style={{ position: 'relative' }}
+      >
+        <Text ta='center' fz='sm' c='dimmed' my='xs'>
+          &copy; Axelrad Climbing
+        </Text>
+
+      </AppShell.Footer>
     </AppShell>
   );
 }
