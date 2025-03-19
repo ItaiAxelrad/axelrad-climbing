@@ -1,7 +1,8 @@
 import getPosts from '@/lib/api';
+import { NextResponse } from 'next/server';
 import { metadata } from '../layout';
 
-export const dynamic = "force-static"
+export const dynamic = 'force-static';
 
 export async function GET() {
   const posts = await getPosts('');
@@ -28,7 +29,7 @@ export async function GET() {
     </channel>
   </rss>`;
 
-  return new Response(rssFeed, {
+  return new NextResponse(rssFeed, {
     headers: {
       'Content-Type': 'text/xml',
     },

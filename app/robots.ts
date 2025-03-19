@@ -10,6 +10,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/dashboard/',
     },
-    sitemap: `${metadata.metadataBase}/sitemap.xml'`,
+    sitemap: `${metadata.metadataBase}sitemap.xml'`,
   };
 }

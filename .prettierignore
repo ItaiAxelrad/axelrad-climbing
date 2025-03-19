@@ -1,6 +1,0 @@
-*.d.ts
-.yarn
-.next
-out
-public
-node_modules

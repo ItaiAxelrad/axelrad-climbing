@@ -14,5 +14,6 @@
   "singleQuote": true,
   "tabWidth": 2,
   "trailingComma": "all",
-  "useTabs": false
+  "useTabs": false,
+  "ignore": ["*.d.ts", ".yarn", ".next", "out", "public", "node_modules"]
 }
