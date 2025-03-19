@@ -1,5 +1,3 @@
-'use server';
-
 import fs from 'fs';
 import matter from 'gray-matter';
 import { basename, dirname, extname, join, parse } from 'path';
@@ -63,7 +61,7 @@ function getMdData(dir: string) {
   });
 }
 
-export default async function getPosts(collection: string): Promise<Post[]> {
+export default function getPosts(collection: string): Post[] {
   const dir = join(process.cwd(), 'content', collection);
   const posts = getMdData(dir);
   return posts

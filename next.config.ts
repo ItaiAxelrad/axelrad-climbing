@@ -2,7 +2,7 @@ import { securityHeaders } from '@/lib/security-headers';
 import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-  // output: 'export',
+  output: 'export',
   pageExtensions: ['md', 'ts', 'tsx'],
   experimental: {
     optimizePackageImports: ['@mantine/core', '@mantine/hooks'],

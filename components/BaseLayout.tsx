@@ -133,7 +133,6 @@ export default function BaseLayout({
         <Text ta='center' fz='sm' c='dimmed' my='xs'>
           &copy; Axelrad Climbing
         </Text>
-
       </AppShell.Footer>
     </AppShell>
   );

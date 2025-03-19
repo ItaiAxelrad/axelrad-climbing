@@ -1,6 +1,8 @@
 import getPosts from '@/lib/api';
 import { metadata } from '../layout';
 
+export const dynamic = "force-static"
+
 export async function GET() {
   const posts = await getPosts('');
 

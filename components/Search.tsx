@@ -1,40 +1,41 @@
 'use client';
 
-import getPosts from '@/lib/api';
+import { type Post } from '@/lib/api';
 import { ActionIcon, Avatar, Button, Kbd } from '@mantine/core';
-import { Spotlight, spotlight, SpotlightActionData } from '@mantine/spotlight';
+import { Spotlight, spotlight } from '@mantine/spotlight';
 import { IconPhoto, IconSearch } from '@tabler/icons-react';
 import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
 
 export default function Search() {
   const router = useRouter();
-  const [actions, setActions] = useState<SpotlightActionData[] | null>(null);
+  const [posts, setPosts] = useState<Post[] | null>(null);
 
   useEffect(() => {
-    async function fetchActions() {
-      const posts = await getPosts('');
-      const actions = posts.map((post) => ({
-        id: String(post.order),
-        label: post.title,
-        description: `${new Date(post.publishedAt).toLocaleDateString(
-          'en-US',
-        )} - ${post.author} - ${post.location}`,
-        onClick: () => router.push(`/posts/${post.dir}/${post.slug}`),
-        keywords: [post.location, ...(post.tags ?? [])].filter(
-          (tag): tag is string => tag !== undefined,
-        ),
-        leftSection: (
-          <Avatar src={post.thumbnail} alt={post.title} radius='md'>
-            <IconPhoto />
-          </Avatar>
-        ),
-      }));
-      setActions(actions);
+    async function fetchPosts() {
+      const res = await fetch(`${window.origin}/api/posts`);
+      const data = await res.json();
+      setPosts(data);
     }
-    fetchActions();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+    fetchPosts();
   }, []);
+
+  const actions = posts?.map((post) => ({
+    id: String(post.order),
+    label: post.title,
+    description: `${new Date(post.publishedAt).toLocaleDateString(
+      'en-US',
+    )} - ${post.author} - ${post.location}`,
+    onClick: () => router.push(`/posts/${post.dir}/${post.slug}`),
+    keywords: [post.location, ...(post.tags ?? [])].filter(
+      (tag): tag is string => tag !== undefined,
+    ),
+    leftSection: (
+      <Avatar src={post.thumbnail} alt={post.title} radius='md'>
+        <IconPhoto />
+      </Avatar>
+    ),
+  }));
 
   return (
     <>

@@ -1,3 +1,16 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "ignores": [
+    "lib",
+    "esm",
+    "cjs",
+    "dist",
+    "public",
+    ".cache",
+    ".eslintrc.js",
+    "*.d.ts",
+    "*.js",
+    "*.css",
+    "*.svg"
+  ]
 }

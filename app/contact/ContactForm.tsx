@@ -42,6 +42,7 @@ export default function ContactForm() {
     <form
       name='contact'
       method='POST'
+      data-netlify='true'
       onSubmit={form.onSubmit((values) => handleSubmit(values))}
     >
       <VisuallyHidden>

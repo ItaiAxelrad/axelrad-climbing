@@ -9,8 +9,6 @@ import '@mantine/core/styles.css';
 import { Notifications } from '@mantine/notifications';
 import '@mantine/notifications/styles.css';
 import '@mantine/spotlight/styles.css';
-import { Analytics } from '@vercel/analytics/react';
-import { SpeedInsights } from '@vercel/speed-insights/next';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -57,8 +55,6 @@ export default function RootLayout({
           <Notifications />
           <BaseLayout>{children}</BaseLayout>
         </MantineProvider>
-        <Analytics />
-        <SpeedInsights />
       </body>
     </html>
   );
