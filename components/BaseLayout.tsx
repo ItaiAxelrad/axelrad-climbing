@@ -53,17 +53,17 @@ export default function BaseLayout({
                   fill='var(--mantine-color-yellow-light)'
                 />
               </ActionIcon>
-              <Anchor c='text' href='/' fw='bold' fz='lg'>
+              <Anchor c='var(--mantine-color-text)' href='/' fw='bold' fz='lg'>
                 Axelrad Climbing
               </Anchor>
             </Group>
-            <Anchor c='text' href='/about'>
+            <Anchor c='var(--mantine-color-text)' href='/about'>
               About
             </Anchor>
-            <Anchor c='text' href='/contact'>
+            <Anchor c='var(--mantine-color-text)' href='/contact'>
               Contact
             </Anchor>
-            <Anchor c='text' href='/posts'>
+            <Anchor c='var(--mantine-color-text)' href='/posts'>
               Posts
             </Anchor>
           </Group>
@@ -104,7 +104,7 @@ export default function BaseLayout({
         <NavLink component={Link} href='/posts' label='Posts' />
         <NavLink
           component={Link}
-          href='/rss'
+          href='/rss.xml'
           label='RSS'
           target='_blank'
           leftSection={<IconRss stroke={1.5} size={22} />}
