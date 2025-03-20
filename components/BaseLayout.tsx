@@ -74,7 +74,7 @@ export default function BaseLayout({
               variant='default'
               color='light'
               size='lg'
-              href='/rss'
+              href='/rss.xml'
               target='_blank'
             >
               <IconRss stroke={1.5} size={22} />
@@ -90,7 +90,7 @@ export default function BaseLayout({
               <IconBrandYoutubeFilled
                 stroke={1.5}
                 size={22}
-                color='var(--mantine-color-red-6)'
+                color='var(--mantine-color-red-7)'
               />
             </ActionIcon>
             <SchemeButton />
@@ -108,7 +108,6 @@ export default function BaseLayout({
           label='RSS'
           target='_blank'
           leftSection={<IconRss stroke={1.5} size={22} />}
-          rightSection={<IconExternalLink stroke={1.5} size={22} />}
         />
         <NavLink
           href='https://www.youtube.com/@axelradclimbing'
