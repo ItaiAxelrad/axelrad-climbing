@@ -13,12 +13,12 @@ tags:
   - Daniel Woods
   - granite
   - jedi
-thumbnail: /uploads/IMG_5179.JPG
+thumbnail: /uploads/IMG_5179.jpg
 title: "\xA1 B I S H O P ! "
 updatedAt: 2015-01-27 20:43:39-08:00
 ---
 
-![](/uploads/IMG_5179.JPG)
+![](/uploads/IMG_5179.jpg)
 
 This past weekend I headed up to Bishop with my brother. We had the pleasure of meeting up and climbing with a solid crew, including Dan, Isaac, Marina and Jake. The weather was nice (?) and the psych was high. (If you need visual proof, here's a pic of the group posing in front of the Peabody boulders --> [http://i.imgur.com/H5ozEpf.jpg](http://i.imgur.com/H5ozEpf.jpg)).
 
@@ -28,19 +28,19 @@ This trip I was on a mission to dispatch my old nemesis, Direction (V13), so nat
 
 Seriously though, thanks for the support everybody! Here are a few photos from the send...
 
-![](/uploads/IMG_5165.JPG)
+![](/uploads/IMG_5165.jpg)
 
-![](/uploads/IMG_5166.JPG)
+![](/uploads/IMG_5166.jpg)
 
-![](/uploads/IMG_5167.JPG)
+![](/uploads/IMG_5167.jpg)
 
-![](/uploads/IMG_5168.JPG)
+![](/uploads/IMG_5168.jpg)
 
 After the send I took some time off to relax, take photos, and cheer the guys on. Here are Marina and Isaac getting close on their respective projects.
 
 ![Marina holding the swing on High Plain Drifter (V7)](/uploads/IMG_1296.jpg)
 
-![Isaac reaching for it on The Mystery (V12)](/uploads/IMG_5163.JPG)
+![Isaac reaching for it on The Mystery (V12)](/uploads/IMG_5163.jpg)
 
 ![Itai running a lap on The Knobs (V5)](/uploads/IMG_5174.jpg)
 
@@ -56,7 +56,7 @@ Later that day we headed out to the Pollen Grains. I hadn't been out to this are
 
 On Sunday, Itai and I hiked out to the Secrets of the Beehive area to check out The Swarm (V14). We gave the problem a few goes each, and then decided to check out other climbs in the area. I really can't wait to come back to it with more skin and better crimp strength. The next project?
 
-![Itai on the opening move of The Swarm (V14)](/uploads/IMG_5196.JPG)
+![Itai on the opening move of The Swarm (V14)](/uploads/IMG_5196.jpg)
 
 ![Me, sending Queen's Sweet Nectar (V9)](/uploads/IMG_1393.jpg)
 

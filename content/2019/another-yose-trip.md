@@ -29,11 +29,11 @@ There was a cold snap on Sunday and the temperature was set to drop about 25 deg
 
 ![The ultra-classic The Diamond (V8)](/uploads/IMG_0089.jpg)
 
-![](/uploads/IMG_0104.JPG)
+![](/uploads/IMG_0104.jpg)
 
-![](/uploads/IMG_0106.JPG)
+![](/uploads/IMG_0106.jpg)
 
-![Putting in work on Shadow Warrior (V12) with Joe](/uploads/IMG_0107.JPG)
+![Putting in work on Shadow Warrior (V12) with Joe](/uploads/IMG_0107.jpg)
 
 ![](/uploads/IMG_0098.jpg)
 

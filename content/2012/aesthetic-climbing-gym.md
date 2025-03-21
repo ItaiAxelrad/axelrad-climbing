@@ -11,7 +11,7 @@ tags:
   - Matt Wilder
   - Nina Williams
   - Sierra Blair Coyle
-thumbnail: /uploads/IMG_5475_2.JPG
+thumbnail: /uploads/IMG_5475_2.jpg
 title: Aesthetic Climbing Gym
 updatedAt: 2013-08-14 12:12:47-07:00
 ---
@@ -44,17 +44,17 @@ Female:
 9. Jill Carpenter
 10. Mariana Mendoza
 
-![Sierra Blair-Coyle keeping her balance on the Women's 1](/uploads/IMG_5475_2.JPG)
+![Sierra Blair-Coyle keeping her balance on the Women's 1](/uploads/IMG_5475_2.jpg)
 
 ![Looking at the finish](/uploads/IMG_5477.jpg)
 
-![Nina Williams looking up Women's 1](/uploads/IMG_5493.JPG)
+![Nina Williams looking up Women's 1](/uploads/IMG_5493.jpg)
 
-![Jon Cardwell, taking a look at what's to come on the rest of Men's 1](/uploads/IMG_5537.JPG)
+![Jon Cardwell, taking a look at what's to come on the rest of Men's 1](/uploads/IMG_5537.jpg)
 
-![Matt Wilder, bustin ' out the roof on Men's 1](/uploads/IMG_5517.JPG)
+![Matt Wilder, bustin ' out the roof on Men's 1](/uploads/IMG_5517.jpg)
 
-![Matt Wilder on burly Men's 2](/uploads/IMG_5533.JPG)
+![Matt Wilder on burly Men's 2](/uploads/IMG_5533.jpg)
 
 ![Daniel Woods finishing up Men's 3](/uploads/IMG_5512.jpg)
 

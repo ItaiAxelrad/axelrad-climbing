@@ -33,7 +33,7 @@ After the session on the project, we headed down to the lower OK Corral area to 
 
 ![Isaac eyeing the jug hold on Loh Bo?? (V9)](/uploads/IMG_1476.jpg)
 
-![Itai holding the swing on Loh Roof (V8)](/uploads/IMG_5312.JPG)
+![Itai holding the swing on Loh Roof (V8)](/uploads/IMG_5312.jpg)
 
 It's been a while since I've been back to Black, but I'm sure I'll be up there again very soon. See you guys out there!
 

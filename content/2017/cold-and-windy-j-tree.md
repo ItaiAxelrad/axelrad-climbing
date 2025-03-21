@@ -20,11 +20,11 @@ We switched gears and tried out some pebble wrestling at the pig pen boulder in 
 
 ![Misery loves company. Belyn battling the end of Pig Pen (V4). PC: Sami Hawkins.](/uploads/16463769_10154951230009547_8303650977913390281_o.jpg)
 
-![Cody, earning style points for the drop knee on Chili Sauce (V7).](/uploads/IMG_3997.JPG)
+![Cody, earning style points for the drop knee on Chili Sauce (V7).](/uploads/IMG_3997.jpg)
 
-![Belyn starting up White Lightning (5.7)](/uploads/IMG_3998.JPG)
+![Belyn starting up White Lightning (5.7)](/uploads/IMG_3998.jpg)
 
-![Sami on a mock lead of the classic, Sail Away (5.8)](/uploads/IMG_3999.JPG)
+![Sami on a mock lead of the classic, Sail Away (5.8)](/uploads/IMG_3999.jpg)
 
 ![Belyn crushing the test-piece, Heart of Darkness (5.11). PC: Sami Hawkins](/uploads/16252072_10154945993234547_331957342315451315_o.jpg)
 

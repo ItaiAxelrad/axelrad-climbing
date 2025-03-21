@@ -8,12 +8,12 @@ tags:
   - California
   - ex patriot
   - granite
-thumbnail: /uploads/IMG-6997.JPG
+thumbnail: /uploads/IMG-6997.jpg
 title: Black Mountain
 updatedAt: 2018-11-21 12:43:29-08:00
 ---
 
-![](/uploads/IMG-6997.JPG)
+![](/uploads/IMG-6997.jpg)
 
 On Sunday morning I drove out to Black Mountain with Alex and Katie for a day of bouldering. We met up with Dylan, Mikey and Alex (A.) and got started!
 
@@ -31,15 +31,15 @@ Our next stop was at the classic Ex Patriot (V10/11), where the crew put in a so
 
 ![Finishing up Ex-Patriot (V10/11) - Photos by Alex Aristei](/uploads/Bishop_11_03_18_00068.jpg)
 
-![Alex working Ex-Patriot (V10/11)](/uploads/IMG-6970.JPG)
+![Alex working Ex-Patriot (V10/11)](/uploads/IMG-6970.jpg)
 
 We ended the day by checking out the Summit Corridor area. It offers many great problems like Wildcat (V8), Derailed (V5), Dekaled (V10) and the superb Brotherhood (V10).
 
-![Me on Dekaled (V10) - Photo by Katie Lawler](/uploads/IMG-6987.JPG)
+![Me on Dekaled (V10) - Photo by Katie Lawler](/uploads/IMG-6987.jpg)
 
 ![Sending Brotherhood (V10) - Photo by Alex Aristei](/uploads/Bishop_11_03_18_00330%202.jpg)
 
-![Alex on the big swing of Brotherhood (V10)](/uploads/IMG-6999.JPG)
+![Alex on the big swing of Brotherhood (V10)](/uploads/IMG-6999.jpg)
 
 I had a great day exploring some new areas and I can't wait to get back out there!
 

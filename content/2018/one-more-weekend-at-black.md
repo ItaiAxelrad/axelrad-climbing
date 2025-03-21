@@ -27,9 +27,9 @@ After that we went searching for another line in the area (Christmas Nights in T
 
 We did some more exploring as the sun set, and even snuck in a night session before heading to bed. It was a long day!
 
-![](/uploads/IMG_4671.JPG)
+![](/uploads/IMG_4671.jpg)
 
-![](/uploads/IMG_4679.JPG)
+![](/uploads/IMG_4679.jpg)
 
 ---
 

@@ -14,18 +14,18 @@ tags:
   - stashing
   - top notch
   - V13
-thumbnail: /uploads/IMG_0632.JPG
+thumbnail: /uploads/IMG_0632.jpg
 title: More RMNP
 updatedAt: 2019-07-29 13:30:29-07:00
 ---
 
 If you can ignore the hoards of tourists, Rocky Mountain National Park is a lovely place. I did not think so at first but it has grown on me in the past few weeks. Good times in the alpine with a fine crew of people will do that!
 
-![Striking a pose](/uploads/IMG_0632.JPG)
+![Striking a pose](/uploads/IMG_0632.jpg)
 
 While there were plenty of wobblers to be had, the trips were an overall success. Kayla took down the wonderful Windy in a Basket in a few goes, Isaac and I put Blood Money to rest, and I even managed a quick send of the life-lister Top Notch ([video link](https://youtu.be/f68S6CJ5vKg)).
 
-![Kayla crimping her way through Windy in a Basket (V7)](/uploads/IMG_0515.JPG)
+![Kayla crimping her way through Windy in a Basket (V7)](/uploads/IMG_0515.jpg)
 
 ![Isaac climbing the thuggy roof of Blood Money (V12)](/uploads/IMG_0654.jpg)
 

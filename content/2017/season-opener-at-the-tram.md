@@ -19,15 +19,15 @@ Itai and I headed up to Tramway on Saturday for the first time in a year. We dec
 
 After working Black Mamba for a while, we headed up the hill to the Icebergs to jump on Greenpeace Sit (V10) and Science Friction (V9/10). We made quick work of both!
 
-![Itai sending Greenpeace Sit (V10)](/uploads/IMG_2069.JPG)
+![Itai sending Greenpeace Sit (V10)](/uploads/IMG_2069.jpg)
 
-![Me on Science Friction (V9/10)](/uploads/IMG_2063.JPG)
+![Me on Science Friction (V9/10)](/uploads/IMG_2063.jpg)
 
 On the way out we stopped by Osama (V10), which Itai gave a few goes on. But by this time we were pretty wiped, so this one will have to wait for next time!
 
-![Itai sticking the opening move on Osama](/uploads/IMG_2058.JPG)
+![Itai sticking the opening move on Osama](/uploads/IMG_2058.jpg)
 
-![](/uploads/IMG_2059.JPG)
+![](/uploads/IMG_2059.jpg)
 
 See you out there!
 

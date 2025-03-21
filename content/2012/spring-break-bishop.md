@@ -34,7 +34,7 @@ On Wednesday I felt sick but decided to climb anyways. With the help of pain kil
 
 The next day I felt much worse, and spent most of my time laying out on a pad in the Buttermilks. When Friday rolled around I still felt sick but worked out the moves to Kill On Sight with some Santa Cruz climbing friends. Saturday was very windy and the group's morale was fairly low. So around 2pm I headed back home with Damien and Teddy. What we thought would be an easy drive turned out to be an epic adventure through a Donner summit blizzard. I won't go in to details, but I'll leave you with a photo of us putting chains on the car before heading up the mountain.
 
-![](/uploads/IMG_0222.JPG)
+![](/uploads/IMG_0222.jpg)
 
 Glad to be home
 

@@ -18,7 +18,7 @@ Jovanna and I headed up to Zion for a short, but much deserved (on her part) vac
 
 ![View of the valley](/uploads/FullSizeRender.jpg)
 
-![A V6 on the Settlers of Catan Boulder](/uploads/IMG_1595.JPG)
+![A V6 on the Settlers of Catan Boulder](/uploads/IMG_1595.jpg)
 
 After warming up and getting a feel for the area I decided to jump on Show of Hands (V11) - which I had my eye on since before the trip. This beautiful line climbs out of a roof on perfect incut crimps and finishes on a tall slab. I was happy to take this one down!
 
@@ -26,17 +26,17 @@ After warming up and getting a feel for the area I decided to jump on Show of Ha
 
 We spent the rest of the day trying out boulder problems and exploring the new area.
 
-![Jovanna working the moves on Whelmed (V4)](/uploads/IMG_1627.JPG)
+![Jovanna working the moves on Whelmed (V4)](/uploads/IMG_1627.jpg)
 
-![The Fridge (V4)](/uploads/IMG_1633.JPG)
+![The Fridge (V4)](/uploads/IMG_1633.jpg)
 
-![Jovanna sending Steamfunk (V2)](/uploads/IMG_1646.JPG)
+![Jovanna sending Steamfunk (V2)](/uploads/IMG_1646.jpg)
 
-![](/uploads/IMG_1652.JPG)
+![](/uploads/IMG_1652.jpg)
 
-![Spectro (V6)](/uploads/IMG_1655.JPG)
+![Spectro (V6)](/uploads/IMG_1655.jpg)
 
-![Israil Direct (V8)](/uploads/IMG_1659.JPG)
+![Israil Direct (V8)](/uploads/IMG_1659.jpg)
 
 One day was not enough. I can't wait to be back!
 

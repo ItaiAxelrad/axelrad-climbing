@@ -30,7 +30,7 @@ Here's a link to a video containing America and Monster: <https://www.youtube.co
 
 ![Jovanna on Rettsia (6A)](/uploads/IMG_9565.jpg)
 
-![Monster (8A), the area test piece!](/uploads/A5904E17-7F2C-4CF1-A27E-62A953A30CFD.JPG)
+![Monster (8A), the area test piece!](/uploads/A5904E17-7F2C-4CF1-A27E-62A953A30CFD.jpg)
 
 ---
 

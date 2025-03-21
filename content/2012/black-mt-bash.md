@@ -18,7 +18,7 @@ I left Isaac and met up with Eden, Marina and Jacob, who drove up to Black Mount
 
 The next day, Isaac, Douglas and I hiked out to the Captain's Junk area to climb Das Angst (V10). I fell off the dirty top out holds several times. Unfortunately, I split the tips of two of my fingers and burst a bad blood blister trying the problem. I was done climbing for the trip. In the afternoon, Douglas left for home and Isaac and I decided to hang out at the campsite and wait for better temps. Four hours later, we mustered up some psych and hiked out to Bang On (V12). I watched Isaac work, and come close to sticking, the improbably large first move.
 
-![Isaac slappin' the second hold on Bang On (V12)](/uploads/IMG_3774.JPG)
+![Isaac slappin' the second hold on Bang On (V12)](/uploads/IMG_3774.jpg)
 
 At night, we went back to camp and joined the Black Mountain Bash.
 We watched the slacklining and interesting climbing competition. We woke up on Sunday, sunburnt, sore and tired. We made breakfast and drove home. It's good to be home.

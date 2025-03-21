@@ -9,7 +9,7 @@ tags:
   - Joshua
   - trad
   - Tree
-thumbnail: /uploads/IMG_5536.JPG
+thumbnail: /uploads/IMG_5536.jpg
 title: Joshua Tree Winter
 updatedAt: 2018-02-09 16:15:02-08:00
 ---
@@ -18,12 +18,12 @@ Cody and I drove out to Joshua Tree late Friday night to meet up with Joe and Sa
 
 The crew collectively had a very successful weekend out in the windy desert, I even managed to put down my nemesis rig, [Scatterbrain & Co. (V12)](https://www.youtube.com/watch?v=53HaeHYwFNo).
 
-![Joe on the heady Satellite Left](/uploads/IMG_5536.JPG)
+![Joe on the heady Satellite Left](/uploads/IMG_5536.jpg)
 
-![Joe leading O'Kelly's Crack](/uploads/IMG_5500.JPG)
+![Joe leading O'Kelly's Crack](/uploads/IMG_5500.jpg)
 
-![Cody sending Nicole Overhang](/uploads/IMG_5509.JPG)
+![Cody sending Nicole Overhang](/uploads/IMG_5509.jpg)
 
-![Taking in some sun](/uploads/IMG_5516.JPG)
+![Taking in some sun](/uploads/IMG_5516.jpg)
 
-![A direct entrance to the new addition, Iron Curtain](/uploads/IMG_5540.JPG)
+![A direct entrance to the new addition, Iron Curtain](/uploads/IMG_5540.jpg)

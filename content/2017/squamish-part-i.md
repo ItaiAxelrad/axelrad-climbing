@@ -42,9 +42,9 @@ On the crowded days we found refuge in the North Wall Boulders, where we got to 
 
 Jovanna joined us on Thursday and got to see the forest for the first time! :)
 
-![](/uploads/IMG_3503.JPG)
+![](/uploads/IMG_3503.jpg)
 
-![Ike on Detached Flake](/uploads/IMG_2977.JPG)
+![Ike on Detached Flake](/uploads/IMG_2977.jpg)
 
 ![](/uploads/IMG_2935.jpg)
 
@@ -54,7 +54,7 @@ It rained Sunday night, which forced a rest day. We decided to hike the Chief si
 
 Our flight out of Vancouver was scheduled for 8:00pm, which was just enough time for a morning session. I got a goodbye send of The Perfect Cave (V11), and watched Itai float up Resurrection (V9) on his first go.
 
-![](/uploads/IMG_2970.JPG)
+![](/uploads/IMG_2970.jpg)
 
 ![Itai on Resurrection (V9)](/uploads/IMG_2962.jpg)
 

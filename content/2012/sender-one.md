@@ -13,14 +13,14 @@ tags:
   - One
   - Sender
   - Sharma
-thumbnail: /uploads/IMG_4490.JPG
+thumbnail: /uploads/IMG_4490.jpg
 title: Sender One
 updatedAt: 2020-05-28 08:42:19-07:00
 ---
 
 Hundreds of climbers gathered at The Gear Co-Op courtyard this Wednesday afternoon to witness the unveiling of the most futuristic gym ever designed, Sender One. Adidas, Five Ten, La Sportiva, Evolve and many more companies set up booths and offered free merchandise, food, and beer.
 
-![People standing in line to get their posters signed by Chris Sharma](/uploads/IMG_4490.JPG)
+![People standing in line to get their posters signed by Chris Sharma](/uploads/IMG_4490.jpg)
 
 Chris Sharma, who is one of the four partners opening Sender One, took the stage and showed the crowd clips of his accomplishments this past year. Wes, Wes and Alice, (the other three partners) joined him on stage later to explain the features of their new gym.
 
@@ -34,11 +34,11 @@ The gym is set to open sometime in January. If you live in the area (or not) you
 
 Chris Sharma and his lady, Daila Ojeda, were kind enough to sign some posters for us.
 
-![Eden and Daila Ojeda](/uploads/IMG_4494.JPG)
+![Eden and Daila Ojeda](/uploads/IMG_4494.jpg)
 
-![Itai and Daila](/uploads/IMG_4495.JPG)
+![Itai and Daila](/uploads/IMG_4495.jpg)
 
-![(Putaaa.. love, Chris) (Venga Bitches, Daila)](/uploads/IMG_4496.JPG)
+![(Putaaa.. love, Chris) (Venga Bitches, Daila)](/uploads/IMG_4496.jpg)
 
 ![Between two legends, Chris Sharma and John Long. Photo by Matthew Hulet.](/uploads/XGqHRFq_BqvqlHZ1fDku6Q8mvERlGzJfBMm45mAHBaU.jpg)
 

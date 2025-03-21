@@ -18,8 +18,8 @@ After a long lunch break we headed back out to explore the area a bit more. Here
 
 ![Reaching for the lip](/uploads/IMG_5415.jpg)
 
-![](/uploads/IMG_5418.JPG)
+![](/uploads/IMG_5418.jpg)
 
-![Joey on his first outdoor V2!](/uploads/IMG_5419.JPG)
+![Joey on his first outdoor V2!](/uploads/IMG_5419.jpg)
 
-![Cody on another slab](/uploads/IMG_5423.JPG)
+![Cody on another slab](/uploads/IMG_5423.jpg)

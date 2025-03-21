@@ -6,16 +6,16 @@ tags:
   - California
   - Castle
   - Rock
-thumbnail: /uploads/IMG_0200.JPG
+thumbnail: /uploads/IMG_0200.jpg
 title: Castle Rock
 updatedAt: 2020-04-30 12:52:07-07:00
 ---
 
 After a weekend at San Louis Obispo, Alex and I decided to stop at Castle Rock on the way back to Davis. It rained the previous night and we were worried that the rock would be too wet. While the ground was damp, the rock remained fairly dry and we were able to climb. After some aimless hiking through the overcast forest we managed to find one of the main boulder areas.
 
-![](/uploads/IMG_0200.JPG)
+![](/uploads/IMG_0200.jpg)
 
-![](/uploads/IMG_1928.JPG)
+![](/uploads/IMG_1928.jpg)
 
 ![](/uploads/IMG_1921.jpg)
 

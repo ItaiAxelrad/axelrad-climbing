@@ -37,4 +37,4 @@ We finished the day with an afternoon session on the Captain's Junk boulder, whe
 
 We woke up the next day and didn't possess the energy or the skin to climb much more. We called it early and left the mountain around noon. Couldn't have asked for a better birthday trip. I'm looking forward to my next trip out there!
 
-![](/uploads/IMG_4597.JPG)
+![](/uploads/IMG_4597.jpg)

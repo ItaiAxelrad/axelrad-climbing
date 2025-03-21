@@ -17,6 +17,6 @@ This weekend the local climbing gym was holding a CCS and Citizens competition. 
 
 ![Alex Biale on Men's 1](/uploads/ccs1.jpg)
 
-![Alex Biale on Men's 2](/uploads/ccs2.JPG)
+![Alex Biale on Men's 2](/uploads/ccs2.jpg)
 
 \- Itai

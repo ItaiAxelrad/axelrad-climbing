@@ -16,13 +16,13 @@ What a beautiful weekend! Jason, Marina, Cody and I enjoyed the warm Santa Barba
 
 ![Marina slappin' on Call Me (V3)](/uploads/IMG_5888.jpg)
 
-![Jason, unlocking the beta on Fritz Bulge (V6)](/uploads/IMG_5906_2.JPG)
+![Jason, unlocking the beta on Fritz Bulge (V6)](/uploads/IMG_5906_2.jpg)
 
 We warmed up at the Sunset area and slowly made our way over to the crowded entrance way and the Lizard’s Mouth formation for which this place gets its name. We went around the corner and got on the one move wonder King Dinosaur. By this point in the day everyone was rather wiped (not whipped, Cody) so we sprawled out on the rocks and got sunburnt. On the way out Cody suggested that we try the classic highball, Lord of the Flies.
 
-![Cody trying to find that King Dinosaur (V7)](/uploads/IMG_5928.JPG)
+![Cody trying to find that King Dinosaur (V7)](/uploads/IMG_5928.jpg)
 
-![Jason getting high above the trees on Lord of the Flies (V1)](/uploads/IMG_5956.JPG)
+![Jason getting high above the trees on Lord of the Flies (V1)](/uploads/IMG_5956.jpg)
 
 There are still plenty of problems to go back to, and I’m sure the short drive and beautiful weather will keep us coming back.
 

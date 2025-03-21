@@ -5,18 +5,18 @@ publishedAt: 2012-11-06 18:53:00-08:00
 tags:
   - bishop
   - buttermilks
-thumbnail: /uploads/IMG_5636.JPG
+thumbnail: /uploads/IMG_5636.jpg
 title: Bishop, Bishop, Bishop
 updatedAt: 2012-11-25 12:39:55-08:00
 ---
 
 The first trip of the season had been on everyone’s mind for quite some time. The temperature was nice and school was manageable this weekend, so I took the opportunity to get out of San Luis Obispo and into the Sierras.
 
-![](/uploads/IMG_5636.JPG)
+![](/uploads/IMG_5636.jpg)
 
 We drove up Friday afternoon and met up with some of Joe’s friends. The next morning we warmed up in the Buttermilks main area before making our way into the Pollen Grains.
 
-![Cody, sending Smooth Shrimp (V6)](/uploads/IMG_5580.JPG)
+![Cody, sending Smooth Shrimp (V6)](/uploads/IMG_5580.jpg)
 
 ![Austin trying Go Granny Go (V5)](/uploads/IMG_5583.jpg)
 
@@ -26,11 +26,11 @@ It had been years since I climbed in the Pollen Grains, and I was excited to get
 
 We had a fun session on the tricky Lydia’s Mouth, which took everyone more than a few goes to figure out. Then, after a few hopeful attempts on the stunning Specter, we moved to the equally impressive Jedi Mind Tricks.
 
-![Patrick, staring down the next hold on Lydia's Mouth (V3)](/uploads/IMG_5603.JPG)
+![Patrick, staring down the next hold on Lydia's Mouth (V3)](/uploads/IMG_5603.jpg)
 
 ![The homie, on Jedi Mind Tricks (V4)](/uploads/IMG_5619.jpg)
 
-![Joe pulling hard on Specter (V13)](/uploads/IMG_5609.JPG)
+![Joe pulling hard on Specter (V13)](/uploads/IMG_5609.jpg)
 
 We left the Pollen Grains and began our precarious search for The Swarm. It got dark before we could find the boulder, so we turned around. After narrowly escaping death several times trying to get back to the cars (I’m joking, mom), we decided to return to our campsite and call it a day.
 

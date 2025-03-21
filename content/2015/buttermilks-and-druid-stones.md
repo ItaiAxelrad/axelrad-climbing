@@ -44,7 +44,7 @@ Later that day we felt wiped and opted to kill a few hours by running up some ea
 
 We woke up on Sunday morning feeling incredibly sore and sunburnt - yet, for some odd reason we decided to brave the Druid Stone hike. I have to say, we were pretty eager to check out this outlying area for the first time, despite what we'd heard about the approach. The Druid boulders are scattered over a mountain ridge that overlooks the valley and the town of Bishop. The approach takes about 45 minutes, and by the end you gain 1,200 feet of elevation. On the way up I was stopping every few minutes in order to ~~avoid keeling over~~ take photos of our progress. Below is a photo I took from about 3/4 of the way up the hike. The arrow should help you find our starting point (my car).
 
-![The arrow is pointing at a black pixel which happens to be my car](/uploads/arrow.JPG)
+![The arrow is pointing at a black pixel which happens to be my car](/uploads/arrow.jpg)
 
 The hike was definitely heinous, but worth the quality of climbs out at the Druids. We spent hours climbing exclusively area classics and enjoying the view.
 
@@ -52,9 +52,9 @@ The hike was definitely heinous, but worth the quality of climbs out at the Drui
 
 ![Cody topping out on Prostrate to the Higher Mind (V5)](/uploads/Edited1212.jpg)
 
-![Itai on Suspenders (V5)](/uploads/IMG_5659a.JPG)
+![Itai on Suspenders (V5)](/uploads/IMG_5659a.jpg)
 
-![Cody on Suspenders (V5)](/uploads/IMG_5660a.JPG)
+![Cody on Suspenders (V5)](/uploads/IMG_5660a.jpg)
 
 ![Eden on Suspenders (V5)](/uploads/IMG_1839.jpg)
 

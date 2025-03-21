@@ -10,12 +10,12 @@ tags:
   - granite
   - highball
   - horse
-thumbnail: /uploads/IMG_5056.JPG
+thumbnail: /uploads/IMG_5056.jpg
 title: Horse Flats
 updatedAt: 2015-01-19 15:25:03-08:00
 ---
 
-![](/uploads/IMG_5056.JPG)
+![](/uploads/IMG_5056.jpg)
 
 Cody, Eden, Jovanna and I escaped the Los Angeles concrete jungle in hopes of spending our Saturday in a place with a scenic view. We decided to check out Horse Flats and were not disappointed by the granite boulders of the Angeles National Forest. We tried to get on all of the classics the area had to offer but the heat slowed us down and left us with plenty of climbs to return for. Here are some pictures from the ones we got on
 

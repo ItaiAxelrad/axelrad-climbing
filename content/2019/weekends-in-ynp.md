@@ -14,7 +14,7 @@ Over the last few weeks I've had the privilege of spending two weekends in Yosem
 
 ![The classic G23 Arete (V6)](/uploads/IMG_6419.jpg)
 
-![Jovanna getting really close on the same](/uploads/IMG_9914.JPG)
+![Jovanna getting really close on the same](/uploads/IMG_9914.jpg)
 
 ![Jedi Jake (V7)](/uploads/IMG_6441.jpg)
 

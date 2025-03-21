@@ -10,7 +10,7 @@ tags: [competitions, indoor, finals, slc]
 
 Following Nicole around the front range competition scene has been a great way to mix things up, especially in the trying winter months. As a 30+ year old attempting to go head to head with literal olympians I have been thoroughly humbled this year to say the least.
 
-![Checking in for Heart and Soul](/uploads/IMG_7196.JPG)
+![Checking in for Heart and Soul](/uploads/IMG_7196.jpg)
 
 ![Scoping the climbs at Heart and Soul](/uploads/23_03_18_HeartandSoul_AH-06223.jpg)
 

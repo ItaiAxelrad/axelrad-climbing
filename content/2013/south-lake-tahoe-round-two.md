@@ -6,7 +6,7 @@ tags:
   - Ground Control
   - south lake
   - Tahoe
-thumbnail: /uploads/IMG_6139.JPG
+thumbnail: /uploads/IMG_6139.jpg
 title: South Lake Tahoe - Round Two
 updatedAt: 2013-08-05 14:13:49-07:00
 ---
@@ -17,11 +17,11 @@ This time we headed out early and had a couple of hours to work the problem whil
 
 Also, if you're interested in seeing a well-made [vid](http://vimeo.com/16855611) of this climb, check out Alex Savage on the 2nd ascent.
 
-![](/uploads/IMG_6139.JPG)
+![](/uploads/IMG_6139.jpg)
 
-![](/uploads/IMG_6141.JPG)
+![](/uploads/IMG_6141.jpg)
 
-![The crux dead-point](/uploads/IMG_6142.JPG)
+![The crux dead-point](/uploads/IMG_6142.jpg)
 
 ![](/uploads/IMG_6159.jpg)
 
@@ -33,7 +33,7 @@ Also, if you're interested in seeing a well-made [vid](http://vimeo.com/16855611
 
 ![The top section](/uploads/IMG_6176.jpg)
 
-![¡Mucho Tiempo!](/uploads/IMG_6146.JPG)
+![¡Mucho Tiempo!](/uploads/IMG_6146.jpg)
 
 And thanks again Chris for the great photos!
 

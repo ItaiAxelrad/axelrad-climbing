@@ -17,7 +17,7 @@ This Saturday I met up with Cody at Tramway for a fun day outdoors. We spent mos
 
 ![Trying Somewhere in Time (V12) early in the day](/uploads/IMG_0601.jpg)
 
-![Topping out Master Blaster (V9)](/uploads/IMG_0619.JPG)
+![Topping out Master Blaster (V9)](/uploads/IMG_0619.jpg)
 
 ![Cody sending Fly, Robin Fly (V6/7?)](/uploads/IMG_8679.jpg)
 

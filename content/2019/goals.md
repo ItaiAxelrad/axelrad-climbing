@@ -39,7 +39,7 @@ My introduction to projecting went about as well as expected. Close but no cigar
 
 While projecting inherently requires perseverance, it would be easy with guaranteed success at the end. Thankfully, there’s plenty to keep my uncertain mind busy until The Park thaws out in the spring. When it does, I’ll be coming back with a vengeance.
 
-![From darkness into light](/uploads/IMG-0781.JPG)
+![From darkness into light](/uploads/IMG-0781.jpg)
 
 Till next time,
 

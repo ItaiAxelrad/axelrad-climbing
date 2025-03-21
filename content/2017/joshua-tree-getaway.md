@@ -7,15 +7,15 @@ tags:
   - granite
   - Joshua
   - Tree
-thumbnail: /uploads/IMG_5264.JPG
+thumbnail: /uploads/IMG_5264.jpg
 title: Joshua Tree Getaway!
 updatedAt: 2018-02-09 15:52:45-08:00
 ---
 
 Quick, impulsive trips to Joshua Tree never get old. Here are some pictures from the latest one. Enjoy!
 
-![Ollie on Muligan 2](/uploads/IMG_5264.JPG)
+![Ollie on Muligan 2](/uploads/IMG_5264.jpg)
 
-![The length reach on Kandahar](/uploads/IMG_5273.JPG)
+![The length reach on Kandahar](/uploads/IMG_5273.jpg)
 
-![Slab Life](/uploads/IMG_5404.JPG)
+![Slab Life](/uploads/IMG_5404.jpg)

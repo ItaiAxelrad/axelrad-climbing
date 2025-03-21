@@ -30,13 +30,13 @@ After my midday session on The Swarm (V13/14) we headed down the hill to the Get
 
 We spent the next morning in the Buttermilks main area and met up with Cody and Wynne. Marina got to jump on her long standing project High Plains Drifter (V7) - and she got super close! After that we ran out to the Bardini boulders where Itai got on A Maze of Death (V12) and managed to figure out his beta and get really close to sending. I'm sure it'll go next trip!
 
-![Marina working on her project - High Plains Drifter (V7)](/uploads/IMG_3484.JPG)
+![Marina working on her project - High Plains Drifter (V7)](/uploads/IMG_3484.jpg)
 
-![Cody on Knobs (V5)](/uploads/IMG_3459.JPG)
+![Cody on Knobs (V5)](/uploads/IMG_3459.jpg)
 
 On Sunday we only had a half day, and spent it in the main Buttermilk area. Marina continued working on her project and Itai and I were able to make quick work of La Belette (V11) with the help of Pete's beta.
 
-![Me on La Belette (V11)](/uploads/IMG_3474.JPG)
+![Me on La Belette (V11)](/uploads/IMG_3474.jpg)
 
 See you guys out there!
 
