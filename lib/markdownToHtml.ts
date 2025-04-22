@@ -12,7 +12,7 @@ export default function markdownToHtml(markdown: string) {
   })
     .use(replaceLink, {
       replaceLink: function (link) {
-        return link + '?resize=fit&w=1200';
+        return `${link}`;
       },
     })
     .use(lazy_loading)

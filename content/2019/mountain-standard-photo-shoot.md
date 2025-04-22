@@ -15,4 +15,8 @@ updatedAt: 2020-05-18 12:51:23-07:00
 
 I had the pleasure of helping out the very talented Alton with a recent photo shoot for an upcoming [Mountain Standard](https://mountainstandard.com/) product. I was once a 'Field Agent' for the company, but have since fallen out of touch. Anyway, here are some screen grabs from the site:
 
-![my hands](/uploads/MSScreenShot.jpg)
+![](/uploads/MSScreenShot.jpg)
+
+![](/uploads/MSScreenShot2.jpg)
+
+![](/uploads/MSScreenShot3.jpg)
